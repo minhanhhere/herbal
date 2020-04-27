@@ -1,4 +1,4 @@
-Từ điển cây thuoc
+Tên bắt đầu bằng B
 =====
 
 .. toctree::
