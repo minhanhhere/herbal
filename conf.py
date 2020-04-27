@@ -32,7 +32,7 @@ import os
 extensions = [
   "sphinx_search.extension",
   "sphinx_tabs.tabs",
-  "sphinx.ext.imgmath",
+  #"sphinx.ext.imgmath",
 ]
 
 # Add any paths that contain templates here, relative to this directory.
