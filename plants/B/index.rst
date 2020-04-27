@@ -1,4 +1,4 @@
-Từ điển cây thước
+Từ điển cây thuoc
 =====
 
 .. toctree::
