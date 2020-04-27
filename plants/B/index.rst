@@ -2,9 +2,8 @@ Từ điển cây thước
 =====
 
 .. toctree::
-   :maxdepth: 2
-   :glob:
-   :name: toc-plants
+   :maxdepth: 1
+   :name: toc-plants-b
 
    *
 
