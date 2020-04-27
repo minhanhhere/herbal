@@ -30,8 +30,8 @@ import os
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-  "sphinx_search.extension",
-  "sphinx_tabs.tabs",
+  #"sphinx_search.extension",
+  #"sphinx_tabs.tabs",
   #"sphinx.ext.imgmath",
 ]
 
