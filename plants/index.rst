@@ -6,5 +6,5 @@ Từ điển cây thuốc
    :glob:
    :name: toc-plants
 
-   *
+   */index
 
