@@ -75,7 +75,7 @@ The main documentation for the site is organized into the following sections:
    :name: sec-plants
    :glob:
 
-   plants/*
+   plants/*/index
 
 
 Indices and tables
