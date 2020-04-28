@@ -1,11 +1,14 @@
 .. _plants_bach_bien_dau:
 
-============================
+############################
 Bạch biển đậu (Semen Lablab)
-============================
+############################
 
 Hạt già phơi hay sấy khô của cây đậu ván trắng Dolichos lablab L (Lablab
 vulgaris savi). Họ đậu Fabaceae.
+
+Tính vị qui kinh
+================
 
 *  Tính vị: vị ngọt, đắng, tính hơi ấm.
 *  Qui kinh: Tỳ Vị.
