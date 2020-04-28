@@ -9,11 +9,14 @@ A GIAO
 
 (Gelatinum Asini)
 
-A giao (Colla asini, Gelatinium Asini, Gelatina nugra) là keo chế từ da con lừa (Equus asinus L.) thuộc ngành động vật có xương sống (Vertebrata), lớp có vú (Mammalia), bộ Guốc lẻ (Perissdactyla), họ Ngựa (Equidae).
+A giao (Colla asini, Gelatinium Asini, Gelatina nugra) là keo chế từ da
+con lừa (Equus asinus L.) thuộc ngành động vật có xương sống (Vertebrata),
+lớp có vú (Mammalia), bộ Guốc lẻ (Perissdactyla), họ Ngựa (Equidae).
 
 Da Lừa cạo bỏ lông, nấu và cô đặc thành keo gọi là A giao.
 
-A giao là vị thuốc được ghi đầu tiên trong sách Bản kinh. Còn có tên là A giao châu, Minh giao.
+A giao là vị thuốc được ghi đầu tiên trong sách Bản kinh. Còn có tên là
+A giao châu, Minh giao.
 
 Tính vị qui kinh:
 
@@ -44,7 +47,8 @@ A giao có tác dụng bổ huyết, chỉ huyết tư âm nhuận táo.
 
 Trích đoạn Y văn cổ:
 
--  Sách Bản kinh: " chủ tâm phúc nội băng. lưng bụng đau, chân tay đau mỏi, con gái ra huyết, an thai uống lâu ích khí nhẹ người".
+-  Sách Bản kinh: " chủ tâm phúc nội băng. lưng bụng đau, chân tay đau mỏi,
+   con gái ra huyết, an thai uống lâu ích khí nhẹ người".
 -  Sách Danh y biệt lục: "chủ trị đàn ông bụng dưới đau, hư lao gầy mòn,
    âm khí bất túc, chân tay mỏi không đứng lâu được, dưỡng can khí".
 -  Sách Dược tính bản thảo: " làm mạnh gân cốt, ích khí chỉ lî".
