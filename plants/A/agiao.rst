@@ -202,9 +202,9 @@ Cách chế
    rồi cho A giao thái nhỏ vào cho đến khi A giao nở đều, lấy ra rây bỏ
    vỏ sò. A giao bớt độ dính và có mùi thơm.
 
--  Chú ý: Người ta còn dùng vị Minh A giao là chất keo chế từ da trâu,
-   da bò, da heo, thành phần cũng gần như A giao. Gelatin được gọi là
-   một món ăn cung cấp protid cho cơ thể, một vị thuốc cầm máu, trị tiêu
-   lỏng, lóet dạ dày.
+.. note::   Người ta còn dùng vị Minh A giao là chất keo chế từ da trâu,
+            da bò, da heo, thành phần cũng gần như A giao. Gelatin được gọi là
+            một món ăn cung cấp protid cho cơ thể, một vị thuốc cầm máu, trị tiêu
+            lỏng, lóet dạ dày.
 
  
