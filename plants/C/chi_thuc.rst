@@ -1,3 +1,4 @@
+.. _plants_chi_thuc:
 |image0|
 
 CHỈ THỰC

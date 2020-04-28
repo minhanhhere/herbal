@@ -1,3 +1,4 @@
+.. _plants_chu_sa:
 CHU SA
 
 (Cinnabaris)

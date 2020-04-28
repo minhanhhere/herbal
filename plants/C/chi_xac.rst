@@ -1,3 +1,4 @@
+.. _plants_chi_xac:
 CHỈ XÁC
 
 Fructus Citri Aurantii

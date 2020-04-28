@@ -1,3 +1,4 @@
+.. _plants_cau_tich:
 |image0|
 
 CẨU TÍCH

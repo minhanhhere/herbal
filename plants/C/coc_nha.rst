@@ -1,3 +1,4 @@
+.. _plants_coc_nha:
 |image0|
 
 CỐC NHA

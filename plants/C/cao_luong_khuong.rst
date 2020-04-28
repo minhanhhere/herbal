@@ -1,3 +1,4 @@
+.. _plants_cao_luong_khuong:
 |image0|
 
 CAO LƯƠNG KHƯƠNG

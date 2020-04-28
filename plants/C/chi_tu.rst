@@ -1,3 +1,4 @@
+.. _plants_chi_tu:
 |image0|
 
 CHI TỬ

@@ -1,3 +1,4 @@
+.. _plants_cat_canh:
 |image0|
 
 CÁT CÁNH

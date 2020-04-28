@@ -1,3 +1,4 @@
+.. _plants_cot_toai_bo:
 |image0|
 
 CỐT TOÁI BỒ

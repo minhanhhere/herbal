@@ -1,3 +1,4 @@
+.. _plants_cam_thao_bac:
 |image0|
 
 CAM THẢO BẮC

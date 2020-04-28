@@ -1,3 +1,4 @@
+.. _plants_cau_dang:
 |image0|
 
 CÂU ĐẰNG

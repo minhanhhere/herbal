@@ -1,3 +1,4 @@
+.. _plants_cu_gai:
 CỦ GAI
 
 Boehmeria nivea (L) Gaud (Urtica nivea L.)

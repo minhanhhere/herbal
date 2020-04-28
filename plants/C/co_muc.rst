@@ -1,3 +1,4 @@
+.. _plants_co_muc:
 |image0|
 
 CỎ NHỌ NỔI

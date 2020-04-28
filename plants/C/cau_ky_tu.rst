@@ -1,3 +1,4 @@
+.. _plants_cau_ky_tu:
 |image0|
 
 CÂU KỶ TỬ

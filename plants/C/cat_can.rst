@@ -1,3 +1,4 @@
+.. _plants_cat_can:
 |image0|
 
 CÁT CĂN

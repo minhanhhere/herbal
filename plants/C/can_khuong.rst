@@ -1,3 +1,4 @@
+.. _plants_can_khuong:
 CAN KHƯƠNG
 
 Gừng khô

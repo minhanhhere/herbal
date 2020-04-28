@@ -1,3 +1,4 @@
+.. _plants_cuc_hoa:
 |image0| |image1|
 
 CÚC HOA

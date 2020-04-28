@@ -1,3 +1,4 @@
+.. _plants_con_bo:
 |image0|
 
 CÔN BỐ

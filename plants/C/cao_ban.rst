@@ -1,3 +1,4 @@
+.. _plants_cao_ban:
 |image0|
 
 CẢO BẢN
