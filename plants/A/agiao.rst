@@ -19,6 +19,7 @@ A giao là vị thuốc được ghi đầu tiên trong sách Bản kinh. Còn c
 A giao châu, Minh giao.
 
 Tính vị qui kinh:
+=================
 
 Vị ngọt, tính bình, qui kinh Phế Can Thận.
 
@@ -86,7 +87,8 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    đã tiệt trùng thì khả năng đông máu tăng.
 
 Ứng dụng lâm sàng:
-------------------
+==================
+
 1.Trị các chứng âm hư xuất huyết như lao phổi, ho ra máu, dãn phế quản
 đàm có máu: dùng bài:
 
@@ -164,12 +166,14 @@ Ngoài ra, có người dùng A giao trong các bài thuốc viêm thận mạn,
 lưng và đạm niệu.
 
 Liều lượng và cách dùng:
-------------------------
+========================
+
 -  Liều 4 - 20g hòa nước thuốc uống. Nếu dùng cầm máu, sao với Bồ hoàng,
    nếu dùng nhuận phế chỉ khái sao với Cáp phấn.
 
 Cách chế:
----------
+=========
+
 #. Chế với Bồ hoàng: cho Bồ hoàng vào chảo rang nóng rồi cho A giao thái
    nhỏ vào, khi A giao nở đều thì rây bỏ Bồ hoàng.
 #. Chế với Cáp phấn (vỏ sò): cho chừng 1kg bột vỏ sò vào chảo rang nóng
