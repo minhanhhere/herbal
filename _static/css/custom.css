@@ -965,7 +965,8 @@ kbd, .kbd {
 }
 
 .ethical-dark-theme .ethical-sidebar {
-    background-color: #333F67;
+    background-color: #333F67!important;
+    padding-top: 20px!important;
     /* display: none!important; */
     margin-top: 100px;
 }
