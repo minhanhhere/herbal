@@ -78,11 +78,11 @@ nhuận tràng.
 
 -  Đào nhân, Đương qui đều 10g, Hồng hoa, Tam lăng đều 5g, sắc nước uống
    trị chứng kinh bế do huyết ứ.
--  Sinh hóa thang ( Cảnh nhạc toàn thư): Đương qui 32g, Đào nhân 12g,
+-  Sinh hóa thang (Cảnh nhạc toàn thư): Đương qui 32g, Đào nhân 12g,
    Xuyên khung 12g, Chích thảo 2g, Bào khương 2g, sắc nước uống hoặc ho
    thêm ít rượu sắc uống. Trị chứng sau sinh đau bụng do huyết ứ. Bài
    thuốc còn có tác dụng tăng sữa cho người mẹ.
--  Đào hồng tứ vật thang ( Y tông kim giám): Đương qui 12g, Sanh địa
+-  Đào hồng tứ vật thang (Y tông kim giám): Đương qui 12g, Sanh địa
    16g, Xích thược 12g, Xuyên khung 8g, Đào nhân 12g, Hồng hoa 8g, sắc
    nước chia 2 lần uống. Trị rối loạn kinh nguyệt, kinh bế, đau kinh do
    huyết ứ.
@@ -92,7 +92,7 @@ nhuận tràng.
 -  Nhuận tràng hoàn: Hạnh nhân, Đào nhân, Hỏa ma nhân, Đương qui đều
    10g, Sanh địa 15g, Chỉ xác 10g, tán bột mịn luyện mạt làm hoàn, mỗi
    lần uống 6g, ngày 2 lần hoặc sắc uống.
--  Ngũ nhân hoàn ( Thế y đắc hiệu phương): Đào nhân 20g, Hạnh nhân 12g,
+-  Ngũ nhân hoàn (Thế y đắc hiệu phương): Đào nhân 20g, Hạnh nhân 12g,
    Bá tử nhân 12g, Tùng tử nhân 4g, Uất lý nhân 1g, Trần bì 8g, Mật làm
    hoàn, mỗi lần uống 4 - 8g. Trị chứng táo bón ở người già, phụ nữ sau
    sinh.

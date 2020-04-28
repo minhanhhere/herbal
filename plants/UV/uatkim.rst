@@ -2,10 +2,10 @@
 
 UẤT KIM
 
-( Tuber Curcumae)
+(Tuber Curcumae)
 
 Uất kim được ghi đầu tiên trong sách " Dược tính bản thảo" là củ rễ cây
-Nghệ ( Curcuma Longa L., Curcuma domestica Lour), thuộc họ Gừng (
+Nghệ (Curcuma Longa L., Curcuma domestica Lour), thuộc họ Gừng (
 Zingiberaceae). Cây Nghệ mọc khắp nơi ở nước ta.
 
 Tính vị qui kinh:
@@ -23,7 +23,7 @@ Theo Y văn cổ:
 Thành phần chủ yếu:
 
 Chất vàng curcumin I, curcumin II, III ., tinh dầu. Ngoài ra còn có tinh
-bột, nhựa ( 40 - 50%, 6 - 8% nước - theo R.R. Paris và H.Moyse 1967),
+bột, nhựa (40 - 50%, 6 - 8% nước - theo R.R. Paris và H.Moyse 1967),
 còn có canxi oxalat, chất béo, Khương hoàng tố.
 
 Tác dụng dược lý:
@@ -39,7 +39,7 @@ A. Theo Dược lý cổ truyền: Uất kim có tác dụng:
 Bản thảo kinh sơ gọi Uất kim là khí dược của phần huyết.
 
 2.Thanh nhiệt lương huyết: trị các chứng thổ huyết, nục huyết, niệu
-huyết, hành kinh chảy máu cam ( đảo kinh).
+huyết, hành kinh chảy máu cam (đảo kinh).
 
 3.Thanh nhiệt khai khiếu: trị các chứng bất tỉnh, động kinh, chứng điên.
 
@@ -47,7 +47,7 @@ huyết, hành kinh chảy máu cam ( đảo kinh).
 
 Trích đoạn Y văn cổ:
 
--  Sách Cảnh nhạc toàn thư ( bản thảo chính): " cầm thổ huyết, nục
+-  Sách Cảnh nhạc toàn thư (bản thảo chính): " cầm thổ huyết, nục
    huyết, dùng trị phụ nữ khí lạnh huyết tích, kết tụ khí trệ, tim bụng
    đau".
 -  Sách Bản thảo hội ngôn: " Vị uất kim, thanh khí hóa đờm, tán ứ huyết,
@@ -73,28 +73,28 @@ gan.
 
 2.Trị kinh nguyệt không đều, đau bụng kinh:
 
--  Tuyên uất thông kinh thang ( Truyền thanh chủ nữ khoa): Uất kim, Sài
+-  Tuyên uất thông kinh thang (Truyền thanh chủ nữ khoa): Uất kim, Sài
    hồ, Đương qui, Bạch thược, Đan bì, Hoàng cầm mỗi thứ 10g, Hương phụ,
    Chi tử mỗi thứ 6g, Bạch giới tử 5g sắc uống.
 
 3.Trị chứng sốt cao mê man và chứng điên cuồng:
 
--  Bạch kim hoàng ( Bản thảo cương mục): Uất kim 250g, Phèn chua 100g
+-  Bạch kim hoàng (Bản thảo cương mục): Uất kim 250g, Phèn chua 100g
    tán bột mịn hòa nước viên hồ, mỗi lần uống 3 - 6g, ngày 2 lần với
    nước Bồ hoàng hoặc nước sôi ấm.
--  Xương bồ Uất kim phương ( Ôn bệnh toàn thư) Thạch xương bồ tươi 4g,
+-  Xương bồ Uất kim phương (Ôn bệnh toàn thư) Thạch xương bồ tươi 4g,
    Uất kim 6g, Sơn chi sao 8g, Liên kiều 12g, Cúc hoa 6g, Hoạt thạch
    16g, Trúc diệp 12g, Ngưu bàng tử 12g, Trúc lịch 3 thìa, nước gừng 6
-   giọt sắc uống với thuốc Ngọc xu đơn ( Tử kim đỉnh) 1 - 2g.
+   giọt sắc uống với thuốc Ngọc xu đơn (Tử kim đỉnh) 1 - 2g.
 
 4.Trị sỏi mật: Dùng Uất kim kết hợp với Hải kim sa, Kim tiền thảo, Kê
 nội kim.
 
-5.Trị mạch vành: Dùng Thư tâm tán ( Uất kim, Tam thất, Xích thược .) trị
+5.Trị mạch vành: Dùng Thư tâm tán (Uất kim, Tam thất, Xích thược .) trị
 bệnh mạch vành 40 ca sau khi dùng thuốc, độ ngưng tập tiểu cầu giảm rõ,
-độ dính tiểu cầu giảm rõ ( Tạp chí Trung y dược Thượng hải 1986,12:40).
+độ dính tiểu cầu giảm rõ (Tạp chí Trung y dược Thượng hải 1986,12:40).
 
-6.Trị xuất huyết bao tử: Dùng Tam thất Uất kim thang ( Tam thất, Uất
+6.Trị xuất huyết bao tử: Dùng Tam thất Uất kim thang (Tam thất, Uất
 kim, Thục địa hoàng, Ngưu tất ) gia giảm tùy theo triệu chứng bệnh, kết
 quả đánh giá theo tình hình nôn ra máu, phân có máu, kết quả khá tốt (
 Tạp chí Trung y 1982,12:14).

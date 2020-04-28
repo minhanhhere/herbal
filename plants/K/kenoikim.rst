@@ -40,20 +40,20 @@ Trích đoạn Y văn cổ:
 
 -  Sách Bản kinh: " chủ tả lî".
 -  Sách Danh y biệt lục: " Chủ tiểu tiện lợi, di niệu, trừ nhiệt thượng
-   phiền ( nhiệt xông lên làm bứt rứt)".
+   phiền (nhiệt xông lên làm bứt rứt)".
 -  Sách Trấn nam bản thảo: " khoan trung kiện tỳ, tiêu thực ma vị. Trị
    tiểu nhi nhũ thực kết trệ, bụng to nổi gân xanh (đô đại cân thanh),
    bỉ tích cam tích".
 -  Sách Bản thảo cương mục: " tiêu tửu tích, tiêu hầu tý, nhũ nga, các
    loại lỡ mồm nha cam".
 -  Sách Bản thảo tái tân: " hóa đàm, lý khí lợi thấp".
--  Sách Y học trung trung tham tây lục: " trị huyền tích, trưng hà ( trị
+-  Sách Y học trung trung tham tây lục: " trị huyền tích, trưng hà (trị
    hạch, báng, hòn cục ở bụng), thông kinh bế".
 
 B.Kết quả nghiên cứu dược lý hiện đại:
 
 #. Thuốc có tác dụng trợ tiêu hóa, biểu hiện dịch vị tăng, độ acid tăng,
-   vận động bao tử tăng ( thời gian kéo dài, sóng nhu động cao, tốc độ
+   vận động bao tử tăng (thời gian kéo dài, sóng nhu động cao, tốc độ
    tống thức ăn nhanh hơn). Khả năng tiêu hóa tăng chậm nhưng kéo dài.
    Tác dụng của thuốc là do vị kích tố tăng tiết dịch vị hoặc do thuốc
    thông qua yếu tố thể dịch làm hưng phấn thần kinh cơ của của thành dạ
@@ -76,11 +76,11 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 -  Kê nội kim sao, Bạch truật sao đều 10g, tán bột mịn trộn đều, mỗi lần
    uống 4 - 6g, ngày 2 lần. Trị Viêm đại tràng mạn tính.
 -  Bánh Ích tỳ: Kê nội kim, Bạch truật, Can khương đều 60g, Đại táo nhục
-   240g ( chưng chín), 3 vị trên sao chín tán bột mịn, trộn với Táo nhục
+   240g (chưng chín), 3 vị trên sao chín tán bột mịn, trộn với Táo nhục
    giã nát trộn đều làm bánh sấy khô. Mỗi lần uống 10g, ngày 2 lần lúc
    đói.
 
-3.Trị sạn tiết niệu ( Sa lâm, Thạch lâm):
+3.Trị sạn tiết niệu (Sa lâm, Thạch lâm):
 
 -  Hóa thạch tán: Lục nhất tán 30g, Hỏa tiêu 10g, đều tán bột mịn. Mỗi
    lần 3 - 6g, ngày 2 lần sáng và tối, Kê nội kim 10g sắc nước uống với
@@ -97,7 +97,7 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 
 -  Dùng Kê nội kim sống 20g gia nước 200ml, ngâm 2 - 3 ngày sau bôi vào
    nốt ruồi, mỗi ngày 5 - 6 lần, dùng trong 10 ngày. Đã theo dõi 10 ca
-   kết quả tốt ( Trần trường Giang, Tạp chí trung y Triết giang
+   kết quả tốt (Trần trường Giang, Tạp chí trung y Triết giang
    1987,1:45).
 
 Liều thường dùng và chú ý:

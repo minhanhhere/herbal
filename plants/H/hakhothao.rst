@@ -28,17 +28,17 @@ tác dụng hạ áp đối với người mắc bệnh huyết áp cao và làm
 chứng.
 
 4.Tác dụng chống ung thư: Qua nghiên cứu thực nghiệm bước đầu nhận xét
-thấy có tác dụng chống sự tăng trưởng của tế bào ung thư di căn ( thử
+thấy có tác dụng chống sự tăng trưởng của tế bào ung thư di căn (thử
 nghiệm trên ung thư cổ tử cung của chuột nhắt).
 
 Ứng dụng lâm sàng:
 
 1.Thanh nhiệt tán kết: dùng chữa chứng tràng nhạc (loa dịch tức lao hạch
-lâm ba cổ) và anh lựu ( như bướu cổ đơn thuần) thường lấy vị Hạ khô thảo
+lâm ba cổ) và anh lựu (như bướu cổ đơn thuần) thường lấy vị Hạ khô thảo
 làm chủ dược. Những bài thuốc kinh nghiệm có:
 
 -  Độc vị Hạ khô thảo 40g sắc uống hoặc phối hợp với Hà thủ ô 12g hoặc
-   Huyền sâm 40g, Sinh Mẫu lệ 80g, sắc uống hoặc nấu thành cao ( Hạ khô
+   Huyền sâm 40g, Sinh Mẫu lệ 80g, sắc uống hoặc nấu thành cao (Hạ khô
    thảo 4 phần, Hà thủ ô 1 phần) uống sáng và tối mỗi lần 10ml.
 -  Hạ khô thảo, Bối mẫu, Viễn chí, Hương phụ sắc nước đặc uống.
 -  Hạ khô thảo 12g, Cam thảo 4g, sắc nước uống.

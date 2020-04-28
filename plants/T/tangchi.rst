@@ -12,7 +12,7 @@ Dâu thuộc họ Dâu tằm (Moraceae). Cây Dâu cho ta nhiều vị thuốc n
 
 #. Lá Dâu (Tang diệp) Folium Mori.
 #. Vỏ rễ Dâu (Tang bạch bì) Cortex Mori Radicis.
-#. Quả Dâu ( Tang thầm) Fructus Mori.
+#. Quả Dâu (Tang thầm) Fructus Mori.
 #. Cây mọc ký sinh trên cây Dâu (Tang ký sinh) Ramulus Loranthi.
 #. Tổ bọ ngựa trên cây Dâu (Tang phiêu tiêu) Otheca mantidis.
 #. Sâu Dâu (con sâu nằm trong thân cây Dâu: ấu trùng một loại xén tóc).

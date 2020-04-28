@@ -24,7 +24,7 @@ trường hợp viêm tấy ngoài da, ở khớp xương, ở răng , vú, sưn
 khớp nhiễm trùng, lở loét, mụn nhọt, chốc đầu, đau mắt v.v..
 
 Hiện nay, việc sử dụng Sài đất được phổ biến rộng rãi, có nới đã dùng
-Sài đất chữa viêm bàng quang có kết quả tốt ( Bệnh viện khu Hai Bà, Hà
+Sài đất chữa viêm bàng quang có kết quả tốt (Bệnh viện khu Hai Bà, Hà
 nội năm 1966)
 
 Liều dùng:
@@ -37,14 +37,14 @@ Liều dùng:
    còn 200ml, chia làm 1 - 2 lần uống.
 
 Thời gian điều trị từ 1 - 2 ngày, nhiều nhất 5 - 7 ngày.Hiện nay có nơi
-chế thành dạng xi-rô, ống để uống ( Bộ môn Dược liệu trường đại học Dược
+chế thành dạng xi-rô, ống để uống (Bộ môn Dược liệu trường đại học Dược
 Hà nội), thuốc bột, thuốc viên.
 
 Chú thích chống nhầm lẫn: Hiện nay có 2 cây thường dùng nhầm với cây Sài
 đất:
 
 #. Cây Lỗ địa cúc còn có tên Bành kỳ cúc tên khoa học là Wedelia
-   prostrata ( Hook et Arn.) Hemls, họ Cúc Asteraceae. Cây này thường có
+   prostrata (Hook et Arn.) Hemls, họ Cúc Asteraceae. Cây này thường có
    lá ngắn hơn, hoa màu vàng nhạt, quả bế không có lông và không thu hẹp
    ở đầu, không có vòng lồi lên, đầu cụt.
 #. Cây Sài đất giả: có tên khoa học Lippia modifolia (L) L.C. Rich thuộc

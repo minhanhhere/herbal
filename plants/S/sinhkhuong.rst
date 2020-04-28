@@ -2,12 +2,12 @@
 
 SINH KHƯƠNG
 
-( Rhizoma zingiberis Officinalis Recens)
+(Rhizoma zingiberis Officinalis Recens)
 
-Sinh khương ( Gừng tươi) là thân rễ ( củ) cây gừng (Zingiber
+Sinh khương (Gừng tươi) là thân rễ (củ) cây gừng (Zingiber
 Officinalale Rosc). Vi cay tính ấm qui kinh Phế, Tỳ, Vị.
 
-Thành phần chủ yếu: Tinh dầu ( 2 - 3% ). Trong tinh dầu có camphen,
+Thành phần chủ yếu: Tinh dầu (2 - 3% ). Trong tinh dầu có camphen,
 fellan-dren, xitral, bo rneod, các chất cay: gingerol, zingexen, sogaol.
 
 Tác dụng dược lý:
@@ -15,12 +15,12 @@ Tác dụng dược lý:
 1.Làm ra mồ hôi: Do chất tinh dầu làm tăng tuần hoàn ngoại vi, uống gừng
 vào cảm thấy nóng toàn thân và ra mồ hôi.
 
-2.Trợ tiêu hóa: (kiện vị) Tinh dầu làm tăng tiết dịch vị ( thông qua
+2.Trợ tiêu hóa: (kiện vị) Tinh dầu làm tăng tiết dịch vị (thông qua
 phản xạ thần kinh) tăng co bóp dạ dày và ruột, có khả năng điều chỉnh
 chức năng trường vị mà cầm nôn.
 
 3.Tiêm dịch gừng: vào mạch máu con vật thí nghiệm thì hơi thở nhanh hơn,
-biên độ giảm, mạch nhanh, huyết áp tăng. ( theo H.M.Emig, 1930 )
+biên độ giảm, mạch nhanh, huyết áp tăng. (theo H.M.Emig, 1930 )
 
 4.Theo y học cổ truyền: gừng có tác dụng giải cảm, tán hàn, làm ấm tỳ
 vị, cầm nôn, tiêu đàm giảm ho.
@@ -61,7 +61,7 @@ tùy tình hình bệnh lý.
 
 Chú ý lúc dùng thuốc: Gừng dùng tươi có tác dụng tán hàn, giải cảm, dùng
 chín có tác dụng hòa tỳ vị nên lúc dùng gừng trong thang thuốc bổ để hòa
-tỳ vị ( tăng tiêu hóa) tốt nhất là dùng gừng nướng chín.
+tỳ vị (tăng tiêu hóa) tốt nhất là dùng gừng nướng chín.
 
 Dùng gừng lùi trị đau bụng do hàn.
 
@@ -72,7 +72,7 @@ Gừng là vị thuốc có tác dụng ôn tán nên thường được phối 
 thảo và Đại táo, dùng nhiều trong các bài thuốc có nhiều vị thuốc đắng
 lạnh và nê trệ để điều hòa tính chất vị thuốc đó.
 
-Gừng đốt cháy ( thán khương) có tác dụng cầm máu.
+Gừng đốt cháy (thán khương) có tác dụng cầm máu.
 
 Dùng gừng thận trọng đối với chứng âm hư nội nhiệt.
 

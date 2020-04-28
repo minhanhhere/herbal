@@ -41,7 +41,7 @@ Theo các sách thuốc cổ:
 
 Thành phần chủ yếu:
 
-Nhân hạt mơ chứa: 35 - 40% chất dầu ( dầu Hạnh nhân), 3% amygdalin và
+Nhân hạt mơ chứa: 35 - 40% chất dầu (dầu Hạnh nhân), 3% amygdalin và
 men emunsin gồm 2 men amygdalase và prunase.
 
 Tác dụng dược lý:
@@ -97,7 +97,7 @@ của rễ làm chất giải độc.
    đường. Sáng tối mỗi lần uống 10g; 10 ngày là một liệu trình. Đã trị
    124 ca, khỏi 23 ca, có kết quả tốt 66 ca, tiến bộ 31 ca, không kết
    quả 4 ca, tỷ lệ kết quả 96,8%, đối với ho đàm suyễn đều có tác dụng,
-   thường sau 3 - 4 ngày thấy có kết quả ( Tư liệu của Viện Nghiên cứu
+   thường sau 3 - 4 ngày thấy có kết quả (Tư liệu của Viện Nghiên cứu
    Trung y 1971,34).
 -  Chua me đất 5g, Lá chanh 4g, Cam thảo dây 5g, Lá tre 8g, Tô mộc 8g,
    Gừng sống 2g, Ô mai 4g, nước 500ml sắc còn 250ml chia 2 lần uống

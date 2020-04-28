@@ -2,9 +2,9 @@
 
 ÍCH MẪU THẢO
 
-( Herba Leonuri)
+(Herba Leonuri)
 
-Ích mẫu thảo là toàn bộ phận trên mặt đất của cây Ích mẫu ( Leonurus
+Ích mẫu thảo là toàn bộ phận trên mặt đất của cây Ích mẫu (Leonurus
 heterophyllus Sweet) phơi hay sấy khô, dùng làm thuốc được ghi đầu tiên
 trong sách Bản kinh. Cây Ích mẫu mọc hoang và trồng khắp nơi ở nước ta.
 Còn có tên Sung úy, Ích minh.
@@ -77,7 +77,7 @@ dứt, dùng các bài:
    uống trị rối loạn kinh nguyệt, đau kinh, sau sanh hoặc nạo thai máu
    ra kéo dài.
 -  Cao Ích mẫu thảo: Ích mẫu thảo 800g, Ngãi cứu 200g, Hương phụ 250g,
-   tá dược ( Sỉô cồn 15 độ) vừa đủ 1000g.
+   tá dược (Sỉô cồn 15 độ) vừa đủ 1000g.
 -  Sắc Ích mẫu thảo mỗi ngày 15 - 20g hoặc nấu cao Ích mẫu uống ngày 3
    lần, mỗi lần 2 - 3ml. Trị kinhnguyệt rối loạn, sau sanh xuất huyết tử
    cung, kinh nguyệt ra nhiều. Tác giả có nhận xét là sau khi uống 1 giờ
@@ -88,15 +88,15 @@ dứt, dùng các bài:
 
 -  Ích mẫu thảo 20g, Bạch mao căn, Bạch linh, Xa tiền tử đều 15g, Bạch
    truật, Tang bì đều 10g, sắc nước uống.
--  Ích mẫu thảo 100 - 120g ( lượng tươi tăng gấp đôi) trẻ em giảm liều,
+-  Ích mẫu thảo 100 - 120g (lượng tươi tăng gấp đôi) trẻ em giảm liều,
    nước 700 ml sắc nhỏ lửa còn 300ml, ngày uống 3 lần, có tác dụng lợi
    tiểu, trị phù rõ, đối với viêm cầu thận cấp kết quả trước mắt là tốt
-   ( Tạp chí Trung y Vân nam 1984,2:48).
+   (Tạp chí Trung y Vân nam 1984,2:48).
 
 3.Trị bệnh mạch vành: Vương triết Thân và cộng sự dùng thuốc chích Ích
 mẫu cao nhỏ giọt tĩnh mạch trị 100 ca bệnh mạch vành, thiếu máu cơ tim.
 Kết quả lâm sàng tốt 45%, tiến bộ 39%, tỷ lệ có kết quả 84%, kết quả
-điện tim tốt 28%, tiến bộ 33%, tỷ lệ kết quả điện tim là 61% ( Tạp chí
+điện tim tốt 28%, tiến bộ 33%, tỷ lệ kết quả điện tim là 61% (Tạp chí
 Trung y 1985,26(3):29).
 
 4.Trị cao huyết áp: dùng Ích mẫu thảo phối hợp với Ngô đồng thối, Hy

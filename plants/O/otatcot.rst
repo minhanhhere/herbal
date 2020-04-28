@@ -1,10 +1,10 @@
 Ô TẶC CỐT
 
-( Os Sepiae seu Sepiellae)
+(Os Sepiae seu Sepiellae)
 
 Ô tặc cốt tức Mai mực còn có Hải phiêu tiêu dùng làm thuốc được ghi đầu
-tiên trong sách Bản kinh là mai con Mực ( Sepia esculenta Hoyle hay
-Sepiella maidroni de Rochebrune) thuộc họ Mực ( Sepiidae). Con mực sống
+tiên trong sách Bản kinh là mai con Mực (Sepia esculenta Hoyle hay
+Sepiella maidroni de Rochebrune) thuộc họ Mực (Sepiidae). Con mực sống
 nhiều ở khắp miền biển nước ta, bắt mực về, lấy mai rửa sạch cạo hết vỏ
 cứng phơi khô dùng sống hoặc sao lên.
 
@@ -30,7 +30,7 @@ Tác dụng dược lý:
 A.Theo Y học cổ truyền:
 
 Ô tặc cốt có tác dụng: thu liễm chỉ huyết, cố tinh chỉ đới, chế toan chỉ
-thống thống ( làm bớt chua và giảm đau) thu thấp liễm sang.
+thống thống (làm bớt chua và giảm đau) thu thấp liễm sang.
 
 Chủ trị chứng phế vị xuất huyết, băng lậu, di tinh, đới hạ, vị thống,
 nôn chua, thấp chẩn, thấp sang, lở lóet nhiều mủ.
@@ -38,7 +38,7 @@ nôn chua, thấp chẩn, thấp sang, lở lóet nhiều mủ.
 Trích đoạn Y văn cổ:
 
 -  Sách Bản kinh: " chủ nữ tử lậu hạ, xích bạch kinh trập, huyết bế, âm
-   thực thũng thống ( âm hộ lóet sưng đau), hàn nhiệt, trưng hạ vô tử".
+   thực thũng thống (âm hộ lóet sưng đau), hàn nhiệt, trưng hạ vô tử".
 -  Sách Danh y biệt lục: " trị mụn nhọt nhiều mủ không lành".
 -  Sách Hiện đại thực dụng trung dược: " là thuốc làm giảm chất chua,
    dùng có hiệu quả đối với các chứng acid dịch vị cao, lóet bao tử, lao
@@ -48,7 +48,7 @@ Trích đoạn Y văn cổ:
 B.Kết quả nghiên cứu theo dược lý hiện đại:
 
 Thuốc có tác dụng cầm máu (hemostatic), calcium carbonate là chất chống
-acid ( antacid) có hiệu quả.
+acid (antacid) có hiệu quả.
 
 Ứng dụng lâm sàng:
 
@@ -58,11 +58,11 @@ thay 1 lần. Trị 100 ca, khỏi 83 ca, tiến bộ 11 ca, tỷ lệ kết qu�
 Tạp chí Trung tây y kết hợp 1987,11:697).
 
 2.Trị lóet bao tử xuất huyết do ảnh hưởng não xuất huyết: Tác giả dùng Ô
-tặc cốt, Bạch cập, Chỉ thực đều lượng bằng nhau tán bột thật mịn ( rây
+tặc cốt, Bạch cập, Chỉ thực đều lượng bằng nhau tán bột thật mịn (rây
 nhiều lần), dùng nước muối lạnh 100ml trộn đều, cho uống bằng ống sonde
 dạ dày, mỗi 2 giờ 1 lần. Sau khi hết chảy máu bơm thêm nước muối sinh lý
 hoặc dùng thêm 5 - 10g mỗi lần, ngày bơm 3 lần. Trị 30 ca, khỏi 20 ca,
-tốt 5 ca, có kết quả 3 ca, không kết quả 2 ca, tỷ lệ kết quả 92% ( Hàn
+tốt 5 ca, có kết quả 3 ca, không kết quả 2 ca, tỷ lệ kết quả 92% (Hàn
 đơn Hư, Báo Trung y Thiên tân 1988,1:8).
 
 -  Tác giả dùng bột Mai mực và bột Bạch chỉ thật mịn trộn đều, một báo

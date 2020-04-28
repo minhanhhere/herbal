@@ -118,7 +118,7 @@ Cam thảo; nôn do thai nghén gia Bán hạ, Sa nhân.
 
 Liều lượng thường dùng và chú ý:
 
--  Liều uống ( cho vào thuốc thang, cao, hoàn tán): 5 - 10g.
+-  Liều uống (cho vào thuốc thang, cao, hoàn tán): 5 - 10g.
 -  Dùng tươi lượng gấp đôi, có thể hãm nước sôi uống.
 
 .. |image0| image:: HOACHUONG.JPG

@@ -54,7 +54,7 @@ Theo các sách Y học cổ truyền:
 -  Sách Bản thảo hội ngôn: " Thủy điệt là thuốc trục ứ huyết, ác huyết,
    hành súc huyết, huyết trưng, tích tụ, chuyên trị nữ tử kinh bế, không
    con . thuốc dùng trong Miết giáp tiễn hoàn trị chứng cửu ngược, ngược
-   mẫu ( sốt rét lâu ngày, gan lách to), sốt lạnh, mặt vàng, bụng đầy
+   mẫu (sốt rét lâu ngày, gan lách to), sốt lạnh, mặt vàng, bụng đầy
    như lao.".
 
 B.Kết quả nghiên cứu dược lý hiện đại:

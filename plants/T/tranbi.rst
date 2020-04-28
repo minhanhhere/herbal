@@ -4,8 +4,8 @@ TRẦN BÌ
 
 (Pericarpium Citri reticulatae)
 
-Trần bì ( Quất bì) dùng làm thuốc được ghi đầu tiên trong sách " Bản
-kinh" là vỏ của trái chín của cây Quít ( Citrus reticulata Blanco,
+Trần bì (Quất bì) dùng làm thuốc được ghi đầu tiên trong sách " Bản
+kinh" là vỏ của trái chín của cây Quít (Citrus reticulata Blanco,
 Citrus deliciosa tenore, Citrus nobilis var deliciosa Swigle).
 
 Vỏ Quít được phơi hay sấy khô để càng lâu năm càng tốt nên gọi là Trần
@@ -51,7 +51,7 @@ lợi cho tiêu hóa, có tác dụng làm giãn cơ trơn dạ dày và ruột.
 
 *+ Tác dụng khu đàm bình suyễn:* thuốc kích thích niêm mạc đường hô hấp
 làm tăng dịch tiết, làm loãng đàm dễ khạc ra. Xuyên trần bì làm giãn phế
-quản hạ cơn hen. Dịch cồn chiết xuất Quất bì với nồng độ 0,02g ( thuốc
+quản hạ cơn hen. Dịch cồn chiết xuất Quất bì với nồng độ 0,02g (thuốc
 sống)/ml hoàn toàn ngăn chận được cơn co thắt phế quản chuột lang do
 histamin gây nên.
 
@@ -79,21 +79,21 @@ chế cơ trơn của tử cung.
 1.\ *Trị chứng nôn do hàn:* tiêu chảy thường.
 
 -  Quất bì thang: Quất bì 12g, Sinh khương 8g: sắc uống.
--  Bình vị tán ( Hòa tễ cục phương): Trần bì, Cam thảo, Thương truật,
+-  Bình vị tán (Hòa tễ cục phương): Trần bì, Cam thảo, Thương truật,
    Hậu phác lượng bằng nhau tán bột mịn trộn đều, mỗi lần uống 4 - 6g,
    ngày uống 2 - 3 lần hoặc làm thuốc thang uống trị ỉa chảy.
--  Dị công tán ( Tiểu nhi dược chứng trục quyết): Đảng sâm 8g, Bạch
+-  Dị công tán (Tiểu nhi dược chứng trục quyết): Đảng sâm 8g, Bạch
    truật 8g, Bạch linh 8g, Chích thảo 4g, Trần bì 4g: sắc nước uống hoặc
    làm thuốc hoàn, tán dùng trị: rối loạn tiêu hóa, trẻ suy dinh dưỡng.
--  Thông tả yếu phương ( Cảnh nhạc toàn thư): Bạch truật ( thổ sao) 12g,
+-  Thông tả yếu phương (Cảnh nhạc toàn thư): Bạch truật (thổ sao) 12g,
    Phòng phong (sao) 8g, Bạch thược (sao) 8g, Trần bì (sao) 6g. Theo tỷ
    lệ này làm thuốc hoàn, tán mỗi lần uống 4 - 6g, ngày 2 -3 lần, hoặc
    làm thuốc thang uống. Trị chứng tiêu chảy thường có kèm sôi bụng và
    đau bụng.
 
-2.Trị chứng ho có đờm ( do cảm hàn):
+2.Trị chứng ho có đờm (do cảm hàn):
 
--  Nhị trần thang ( Hòa tễ cục phương): Bạch linh 12g, Trần bì 6g,
+-  Nhị trần thang (Hòa tễ cục phương): Bạch linh 12g, Trần bì 6g,
    Khương bán hạ 6g, Cam thảo 4g, Gừng tươi 2 lát sắc uống.
 -  Trần bì 6g, Cát cánh 6g, Tô diệp 6g, Cam thảo 4g: sắc nước uống trị
    ho viêm họng, viêm phế quản nhẹ.
@@ -101,7 +101,7 @@ chế cơ trơn của tử cung.
    uống nhiều lần trong ngày. Trị ho mất tiếng.
 
 3.Trị viêm tuyến vú cấp: Hàn Thiệu Minh dùng mỗi ngày Trần bì 30g, Cam
-thảo 6g: sắc uống trị 88 ca, kết quả khỏi 85 ca ( Tạp chí Ngoại khoa
+thảo 6g: sắc uống trị 88 ca, kết quả khỏi 85 ca (Tạp chí Ngoại khoa
 Trung hoa 1959, 4:326).
 
 4.Trị viêm phế quản mạn ho nhiều đờm: Trần lượng Hoa dùng Trần bì 6g,
@@ -109,7 +109,7 @@ Bán hạ 6g, Bạch linh 10g, Đương quy 20g, Cam thảo 6g, Gừng 3 lát, t
 chứng gia giảm trị 33 ca kết quả tốt 17 ca, đỡ nhiều 14 ca, không kết
 quả 2 ca (tạp chí Trung y Triết giang 1985, 1:18).
 
-5.Trị bỏng: Vỏ Quít thái nhỏ ( dùng vỏ quít tươi) cho vào lọ đậy kín để
+5.Trị bỏng: Vỏ Quít thái nhỏ (dùng vỏ quít tươi) cho vào lọ đậy kín để
 nát thành nước hoặc hồ bôi vào chỗ bỏng mỗi ngày nhiều lần trị 40 ca
 bỏng vật lý độ 1, 2. Thuốc có tác dụng tiêu viêm, giảm đau, làm săn da (
 Tạp chí Xích cước y sinh 1975, 4:11).

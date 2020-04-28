@@ -6,7 +6,7 @@ CHI TỬ
 
 Chi tử là tên thuốc của quả Dành dành còn gọi là Sơn chi, Sơn chi tử (
 Fructus Gardeniae) là quả chín phơi hay sấy khô của cây Dành dành (
-Gardenia Jasminoides Ellis) thuộc họ Cà phê ( Rubiaceae).
+Gardenia Jasminoides Ellis) thuộc họ Cà phê (Rubiaceae).
 
 Vị đắng tính hàn, qui kinh Tâm Phế Can Vị. Có tác dụng thanh nhiệt, lợi
 thấp , lương huyết.
@@ -51,27 +51,27 @@ cổ truyền qua các triều đại đều có ghi vị Chi tử chữa chứn
 chủ dược. Thường phối hợp với Nhân trần, Mật gấu tác dụng chữa Hoàng đản
 càng nhanh.
 
--  Bài thuốc thường dùng: Nhân trần cao thang ( Nhân trần cao 18 - 24g,
+-  Bài thuốc thường dùng: Nhân trần cao thang (Nhân trần cao 18 - 24g,
    Chi tử 8 -16g, Đại hoàng 4 - 8g), sắc nước uống, thường gia giảm tùy
    tình hình bệnh lý.
 
 2.Trị các chứng viêm nhiễm khác như:
 
--  Hội chứng cam nhiệt ( mắt đỏ sưng đau, chảy nước mắt, mồm khô đắng,
+-  Hội chứng cam nhiệt (mắt đỏ sưng đau, chảy nước mắt, mồm khô đắng,
    ngủ không yên, bứt rứt). Ví dụ chữa viêm màng tiếp hợp cấp lưu hành
    dùng bài: Chi tử 12g, Cúc hoa 12g, Cam thảo 4g, sắc nước uống.
 -  Chữa viêm bể thận, viêm đường tiểu dùng Chi tử 12g, Cam thảo tiêu
    12g, sắc nước uống lợi tiểu.
 
 3.Trị các chứng huyết nhiệt sinh chảy máu: như ho ra máu, nôn ra máu,
-chảy máu cam, huyết lâm ( tiểu ra máu), đại tiện có máu . dùng Chi tử
+chảy máu cam, huyết lâm (tiểu ra máu), đại tiện có máu . dùng Chi tử
 kết hợp với các loại thuốc lương huyết chỉ huyết như dùng bài Lương
 huyết thang gồm Chi tử 16g, Hoàng cầm 12g, Bạch mao căn 20g, Tri mẫu
 12g, Cát cánh 8g, Cam thảo 4g, Trắc bá diệp 12g, Xích thược 12g,sắc nước
 uống.
 
 -  Chữa ho ra máu dùng bài Khái huyết phương (Đan khê tâm pháp) gồm Hắc
-   chi tử 12g, bột Thanh đại 4g ( hòa thuốc uống), Qua lâu nhân 16g, Hải
+   chi tử 12g, bột Thanh đại 4g (hòa thuốc uống), Qua lâu nhân 16g, Hải
    phù thạch 12g, Kha tử 3g, sắc uống.
 
 4.Trị bỏng nhiễm trùng, sốt bứt rứt, khát nước ..: dùng Chi tử kết hợp

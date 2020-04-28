@@ -71,12 +71,12 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 
 1.Trị ho do cảm mạo, viêm đường hô hấp trên:
 
--  Chỉ thấu tán ( Y học tâm ngộ): Tử uyển, Bách bộ, Bạch tiền đều 10g,
+-  Chỉ thấu tán (Y học tâm ngộ): Tử uyển, Bách bộ, Bạch tiền đều 10g,
    Cát cánh, Kinh giới đều 6g, Trần bì 5g, Cam thảo 3g sắc uống.
 
 2.Trị lao phổi do phế âm hư, ho đàm có máu:
 
--  Tử uyển thang ( y phương tập giải): Tử uyển, Tri mẫu, A giao (hòa
+-  Tử uyển thang (y phương tập giải): Tử uyển, Tri mẫu, A giao (hòa
    uống), Đảng sâm, Phục linh đều 10g, Xuyên bối mẫu (tán bột hòa uống),
    Cát cánh đều 6g, Trần bì 5g, Cam thảo 3g sắc uống.
 

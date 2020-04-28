@@ -94,14 +94,14 @@ Bệnh viện số 1 Khu Long nham, Tạp chí Y dược Phúc kiến 1981,2:23)
    ca muộn và xơ gan, quá trình dùng thuốc không phát hiện biến chứng (
    Khoa ung thư Bệnh viện trực thuộc số 1 Viện Y học Thẩm dương, Tập san
    nghiên cứu phòng trị ung thư 1973,1:31).
--  Kết quả trị các ung thư: Tác giả dùng bài Phá thạch hợp tể ( Tam
+-  Kết quả trị các ung thư: Tác giả dùng bài Phá thạch hợp tể (Tam
    lăng, Xuyên phá thạch, Mã tiên thảo) trị 31 ca ung thư giai đoạn cuối
-   ( trong đó, ung thư dạ dày, gan mỗi thứ 8 ca, ung thư thực quản 5 ca,
+   (trong đó, ung thư dạ dày, gan mỗi thứ 8 ca, ung thư thực quản 5 ca,
    ung thư cổ tử cung 3 ca, ung thư vú 2 ca, ung thư phổi, ung thư trực
    tràng .) kết quả tốt 5 ca, có kết quả 19 ca, không kết quả 7 ca.
 
 Theo biện chứng, đối với các thể: ứ huyết, can uất, ứ độc và đàm thấp
-kết quả tốt hơn ( Vương Căn, học báo học viện Trung y Triết giang
+kết quả tốt hơn (Vương Căn, học báo học viện Trung y Triết giang
 1983,3:31).
 
 Liều dùng và chú ý:

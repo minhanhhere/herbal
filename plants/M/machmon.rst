@@ -2,12 +2,12 @@
 
 MẠCH MÔN ĐÔNG
 
-( Tuber Ophiopogonis)
+(Tuber Ophiopogonis)
 
 Còn có tên là Thốn đông, Đại mạch đông, cây Lan tiên, được ghi đầu tiên
-trong sách Bản kinh với tên Mạch môn, là rễ, củ phơi hay sấy khô ( Radix
-Ophiopogoni) của cây Mạch môn đông ( Ophiopogon Japonicus Ker - Gawl)
-thuộc họ Hành tỏi ( Liliaceae).
+trong sách Bản kinh với tên Mạch môn, là rễ, củ phơi hay sấy khô (Radix
+Ophiopogoni) của cây Mạch môn đông (Ophiopogon Japonicus Ker - Gawl)
+thuộc họ Hành tỏi (Liliaceae).
 
 Tính vị qui kinh:
 
@@ -65,7 +65,7 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 #. Trên thực nghiệm, tiêm bắp cho thỏ nước sắc Mạch môn: làm tăng đường
    huyết, nhưng cũng có báo cáo nói hạ đường huyết.
 #. Thuốc có tác dụng ức chế mạnh tụ cầu trắng, trực khuẩn đại tràng,
-   trực khuẩn thương hàn . ( trích yếu văn kiện nghiên cứu Trung dược,
+   trực khuẩn thương hàn . (trích yếu văn kiện nghiên cứu Trung dược,
    nhà xuất bản Khoa học Trung quốc 9165, trang 301).
 
 Ứng dụng lâm sàng:
@@ -74,9 +74,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 âm hư ho kéo dài, ho khan: có thể phối hợp với Bán hạ, Đảng sâm, dùng
 bài:
 
--  Mạch môn đông thang ( Kim quỉ yếu lược): Mạch môn 20g, Bán hạ chế 6g,
+-  Mạch môn đông thang (Kim quỉ yếu lược): Mạch môn 20g, Bán hạ chế 6g,
    Đảng sâm 12g, Cam thảo 4g, Cánh mễ 20g, Đại táo 4 quả, sắc uống.
--  Mạch vị Đại hoàng hoàn ( Bát tiên trường thọ hoàn): 8 - 10g x 2
+-  Mạch vị Đại hoàng hoàn (Bát tiên trường thọ hoàn): 8 - 10g x 2
    lần/ngày.
 
 2.Trị bệnh nhiễm thời kỳ hồi phục, đại tiện táo bón, hư nhiệt, phiền
@@ -90,8 +90,8 @@ khát: gia Sinh địa, Huyền sâm. dùng bài:
 3.Trị suy tim có chứng hư thóat ra mồ hôi nhiều, mạch nhanh huyết áp hạ.
 : phối hợp Nhân sâm, Ngũ vị tử, dùng bài:
 
--  Sinh mạch tán ( Nội ngoại thương biện hoặc luận): Mạch môn 16g, Nhân
-   sâm hoặc Đảng sâm ( lượng gấp đôi) 8g, Ngũ vị tử 6g, sắc uống, để bổ
+-  Sinh mạch tán (Nội ngoại thương biện hoặc luận): Mạch môn 16g, Nhân
+   sâm hoặc Đảng sâm (lượng gấp đôi) 8g, Ngũ vị tử 6g, sắc uống, để bổ
    khí âm.
 -  Trường hợp ra mồ hôi nhiều, bứt rứt khó chịu, dùng bài :Mạch môn 20g,
    Hoàng kỳ 8g, Đương qui 8g, Ngũ vị tử 4g, Chích thảo 4g, sắc uống.
@@ -101,13 +101,13 @@ khát: gia Sinh địa, Huyền sâm. dùng bài:
 -  Tăng dịch thang: Mạch môn đông 20g, Sinh địa 20g, Huyền sâm 12g, sắc
    uống.
 
-5.Trị bệnh động mạch vành: mỗi lần uống thuốc sắc Mạch môn 10ml ( thuốc
+5.Trị bệnh động mạch vành: mỗi lần uống thuốc sắc Mạch môn 10ml (thuốc
 sống 15g), ngày uống 3 lần, liệu trình 3 - 18 tháng hoặc dùng dịch tiêm
-Mạch môn tiêm bắp 4ml ( mỗi ống 2ml có 4g thuốc), chia 1 - 2 lần chích,
+Mạch môn tiêm bắp 4ml (mỗi ống 2ml có 4g thuốc), chia 1 - 2 lần chích,
 2 - 4 tháng là một liệu trình, hoặc mỗi ngày tiêm tĩnh mạch dịch tiêm
-Mạch môn 40ml ( mỗi ống 10ml có 10g thuốc sống), liệu trình 1 tuần. Đã
+Mạch môn 40ml (mỗi ống 10ml có 10g thuốc sống), liệu trình 1 tuần. Đã
 trị 101 ca trong đó uống 50 ca, tỷ lệ kết quả 74%, tiêm bắp 31 ca, tỷ lệ
-kết quả 83,7%, chích tĩnh mạch 20 ca, tỷ lệ kết quả 80% ( Tổ phòng trị
+kết quả 83,7%, chích tĩnh mạch 20 ca, tỷ lệ kết quả 80% (Tổ phòng trị
 bệnh động mạch vành khoa Nội, Bệnh viện Thử quang thuộc Trung y Học viện
 Thượng hải, Quan sát thuốc Mạch môn trị bệnh động mạch vành lâm sàng và
 thực nghiệm, Tạp chí Tân y dược học 1977,5:39).

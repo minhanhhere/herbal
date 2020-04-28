@@ -6,7 +6,7 @@ KHIẾM THỰC
 
 Khiêm thực nguyên tên là Kê đầu thực, dùng làm thuốc được ghi đầu tiên
 trong sách Bản kinh là hạt chín phơi hay sấy khô của cây Khiếm thực (
-Euryale ferox Salisb) thuộc họ Súng ( Nymphaeaceae).
+Euryale ferox Salisb) thuộc họ Súng (Nymphaeaceae).
 
 Cây Khiếm thực hiện chưa thấy mọc ở Việt nam. Cây được trồng ở các đầm
 ao nhiều tỉnh của Trung quốc giáp giới Việt nam như Quảng đông, Quảng
@@ -39,7 +39,7 @@ chứng cửu tả cửu lî, hoạt tinh, di tinh, di niệu, bạch đới nhi
 Trích đoạn Y văn cổ:
 
 -  Sách Bản kinh: " chủ trị thấp tý, thắt lưng gối đau, bổ trung, ích
-   tinh khí, cường chí, làm rõ tai sáng mắt ( lệnh nhĩ mục thông minh)".
+   tinh khí, cường chí, làm rõ tai sáng mắt (lệnh nhĩ mục thông minh)".
 -  Sách Bản thảo cương mục: " chỉ khát ích thận, trị tiểu tiện nhiều
    lần, di tinh, bạch trọc đới hạ".
 -  Sách Bản thảo cầu chân: " vị ngọt bổ tỳ, nên lợi thấp, có thể trị
@@ -57,7 +57,7 @@ lý về Khiếm thực.
    Bạch linh, Ý dĩ nhân, Trần bì đều 10g, Bạch truật, Trạch tả, Thần
    khúc đều 6g, Cam thảo 3g, sắc uống.
 
-2.Trị di mộng tinh: dùng bài Thủy lục đơn ( xem vị Kim anh tử).
+2.Trị di mộng tinh: dùng bài Thủy lục đơn (xem vị Kim anh tử).
 
 3.Trị chứng bạch đới do thấp nhiệt:
 

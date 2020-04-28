@@ -2,7 +2,7 @@
 
 THẢO QUẢ
 
-( Fructus Amomi Tsao-Ko)
+(Fructus Amomi Tsao-Ko)
 
 Thảo quả dùng làm thuốc được ghi đầu tiên trong sách Ẩm thiện chính yếu,
 là quả chín phơi hay sấy khô của cây Thảo quả, tên thực vật là Amomum
@@ -78,7 +78,7 @@ chảy không buồn ăn.
 -  Quả Phụ thang: Thảo quả nhân 3g, Thục phụ tử 10g, Sinh khương 3 lát,
    Đại táo 3 quả, sắc uống.
 -  Thảo quả nhân 2g tán bột bọc trong miếng gạc, trước khi lên cơn 1 giờ
-   nhét lỗ mũi ( 1 bên).
+   nhét lỗ mũi (1 bên).
 -  Thảo quả 10g, Kha tử 10g, Sinh khương 7 miếng, Táo đen 2 quả, nước
    600ml sắc còn 200ml chia 3 lần uống trong ngày. Trị sốt (rét nhiều
    sốt ít), đại tiểu tiện nhiều.

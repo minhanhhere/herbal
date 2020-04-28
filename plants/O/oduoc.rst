@@ -2,14 +2,14 @@
 
 Ô DƯỢC
 
-( Radix linderae strychnifoliae)
+(Radix linderae strychnifoliae)
 
 Ô dược hay Thiên thai ô dược dùng làm thuốc được ghi đầu tiên trong sách
 " Bản thảo thập di" là rễ phơi hay sấy khô của cây Thiên thai Ô dược
-Lindera Strychnifolia ( Sieb et Zucc ) hay cây Dầu đắng ( Ô dược nam)
-Lindera myrrha ( Lour) đều thuộc họ Long não ( Lauraceae). Ngoài ra, ở
+Lindera Strychnifolia (Sieb et Zucc ) hay cây Dầu đắng (Ô dược nam)
+Lindera myrrha (Lour) đều thuộc họ Long não (Lauraceae). Ngoài ra, ở
 nước ta và Trung quốc còn có loại Vệ châu Ô dược Cocculus laurifolius DC
-thuộc họ Tiết dê ( Menispermaceae). Ở nước ta Nam ô dược mọc nhiều ở các
+thuộc họ Tiết dê (Menispermaceae). Ở nước ta Nam ô dược mọc nhiều ở các
 tỉnh phía Bắc, nhiều nhất ở các tỉnh Thanh hóa, Nghệ an, Hà tỉnh, Hòa
 bình, Sơn tây.
 
@@ -65,14 +65,14 @@ Trích đoạn Y văn cổ:
    Sinh khương 6g, sắc uống.
 -  Ô dược, Cao lương khương, Hồi hương đều 6g, Trần bì 8g, sắc uống trị
    hàn, sán khí, đau bụng dưới.
--  Ô dược thang ( Hiệu chú phụ nhân lương phương): Ô dược 10g, Hương phụ
+-  Ô dược thang (Hiệu chú phụ nhân lương phương): Ô dược 10g, Hương phụ
    8g, Đương qui 12g, Mộc hương 8g, sắc uống. Thuốc có tác dụng lý khí
    hoạt huyết chỉ thống.
 
 2.Trị tiểu nhiều lần hoặc đái dầm: do thận dương bất túc, bàng quang hư
 hàn, dùng bài:
 
--  Súc tuyền hoàn ( Hiệu chú phụ nhân lương phương) gồm Ích trí nhân
+-  Súc tuyền hoàn (Hiệu chú phụ nhân lương phương) gồm Ích trí nhân
    16g, Ô dược 10g, Sơn dược 16g sắc uống.
 
 3.Trị chứng rối loạn tiêu hóa: ăn không tiêu đầy bụng, ợ hơi, ợ chua,

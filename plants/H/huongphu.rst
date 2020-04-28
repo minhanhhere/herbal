@@ -2,10 +2,10 @@
 
 HƯƠNG PHỤ
 
-( Rhizoma cyperi rotundi )
+(Rhizoma cyperi rotundi )
 
 Hương phụ còn gọi là cây Cỏ cú, củ gấu là thân rễ phơi hay sấy khô của
-cây Củ gấu Cyperus rotundus L. thuộc họ Cói ( Cyperaceae ) dùng làm
+cây Củ gấu Cyperus rotundus L. thuộc họ Cói (Cyperaceae ) dùng làm
 thuốc được ghi đầu tiên trong sách Danh y biệt lục. Cây Củ gấu mọc khắp
 nơi trên đất nước ta và nhiều nước khác châu Á như Trung quốc, Triều
 tiên, Nhật bản, Indonesia.
@@ -49,12 +49,12 @@ Trích đoạn Y văn cổ:
    thể khử huyết ngưng. Cùng Ba đậu dùng trị tiết tả không cầm cũng trị
    đại tiện không thông là cùng một ý."
 -  Sách Bản thảo cương mục: " lợi tam tiêu giải lục uất, tiêu ẩm thực
-   tích tụ, đàm ẩm bí mãn, phù thũng phúc trướng ( mu bàn chân phù, bụng
+   tích tụ, đàm ẩm bí mãn, phù thũng phúc trướng (mu bàn chân phù, bụng
    trướng), cước khí, các chứng đau tim, dau bụng,đau lợi răng,đau chân
    tay, đầu mặt, tai..., phụ nhân băng lậu đới hạ, kinh nguyệt không
    đều, bách bệnh của phụ nữ trước và sau sinh."
 -  Sách Bản thảo cầu chân: "Hương phụ chuyên khai uất tán khí cùng Mộc
-   hương hành khí, mao đồng thực dị ( bên ngoài giống mà thực chất
+   hương hành khí, mao đồng thực dị (bên ngoài giống mà thực chất
    khác). Mộc hương đắng nhiều nên thông khí mạch, Hương phụ đắng không
    nhiều nên giải uất tốt."
 

@@ -1,10 +1,10 @@
 ĐẠM ĐẬU XỊ
 
-( Semen Sofae Praeparatum)
+(Semen Sofae Praeparatum)
 
-Đạm đậu xị ( Semen Sojac praparatum) còn gọi là hàm đậu xị, Hương xị là
-đậu đen ( Hắc đại đậu có tên khoa học Vigna Cylindrica L.) chế biến và
-phơi hay sấy khô dùng làm thuốc. Đậu đen thuộc họ Cánh bướm ( Fabaceae).
+Đạm đậu xị (Semen Sojac praparatum) còn gọi là hàm đậu xị, Hương xị là
+đậu đen (Hắc đại đậu có tên khoa học Vigna Cylindrica L.) chế biến và
+phơi hay sấy khô dùng làm thuốc. Đậu đen thuộc họ Cánh bướm (Fabaceae).
 
 Đạm đậu xị vị đắng tính hàn, qui kinh phế vị.
 
@@ -31,7 +31,7 @@ Tác dụng dược lý:
 
 Theo dược lý cổ truyền, đậu xị có tác dụng:
 
-1.Giải cảm ( tán nhiệt giải biểu) thường kết hợp với các vị thuốc tân
+1.Giải cảm (tán nhiệt giải biểu) thường kết hợp với các vị thuốc tân
 lương giải biểu khác. Thuốc có tác dụng làm ra mồ hôi nhẹ.
 
 2.Kiện vị trợ tiêu hóa.
@@ -73,9 +73,9 @@ trên; nếu chế với Ma hoàng Tô diệp thì thuốc có tính vị cay ô
 cần chú ý:
 
 -  Thuốc có tính vị đắng hàn dùng chữa cảm phong nhiệt, như bài Chi tử
-   xị thang ( Thương hàn luận) gồm Chi tử, Đạm đậu xị mỗi thứ 12g sắc
+   xị thang (Thương hàn luận) gồm Chi tử, Đạm đậu xị mỗi thứ 12g sắc
    uống.
 -  Thuốc có tính vị cay ôn: dùng chữa cảm phong hàn như bài: Thông xị
-   thang ( Cửu hậu phương) gồm Thông bạch cả rễ 5 củ, Đạm đậu xị 12g,
+   thang (Cửu hậu phương) gồm Thông bạch cả rễ 5 củ, Đạm đậu xị 12g,
    sắc uống .
 -  Không dùng với phụ nữ đang cho con bú.

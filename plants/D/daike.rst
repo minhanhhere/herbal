@@ -45,7 +45,7 @@ Trích đoạn Y văn cổ:
 -  Sách Dược tinh bản thảo: " rễ cầm băng huyết".
 
 -  Sách Tân tu bản thảo: " Đại tiểu kế đều có thể phá huyết nhưng Đại kế
-   kiêm trị nhọt sưng ( ung thũng) còn Tiểu kế chuyên trị chứng huyết,
+   kiêm trị nhọt sưng (ung thũng) còn Tiểu kế chuyên trị chứng huyết,
    không tiêu ung".
 
 -  Sách Nhật hoa tử bản thảo: " Lá trị trường ung, tạng phủ trong bụng ứ
@@ -56,7 +56,7 @@ Trích đoạn Y văn cổ:
    huyết. Trị trẻ em tiểu ra máu, đàn bà băng huyết, dùng sống bổ huyết
    các đường kinh, tiêu sang độc, tán loa lịch kết hạch, ung nhọt lâu
    ngày không lành miệng, sinh cơ bài nùng".
--  Sách Bản thảo kinh sơ ( tập 9): " Rễ Đại kế không độc, trị nữ tử xích
+-  Sách Bản thảo kinh sơ (tập 9): " Rễ Đại kế không độc, trị nữ tử xích
    bạch ốc do huyết nhiệt, nhiệt khiến thai động, huyết nhiệt lộng hành,
    sinh nục huyết, thổ huyết. Rễ Đại kế lương huyết, huyết nhiệt được
    giải thì các chứng khỏi".
@@ -77,16 +77,16 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 1.Trị các loại xuất huyết: như chảy máu cam, thổ huyết, tiểu ra máu, đàn
 bà băng lậu ...dùng các bài:
 
--  Đại kế toàn cây 60 - 100g ( hoặc dùng rễ 40 - 60g) sắc uống trị thổ
+-  Đại kế toàn cây 60 - 100g (hoặc dùng rễ 40 - 60g) sắc uống trị thổ
    huyết, áp xe, phổi ra máu mủ thối.
--  Thập khôi tán ( Thập dược thần thư) gồm: Đại kế, Tiểu kế, Trắc bá di
+-  Thập khôi tán (Thập dược thần thư) gồm: Đại kế, Tiểu kế, Trắc bá di
    hà diệp, Thuyên thảo, Mao căn, Sơn chi, Đơn bì, Tông lữ bì, Đại hoàng
    lượng bằng nhau đốt tồn tính tán bột mịn, mỗi lần uống 10 -15g, ngày
    2 lần với nước nguội. Trị thổ huyết tốt.
--  Triệu vĩ Bằng dùng Viên Đại kế ( Đại kế chế với nước gừng, mỗi viên
+-  Triệu vĩ Bằng dùng Viên Đại kế (Đại kế chế với nước gừng, mỗi viên
    có 15g thuốc sống) trị các loại tiểu ra máu 35 ca, ngày uống 3 lần,
    mỗi lần 3 - 4 viên, dùng trong 2 tuần, kết quả hết tiểu ra máu 74,3%
-   ( Tạp chí Tiết niệu ngoại khoa Trung hoa 1982, 3 (4):287).
+   (Tạp chí Tiết niệu ngoại khoa Trung hoa 1982, 3 (4):287).
 
 2.Trị các chứng mụn nhọt lở: thuốc có tác dụng tán ứ tiêu sưng.
 
@@ -97,14 +97,14 @@ bà băng lậu ...dùng các bài:
 3.Trị huyết áp cao: Đỗ tích Đức dùng viên rễ và viên lá Ô rô trị 102 ca
 huyết áp cao; 72 ca dùng viên rễ kết quả tốt 17 ca, có kết quả 45 ca,
 không kết quả 10 ca, tỷ lệ có kết quả 86,1%. Viên lá trị 30 ca, kết quả
-tốt 5 ca, có kết quả 10 ca, không kết quả 15 ca, tỷ lệ kết quả 50% ( Tập
+tốt 5 ca, có kết quả 10 ca, không kết quả 15 ca, tỷ lệ kết quả 50% (Tập
 nghiên cứu thành phần trung dược 1982,8:36).
 
 -  Trị xơ cứng vùng tiêm: Phan thúc Mẫn dùng bột Đại kế và bột theo tỷ
    lệ 1:1 trộn đều gia nước đủ thành hồ đặc đắp lên vùng tiêm 6 - 8giờ
    thay 1 lần, ngày đắp 2 lần, theo dõi 500 ca đều tốt, nhanh 2 - 3 lần,
    chậm 6 - 8 lần, trung bình 3 - 5 lần, tổ chức xơ cũng mềm và hết đau
-   ( Tạp chí Y Học thực dụng 1985, 1 (2):40)
+   (Tạp chí Y Học thực dụng 1985, 1 (2):40)
 
 Liều dùng và chú ý:
 

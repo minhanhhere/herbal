@@ -2,12 +2,12 @@
 
 MÈ ĐEN
 
-( Semen Sesami Indici)
+(Semen Sesami Indici)
 
 Còn gọi là Hắc chi ma, Cự thắng tử, Hồ ma, Du tử miêu, được ghi đầu tiên
-trong sách Bản thảo với tên Hồ ma, Mè đen hay Vừng đen ( Semen Sesami)
-là hạt của cây Mè đen ( Sesamum indicum L, Sesamum indicum Dc, Sesamum
-orientale L) thuộc họ Vừng ( Pedaliaceae).
+trong sách Bản thảo với tên Hồ ma, Mè đen hay Vừng đen (Semen Sesami)
+là hạt của cây Mè đen (Sesamum indicum L, Sesamum indicum Dc, Sesamum
+orientale L) thuộc họ Vừng (Pedaliaceae).
 
 Tính vị qui kinh:
 
@@ -44,14 +44,14 @@ Trích đoạn Y văn cổ:
    tủy".
 -  Sách Danh y biệt lục: " kiện cân cốt, liệu kim sang, chỉ thống. trị
    hư nhiệt sau thổ huyết nhiều, làm sáng tỏ tai mắt".
--  Sách Thực hiệu bản thảo: " nhuận ngũ tạng, chủ hỏa chước ( nóng
+-  Sách Thực hiệu bản thảo: " nhuận ngũ tạng, chủ hỏa chước (nóng
    thiêu)".
 -  Sách Nhật hoa tử bản thảo: " bổ trung ích khí, dưỡng ngũ tạng. trục
    phong thấp khí, du phong, đầu phong".
 -  Sách Bản thảo kinh sơ: "Hồ chi ma khí vị bình hòa, không hàn, không
-   nhiệt, là thuốc tốt, ích tỳ vị, bổ can thận ( ích tỳ vị bổ can thận
+   nhiệt, là thuốc tốt, ích tỳ vị, bổ can thận (ích tỳ vị bổ can thận
    chi giai cốc giả)".
--  Sách Bản thảo bị yếu: " bổ can thận, hoạt trường, làm đen râu tóc ( Ô
+-  Sách Bản thảo bị yếu: " bổ can thận, hoạt trường, làm đen râu tóc (Ô
    tu phát)".
 
 B.Kết quả nghiên cứu dược lý hiện đại:
@@ -66,14 +66,14 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 1.Trị đạm niệu: dùng 500g Mè đen, Hạch đào nhân 500g, tán bột mịn, mỗi
 lần uống 20g với nước ấm và ăn 7 quả táo, ngày 3 lần, uống hết thuốc là
 1 liệu trình. Đã trị nhiều ca viêm thận mạn, thận hư nhiễm mỡ, thường là
-hết đạm niệu sau 1 liệu trình ( Mã chiêm Thúc, Chi ma đào nhân trị đạm
+hết đạm niệu sau 1 liệu trình (Mã chiêm Thúc, Chi ma đào nhân trị đạm
 niệu, Báo Trung y Hà bắc 1985,6:21).
 
 2.Trị các bệnh cao huyết áp, xơ cứng động mạch, suy nhược thần kinh: có
 triệu chứng can thận âm hư như đau đầu, chóng mặt, hoa mắt, ù tai, huyết
 hư, chân tay tê dại, âm hư hiếp thống, tiện táo, dùng bài:
 
--  Tang chi ma: Tang diệp 1 cân ( tán bột mịn), Mè đen 4 lạng ( chưng
+-  Tang chi ma: Tang diệp 1 cân (tán bột mịn), Mè đen 4 lạng (chưng
    chín giã nát), dùng nước làm hoàn, mỗi lần uống 6 - 12g.
 
 3.Trị táo bón do khí hư: Mè đen sao tán bột 1 - 2 muỗng canh, trứng gà 1

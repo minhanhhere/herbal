@@ -81,14 +81,14 @@ hoàn tại chỗ phối hợp thêm Kim ngân hoa, Đương qui như bài:
    hợp với thể âm hư uất nhiệt.
 
 5.Trị chứng viêm phế quản mạn tính, lao phổi: thuốc có tác dụng tư âm
-nhuận phế, dùng bài Bách hợp cổ kim thang ( Y phương tập giải).
+nhuận phế, dùng bài Bách hợp cổ kim thang (Y phương tập giải).
 
 -  Huyền sâm 12 - 16g, Sinh địa 12g, Bối mẫu 8 - 12g, Bách hợp 8 - 12g,
    Mạch môn 12g, Đương qui 12g, Bạch thược (sao) 12g, Cát cánh 8 - 12g,
    Cam thảo 4 - 6g, sắc uống.
 
 6.Trị bệnh tróc da tay: mỗi ngày dùng Huyền sâm, Sinh địa mỗi thứ 30g,
-ngâm uống theo dạng trà có kết quả tốt ( Báo cáo của Khang Đức Lương trị
+ngâm uống theo dạng trà có kết quả tốt (Báo cáo của Khang Đức Lương trị
 hơn 50 ca tróc da tay).
 
 Liều thường dùng và chú ý:

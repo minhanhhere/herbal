@@ -97,7 +97,7 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    3mg/kg gia vào 20% nước muối sinh lý, mỗi ngày 2 lần trong 2 tuần.
    Trị 50 ca, nhận thấy thuốc có tác dụng chống thiếu máu cơ tim đối với
    loại đau thắt ngực do mật, kết quả tốt. Đối với bệnh động mạch vành
-   kèm huyết áp cao cũng có kết quả ( Tạp chí nội khoa Trung hoa
+   kèm huyết áp cao cũng có kết quả (Tạp chí nội khoa Trung hoa
    1985,11:682).
 
 5.Trị chứng bụi phổi: Hán Phòng kỷ tố A đối với bụi phổi thực nghiệm có
@@ -111,7 +111,7 @@ Trung hoa tạp chí các bệnh đường hô hấp và lao 1981,6:321).
 - 300mg cho vào dịch muối sinh lý hoặc dịch gluco 5% nhỏ giọt tĩnh mạch
 chậm, kết quả xạ trị lượng nhỏ, theo dõi 97 ca có kết quả trước mắt.
 Thuốc có tác dụng ngăn chận sự hình thành DNA, RNA với protein và thúc
-đẩy sự hình thành kháng thể, nhờ vậy mà có tác dụng kháng ung thư ( Báo
+đẩy sự hình thành kháng thể, nhờ vậy mà có tác dụng kháng ung thư (Báo
 Trung y tạp chí 1980,8:597).
 
 7.Trị chứng nhiệt tý (thấp khớp cấp): dùng thuốc rượu Phòng kỷ 10% (ngâm

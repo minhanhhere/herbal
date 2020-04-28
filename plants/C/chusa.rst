@@ -80,7 +80,7 @@ HgS + O2 (lửa) Þ SO2­ + Hg
 -  Chu sa an thần hoàn (Lam thất bí tàng): Chu sa 4g, Hoàng liên 6g,
    Sinh địa, Đương qui, Chích thảo đều 2g, Chu sa thủy phi, tất cả tán
    bột mịn làm hoàn (theo tỷ lệ các vị thuốc, có thể làm nhiều hay ít
-   tùy nhu cầu). Mỗi lần uống 3 - 4g, ngày 2 lần ( 1 lần trước ngủ) với
+   tùy nhu cầu). Mỗi lần uống 3 - 4g, ngày 2 lần (1 lần trước ngủ) với
    nước ấm.
 
 2.Trị trẻ em khóc đêm, ngủ hay giật mình:
@@ -90,9 +90,9 @@ HgS + O2 (lửa) Þ SO2­ + Hg
 
 3.Trị phụ nữ sau sanh chóng mặt, hoa mắt do mất máu:
 
--  Bột Chu sa ( Thần sa)1,5 - 3g, uống với giấm nóng hoặc nước tiểu trẻ
+-  Bột Chu sa (Thần sa)1,5 - 3g, uống với giấm nóng hoặc nước tiểu trẻ
    em. Đã trị 16 ca đều khỏi, thường sau khi uống bệnh nhân tỉnh táo,
-   hết chảy máu ( Báo cáo của Lưu Thiên Phùng, Báo Tân trung y 1975,
+   hết chảy máu (Báo cáo của Lưu Thiên Phùng, Báo Tân trung y 1975,
    5:27).
 
 4.Giải đậu độc lúc sắp mọc hay mới mọc:
@@ -101,7 +101,7 @@ HgS + O2 (lửa) Þ SO2­ + Hg
 
 5.Trị di tinh:
 
--  Chu sa ( thủy phi) 1 - 2g cho vào quả tim lợn lấy chỉ buộc, nấu hoặc
+-  Chu sa (thủy phi) 1 - 2g cho vào quả tim lợn lấy chỉ buộc, nấu hoặc
    chưng cách thủy, ăn mỗi tối trước lúc ngủ.
 
 6.Trị trẻ em sốt cao co giật hôn mê, nói sảng, dùng bài:

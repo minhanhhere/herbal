@@ -2,12 +2,12 @@
 
 THẠCH HỘC
 
-( Herba Dendrobii)
+(Herba Dendrobii)
 
 Thạch hộc là vị thuốc được ghi đầu tiên trong sách Bản kinh. Thạch hộc (
 Caulis Dendrobii) là thân phơi hay sấy khô của nhiều loại nhiều loại
-Thạch hộc như Hoàng thảo thạch hộc ( Dendrobium loddgesii), Hoàng thảo
-Thạch hộc ( Dendrobium candidum Wall ex Lindi.), Kim thoa thạch hộc (
+Thạch hộc như Hoàng thảo thạch hộc (Dendrobium loddgesii), Hoàng thảo
+Thạch hộc (Dendrobium candidum Wall ex Lindi.), Kim thoa thạch hộc (
 Dendrobium nobile Lindi), v..v.
 
 Cây thuốc trên nhỏ dưới to, giống như cái hộc, mọc ở núi đá nên có tên
@@ -36,7 +36,7 @@ dendrin, 6-hydroxy-dendroxine.
 
 Tác dụng dược lý:
 
-#. Có tác dụng hạ nhiệt, giảm đau nhẹ ( trích yếu văn kiện nghiên cứu
+#. Có tác dụng hạ nhiệt, giảm đau nhẹ (trích yếu văn kiện nghiên cứu
    Trung dược, nhà xuất bản Khoa học 1965, trang 129).
 #. Trên súc vật thực nghiệm, nước sắc cho uống làm tăng tiết dịch vị,
    trợ tiêu hóa, làm tăng nhu động ruột và thông tiện, nhưng liều cao
@@ -54,7 +54,7 @@ Theo các Y văn cổ:
 -  Sách Danh y biệt lục: " ích khí, bình vị khí, trưởng cơ nhục, trục
    nhiệt tà ở bì phu, chân gối lạnh đau, tê yếu, định chí trừ kinh".
 -  Sách Dược phẩm hóa nghĩa: " chủ trị phế nhiệt cửu hư, khái thấu bất
-   chỉ ( ho lâu khó cầm).
+   chỉ (ho lâu khó cầm).
 -  Sách Bản thảo bị yếu: " trị di mộng tinh, hoạt tinh".
 -  Sách Bản thảo tái tân: " thanh vị nhiệt, trừ tâm trung phiền khát,
    trị thận kinh hư nhiệt, an thần định kinh".
@@ -64,17 +64,17 @@ Theo các Y văn cổ:
 1.Dùng chữa bệnh nhiễm thời kỳ hồi phục, thuốc có tác dụng dưỡng vị giải
 nhiệt: phối hợp với Sinh địa, Huyền sâm, Sa sâm . dùng bài:
 
--  Thạch hộc thang ( Chứng trị chuẩn thằng): Thạch hộc thang, Mạch môn (
+-  Thạch hộc thang (Chứng trị chuẩn thằng): Thạch hộc thang, Mạch môn (
    bỏ lõi), Sinh địa, Viễn chí, Phục linh, Huyền sâm, mỗi thứ 40g, Chích
    Cam thảo 20g, tán bột, mỗi lần 16g, thêm Gừng tươi 5 lát, sắc uống.
 -  Trường hợp sốt khát nước, mồm khô, có thể dùng Thạch hộc 8 - 16g, sắc
    uống giải khát, nếu sốt cao kết hợp với Thạch cao, Tri mẫu, dùng tốt.
 
-2.Trị chứng vị nhiệt ( thường có lở lóet mồm), kèm ăn vào dễ nôn, nôn
-khan.( trường hợp viêm dạ dày mạn): dùng bài:
+2.Trị chứng vị nhiệt (thường có lở lóet mồm), kèm ăn vào dễ nôn, nôn
+khan.(trường hợp viêm dạ dày mạn): dùng bài:
 
 -  Thanh vị dưỡng âm thang: Thạch hộc 12g, Bắc Sa sâm 16g, Mạch môn, Hoa
-   phấn, Bạch biển đậu, Trúc nhự tươi mỗi thứ 12g, Giá đậu tươi ( mầm
+   phấn, Bạch biển đậu, Trúc nhự tươi mỗi thứ 12g, Giá đậu tươi (mầm
    đậu sống) 16g, sắc uống.
 
 3.Trị khát phương:

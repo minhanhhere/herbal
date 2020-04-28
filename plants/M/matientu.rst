@@ -117,7 +117,7 @@ chứng tê dại toàn thân hoặc khu trú.
 
 3.Trị chứng nhược cơ (Myasthenia):
 
--  Chế Mã tiền tán bột mịn làm viên bọc ( mỗi viên 0,2g), mỗi lần 1
+-  Chế Mã tiền tán bột mịn làm viên bọc (mỗi viên 0,2g), mỗi lần 1
    viên, ngày uống 3 lần sau khi ăn với nước ấm, cách 2 - 4 ngày tăng 1
    viên cho đến 7 viên mỗi ngày, nếu chưa đủ và có hiện tượng giật cơ
    thì ngưng. Nếu trước đã uống Neostigmin mà lực cơ không tiến bộ nên
@@ -162,7 +162,7 @@ lực cơ tăng rõ (Tạp chí Trung tây y kết hợp 1987,4:202).
 -  Dùng bột Mã tiền 1g, Long não bột 0,3g, Vaselin 4g cho lửa nhỏ trộn
    đều bôi vào miếng cao 7 x 7cm, dán vào vùng má đau trước dái tai, 4
    ngày thay 1 lần, sau 4 - 32 ngày điều trị 100 ca có 98 ca khỏi, 2 ca
-   tiến bộ, theo dõi 57 ca trong 1 - 4 năm không tái phát ( Báo cáo của
+   tiến bộ, theo dõi 57 ca trong 1 - 4 năm không tái phát (Báo cáo của
    Trần An Huy, Tạp chí Trung Y Giang tô 1988,6:31).
 
 Liều thường dùng và chú ý:

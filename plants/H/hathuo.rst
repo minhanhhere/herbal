@@ -2,12 +2,12 @@
 
 HÀ THỦ Ô
 
-( Radix polygoni Multi flori)
+(Radix polygoni Multi flori)
 
 Hà thủ ô dùng làm thuốc bổ huyết là Hà thủ ô đỏ, còn gọi là Chế thủ ô.
-Thủ ô là rễ phơi khô của cây Hà thủ ô đỏ ( Polygonum multiflorum thunb)
-thuộc họ Rau răm ( Polygonaceae). Chế Hà thủ ô là Hà thủ ô là Hà thủ ô
-chế với Đậu đen ( 9 lần đồ, 9 lần phơi) cho Hà thủ ô thành màu đen có
+Thủ ô là rễ phơi khô của cây Hà thủ ô đỏ (Polygonum multiflorum thunb)
+thuộc họ Rau răm (Polygonaceae). Chế Hà thủ ô là Hà thủ ô là Hà thủ ô
+chế với Đậu đen (9 lần đồ, 9 lần phơi) cho Hà thủ ô thành màu đen có
 tác dụng bổ huyết tốt.
 
 Tính vị qui kinh:
@@ -38,7 +38,7 @@ Tác dụng dược lý:
 
 A.Theo Y học cổ truyền:
 
-Bổ ích tinh huyết ( Chế thủ ô), dùng sống có tác dụng giải độc, triệt
+Bổ ích tinh huyết (Chế thủ ô), dùng sống có tác dụng giải độc, triệt
 ngược, nhuận tràng, thông tiện, tư âm cường tráng. Chủ trị tinh huyết
 hư, sốt rét lâu ngày, ung sang độc, chứng loa lịch, chứng táo bón.
 
@@ -76,10 +76,10 @@ B.Kết quả nghiên cứu Dược lý hiện đại:
 #. Hà thủ ô có tác dụng hạ Cholesterol huyết thanh, được chứng minh rõ
    trên mô hình gây cholesterol cao ở thỏ nhà, thuốc còn có tác dụng làm
    giảm hấp thu cholesterol của ruột thỏ, theo tác giả, thuốc có thành
-   phần hữu hiệu kết hợp với cholesterol ( Tư liệu tham khảo Tân y học 5
+   phần hữu hiệu kết hợp với cholesterol (Tư liệu tham khảo Tân y học 5
    - 6, 1972). Thuốc có tác dụng phòng chống và giảm nhẹ xơ cứng động
    mạch. Có thể tác dụng giảm xơ cứng động mạch và do thuốc có thành
-   phần Lecithin ( Tư liệu tham khảo Tân y học 5 - 6, 1972).
+   phần Lecithin (Tư liệu tham khảo Tân y học 5 - 6, 1972).
 #. Thuốc làm chậm nhịp tim. Làm tăng nhẹ lưu lượng máu động mạch vành và
    bảo vệ được cơ tim thiếu máu.
 #. Thuốc có khả năng nâng cao sức chống lạnh của chuột nhắt. Hà thủ ô
@@ -88,12 +88,12 @@ B.Kết quả nghiên cứu Dược lý hiện đại:
    mức như lúc chuột còn non, tác dụng này có ý nghĩa chống lão hóa
    nhưng cơ chế còn cần nghiên cứu thêm.
 #. Thuốc có tác dụng nhuận tràng do dẫn chất oxymethylanthraquinone làm
-   tăng nhu động ruột ( Trích yếu văn kiện nghiên cứu Trung dược - Nhà
+   tăng nhu động ruột (Trích yếu văn kiện nghiên cứu Trung dược - Nhà
    xuất bản Khoa học xuất bản 1965, trang 345 - 346). Hà thủ ô sống có
    tác dụng nhuận tràng mạnh hơn Hà thủ ô chín.
 #. Tác dụng kháng khuẩn và virus: thuốc có tác dụng ức chế đối với trực
    khuẩn lao ở người và trực khuẩn lî Flexner. Thuốc có tác dụng ức chế
-   virus cúm ( Học báo Vi sinh vật 8,164, 1960).
+   virus cúm (Học báo Vi sinh vật 8,164, 1960).
 #. Glucozit Hà thủ ô trắng có tác dụng ức chế tế bào ung thư.
 
 Ứng dụng lâm sàng:
@@ -105,25 +105,25 @@ bài:
 -  Hà thủ ô hoàn: Hà thủ ô 20g, Thỏ ty tử 12g, Đương qui 12g, Ngưu tất
    12g, Bổ cốt chí 12g, tán bột mịn, luyện hoàn với mật ong. Mỗi lần
    uống 8 - 12g, ngày 2 lần với nước sôi nguội hoặc nước muối nhạt.
-   Trường hợp ra mồ hôi trộm hoặc ra nhiều mồ hôi ( tự hãn) gia Hoàng
+   Trường hợp ra mồ hôi trộm hoặc ra nhiều mồ hôi (tự hãn) gia Hoàng
    kỳ, Long cốt, Mẫu lệ, Bạch truật, Hoàng tinh, Chích thảo.
 -  Trường hợp mất ngủ do huyết hư, dùng bài: Chế Hà thủ ô, Bắc Sa sâm,
    Qui bản, Long cốt, Bạch thược, mỗi thứ 12g, sắc uống.
 -  Trường hợp thận yếu, đau lưng mỏi gối, di tinh nặng hoặc băng lậu đới
-   hạ, sinh dục yếu, dùng bài: Thất bảo mỹ nhiệm đơn ( Thiệu ứng Tiết):
+   hạ, sinh dục yếu, dùng bài: Thất bảo mỹ nhiệm đơn (Thiệu ứng Tiết):
    Chế Thủ ô 20g, Bạch phục linh, Ngưu tất, Đương qui, Thỏ ty tử, Phá cố
    chỉ, mỗi thứ 12g, luyện mật làm hoàn, mỗi lần 12g, ngày 2 lần.
 
 2.Trị lipid huyết cao, xơ cứng động mạch, cao huyết áp, bệnh động mạch
 vành: có tác dụng làm giảm hoặc hết triệu chứng, ổn định bệnh, làm tăng
 sức, thường kết hợp với Ngân hạnh diệp, Câu đằng. Có công trình nghiên
-cứu dùng viên Hà thủ ô ( mỗi viên nặng 0,25g gồm thuốc sống 0,81 trong
+cứu dùng viên Hà thủ ô (mỗi viên nặng 0,25g gồm thuốc sống 0,81 trong
 đó 30% bột Hà thủ ô, 70% cao nước chế thành), mỗi lần uống 5 - 6 viên (
 có người uống 8 - 10 viên), ngày 3 lần, dùng thuốc liên tục trong 2 - 12
 tuần, lâu nhất 14 tháng. Trị 178 ca cholesterol huyết thanh cao, kết quả
 tốt 38,2%, tiến bộ 23,6%, tỷ lệ kết quả 61,8% cholesterol huyết thanh
 giảm bình quân 39mg% trong đó 32% bệnh nhân giảm xuống mức bình thường,
-đối với bệnh nhân vừa và cao, kết quả tốt ( Bệnh viện Nhân dân Thượng
+đối với bệnh nhân vừa và cao, kết quả tốt (Bệnh viện Nhân dân Thượng
 hải số 3 trực thuộc Y học viện điều trị trị bằng viên Hà thủ ô, Báo Công
 nghiệp Y dược 1974,6:1).
 
@@ -139,38 +139,38 @@ Hy thiêm thảo, Tang ký sinh, Hoài Ngưu tất, mỗi thứ 12g, sắc nư�
    khương, mỗi thứ 12g, sắc uống.
 
 4.Trị táo bón: trị táo bón do huyết hư, tân dịch hao tổn, dùng Tứ thạch,
-Đơn thạch, Đơn sâm, Ngũ vị tử, Toan táo nhân, Xuyên khung ( lượng nhỏ),
+Đơn thạch, Đơn sâm, Ngũ vị tử, Toan táo nhân, Xuyên khung (lượng nhỏ),
 có kết quả. Có tác giả dùng dịch tiêm Hà thủ ô 20% tiêm bắp mỗi lần 4ml,
 ngày 1 lần, 20 - 30 ngày là một liệu trình; trường hợp nặng chích 1 ngày
 2 lần, cách nhật, liệu trình 15 - 20 ngày, nghỉ 15 - 20 ngày, ngủ khá
-hơn thì 9 ngày 1 lần hoặc uống Hà thủ ô mỗi lần 5 - 7 viên ( 0,5g/viên),
+hơn thì 9 ngày 1 lần hoặc uống Hà thủ ô mỗi lần 5 - 7 viên (0,5g/viên),
 ngày 3 lần, trường hợp uống lâu dài, ngày 2 lần sáng tối. Trường hợp
 bệnh nhẹ hoặc bệnh giảm, mỗi tối uống 6 - 10 viên trước lúc ngủ. Uống và
 chích thay đổi dùng. Đã trị 141 ca, khỏi lâm sàng 53,9%, tiến bộ ngủ tốt
 44,7%, tỷ lệ có kết quả 98,6%, theo tác giả tốt hơn loại thuốc ngủ
-Bromure và Meprobamate ( Bệnh viện 201 Giải phóng quân, Phân tích lâm
+Bromure và Meprobamate (Bệnh viện 201 Giải phóng quân, Phân tích lâm
 sàng 141 ca mất ngủ bằng Hà thủ ô, Thông tin Trung thảo dược 1974,5:38).
 
 6.Trị ho gà: dùng Hà thủ ô 6 - 12g, Cam thảo 1,5 - 3g, mỗi ngày 1 thang
 sắc, chia 4 - 6 lần uống, có người uống xong tiêu chảy nhẹ, dùng Kha tử
 hoặc Anh túc xác. Đã trị 35 ca khỏi 19 ca, cơ bản khỏi 8 ca, tiến bộ 4
-ca, không kết quả 1 ca ( Vương Khởi Minh, Báo cáo về kết quả bước đầu
+ca, không kết quả 1 ca (Vương Khởi Minh, Báo cáo về kết quả bước đầu
 điều trị ho gà bằng Hà thủ ô, Báo Trung y Giang tô 1965,3:10).
 
 7.Trị sốt rét: Dùng Hà thủ ô 18 - 25g, Cam thảo 1,5 - 3g, trẻ em giảm
 lượng, sắc đặc sau 2 giờ, chia 3 lần uống trước bữa ăn. Trị 17 ca kết
-quả đều tốt ( Vương Khaởi Minh, Báo cáo 17 ca sốt rét điều trị bằng Hà
+quả đều tốt (Vương Khaởi Minh, Báo cáo 17 ca sốt rét điều trị bằng Hà
 thủ ô, Báo Y học Quảng Đông 1964,4:31).
 
 8.Trị tóc bạc: Dùng Hà thủ ô chế, Thục địa hoàng mỗi thứ 30g, Đương qui
 15g, ngâm vào 1000ml rượu trắng 10 - 15 ngày, sau cùng mỗi lần 15 -
-30ml, uống liên tục cho đến khi kết quả. Điều trị 36 ca ( 20 ca bạc từng
+30ml, uống liên tục cho đến khi kết quả. Điều trị 36 ca (20 ca bạc từng
 đám, 16 ca rải rác bệnh kéo dài từ 1 đến 10 năm, kết quả khỏi 24 ca,
-tiến bộ 8 ca, tỷ lệ kết quả 88,9% ( Triệu Hồng Bân, Rượu Hà thủ ô trị
+tiến bộ 8 ca, tỷ lệ kết quả 88,9% (Triệu Hồng Bân, Rượu Hà thủ ô trị
 tóc bạc, Tạp chí Trung Y Sơn đông 1983,4:41).
 
 9.Trị tổn thương thần kinh quay: dùng Hà thủ ô 30g sắc, chia uống sáng
-và chiều, liệu trình 1 tháng. Theo dõi 14 ca, tỷ lệ khỏi 86,7% ( Truyền
+và chiều, liệu trình 1 tháng. Theo dõi 14 ca, tỷ lệ khỏi 86,7% (Truyền
 Bằng Liêu, Báo cáo 14 ca tổn thương thần kinh quay trị bằng Hà thủ ô,
 Tạp chí Trung hoa Trung y cốt thương khoa 1988,1:34).
 
@@ -187,8 +187,8 @@ nhân dân để bổ dưỡng đối với người suy nhược:
    cứ một lượt thuốc 1 lượt đậu. Đồ chín đậu, lấy thuốc ra phơi khô. Làm
    như vậy 3 lần rồi tán bột. Lấy thịt Táo đen trộn với bột làm thành
    viên 0,5g, ngày uống 3 lần, mỗi lần 30 viên, dùng rượu hâm nóng,
-   chiêu thuốc ( theo Hòa tể cục phương).
--  Hà thủ ô tán ( Bản thảo cương mục): Hà thủ ô cạo vỏ, thái mỏng, phơi
+   chiêu thuốc (theo Hòa tể cục phương).
+-  Hà thủ ô tán (Bản thảo cương mục): Hà thủ ô cạo vỏ, thái mỏng, phơi
    khô, tán bột. Ngày uống 4g vào sáng sớm, chiêu với rượu.
 
 Liều dùng và chú ý lúc dùng:
@@ -226,9 +226,9 @@ không hạn chế.
 HÀ THỦ Ô TRẮNG
 
 Là một vị thuốc khác, là rễ cây Hà thủ ô trắng, còn gọi là Bạch Hà thủ
-ô, Nam Hà thủ ô, là rễ phơi khô của cây Nam Hà thủ ô ( Streptocaulon
-Juventas ( Lour) Merr, Apocynum Juventas Lour, Tylophora Juventas Woodf,
-thuộc họ Hoa Thiên lý ( Asclepiadaceae).
+ô, Nam Hà thủ ô, là rễ phơi khô của cây Nam Hà thủ ô (Streptocaulon
+Juventas (Lour) Merr, Apocynum Juventas Lour, Tylophora Juventas Woodf,
+thuộc họ Hoa Thiên lý (Asclepiadaceae).
 
 Tác dụng dược lý: chưa được nghiên cứu, thuốc có nhiều tinh bột và một
 chất phản ứng alcaloit có tinh thể chưa xác định.

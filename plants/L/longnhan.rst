@@ -2,14 +2,14 @@
 
 LONG NHÃN NHỤC
 
-( Arillus Euphoriae Longanae)
+(Arillus Euphoriae Longanae)
 
 Long nhãn nhục được ghi đầu tiên trong sách Bản kinh với tên gọi là Long
 nhãn, còn có tên gọi là Quế viên nhục, Ích trí, Lệ chi nô, Á lệ chi.
 
 Long nhãn nhục là cùi hạ phơi hay sấy khô nửa chừng của quả cây Long
-nhãn ( Euphoria longana Lamk, Euphoria longana (Lour) Steud) , thuộc họ
-Bồ hòn ( Sapindaceae).
+nhãn (Euphoria longana Lamk, Euphoria longana (Lour) Steud) , thuộc họ
+Bồ hòn (Sapindaceae).
 
 Tính vị qui kinh:
 
@@ -58,12 +58,12 @@ chế nha bào của nấm trên ống nghiệm với nước ngâm Long nhãn.
 Ứng dụng lâm sàng:
 
 Thuốc chủ yếu dùng trị các chứng suy nhược thần kinh do tâm huyết hư có
-triệu chứng: mất ngủ, hồi hộp, hay quên dùng bài Qui tỳ thang ( Tế sinh
+triệu chứng: mất ngủ, hồi hộp, hay quên dùng bài Qui tỳ thang (Tế sinh
 phương) gồm có:
 
 -  Hoàng kỳ 12g, Bạch truật 12g, Đảng sâm 12g, Đương qui 8g, Phục thần
-   12g, Long nhãn nhục 12g, Toan táo nhân 12g, Mộc hương 4g ( cho sau),
-   Viễn chí 6g, Chích thảo 4g, sắc nước uống ( có thể cho thêm Gừng tươi
+   12g, Long nhãn nhục 12g, Toan táo nhân 12g, Mộc hương 4g (cho sau),
+   Viễn chí 6g, Chích thảo 4g, sắc nước uống (có thể cho thêm Gừng tươi
    và Đại táo).
 
 Liều từ 12 - 20g lượng có thể dùng đến 40 - 80g, dùng làm thuốc thang,

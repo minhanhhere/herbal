@@ -6,7 +6,7 @@ CỐT TOÁI BỒ
 
 Cốt toái bổ còn gọi là Hầu khương, Hồ tôn khương, Thân khương, cây Tổ
 phượng, cây Tổ rồng, Tổ diều, Tắc kè đá, là thân rễ phơi khô của cây Bổ
-cốt toái ( Drynaria Fortunei (kunze) J.Sm) thuộc họ Dương xỉ.
+cốt toái (Drynaria Fortunei (kunze) J.Sm) thuộc họ Dương xỉ.
 
 Vị thuốc được ghi đầu tiên trong sách Dược tính bản thảo, có tên Bổ cốt
 toái vì người ta cho rằng vị thuốc này có tác dụng làm liền những xương

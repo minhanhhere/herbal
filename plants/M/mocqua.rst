@@ -86,14 +86,14 @@ tác dụng tiêu sưng rõ trên mô hình viêm khớp chuột nhắt do chíc
    tô đều 6g sắc nước uống.
 
 3.Trị viêm gan cấp vàng da: Mộc qua chế thành dạng trà hãm nước sôi
-uống. Mỗi lần 1 - 2 gói, ( mỗi gói có 5g thuốc sống tương đương), ngày 3
-lần. Đặng trí Mẫn trị 70 ca kết quả tốt ( Tạp chí Trung y dược Phúc kiến
+uống. Mỗi lần 1 - 2 gói, (mỗi gói có 5g thuốc sống tương đương), ngày 3
+lần. Đặng trí Mẫn trị 70 ca kết quả tốt (Tạp chí Trung y dược Phúc kiến
 1987,2:14).
 
 4.Trị lî trực khuẩn cấp: Mộc qua chế thành thuốc viên, mỗi lần uống 5
-viên ( mỗi viên 0,25 tương đương thuốc sống 1,13g), ngày 3 lần, một liệu
+viên (mỗi viên 0,25 tương đương thuốc sống 1,13g), ngày 3 lần, một liệu
 trình 5 - 7 ngày. Quách Thành Lập và cộng sự đã dùng trị 107 ca, tỷ lệ
-khỏi 85,8%, tỷ lệ có kết quả 96,28% ( Tạp chí Y học Trung hoa
+khỏi 85,8%, tỷ lệ có kết quả 96,28% (Tạp chí Y học Trung hoa
 1984,11:689).
 
 Liều dùng và chú ý:

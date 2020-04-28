@@ -4,10 +4,10 @@ HOÀNG TINH
 
 Vị thuốc Hoàng tinh được ghi đầu tiên trong sách Danh y biệt lục, còn có
 tên Mễ phủ, cây Cơm nếp, Kim thị hoàng tinh, Cứu hoang thảo, Hoàng tinh
-( Rhizoma Polygonati) là thân rễ phơi hay sấy khô, được chế biến của cây
-Hoàng tinh ( Polygonatum Kingianum Coli et Hemsl.) và các cây cùng chi
+(Rhizoma Polygonati) là thân rễ phơi hay sấy khô, được chế biến của cây
+Hoàng tinh (Polygonatum Kingianum Coli et Hemsl.) và các cây cùng chi
 khác loài như Polygonatum Sibiricum redoute, Polygonatum Multiflorum L.
-v.v.. đều thuộc họ Hành tỏi ( Liliaceae).
+v.v.. đều thuộc họ Hành tỏi (Liliaceae).
 
 Người xưa cho rằng vị thuốc có màu vàng do tinh khí của đất sinh ra nên
 có tên Hoàng tinh. Cây này khác với cây Củ Dong cũng gọi là Hoàng tinh
@@ -58,7 +58,7 @@ Theo các Y văn cổ:
 B.Kết quả nghiên cứu dược lý hiện đại:
 
 #. Thuốc có tác dụng hạ áp, tăng lưu lượng máu động mạch vành, hạ lipid
-   huyết và làm giảm xơ cứng mạch vành ( cũng có báo cáo nói không có
+   huyết và làm giảm xơ cứng mạch vành (cũng có báo cáo nói không có
    tác dụng hạ lipid huyết).
 #. Cho thỏ uống cao lỏng Hoàng tinh, đường huyết lúc đầu cao sau hạ, có
    tác dụng ức chế adrenalin làm tăng đường huyết.
@@ -73,12 +73,12 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 
 1.Trị chứng huyết áp thấp: dùng Hoàng tinh 30g, Đảng sâm 30g, Chích thảo
 10g, sắc nước uống, ngày 1 thang. Trị 10 ca đều có kết quả khỏi trước
-mắt ( Diệp thế Thương, trị 10 ca huyết áp thấp dùng bài Đảng sâm, Hoàng
+mắt (Diệp thế Thương, trị 10 ca huyết áp thấp dùng bài Đảng sâm, Hoàng
 tinh, Cam thảo thang, Tạp chí Y trung cấp 1981,12:31).
 
-2.Trị chứng lipid huyết cao: dùng viên hạ mỡ ( Hoàng tinh, Hà thủ ô,
+2.Trị chứng lipid huyết cao: dùng viên hạ mỡ (Hoàng tinh, Hà thủ ô,
 Tang ký sinh) uống liên tục trong 2 tháng. Trị 86 ca, kết quả
-cholesterol hạ bình quân 38,2 - 47,1mg%, tỷ lệ kết quả 87,9% ( Chu dục
+cholesterol hạ bình quân 38,2 - 47,1mg%, tỷ lệ kết quả 87,9% (Chu dục
 Nhân và cộng sự. Một số tình hình điều trị chứng lipid máu cao bằng
 Trung thảo dược, Báo Tân y học 1977,45:211).
 
@@ -87,27 +87,27 @@ Trung thảo dược, Báo Tân y học 1977,45:211).
 uống mỗi lần 20ml, ngày 2 lần, hoặc mỗi ngày, mỗi người Hoàng tinh 50g,
 Đậu đen 10g, chia 2 lần, sắc uống, trước khi uống cho thêm rượu vàng
 10ml. Đã trị 82 con mắt, kết quả rõ 26 con, tiến bộ 22 con, tỷ lệ kết
-quả 59,75% ( Lý Quang Viễn, Định chí hoàn, Báo cáo sirô Hoàng tinh trị
+quả 59,75% (Lý Quang Viễn, Định chí hoàn, Báo cáo sirô Hoàng tinh trị
 cận thị học sinh, Báo Trung y Hà nam 1981, 6:40).
 
-4.Trị lao phổi: Hoàng tinh chế thành cao lỏng ( mỗi ml có 5g thuốc), mỗi
+4.Trị lao phổi: Hoàng tinh chế thành cao lỏng (mỗi ml có 5g thuốc), mỗi
 lần uống 10ml, ngày 4 lần. Đã trị 19 ca, có kết quả 84,2% trong đó khỏi
-21,0%, đờm chuyển âm tính 66,6% ( Phùng Ngọc Long, Báo cáo về Hoàng tinh
+21,0%, đờm chuyển âm tính 66,6% (Phùng Ngọc Long, Báo cáo về Hoàng tinh
 trị lao phổi, Báo Y học Triết giang 1960,4:43).
 
 5.Trị nấm chân tay: dùng Hoàng tinh 100g xắt nhỏ cho vào lọ thêm cồn 75%
 250ml, bịt kín ngâm trong 15 ngày, lọc qua gạc 4 lớp, vắt hết nước bỏ
 xác, thêm dấm thường 150ml trộn đều. Rửa sạch vùng bị nấm lau khô, bôi
-thuốc ngày 3 lần. Đã trị 67 ca, khỏi 55 ca, tiến bộ 12 ca ( Đới vi Quần,
+thuốc ngày 3 lần. Đã trị 67 ca, khỏi 55 ca, tiến bộ 12 ca (Đới vi Quần,
 Trị nấm chân tay bằng bôi ngoài cồn dấm Hoàng tinh, Tạp chí Trung y Sơn
 đông 1986,5:47).
 
 6.Trị tai điếc do nhiễm độc thuốc: dùng dịch tiêm Hoàng tinh 100%, tiêm
-bắp 2 - 4ml ( tương đương 2 - 4g thuốc sống), đồng thời mỗi ngày tiêm
+bắp 2 - 4ml (tương đương 2 - 4g thuốc sống), đồng thời mỗi ngày tiêm
 bắp Vit B1 100mg, uống Vit A 25.000 đơn vị, ngày 3 lần, hoặc mỗi ngày
 uống viên Hoàng tinh tương đương 10g thuốc sống. Đã trị 100 ca, khỏi 9
 ca, có kết quả 22 ca, ngưng tiến triển 3 ca, vẫn tiến triển 3 ca, số còn
-lại không kết quả, tỷ lệ kết quả 34% ( Lưu Đĩnh và cộng sự, Hoàng tinh
+lại không kết quả, tỷ lệ kết quả 34% (Lưu Đĩnh và cộng sự, Hoàng tinh
 trị điếc do nhiễm độc thuốc, Tạp chí Trung tây y kết hợp 1982,1:19).
 
 7.Trị suy nhược cơ thể sau khi mắc bệnh: thường phối hợp với Kỷ tử, Sinh

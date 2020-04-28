@@ -2,14 +2,14 @@
 
 SA NHÂN
 
-( Fructus amoni)
+(Fructus amoni)
 
 Sa nhân còn gọi là Súc sa mật, Xuân sa nhân dùng làm thuốc được ghi đầu
 tiên trong sách Dược tính bản thảo là quả gần chín phơi hay sấy khô của
 cây Dương xuân sa Amomum vilosum lour hoặc cây Súc sa Amomum xanthioides
 Wail. Dương xuân sa chất lượng tốt hơn, mọc nhiều ở tỉnh Quảng đông
 Trung quốc. Súc sa mọc nhiều ở Việt nam, Indonesia, Cambuchia và nhiều
-nước Đông nam á. Sa nhân thuộc họ Gừng ( Zingiberaceae), vì hạt giống
+nước Đông nam á. Sa nhân thuộc họ Gừng (Zingiberaceae), vì hạt giống
 hạt sỏi nên có tên là Sa nhân.
 
 Tính vị qui kinh:
@@ -33,12 +33,12 @@ Tác dụng dược lý:
 
 Sa nhân có tác dụng hành khí hóa thấp kiện tỳ, ôn trung chỉ tả, an thai.
 Chủ trị các chứng: Tỳ vị ứ trệ, thấp trớ, tỳ hàn tiết tả, thai động bất
-an, ác trớ ( nôn do thai nghén).
+an, ác trớ (nôn do thai nghén).
 
 Trích đoạn Y văn cổ:
 
 -  Sách Dược tính bản thảo: " chủ lãnh khí phúc thống, chủ hưu tức khí
-   lî ( lî mạn tính), lao tổn, tiêu hóa thủy cốc làm ấm tỳ vị".
+   lî (lî mạn tính), lao tổn, tiêu hóa thủy cốc làm ấm tỳ vị".
 -  Sách Nhật hoa tứ bản thảo: " trị tất cả các chứng khí, hoắc loạn
    chuyển cân, tâm phúc thống".
 -  Sách Bản thảo hội ngôn: "Sa nhân là thuốc ôn trung hòa khí. Nếu
@@ -83,7 +83,7 @@ giảm đau của thuốc.
 
 4. Trị chứng tả lî mạn tính do tỳ vị hư hàn, viêm đại tràng mạn tính:
 
--  Bài Hương sa lục quân ( như trên).
+-  Bài Hương sa lục quân (như trên).
 -  Súc sa hoàn: Sa nhân 6g, Chế phụ tử 6g, Hoàng liên, Ngô thù du đều
    4g, Can khương, Mộc hương đều 4g, Kha tử bì, Nhục đậu khấu đều 6g,
    sắc uống (dùng cho trường hợp hàn thấp nặng).

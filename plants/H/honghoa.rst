@@ -6,9 +6,9 @@ HỔNG HOA
 
 Hồng hoa là hoa phơi hay sấy khô của cây Hoa hồng (có hoa màu đỏ)
 Carthamus tinctorius L. dùng làm thuốc được ghi đầu tiên trong sách Tân
-tu bản thảo, thuộc họ Hoa cúc ( Asteraceae - Compositae). Cây mọc nhiều
+tu bản thảo, thuộc họ Hoa cúc (Asteraceae - Compositae). Cây mọc nhiều
 ở Trung quốc tại các tỉnh Hà nam, Triết giang, Tứ xuyên, ở Việt nam mọc
-nhiều ở Hà giang ( Hà tuyên). Khi hái phải đúng lúc hoa có màu hồng là
+nhiều ở Hà giang (Hà tuyên). Khi hái phải đúng lúc hoa có màu hồng là
 lúc hoa đủ tuổi, nhiều hoạt chất, phơi trong mát.
 
 Tính vị qui kinh:
@@ -108,13 +108,13 @@ không ra hết, dùng các bài:
 4.Trị huyết khối ở não: Khương Anh Như dùng Hồng hoa 50% - 15 ml(có
 tương đương 75g thuốc sống), gia vào 500ml glucoz 10% truyền tĩnh mạch
 ngày một lần, 15 ngày là một liệu trình. Trị cho 137 ca, tỷ lệ có kết
-quả 94,7% ( Tạp chí Y dược Sơn tây 1983, 5:297).
+quả 94,7% (Tạp chí Y dược Sơn tây 1983, 5:297).
 
 5.Trị bệnh mạch vành: Vương Đại Tuấn dùng 50% dịch chích Hồng hoa cho
 vào dung dịch glucoz chích tĩnh mạch, nhỏ giọt tĩnh mạch hoặc chích bắp,
 trị 100 ca. Cơn đau thắt ngực có kết quả là 80,8%, kết quả điện tâm đồ
 26%, chuyển biến tốt 40%. Đối với chứng cao huyết áp, xơ cứng động mạch
-não gây đau đầu, váng đầu, hồi hộp, cũng có kết quả nhất định( Tạp chí
+não gây đau đầu, váng đầu, hồi hộp, cũng có kết quả nhất định(Tạp chí
 Tim mạch 1976,4(4):265).
 
 6.Trị lóet hành tá tràng: dùng Hồng hoa 60g, Đại táo 12 quả cho nước
@@ -122,7 +122,7 @@ Tim mạch 1976,4(4):265).
 lần, ăn táo uống liền 20 thang. Trị 12 ca đều khỏi (1985,4:20).
 
 7.Trị viêm da thần kinh: dùng dịch Hồng hoa phong bế trị 70 ca: khỏi 25
-ca, tốt 35 ca, không kết quả 10 ca. Tỷ lệ kết quả 85,7% ( Tân y học
+ca, tốt 35 ca, không kết quả 10 ca. Tỷ lệ kết quả 85,7% (Tân y học
 1974,5(12):609).
 
 Liều dùng và chú ý:

@@ -2,11 +2,11 @@
 
 HOÀNG KỲ
 
-( Radix Astragali)
+(Radix Astragali)
 
-Hoàng kỳ là rễ phơi hay sấy khô của cây Hoàng kỳ ( Astragalus
-membranaceus ( Fish) Bunge) hay cây Hoàng kỳ Mông cổ ( Astragalus
-mongolicus Bunge) thuộc họ Cánh bướm ( Fabaceae). Vị thuốc được ghi đầu
+Hoàng kỳ là rễ phơi hay sấy khô của cây Hoàng kỳ (Astragalus
+membranaceus (Fish) Bunge) hay cây Hoàng kỳ Mông cổ (Astragalus
+mongolicus Bunge) thuộc họ Cánh bướm (Fabaceae). Vị thuốc được ghi đầu
 tiên trong sách Bản kinh với tên Hoàng kỳ, còn có tên khác như Miên
 Hoàng kỳ, Tiễn kỳ, Khẩu kỳ, Bắc kỳ.
 
@@ -48,18 +48,18 @@ Theo các sách thuốc cổ:
 -  Sách Bản kinh: " chủ trị ung nhọt, lở loét lâu ngày, bài nùng chỉ
    thống, bệnh phong hủi, ngũ trĩ, bổ hư, tiểu nhi bách bệnh".
 -  Sách Danh y biệt lục: " chủ phụ nhân tử tạng phong tà khí, trục ngũ
-   tạng gian ác huyết, bổ trượng phu hư tổn, ngũ lao ( 5 tạng hư tổn),
+   tạng gian ác huyết, bổ trượng phu hư tổn, ngũ lao (5 tạng hư tổn),
    gầy ốm, chỉ khát, phúc thống tả lî, ích khí, lợi âm khí".
--  Sách Dược tính bản thảo: " chủ hư suyễn, thận suy, nhĩ lung ( tai
+-  Sách Dược tính bản thảo: " chủ hư suyễn, thận suy, nhĩ lung (tai
    điếc), trị hàn nhiệt".
 -  Sách Nhật hoa tử bản thảo: " Hoàng kỳ trợ khí, tráng gân cốt, trưởng
-   nhục, khỏe cơ bắp, bổ huyết, phá trung tích ( báng kết), trị loa
+   nhục, khỏe cơ bắp, bổ huyết, phá trung tích (báng kết), trị loa
    lịch, anh lựu, trường phong, huyết băng, đái hạ. các bệnh trước và
    sau đẻ, tiêu khát, ho có đàm".
 -  Sách Y học khởi nguyên quyển hạ: "trị hư lao tự hãn, bổ phế khí làm
    mạnh da lông, tả phế nhiệt, mạch huyền tự hãn, trị tỳ vị hư nhược,
    nội thác âm chứng, sang thương tất dụng chi dược".
--  Sách Bản thảo cương mục ( quyển 12) dẫn lời Lý Cao viết: " Hoàng kỳ
+-  Sách Bản thảo cương mục (quyển 12) dẫn lời Lý Cao viết: " Hoàng kỳ
    bổ tam tiêu, làm mạnh vệ khí, cùng dùng với Quế, tính ngọt bình làm
    bớt cay nóng mà Quế, tính ngọt bình làm bớt cay nóng mà Quế thì làm
    thông mạch phá huyết, làm mạnh vệ khí còn Hoàng kỳ thì ích khí .
@@ -67,7 +67,7 @@ Theo các sách thuốc cổ:
    và nóng tại cơ nhục".
 -  Sách Bản thảo hội ngôn: "Hoàng kỳ là vị thuốc bổ phế kiện tỳ, thực vệ
    liễm hãn khu phong vận độc".
--  Sách Cảnh nhạc toàn thư ( phần bản thảo) viết: " Hoàng kỳ sống tính
+-  Sách Cảnh nhạc toàn thư (phần bản thảo) viết: " Hoàng kỳ sống tính
    mát, trị ung thư, chích mật tính ôn có tác dụng bổ hư tổn".
 -  Sách Bản thảo phùng nguyên: " Hoàng kỳ tính tuy ôn bổ mà có thể thông
    điều huyết mạch, lưu hành kinh lạc, dùng nó không trở ngại đối với
@@ -108,18 +108,18 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    sự chuyển hóa protid của huyết thanh và gan, đây cũng là 1 mặt quan
    trọng của tác dụng dược lý " phò chính" của thuốc.
 #. Tác dụng lợi tiểu: nước sắc và cao lỏng Hoàng kỳ đối với súc vật thực
-   nghiệm ( chuột cống, thỏ, chó) và người thường đều có tác dụng lợi
+   nghiệm (chuột cống, thỏ, chó) và người thường đều có tác dụng lợi
    tiểu rõ rệt. Súc vật sau khi uống thuốc, lượng nước tiểu tăng 64% (
    Tạp chí Y học Trung quốc 47:7-11,1961), nhưng phạm vi liều lượng có
    hiệu quả hẹp, liều thấp không có tác dụng, ngược lại liều quá cao lại
-   làm cho nước tiểu giảm ( tác dụng hạ áp và lợi tiểu của Hoàng kỳ,
+   làm cho nước tiểu giảm (tác dụng hạ áp và lợi tiểu của Hoàng kỳ,
    Dược học học báo12(5),319-324, 1965).
 #. Thuốc có tác dụng làm tăng lực co bóp của tim bình thường, đối với
    trạng thái suy tim do mệt mỏi hoặc do nhiễm độc, tác dụng cường tim
    của thuốc càng rõ. Dịch tiêm Hoàng kỳ có tác dụng 100% làm mạch co
    bóp và làm nhanh nhịp tim cô lập của thỏ.
 #. Tác dụng hạ áp: nước sắc, cao lỏng, cồn Hoàng kỳ tiêm dưới da hay
-   tĩnh mạch cho súc vật đã gây mê ( chó, mèo, thỏ) đều có tác dụng hạ
+   tĩnh mạch cho súc vật đã gây mê (chó, mèo, thỏ) đều có tác dụng hạ
    áp nhanh, nhưng thời gian ngắn, tác dụng hạ áp có thể do thuốc làm
    giãn mạch ngoại vi. Thí nghiệm trên chuột bạch, chuột lang còn chứng
    minh thuốc có tác dụng tăng sức đề kháng của mao mạch, do đó có thể
@@ -128,11 +128,11 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 #. Trên lâm sàng đã chứng minh Hoàng kỳ cùng dùng với Đảng sâm trị đạm
    niệu do viêm thận có kết quả. Trong điều trị thận hư nhiễm mỡ, nên
    dùng liều cao thuốc có tác dụng làm giảm đạm niệu. Có báo cáo dùng
-   thuốc bột Hoàng kỳ tốt hơn ( trích luận văn Hội nghị khoa học sinh lý
+   thuốc bột Hoàng kỳ tốt hơn (trích luận văn Hội nghị khoa học sinh lý
    toàn quốc Trung quốc lần thứ 2, trang13,1963).
 #. Tác dụng kháng khuẩn: Trong ống nghiệm, thuốc có tác dụng kháng khuẩn
    đối với trực khuẩn lî Shigella, liên cầu khuẩn dung huyết, phế cầu,
-   tụ cầu vàng ( in vitro antibacterial activety of some common Chinese
+   tụ cầu vàng (in vitro antibacterial activety of some common Chinese
    herba on Gram-positive aerobic bacteria, Chin.Med J.67:648-656,1949).
 #. Dịch tiêm Hoàng kỳ có tác dụng hưng phấn co bóp tử cung cô lập của
    chuột cống 100%. Nước sắc Hoàng kỳ có tác dụng ức chế ruột cô lập của
@@ -144,7 +144,7 @@ Ngoài ra, theo báo cáo của Trương Trạch và Cao Kiều (1940), Hoàng k
 tác dụng làm cho kỳ động tinh của chuột bạch thông thường là 1 ngày kéo
 dài thành 10 ngày.
 
-Thuốc còn có tác dụng bảo vệ gan, chống giảm sút glycogen ở gan ( trích
+Thuốc còn có tác dụng bảo vệ gan, chống giảm sút glycogen ở gan (trích
 luận văn báo cáo tại Hội nghị học thuật của Hội Dược học Trung quốc năm
 1962, trang 332-333, 1963).
 
@@ -164,14 +164,14 @@ chứng tiêu chảy kéo dài, rong kinh, sa tử cung, sa trực tràng, dùng
    Trung quản, Túc tam lý, mỗi huyệt 0,5ml cách nhật, 1 tháng là một
    liệu trình, có kết hợp thuốc trị các bệnh khác, sau khi ăn, bệnh nhân
    nằm nghỉ. Trị 33 ca sa dạ dày, kết quả khỏi 9 ca, tốt 9 ca, có kết
-   quả 10 ca, tỷ lệ kết quả 84,9% ( Tổ tiêu hóa nội khoa thuộc sở nghiên
+   quả 10 ca, tỷ lệ kết quả 84,9% (Tổ tiêu hóa nội khoa thuộc sở nghiên
    cứu Trung y thị Thái nguyên- Tiểu kết 42 ca sa dạ dày điều trị bằng
    Thăng tạng linh, Tạp chí Y dược Sơn tây 1978,2:31).
 -  Dùng Sinh Hoàng kỳ 30 - 50g, phối hợp Đơn sâm 15g, Sơn tra nhục 10g,
    Phòng phong, Thăng ma mỗi thứ 3g, sắc uống mỗi ngày 1 thang, dưới 3
    tuổi giảm liều, nếu có lòi ra ngoài, gia thêm Thuyền thoái, Kinh giới
    than, Băng phiến tán bột trộn với Hương dầu bôi trị sa trực tràng,
-   kết quả tốt ( Vương chí Thanh, Trị sa trực tràng bằng thuốc, Tạp chí
+   kết quả tốt (Vương chí Thanh, Trị sa trực tràng bằng thuốc, Tạp chí
    Trung y Sơn đông 1983,2:43).
 
 3.Làm thuốc phòng cảm mạo:
@@ -180,23 +180,23 @@ chứng tiêu chảy kéo dài, rong kinh, sa tử cung, sa trực tràng, dùng
    Hoàng kỳ (mỗi viên có 1g thuốc sống, ngày 3 lần hoặc cách nhật, sắc
    15g Hoàng kỳ uống trong 10 ngày là 1 liệu trình, nghỉ thuốc 5 ngày,
    uống liệu trình 2. Đã dùng cho 540 người dễ cảm mạo, số lần người cảm
-   giảm bình quân 2,7 lần và rút ngắn được thời gian mắc bệnh ( Tạp chí
+   giảm bình quân 2,7 lần và rút ngắn được thời gian mắc bệnh (Tạp chí
    Trung y 1980,1:71).
 -  Dương vĩnh Phương và cộng sự dùng Hoàng kỳ 15g, Đại táo 10g chế thành
    bột chia làm 2 bao hòa nước uống, người lớn mỗi lần 1 bao, ngày 2
    lần. Đã theo dõi 160 ca chứng minh thuốc có tác dụng phòng chống cảm
    mạo nhẹ phát sinh, hạ thấp tỷ lệ bệnh viêm phế quản, hen phế quản,
-   viêm mũi dị ứng ( Học báo Trung y Học viện Hồ nam 1987,4:13).
+   viêm mũi dị ứng (Học báo Trung y Học viện Hồ nam 1987,4:13).
 -  Phòng bệnh viêm đường hô hấp trên trẻ em: chiết xuất nước Hoàng kỳ
-   cho vào ống 2ml ( tương đương thuốc sống 2g), ngày uống 1 lần Thẩm vỹ
+   cho vào ống 2ml (tương đương thuốc sống 2g), ngày uống 1 lần Thẩm vỹ
    Bình đã theo dõi 100 ca, kết quả 4% (Tạp chí Trung y Giang tô
    1988,9:32).
 -  Dùng trị viêm mũi dị ứng: Bồ chí Thành dùng dịch tiêm Hoàng kỳ chích
    vào mũi mỗi bên 2ml 3 ngày 1 lần, 10 lần là một liệu trình, theo dõi
-   47 ca có kết quả 93,26% ( Học báo Y học viện Nam kinh 1988,3:246).
+   47 ca có kết quả 93,26% (Học báo Y học viện Nam kinh 1988,3:246).
 
 4.Phòng trị ho: Tổ Hô hấp bệnh viện Nhi khoa thuộc Y học viện số 1
-Thượng hải dùng ống thuốc Hoàng kỳ 2ml ( 1ml có 1g thuốc sống) chia thủy
+Thượng hải dùng ống thuốc Hoàng kỳ 2ml (1ml có 1g thuốc sống) chia thủy
 châm 2 huyệt Túc tam lý, mỗi tuần 2 lần, 3 tháng là một liệu trình, dùng
 liền 3 - 4 liệu trình, mỗi liệu trình cách nhau 2 tuần. Theo dõi 41 ca,
 kết quả 85,4%, kết quả tốt 56,1%, bệnh nhân ăn ngon, ngủ tốt, tinh thần
@@ -208,16 +208,16 @@ phóng Nhân dân Trung quốc dùng bài thuốc: Hoàng kỳ 24g, Tuyên phụ
 lần uống 6 viên, ngày 3 lần, 10 ngày là 1 liệu trình, uống 3 liệu trình
 đã trị viêm phế quản mạn tính 254 ca, đạt kết quả 98%, khỏi lâm sàng (ổn
 định) 35,4%, tốt nhất đối với các thể bệnh hư hàn, tỳ hư đàm thấp và
-thận hư ( Tân trung y 1982,2:12).
+thận hư (Tân trung y 1982,2:12).
 
 5.Trị viêm loét dạ dày tá tràng:
 
 -  Tổ tiêu hóa nội khoa Bệnh viện số 2 Tân y học viện Giang tô dùng tiêm
-   bắp dịch Hoàng kỳ mỗi lần 2ml ( 1ml tương đương 1g thuốc sống), ngày
+   bắp dịch Hoàng kỳ mỗi lần 2ml (1ml tương đương 1g thuốc sống), ngày
    2 lần, đã trị 18 ca loét dạ dày, 51 ca loét hành tá tràng, 4 ca loét
    hổn hợp, kết quả sau 1 tuần dùng thuốc, các triệu chứng chủ yếu dều
    giảm với mức độ khác nhau, kiểm tra X quang sau 1 tháng 36 ca, có 13
-   ca hết ổ loét, có tiến bộ 15 ca, không kết quả 10 ca ( Tạp chí Giang
+   ca hết ổ loét, có tiến bộ 15 ca, không kết quả 10 ca (Tạp chí Giang
    tô Y dược 1977,1:20).
 -  Hệ Quang Hỷ dùng bài Hoàng kỳ kiến trung thang gia giảm trị viêm loét
    dạ dày tá tràng 43 ca như sau: Hoàng kỳ 12g, Bạch thược 12g, Cam thảo
@@ -225,24 +225,24 @@ thận hư ( Tân trung y 1982,2:12).
    nước, chia 3 lần uống, tùy chứng gia giảm, tất cả bệnh nhân đều được
    chụp X quang trước và sau uống thuốc. Kết quả sau thời gian dùng
    thuốc từ 25 đến 53 ngày, 22 ca khỏi, 17 ca tiến bộ, 4 ca không kết
-   quả, tỷ lệ có kết quả 90,7% ( Tạp chí Y dược Hồ nam 1977,2:35).
+   quả, tỷ lệ có kết quả 90,7% (Tạp chí Y dược Hồ nam 1977,2:35).
 
 6.Điều trị bệnh gan mạn tính:
 
--  Ngô khai Chi dùng dịch tiêm Hoàng kỳ 4ml ( 1ml có 1g thuốc sống) tiêm
+-  Ngô khai Chi dùng dịch tiêm Hoàng kỳ 4ml (1ml có 1g thuốc sống) tiêm
    bắp ngày 1 lần, có cho thêm một số vitamin bảo vệ gan. Trị viêm gan
    mạn 29 ca, liệu trình từ 1 đến 3 tháng, có kết quả cải thiện triệu
-   chứng lâm sàng và gan nhỏ trở lại ( Tạp chí Trung y Triết giang
+   chứng lâm sàng và gan nhỏ trở lại (Tạp chí Trung y Triết giang
    1983,3:103).
 -  Hậu thế Vinh và cộng sự dùng dịch tiêm Sâm kỳ mỗi lần tiêm bắp 4ml (
    mỗi ml có 2g thuốc sống) Hoàng kỳ, Đơn sâm 1g, ngày 1 lần, mỗi tuần
    tiêm 6 lần, 1 liệu trình 3 tháng. Đã trị 112 ca trong đó có 58 ca chỉ
    dùng thuốc này và phối hợp vitamin, kết quả trước mắt 83%, thuốc có
    tác dụng tốt hơn đối với viêm gan kéo dài, tỷ lệ kết quả 89,5% có
-   triệu chứng cải thiện và chức năng gan hồi phục tốt ( trung thảo dược
+   triệu chứng cải thiện và chức năng gan hồi phục tốt (trung thảo dược
    1980,12:551).
--  Mạch Tiễn đã dùng 100% dịch tiêm Hoàng kỳ tiêm huyệt Túc tam lý ( 2
-   bên), Thận du ( 2 bên), mỗi 3 ngày thay nhau tiêm một lần, mỗi lần
+-  Mạch Tiễn đã dùng 100% dịch tiêm Hoàng kỳ tiêm huyệt Túc tam lý (2
+   bên), Thận du (2 bên), mỗi 3 ngày thay nhau tiêm một lần, mỗi lần
    1ml, 2 tháng là một liệu trình, một số bệnh nhân được tiêm thêm 1ml
    dịch Đảng sâm và cho thuốc bảo vệ gan. Đã trị 174 ca HbsAg dương
    tính, số bệnh nhân chuyển âm tính và tiến bộ 131 ca, tỷ lệ 75,3% (
@@ -251,7 +251,7 @@ thận hư ( Tân trung y 1982,2:12).
 7.Trị nhũn não: Trương học Văn và cộng sự dùng Thông mạch sơ lạc dịch (
 Hoàng kỳ, Đơn sâm, Xuyên khung, Xích thược) 250ml truyền tĩnh mạch mỗi
 ngày, 10 ngày là 1 liệu trình, nghỉ 4 ngày tiến hành liệu trình tiếp,
-đồng thời mỗi ngày sắc uống bài Thông mạch ( Hoàng kỳ, Hồng hoa, Xuyên
+đồng thời mỗi ngày sắc uống bài Thông mạch (Hoàng kỳ, Hồng hoa, Xuyên
 khung, Đơn sâm, Sơn tra, Ngưu tất, Địa long, Quế chi). Trị 110 ca nhũn
 não, khỏi 52 ca, kết quả tốt 36 ca, tiến bộ 20 ca, tỷ lệ kết quả 98,2% (
 Tân trung y 1982,3:37).
@@ -262,11 +262,11 @@ thược, Đơn sâm mỗi thứ 15g, Đương qui 12g, Xuyên khung 10g, mỗi 
 thang sắc uống, một liệu trình 4 - 6 tuần, kết hợp thuốc tây y điều trị
 triệu chứng. Trị 98 ca nhồi máu cơ tim cấp thể khí hư huyết ứ, kết quả
 90 ca hồi phục, 8 ca tử vong, so với tổ chỉ dùng tây y 151 ca, hồi phục
-101 ca, tử vong 44 ca ( Tạp chí Nội khoa Trung hoa 1976,4:216).
+101 ca, tử vong 44 ca (Tạp chí Nội khoa Trung hoa 1976,4:216).
 
 9.Trị chứng bạch cầu giảm: Phùng văn Trung dùng bài: Sinh Hoàng kỳ 30g,
 Điều sâm 15g, Tiểu hồng táo 20 quả, sắc uống. Trị chứng bạch cầu giảm do
-Dibazol 14 ca có kết quả tốt ( Tạp chí Trung y Vân nam 180,2:28).
+Dibazol 14 ca có kết quả tốt (Tạp chí Trung y Vân nam 180,2:28).
 
 10.Trị bệnh thận: Tổ nghiên cứu viêm thận thuộc Sở nghiên cứu Y dược dân
 tộc tỉnh Hắc long giang dùng độc vị Hoàng kỳ chế thành cao lỏng, mỗi
@@ -274,47 +274,47 @@ ngày uống tương đương lượng 100g thuốc sống, chia 2 lần. Thời
 trị từ 15 ngày đến 3 tháng, không dùng các loại thuốc tây. Đã trị viêm
 thận mạn 20 ca, kết quả tốt 7 ca, tiến bộ 9 ca, không kết quả 4 ca. Phần
 lớn bệnh nhân triệu chứng lâm sàng được cải thiện, đạm niệu hết hoặc
-giảm ( Báo Trung Y dược Hắc long giang 1982,1:39).
+giảm (Báo Trung Y dược Hắc long giang 1982,1:39).
 
--  Đồng đức Trường dùng dịch tiêm Hoàng kỳ 2ml ( hàm lượng tương đương
+-  Đồng đức Trường dùng dịch tiêm Hoàng kỳ 2ml (hàm lượng tương đương
    3g Sinh Hoàng kỳ), một liệu trình 30 ngày không dùng các loại thuốc
    khác. Trị 56 ca viêm cầu thận mạn, sau một liệu trình nhận xét thấy
    thuốc có tác dụng điều tiết tế bào miễn dịch và dịch thể miễn dịch,
    giảm đạm niệu, tỷ lệ kết quả 61,7%, chức năng thận được cải thiện (
    Tạp chí Trung y kết hợp 1987,7:403).
 
-11.Trị sốt xuất huyết: Phan cốc Vân dùng dịch tiêm Hoàng kỳ ( 1ml có
+11.Trị sốt xuất huyết: Phan cốc Vân dùng dịch tiêm Hoàng kỳ (1ml có
 Hoàng kỳ sống 1g) cho vào dịch truyền 20ml, nếu không cần truyền dịch
 thì tiêm bắp mỗi lần 5ml, ngày 2 lần, 7 ngày là một liệu trình. Đã trị
-23 ca, sau 3 ngày tiến triển tốt 17 ca, 2 ca nặng lên ( Báo Tân Y học
+23 ca, sau 3 ngày tiến triển tốt 17 ca, 2 ca nặng lên (Báo Tân Y học
 1983,5:240).
 
 12.Trị thị lực giảm sau phẫu thuật bóc võng mạc mắt: Nhiếp Aùi quang
-dùng dịch tiêm Hoàng kỳ 2 ml ( 1ml có 2g thuốc sống) tiêm bắp, 30 lần là
+dùng dịch tiêm Hoàng kỳ 2 ml (1ml có 2g thuốc sống) tiêm bắp, 30 lần là
 một liệu trình. Sau phẫu thuật lần 1: 5 - 6 tháng bắt đầu điều trị tất
-cả 32 ca, 23 ca viễn thị, thị lực tiến bộ và tiếp tục được cũng cố ( Báo
+cả 32 ca, 23 ca viễn thị, thị lực tiến bộ và tiếp tục được cũng cố (Báo
 Trung thảo dược 1981,3:23).
 
 13.Trị tuyến tiền liệt phì đại: Hoàng chí Cường và cộng sự dùng bài Bảo
-nguyên thông bế thang ( Sinh Hoàng kỳ 100g, Hoạt thạch 30g), sắc nước 2
+nguyên thông bế thang (Sinh Hoàng kỳ 100g, Hoạt thạch 30g), sắc nước 2
 lần trộn đều, ngoài ra dùng Hổ phách 3g tán bột cho vào thuốc chia uống
 lúc bụng đói. Kết quả theo dõi 52 ca không còn triệu chứng lâm sàng,
 tiểu tiện bình thường, kiểm tra trực tràng tuyến tiền liệt bình thường
 38 ca, triệu chứng có bớt, tiểu thông hơn, tuyến tiền liệt có nhỏ 13 ca,
-1 ca không kết quả ( Tân trung y 1987,10:54).
+1 ca không kết quả (Tân trung y 1987,10:54).
 
-14.Trị bệnh vẩy nến: Lưu minh Huệ cho uống viên cao Hoàng kỳ ( 1 viên có
+14.Trị bệnh vẩy nến: Lưu minh Huệ cho uống viên cao Hoàng kỳ (1 viên có
 hàm lượng thuốc sống 1,33g), mỗi lần 4 viên, ngày 2 lần hoặc mỗi ngày
-tiêm dịch tiêm Hoàng kỳ 2ml ( hàm lượng 1ml có 4g thuốc sống) tiêm bắp
+tiêm dịch tiêm Hoàng kỳ 2ml (hàm lượng 1ml có 4g thuốc sống) tiêm bắp
 hoặc uống bài thuốc sắc có Hoàng kỳ, ngoài bôi thêm thuốc mỡ acid boric
 10% hoặc thuốc mỡ lưu huỳnh 10%. Đã trị 204 ca, khỏi 42 ca, cơ bản khỏi
-62 ca, đỡ nhiều 91 ca, 9 ca không khỏi, tỷ lệ kết quả 95,6% ( Tạp chí
+62 ca, đỡ nhiều 91 ca, 9 ca không khỏi, tỷ lệ kết quả 95,6% (Tạp chí
 Trung y 1985,7:52).
 
 15.Trị luput ban đỏ: Phan phúc sơ dùng Hoàng kỳ 30-60-90g, sắc nước uống
 mỗi ngày 1 thang, liệu trình từ 1 - 12 tháng, một số ít phối hợp dùng
 liều nhỏ và trung bình cocticoit. Đã trị 17 ca, kết quả tốt 6 ca, 11 ca
-khác đều tiến bộ, tỷ lệ kết quả 100% ( Tạp chí Y học lâm sàng
+khác đều tiến bộ, tỷ lệ kết quả 100% (Tạp chí Y học lâm sàng
 1985,2:24).
 
 Ngoài những kết quả phòng và chữa bệnh của các tài liệu đã nêu, Hoàng kỳ
@@ -329,14 +329,14 @@ sau:
 
 17.Trị chứng huyết hư có sốt hoặc sau khi mất nhiều máu, dùng bài:
 
--  Đương qui bổ huyết thang ( Nội ngoại thương biện hoặc luận): Hoàng kỳ
+-  Đương qui bổ huyết thang (Nội ngoại thương biện hoặc luận): Hoàng kỳ
    40g, Đương qui 8g sắc uống.
 
 18.Trị chứng sốt kéo dài lâu ngày không khỏi, thường gặp trong các bệnh
 mạn tính cơ thể hư nhược, dùng bài Bổ trung ích khí thang để chữa gọi là
 phép " Cam ôn trừ đại nhiệt".
 
--  Bổ trung ích khí thang ( Tỳ vị luận): Hoàng kỳ 16g, Bạch truật, Đảng
+-  Bổ trung ích khí thang (Tỳ vị luận): Hoàng kỳ 16g, Bạch truật, Đảng
    sâm, Đương qui mỗi thứ 12g, Sài hồ, Trần bì mỗi thứ 6g, Thăng ma,
    Chích thảo mỗi thứ 4g, có thể thêm một số thuốc tư âm thanh nhiệt như
    Huyền sâm 10g, Tri mẫu 8g.
@@ -361,14 +361,14 @@ liền miệng, thường dùng bài:
 21.Trị đau nhức các khớp do cơ thể suy nhược, khí huyết hư, dùng bài:
 
 -  Hoàng kỳ quế chi ngũ vật thang: Hoàng kỳ 16g, Bạch thược 12g, Quế chi
-   6 - 8g, Sinh khương 12g, Đại táo 3 quả, sắc nước uống ( Kim quỷ yếu
+   6 - 8g, Sinh khương 12g, Đại táo 3 quả, sắc nước uống (Kim quỷ yếu
    lược).
 
 Những trường hợp viêm khớp mạn tính, viêm quanh khớp, đau trong chứng
 liệt 1/2 người do tai biến mạch máu não do khí huyết hư, khí huyết ứ
 trệ, có thể dùng bài:
 
--  Bổ dương hoàn ngữ thang ( Y lâm cải thác): Sinh Hoàng kỳ 40 - 60g,
+-  Bổ dương hoàn ngữ thang (Y lâm cải thác): Sinh Hoàng kỳ 40 - 60g,
    Đương qui vỹ 8g, Xích thược 6g, Địa long 4g, Xuyên khung 4g, Đào nhân
    4g, Hồng hoa 4g, sắc nước uống.
 
@@ -393,7 +393,7 @@ Liều lượng thường dùng và chú ý lúc dùng:
 #. Đối với trường hợp rối loạn tiêu hóa nếu bụng trên đầy thuộc thực
    chứng, dương chứng, không nên dùng.
 #. So với Nhân sâm và Đảng sâm, Hoàng kỳ thiên về bổ khí ở cơ biểu, dùng
-   tốt đối với chứng biểu hư còn Nhân sâm ( Đảng sâm) bổ khí của ngũ
+   tốt đối với chứng biểu hư còn Nhân sâm (Đảng sâm) bổ khí của ngũ
    tạng chủ yếu bổ lý hư nên kết hợp dùng càng tốt.
 #. Dùng Hoàng kỳ lâu ngày để bớt nóng nên gia Tri mẫu, Huyền sâm.
 

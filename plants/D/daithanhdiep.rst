@@ -10,7 +10,7 @@ Trung quốc và Việt nam, cây Đại thanh gồm các loại sau: Baphicacan
 cusia Bremek, Isatis tinctoria L, Indigotica Fort, Clerodendron
 cyrtophyllum Turcz, Polygonum tinctorium Alt. Thuộc họ Cỏ roi ngựa
 (Verbenaceae). Vị đắng tính rất hàn, không độc, qui kinh Tâm, Phế Vị
-hoặc Can Tỳ ( Bản thảo tái tân).
+hoặc Can Tỳ (Bản thảo tái tân).
 
 Thành phần chủ yếu:
 

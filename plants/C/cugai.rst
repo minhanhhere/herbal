@@ -2,7 +2,7 @@ CỦ GAI
 
 Boehmeria nivea (L) Gaud (Urtica nivea L.)
 
-Người ta dùng Củ gai ( Radix Boehmeria) là rễ phơi hay sấy khô của Cây
+Người ta dùng Củ gai (Radix Boehmeria) là rễ phơi hay sấy khô của Cây
 gai.
 
 Theo chữ Hán sợi gai nhỏ là Thuyền, sợi gai to là Trữ. Cây gai vừa dùng
@@ -13,7 +13,7 @@ Rễ hái vào bất cứ mùa nào, nhưng tốt nhất vào thu đông. Hái v
 
 Tính vị: ngọt, hàn không độc.
 
-Tác dụng: tả nhiệt, tán ứ, chữa đơn độc, thông các chứng lâm ( đi đái
+Tác dụng: tả nhiệt, tán ứ, chữa đơn độc, thông các chứng lâm (đi đái
 dắt), chữa sang lở, thông tiểu tiện. Phàm không thực nhiệt chớ có dùng.
 
 Ứng dụng lâm sàng:

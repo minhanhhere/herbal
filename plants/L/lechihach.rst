@@ -2,7 +2,7 @@
 
 LỆ CHI HẠCH
 
-( Semen Litchi sinensis )
+(Semen Litchi sinensis )
 
 Lệ chi hạch tức hạt vải dùng làm thuốc được ghi đầu tiên trong sách "
 Bản thảo diễn nghĩa" là hạt của quả vải của cây vải Litchi chinensis
@@ -48,10 +48,10 @@ giảm rõ.
 
 Ứùng dụng lâm sàng:
 
-1.Trị chứng sán khí thống: ( đau do sa ruột) cao hoàn sưng đau, dùng
+1.Trị chứng sán khí thống: (đau do sa ruột) cao hoàn sưng đau, dùng
 bài:
 
--  Sán khí nội tiêu hoàn ( Bắc kinh trung dược thành phẩm tuyển tập) gồm
+-  Sán khí nội tiêu hoàn (Bắc kinh trung dược thành phẩm tuyển tập) gồm
    các vị: Lệ chi hạch, Quất hạch, Tiểu hồi hương, Ngô thù du. Trường
    hợp do thấp nhiệt cao hoàn sưng đau, bìu dái nóng đỏ gia Long đởm
    thảo, Chi tử, Đại hoàng, Xuyên tử.
@@ -71,13 +71,13 @@ ngày 4 - 6g, trị hòn dái sưng đau.
 
 -  Trị nhọt:
 
-+ Múi vải giã nát với Ô mai thành cao dán lên nhọt ( Sách Tế sinh bí
++ Múi vải giã nát với Ô mai thành cao dán lên nhọt (Sách Tế sinh bí
 lãm).
 
 + Dùng 5 - 7 múi vải giã nát với hồ nếp, giàn thành miếng cao dán lên
-mụn nhọt để hở miệng ( Sách Phổ tế phương).
+mụn nhọt để hở miệng (Sách Phổ tế phương).
 
--  Trị nấc cụt: Vải cả quả đốt thành than tán bột hòa nước nóng uống ( Y
+-  Trị nấc cụt: Vải cả quả đốt thành than tán bột hòa nước nóng uống (Y
    phương trích yếu).
 -  Trị sang đậu không mọc: Múi vải ngâm rượu cho uống , ngày 2 - 3 múi.
 -  Trị đau răng: Quả vải để cả vỏ và hạt thêm ít muối đốt thành than,

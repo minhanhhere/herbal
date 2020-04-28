@@ -20,14 +20,14 @@ Tác dụng dược lý:
 
 -  Theo Y học cổ truyền, thuốc có tác dụng thanh can, ích thận, minh
    mục. Do có chất antragluocozit, thuốc có tác dụng tăng sự co bóp của
-   ruột ( thông tiện) mà không gây đau bụng.
+   ruột (thông tiện) mà không gây đau bụng.
 
 -  Có tác dụng diệt khuẩn.
 -  Thực nghiệm chứng minh thuốc có tác dụng hạ áp.
 
 Ứng dụng lâm sàng:
 
-1.Trị viêm màng tiếp hợp cấp: ( mắt đỏ sưng đau, chảy nước mắt) thuốc có
+1.Trị viêm màng tiếp hợp cấp: (mắt đỏ sưng đau, chảy nước mắt) thuốc có
 tác dụng thanh can hỏa, dùng bài:
 
 -  Quyết minh tử tán: Quyết minh tử 16g, Thạch quyết minh 12g, Cúc hoa
@@ -40,7 +40,7 @@ tác dụng thanh can hỏa, dùng bài:
 -  Quyết minh tử, Dã cúc hoa mỗi thứ 12g, Mạn kinh tử, Xuyên khung, Toàn
    yết mỗi thứ 8g, sắc uống trị chứng đau nửa đầu.
 
-2.Trị đau đầu do huyết áp cao ( thể can dương thịnh): dùng độc vị Thảo
+2.Trị đau đầu do huyết áp cao (thể can dương thịnh): dùng độc vị Thảo
 quyết minh 20g, sắc uống hoặc gia thêm Câu đằng, Bạch tật lê mỗi thứ
 12g.
 

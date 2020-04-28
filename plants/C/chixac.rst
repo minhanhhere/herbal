@@ -24,7 +24,7 @@ Liều dùng: 4 - 12g.
 
 Chú ý:
 
-Tác dụng dược lý:nước sắc với liều 1 - 3g/kg thể trọng ( chó) có tác
+Tác dụng dược lý:nước sắc với liều 1 - 3g/kg thể trọng (chó) có tác
 dụng tăng huyết áp, dung tích thận nhỏ lại, đồng thời có tác dụng kháng
 niệu.
 

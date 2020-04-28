@@ -58,7 +58,7 @@ dụng sau:
 
 1.Trong đông y: thường sử dụng Thanh hao phối hợp với các loại thuốc tư
 âm thanh nhiệt khác như Tri mẫu, Đơn bì, Địa cốt bì, Miết giáp trị chứng
-hư nhiệt ( do âm hư, huyết hư, sốt âm ỉ sau khi mắc bệnh nhiễm, cơ thể
+hư nhiệt (do âm hư, huyết hư, sốt âm ỉ sau khi mắc bệnh nhiễm, cơ thể
 suy nhược, bệnh lao, bệnh chất tạo keo .) Ví dụ dùng bài:
 
 -  Thanh hao miết giáp thang (ôn bệnh điều biện): Thanh hao 8g, Miết
@@ -72,11 +72,11 @@ phẩm Thanh hao uống trị 488 ca các loại sốt rét, kết quả khỏi 
 Một báo cáo của một tác giả khác dùng Thanh hao tươi sắc uống, lượng
 thuốc phải từ 120g trở lên, sắc không quá 15 phút, hoặc thái nhỏ pha
 nước sôi hoặc ngâm nước sôi 60 độ 24 giờ uống, cho bệnh nhân uống trước
-lên cơn 3 giờ. Trị 125 ca có kết quả trên dưới 80% ( Tạp chí Thiểm tây
+lên cơn 3 giờ. Trị 125 ca có kết quả trên dưới 80% (Tạp chí Thiểm tây
 Tân y dược 1975,3:19).
 
 Có tác giả dùng thuốc tiêm Thanh hao tố tiêm bắp ngày 1 lần 0,3g, bệnh
-nặng lượng gấp đôi, liệu trình 3 ngày, tổng liều 0,9 - 1,2g ( Tổ nghiên
+nặng lượng gấp đôi, liệu trình 3 ngày, tổng liều 0,9 - 1,2g (Tổ nghiên
 cứu Thanh hao tố Trung quốc: Báo cáo về nghiên cứu Thanh hao tố, Dược
 học thông báo 1979,2:49).
 

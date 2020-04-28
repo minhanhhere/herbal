@@ -88,7 +88,7 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    hương, Sa nhân đều 4g. Tất cả tán bột mịn trộn với nước Gừng táo làm
    thành viên bằng hạt đỗ xanh. Mỗi lần uống 4 - 8g, tùy tuổi. Trị tiêu
    chảy kéo dài do tỳ hư kết quả tốt.
--  Sâm linh Bạch truật tán (Hòa tễ cục phương): Đảng sâm ( hoặc Nhân
+-  Sâm linh Bạch truật tán (Hòa tễ cục phương): Đảng sâm (hoặc Nhân
    sâm), Bạch linh, Bạch truật, Hoài sơn, sao Đậu ván trắng, Hạt sen, Ý
    dĩ nhân đều 80g, Cát cánh, Sa nhân, Trần bì, Chích thảo đều 40g, trộn
    với nước sắc gừng táo vừa đủ làm thành thuốc bột hoặc viên với hồ bột

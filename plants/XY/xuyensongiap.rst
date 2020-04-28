@@ -4,7 +4,7 @@ XUYÊN SƠN GIÁP
 
 (Squama Manitis Pentadactylae)
 
-Xuyên sơn giáp là vẩy phơi khô của con Tê tê ( con Trút) Manis
+Xuyên sơn giáp là vẩy phơi khô của con Tê tê (con Trút) Manis
 Pentadactyla L. thuộc họ Tê tê (Manidae), dùng làm thuốc được ghi đầu
 tiên trong sách Danh y biệt lục với tên gọi là Lăng lý.
 
@@ -73,13 +73,13 @@ khô thảo.
 
 -  Xuyên sơn giáp tán: Xuyên sơn giáp sao, Nga truật, Ngũ linh chi, Tam
    lăng đều sao giấm, Đại hoàng (sao giấm), Xạ hương dùng trị 8 ca có
-   kết quả tốt. ( Báo cáo của Bảo thế, Tạp chí Giang tây Trung y dược
+   kết quả tốt. (Báo cáo của Bảo thế, Tạp chí Giang tây Trung y dược
    1981,3:35).
 
 5.Trị chứng huyết niệu chưa rõ nguyên nhân: dùng bột Xuyên sơn giáp1.5g,
 uống mỗi tối lúc đi ngủ. Trị một bệnh nhân uống lần 1: tiểu máu giảm
 nhiều, lần 2: cơ bản hết tiểu máu, lần 3: hết hẳn. Theo dõi 1 năm không
-tái phát ( Báo cáo của Hồ Tịnh, Tạp chí Trung y Cáp nhĩ tân 1964, 6:35).
+tái phát (Báo cáo của Hồ Tịnh, Tạp chí Trung y Cáp nhĩ tân 1964, 6:35).
 
 Thuốc còn được dùng trong các bài thuốc trị chứng đau nhức các khớp có
 tác dụng hoạt huyết hóa ứ làm giảm đau.

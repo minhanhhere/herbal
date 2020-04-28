@@ -4,7 +4,7 @@ TIÊN HẠC THẢO
 
 (Herba Agrimoniae Pilosae)
 
-Tiên hạc thảo còn gọi là Long nha thảo là toàn cây ( bộ phận trên đất )
+Tiên hạc thảo còn gọi là Long nha thảo là toàn cây (bộ phận trên đất )
 phơi hay sấy khô của cây Long nha thảo Agrimoni pilosa Ledeb, dùng làm
 thuốc được ghi đầu tiên trong sách " Đồ kinh bản thảo".
 
@@ -22,7 +22,7 @@ Theo các sách cổ:
 
 -  Sách Đồ kinh bản thảo: Rễ vị cay, sáp, ôn, không độc.
 -  Sách Trấn nam bản thảo: tính hơi ôn, vị đắng sáp.
--  Sách Sinh thảo dược tính bị yếu: Vị điềm ( ngọt), tính bình.
+-  Sách Sinh thảo dược tính bị yếu: Vị điềm (ngọt), tính bình.
 
 Thành phần chủ yếu:
 
@@ -59,7 +59,7 @@ nghiên cứu thêm.
 2.Tác dụng với hệ tuần hoàn: Rượu Tiên hạc thảo chích tĩnh mạch cho thỏ
 và chó đã gây mê làm tăng huyết áp, hưng phấn hô hấp. Nước thuốc cho một
 phần cồn chiết xuất, trái lại làm hạ huyết áp của thỏ. Thuốc nước và
-Tiên hạc thảo tố ( Agrimonie) đều có tác dụng cường tim ếch cô lập, tăng
+Tiên hạc thảo tố (Agrimonie) đều có tác dụng cường tim ếch cô lập, tăng
 nhịp tim và cường độ co bóp của tim. Còn chiết xuất cồn một phần của
 nước thuốc đối với tim ếch cô lập lại có tác dụng ức chế.
 
@@ -68,7 +68,7 @@ Tiên hạc thảo, nồng độ thấp có tác dụng hưng phấn ruột cô 
 lang, nếu nồng độ cao thì ức chế ruột.
 
 4.Tác dụng kháng viêm: Nước chiết xuất hoặc cồn chiết xuất thuốc đều có
-tác dụng kháng viêm ( tiêu viêm) đối với viêm kết mạc mắt thỏ thực
+tác dụng kháng viêm (tiêu viêm) đối với viêm kết mạc mắt thỏ thực
 nghiệm.
 
 5.Tác dụng kháng khuẩn: thuốc có tác dụng ức chế tụ cầu khuẩn vàng, trực
@@ -92,7 +92,7 @@ giác đau của thỏ, tác dụng hạ đường huyết, hạ thấp chuyển
 chuột lớn và có tác dụng hưng phấn đối với cơ vân đã mệt mỏi. Thuốc làm
 tăng độ bền của hồng cầu của thỏ và chuột nhắt.
 
-9.Tác dụng phụ của thuốc: Tiên hạc thảo tố ( Agrimonine) họa hoàn có thể
+9.Tác dụng phụ của thuốc: Tiên hạc thảo tố (Agrimonine) họa hoàn có thể
 gây tim đập hồi hộp, sắc mặt đỏ do xung huyết.
 
 10.Một số tác giả nghiên cứu thấy: Long nha thảo có làm tăng tốc độ đông
@@ -116,14 +116,14 @@ cam, tiêu ra máu, nôn ra máu.
 Tiên hạc thảo 30g, Hồng táo 10 quả sắc uống, ngày 1 thang,bột Bạch cập
 6g ngày 3 lần, có một số bệnh nhân dùng thêm Bổ trung ích khí gia giảm.
 Trị 100 ca kết quả tốt 70%. Trong số 70 ca tốt, phân thử máu chuyển âm
-tính: 1 - 3 ngày (28,57%), 4 - 6 ngày (41,42%), trên 7 ngày 30% ( Tạp
+tính: 1 - 3 ngày (28,57%), 4 - 6 ngày (41,42%), trên 7 ngày 30% (Tạp
 chí trung y dược Thượng hải 1979,4:28).
 
 3.Trị viêm âm đạo do trùng roi: Dùng thân lá non Tiên hạc thảo chế thành
 cao cô đặc 100% bôi lên toàn bộ âm đạo, rồi tẩm thuốc vào nút bông đặt
-vào âm đạo, 3 - 4 giờ lấy ra ( bệnh nhân tự lấy). Mỗi ngày một lần, 7
+vào âm đạo, 3 - 4 giờ lấy ra (bệnh nhân tự lấy). Mỗi ngày một lần, 7
 ngày là một liệu trình. Đã trị 40 ca khỏi 37 ca, tỷ lệ khỏi 92,5%, có
-kết quả 3 ca ( Báo cáo của bệnh viện số 4 tỉnh Liêu ninh, Thông tin
+kết quả 3 ca (Báo cáo của bệnh viện số 4 tỉnh Liêu ninh, Thông tin
 Trung y dược thảo 1972,1:37)
 
 4.Cầm chảy máu do chấn thương: Tiên hạc thảo 10 phần, Gừng tươi 7 phần
@@ -133,7 +133,7 @@ tất cả xắt nhỏ sao tồn tính tán bột mịn, đắp ngoài cầm má
 
 -  Tiên hạc thảo 20g sắc nước gia đường trắng 20g hòa uống.
 
-6.Trị sán ( Taeniasis): Dùng rễ Tiên hạc thảo và mầm non ( đông nha) rửa
+6.Trị sán (Taeniasis): Dùng rễ Tiên hạc thảo và mầm non (đông nha) rửa
 sạch cạo vỏ ngoài phơi khô tán bột, người lớn mỗi lần uống 50g, trẻ em
 uống 1g/kg thể trọng, uống vào sáng sớm lúc bụng đói, sau 2 giờ chưa đại
 tiện, uống thuốc tẩy.
@@ -145,7 +145,7 @@ bôi vào. Có thể trị viêm tuyến vú.
 thuốc này có thể dùng trị thiếu máu.
 
 9.Trị sốt rét: Dùng bột Tiên hạc thảo 9gam sao rượu uống trước khi lên
-cơn hoặc dùng lượng lớn sắc uống ( Quí châu dân gian phương dược tập).
+cơn hoặc dùng lượng lớn sắc uống (Quí châu dân gian phương dược tập).
 
 Liều lượng và chú ý:
 

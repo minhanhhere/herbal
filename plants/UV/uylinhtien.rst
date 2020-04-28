@@ -12,7 +12,7 @@ C.manshurica Rupr.
 Cây Clematis chinensis được dung nhiều, hai loại sau chỉ dùng ở một số
 địa phương. Cây Uy linh tiên sinh sản nhiều ở các tỉnh Giang tô, An huy,
 Triết giang Trung quốc. Ở nước ta chưa thấy phát hiện, chỉ nói đến Nam
-Uy linh tiên là cây Bạch hạc ( Kiến cò) không phải Uy linh tiên trong
+Uy linh tiên là cây Bạch hạc (Kiến cò) không phải Uy linh tiên trong
 bài này).
 
 Tính vị qui kinh:
@@ -78,7 +78,7 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 -  Bột Uy linh tiên, mỗi lần uống 3 - 6g, ngày 2 lần, uống với rượu ấm.
 -  Uy linh tiên, Quế chi, Phụ tử, Khương hoạt đều mỗi thứ 6g sắc nước
    uống trị viêm khớp mạn tính , đau lưng gối.
--  Thần ứng hoàn ( chứng trị chuẩn thằng): có Uy linh tiên, Quế tăm,
+-  Thần ứng hoàn (chứng trị chuẩn thằng): có Uy linh tiên, Quế tăm,
    Đương qui trị đau lưng do phong thấp hoặc ngã đau.
 
 2.Trị đau bao tử cơ năng:
@@ -90,14 +90,14 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 -  Uy linh tiên 10g, Sa nhân 3g, sắc nước ngậm uống.
 -  Uy linh tiên 30g sắc đặc uống hoặc uống với giấm. Khoa Ngũ quan Bêïnh
    viện 157 thuộc Quân đội giải phóng nhân dân Trung quốc dùng trị cho
-   104 ca, có kết quả 87,6% ( theo báo Tân y học 1973,3:144).
+   104 ca, có kết quả 87,6% (theo báo Tân y học 1973,3:144).
 
 4.Trị viêm cột sống phì đại 65 ca và chấn thương cơ vùng lưng 32 ca:
-dùng dịch Uy linh tiên chích bắp đều có kết quả ( Qui Thành và cộng sự,
+dùng dịch Uy linh tiên chích bắp đều có kết quả (Qui Thành và cộng sự,
 báo Thông tin Trung thảo dược 1979,7:13).
 
 5.Trị nấc cụt: Uy linh tiên và mật ong mỗi thứ 30g, sắc uống. Lý trụ Hoa
-dùng trị 60 ca có kết quả trên 90% ( Báo nghiên cứu Trung thành dược
+dùng trị 60 ca có kết quả trên 90% (Báo nghiên cứu Trung thành dược
 1982,2:46).
 
 6.Trị sỏi mật: mỗi ngày dùng Uy linh tiên 30 - 60g sắc uống. . Lục Hoan
@@ -107,7 +107,7 @@ thuốc cho thỏ phát hiện lượng mật tiết tăng nhiều, cơ vòng Od
 
 7.Phản ứng độc tính:
 
-Tác giả giới thiệu dùng lá nhỏ Uy linh tiên đắp ngoài ( 3 ca đắp lá tươi
+Tác giả giới thiệu dùng lá nhỏ Uy linh tiên đắp ngoài (3 ca đắp lá tươi
 phản ứng mạnh, 1 ca đắp lá khô phản ứng nhẹ) da nổi mụn phỏng lớn, sưng
 đỏ đau, bóc da và để lại sẹo tím lâu hết (Lưu ngọc Thư, Học báo Trung y
 dược 1978,2:43).

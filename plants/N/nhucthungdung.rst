@@ -1,15 +1,15 @@
 NHỤC THUNG DUNG
 
-( Herba Cistanches)
+(Herba Cistanches)
 
 Nhục thung dung là toàn thân cây mang lá hình vảy (Caulis Cistanchis).
 Hiện trên thị trường có dùng nhiều loại:
 
-#. Cây Thung dung ( Cistanche deserticola Y.G.Ma) thuộc họ Nhục thung
-   dung ( Orobranhaceae).
+#. Cây Thung dung (Cistanche deserticola Y.G.Ma) thuộc họ Nhục thung
+   dung (Orobranhaceae).
 #. Cây Mễ nhục thung dung (Cistanche ambigua G.Beck. (Bge)), thuộc họ
    Nhục thung dung.
-#. Cây Nhục thung dung ( Cistanche salsa (C.A. Mey.) G Beck), hiện Trung
+#. Cây Nhục thung dung (Cistanche salsa (C.A. Mey.) G Beck), hiện Trung
    quốc thường dùng loại này. Vị thuốc này được ghi đầu tiên trong sách
    Bản kinh.
 
@@ -37,7 +37,7 @@ tiện. Chủ trị các chứng liệt dương, vô sinh, đại tiện táo b�
 
 Trích Y văn cổ:
 
--  Sách Bản kinh: " trị 5 chứng lao, 7 chứng thương tổn: ( thất thương:
+-  Sách Bản kinh: " trị 5 chứng lao, 7 chứng thương tổn: (thất thương:
    lo quá thương tỳ, giận quá thương can, ngồi nơi ẩm thấp thương thận,
    lạnh quá thương phế, lo nghĩ buồn thương tâm, cảm gió mưa nóng lạnh
    thương hình thể, sợ hãi thương chi), bổ trung, dưỡng ngũ tạng, cường
@@ -54,9 +54,9 @@ Trích Y văn cổ:
 
 B.Kết quả nghiên cứu dược lý hiện đại:
 
-#. Tác dụng hạ áp ( theo tài liệu: Trích yếu báo cáo luận văn năm 1956,
+#. Tác dụng hạ áp (theo tài liệu: Trích yếu báo cáo luận văn năm 1956,
    tập 2, Viện khoa học Y học Trung quốc xuất bản 70,1956).
-#. Làm tăng nước dãi (nước miếng) của chuột nhắt ( theo tài liệu: Trích
+#. Làm tăng nước dãi (nước miếng) của chuột nhắt (theo tài liệu: Trích
    yếu văn kiện nghiên cứu Trung dược do NXB Khoa học xuất bản năm
    1965(14).
 

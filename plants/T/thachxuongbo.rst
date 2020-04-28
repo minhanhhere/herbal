@@ -9,7 +9,7 @@ có tên Xương bồ, Cửu tiết xương bồ, là thân rễ phơi khô củ
 xương bồ Acorus Gramineus Soland. Còn Thủy xương bồ (Rhizoma Acori
 calami) là thân rễ phơi khô của cây Thủy xương bồ Acorus Calamus L.
 Thạch xương bồ cũng như Thủy xương bồ mọc khắp nơi ở miền Trung và Bắc
-nước ta. Cây Xương bồ thuộc họ Ráy ( Araceae).
+nước ta. Cây Xương bồ thuộc họ Ráy (Araceae).
 
 Tính vị qui kinh:
 
@@ -84,12 +84,12 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 1.Trị động kinh: dùng chất chiết xuất của Thạch xương bồ Asrone trị 90
 ca cơn động kinh lớn, người lớn mỗi lần 50mg, ngày 3 lần, trẻ em giảm
 liều, một liệu trình 1 tháng, theo dõi lâm sàng từ 3 tháng đến 2 năm, có
-kết quả 83,3% ( Trần kiến Gia, Thông báo dược học 1982,9:50). Một báo
+kết quả 83,3% (Trần kiến Gia, Thông báo dược học 1982,9:50). Một báo
 cáo khác của Trần Kiến Gia dùng Asarone chích bắp, lần đầu 20mg, trong
 30 phút nếu còn tái phát chích 20mg nữa, trẻ em giảm liều, hoặc truyền
 tĩnh mạch (1 - 2mg/kg cân nặng cho vào dịch 10% glucoz). Đã cấp cứu 18
 ca động kinh cơn liên tục, kết quả tốt 8 ca, có kết quả 10 ca, tỷ lệ kết
-quả 100% ( Tạp chí Trung y 1982,12:39).
+quả 100% (Tạp chí Trung y 1982,12:39).
 
 2.Trị bệnh não do phổi: Chế dịch tiêm Thạch xương bồ (0,5% dung dịch
 tinh dầu).
@@ -107,14 +107,14 @@ cải thiện (Kim duy Nhạc, Kỷ yếu nghiên cứu Trung thành dược 198
 
 3.Bệnh phổi tắc nghẽn mạn tính: dùng viên Asarone 60mg, ngày uống 3 lần
 liên tục, 14 - 21 ngày là một liệu trình. Đã trị 148 ca viêm phế quản
-mạn tính và hen phế quản đạt kết quả tốt là 61,1% ( Dương Ngọc, Báo Tân
+mạn tính và hen phế quản đạt kết quả tốt là 61,1% (Dương Ngọc, Báo Tân
 dược và lâm sàng 1986,4:210).
 
 4.Trị trẻ em trí lực phát triển kém: dùng Thạch xương bồ kết hợp với
 Nhân sâm, Viễn chí, Bổ cốt khí, Đậu khấu, sữa bột cacao, đường chế thành
 Bánh Dưỡng trí tăng lực trẻ em. Mỗi lần uống 10 - 15g, ngày 2 lần, 2
 tuần là một liệu trình, thời gian điều trị 3 tháng. Đã trị 30 ca đều có
-cải thiện chức năng vỏ não, nâng cao tư duy và khả năng phân tích ( La
+cải thiện chức năng vỏ não, nâng cao tư duy và khả năng phân tích (La
 Thiện Hoa và cộng sự. Kỷ yếu nghiên cứu Trung thành dược 1982,6:22).
 
 5.Trị chứng hôn mê sốt cao do đàm mê tâm khiếu:

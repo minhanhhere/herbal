@@ -27,7 +27,7 @@ B. Chế biến cổ truyền:
 -  Chuyển dạng dùng: Hoàng nàn sống chỉ được dùng ngoài. Hoàng nàn chế
    dược dùng trong.
 
-#. Phương pháp chế biến: ( theo Dược điển Việt nam)
+#. Phương pháp chế biến: (theo Dược điển Việt nam)
 
 -  Ngâm vị thuốc trong nước 12 - 24 giờ, cạo bỏ vỏ ngoài. Ngâm tiếp
    trong nước vo gạo 3 ngày đêm, mỗi ngày thay nước một lần, vớt ra, rửa

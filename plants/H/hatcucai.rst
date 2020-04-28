@@ -83,7 +83,7 @@ Trùng khánh y dược 1986,6:46).
 
 2.Trị bệnh cao huyết áp:
 
--  Dùng liều thông thường ( 6 - 10g/mỗi ngày) cho bệnh nhân uống, theo
+-  Dùng liều thông thường (6 - 10g/mỗi ngày) cho bệnh nhân uống, theo
    dõi 467 ca cao huyết áp, tỷ lệ có kết quả 86,94%, kết quả rõ rệt
    49,8%, tỷ lệ có cải thiện triệu chứng lâm sàng 92% (Lai Minh - Thông
    tin nghiên cứu Y học 1986,6:185).

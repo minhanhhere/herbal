@@ -56,10 +56,10 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 
 1.Trị bệnh sán dây bò (taenia saginata): Bí ngô bỏ vỏ tán bột, người lớn
 60 - 80g, trẻ em dưới 15 tuổi 30 - 50g, uống đói lúc sáng sớm, 2 giờ sau
-khi uống nước sắc hạt cau ( người lớn 60 - 80g, trẻ em dưới 15 tuổi 30 -
+khi uống nước sắc hạt cau (người lớn 60 - 80g, trẻ em dưới 15 tuổi 30 -
 60g), sau 30 phút uống sulfat Mangési (người lớn 60ml, trẻ em 20 -
 40ml). Trị 70 ca, có 2 ca không theo dõi được, còn 68 ca đều kết quả, tỷ
-lệ khỏi 97,06% ( Khương Vĩnh Lục Tạp chí bệnh nhiễm và Ký sinh trùng
+lệ khỏi 97,06% (Khương Vĩnh Lục Tạp chí bệnh nhiễm và Ký sinh trùng
 Trung hoa 1958,3:188).
 
 2.Trị mất sữa sau sanh: mỗi lần uống hạt Bí ngô 15 - 20g, bỏ vỏ giã nát

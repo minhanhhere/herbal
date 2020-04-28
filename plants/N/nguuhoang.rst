@@ -18,7 +18,7 @@ Aán độ có Aán độ ngưu hoàng.
 Ngưu hoàng nhân tạo (tổng hợp) là dùng mật bò hay mật heo gia công tổng
 hợp thành. Những năm gần đây, người ta dùng phương pháp nuôi Ngưu hoàng
 thiên nhiên ở những con bò sống bằng cách cho cấy Hoàng hạch vào túi mật
-rồi bơm trực khuẩn đại tràng ( E. Coli) không gây bệnh vào làm cho thành
+rồi bơm trực khuẩn đại tràng (E. Coli) không gây bệnh vào làm cho thành
 phần của mật bám vào Hoàng hạch hình thành sạn mật nên gọi là Ngưu hoàng
 thiên nhiên nhân tạo.
 
@@ -81,7 +81,7 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    hay gây ngủ.
 #. Ngưu hoàng có tác dụng ức chế tính thẩm thấu của mạch máu và có tác
    dụng kháng viêm. Trên mô hình huyết áp cao ở chuột đồng, thuốc có tác
-   dụng hạ áp rõ rệt và tác dụng kéo dài ( trên 2 - 3 ngày với 1 liều
+   dụng hạ áp rõ rệt và tác dụng kéo dài (trên 2 - 3 ngày với 1 liều
    thuốc). Trên tim cô lập của chuột lang thuốc gây kích thích nhưng gây
    co thắt động mạch vành. Thí nghiệm trên thỏ, thuốc gây hạ áp, giãn
    mạch ngoại biên và ức chế tác dụng của epinephrine đối với tim.
@@ -107,21 +107,21 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 
 1.Dùng độc vị Ngưu hoàng và các bài thuốc có Ngưu hoàng: trị các bệnh
 viêm đường hô hấp trên, cúm, viêm phế quản, viêm phổi 146 ca, trị có kết
-quả với tỷ lệ 75,2% ( Thông tin Trung thảo dược 1972,4:49).
+quả với tỷ lệ 75,2% (Thông tin Trung thảo dược 1972,4:49).
 
 2.Taurocholic acid: là một loại amino acid, một thành phần chủ yếu cỉa
 Ngưu hoàng lại có trong nhiều phủ tạng như: túi mật, gan, phổi; hiện có
 thể tổng hợp bằng hóa học. Có tác dụng giải nhiệt, an thần, tiêu viêm,
 hạ áp, trị động kinh, có thể dùng trị nhiều bệnh như sốt cảm, viêm
 amidale, viêm phế quản, đau thần kinh, viêm khớp do phong thấp, nhiễm
-độc thuốc v..v.. ( Hạ kiếm Minh Tân y học 1985,12:64).
+độc thuốc v..v.. (Hạ kiếm Minh Tân y học 1985,12:64).
 
 3.Trị bệnh nhiễm sốt cao hôn mê co giật, đàm mê tâm khiếu thực chứng:
 
 -  Vạn thị Ngưu hoàng thanh tâm hoàn: Ngưu hoàng 0,3g, Hoàng liên 5g,
    Hoàng cầm, Chi tử, Uất kim đều 10g, Chu sa 3g làm hoàn thuốc thành
    phẩm uống theo qui định của bào chế.
--  An cung Ngưu hoàng hoàn ( xem vị Băng phiến).
+-  An cung Ngưu hoàng hoàn (xem vị Băng phiến).
 -  Ngưu hoàng tán: Ngưu hoàng 0,3g, Chu sa 3g, Xạ hương 0,1g, Thiên trúc
    hoàng 10g, Yết vĩ 1,5g, Câu đằng 15g, chế thành thuốc tán, mỗi lần
    uống 1.5 - 3g, uống với nước sôi nguội.

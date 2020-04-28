@@ -4,15 +4,15 @@ HỒ TRƯỢNG
 
 (Radix Polygoni Cuspidati)
 
-Hổ trượng ( Củ cốt khí) còn gọi là Hoạt huyết dan, Tử kim long, Ban
-trượng căn, Hổ trượng căn, Điền thất ( miền nam), là rễ phơi hay sấy khô
-của cây Hổ trượng ( polygonum cuspidatum sieb. Et Zucc.) dùng làm thuốc
+Hổ trượng (Củ cốt khí) còn gọi là Hoạt huyết dan, Tử kim long, Ban
+trượng căn, Hổ trượng căn, Điền thất (miền nam), là rễ phơi hay sấy khô
+của cây Hổ trượng (polygonum cuspidatum sieb. Et Zucc.) dùng làm thuốc
 được ghi đầu tiên trong sách Danh y biệt lục.
 
 Cây cốt khí mọc hoang nhiều nơi ở nước ta và Trung quốc, đặc biệt rất
 nhiều ở Sapa. Trồng bằng củ rất dễ mọc. Cần chú ý Cốt khí còn là tên
 dùng chỉ hạt và lá của nhiều cây khác thuộc họ Đậu. Củ Cốt khí thuộc họ
-Rau răm ( Polygonaceae).
+Rau răm (Polygonaceae).
 
 Tính vị qui kinh:
 
@@ -84,7 +84,7 @@ viêm.
 -  Trị các chứng đau do té ngã bầm huyết, Hổ trượng kết hợp với thuốc
    hoạt huyết hóa ứ như Nhũ hương, Một dược, Hồng hoa.
 
-2.Trị chứng hoàng đản do thấp nhiệt ( viêm gan, sỏi mật .) kết hợp với
+2.Trị chứng hoàng đản do thấp nhiệt (viêm gan, sỏi mật .) kết hợp với
 Nhân trần, Kim tiền thảo, Liên kiều, Mộc thông để thanh nhiệt trừ thấp.
 Trị khí hư, bạch đới (thể thấp nhiệt) dùng kết hợp với Tỳ giải, Ích trí
 nhân.
@@ -98,18 +98,18 @@ Bồ công anh, kết hợp đắp ngoài thuốc tươi.
 ngân hoa, Hoàng cầm.
 
 6.Trị viêm nhiễm đường mật: Bệnh viện trực thuộc số 2 của Viện Y học Vũ
-hán ( Trung quốc) dùng viên Nhân hổ hoàng ( Nhân trần, Hổ trượng, Đại
+hán (Trung quốc) dùng viên Nhân hổ hoàng (Nhân trần, Hổ trượng, Đại
 hoàng) trị viêm nhiễm đường mật 113 ca, có kết quả 100 ca, không kết quả
-13 ca. Tỷ lệ đạt kết quả 88,14% ( Tân cương trung y dược 1986,3:49).
+13 ca. Tỷ lệ đạt kết quả 88,14% (Tân cương trung y dược 1986,3:49).
 
-7.Trị vẩy nến: Từ Nghi Hậu dùng bài Ngân hoa Hổ trượng thang ( Kim ngân
+7.Trị vẩy nến: Từ Nghi Hậu dùng bài Ngân hoa Hổ trượng thang (Kim ngân
 hoa, Hổ trượng, Đơn sâm) trị 25 ca vẩy nến tiến triển, khỏi 8 ca, có kết
-quả 8 ca, tiến bộ 9 ca ( Tạp chí Trung y Triết giang 1982,4:187).
+quả 8 ca, tiến bộ 9 ca (Tạp chí Trung y Triết giang 1982,4:187).
 
 8.Trị viêm gan siêu vi thể vàng da: dùng Hổ trượng tươi 30g, Lá liễu
 tươi 15g, Địa cam thảo tươi 30g, sắc nước uống ngày 1 thang, uống liền
 trong 10 - 15 ngày. Trị 115 ca, sau 7 -10 ngày hết vàng da, kiểm tra
-chức năng gan hồi phục, hết triệu chứng lâm sàng ( Tạp chí Tân cương
+chức năng gan hồi phục, hết triệu chứng lâm sàng (Tạp chí Tân cương
 trung y dược 1986, 3:49).
 
 9.Trị viêm gan mạn: dùng Hổ trượng, Đại táo đều 30g, sắc nước uống trị
@@ -121,13 +121,13 @@ Tạp chí Trung y Giang tô 1965,5:40).
 10.Trị viêm gan siêu vi B mạn tính hoạt động: (HbsAg dương tính) Trị 32
 ca dùng viên Hổ trượng, Sơn tra dạng pha trà uống. Kết quả: 18 ca HbsAg
 chuyển âm tính, 11 ca có kết quả, 3 ca không kết quả, tỷ lệ có kết quả
-90,63% triệu chứng lâm sàng được cải thiện, chức năng gan hồi phục ( Tạp
+90,63% triệu chứng lâm sàng được cải thiện, chức năng gan hồi phục (Tạp
 chí Trung y Sơn đông 1982,2:84).
 
 Liều dùng và chú ý:
 
 -  Liều thuốc uống từ 10 - 30g, dùng ngoài vừa đủ.
--  Không dùng cho phụ nữ có thai ( dược tính bản thảo).
+-  Không dùng cho phụ nữ có thai (dược tính bản thảo).
 
 .. |image0| image:: HOTRUONG.JPG
    :width: 50px

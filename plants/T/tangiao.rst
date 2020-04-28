@@ -99,7 +99,7 @@ mồ hôi:
 -  Tần giao, Phòng kỷ lượng bằng nhau sấy khô tán bột mịn qua rây cho
    vào nang 0,3g. Trước khi nhổ răng uống 2 viên (trước 30 phút), sau
    khi nhổ cứ 6 giờ uống 1 lần trong 3 ngày liền, trị 26 ca kết quả tốt
-   ( Báo cáo của Từ tử Thu, Sách Dã kim y học 1987,1:73).
+   (Báo cáo của Từ tử Thu, Sách Dã kim y học 1987,1:73).
 
 Liều thường dùng:
 

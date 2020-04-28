@@ -5,7 +5,7 @@ TỤC ĐOẠN
 (Radix Dipsaci)
 
 Dùng làm thuốc còn có tên Tiếp cốt thảo, Xuyên đoạn hoặc Sâm nam, Dầu vù
-( Mèo), Rễ Ké (miền Nam). Bộ phận dùng làm thuốc là rễ phơi hay sấy khô
+(Mèo), Rễ Ké (miền Nam). Bộ phận dùng làm thuốc là rễ phơi hay sấy khô
 của cây Tục đoạn (Dipsacus asper Wall), được ghi đầu tiên trong sách Bản
 kinh.
 

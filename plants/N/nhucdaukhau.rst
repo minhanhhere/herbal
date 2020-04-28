@@ -2,12 +2,12 @@
 
 NHỤC ĐẬU KHẤU
 
-( Semen Myristicae Fragranticis)
+(Semen Myristicae Fragranticis)
 
 Nhục đậu khấu còn có tên là Nhục quả, Ngọc quả dùng làm thuốc được ghi
 đầu tiên trong sách Dược tính bản thảo, là nhân phơi khô hay quả chín
-sấy khô của Nhục đậu khấu ( Myristica fragrans Houtt.) thuộc họ Nhục đậu
-khấu ( Myristicaeae).
+sấy khô của Nhục đậu khấu (Myristica fragrans Houtt.) thuộc họ Nhục đậu
+khấu (Myristicaeae).
 
 Cây Nhục đậu khấu được trồng ở miền Nam nước ta, Campuchia, Trung quốc (
 Quảng đông), Indonesia, Malasia, Tây Aán độ v..v..
@@ -29,22 +29,22 @@ Theo các sách thuốc cổ:
 Thành phần chủ yếu:
 
 Nhục đậu khấu có chứa tinh bột, chất protid chừng 40% chất béo gọi là bơ
-Nhục đậu khấu ( beurre de muscade) 8 - 15% tinh dầu, 3 - 4% chất nhựa.
+Nhục đậu khấu (beurre de muscade) 8 - 15% tinh dầu, 3 - 4% chất nhựa.
 Tinh dầu Nhục đậu khấu gồm 1 hỗn hợp các chất pinene, camphene quay phải
-( 80%), dipentene (8%), cồn terpenic (linalol, borneol, terpineol và
+(80%), dipentene (8%), cồn terpenic (linalol, borneol, terpineol và
 geraniol (6%) một ít eugenol và safrol, chất myristicin (4%). Bơ Nhục
 đậu khấu có chừng 70 - 75% myristin, 2 - 3% tinh dầu.
 
 Tác dụng dược lý:
 
 #. Tinh dầu có mùi thơm dùng ít tăng bài tiết dịch vị, kích thích nhu
-   động ruột giúp ăn ngon ( liều rất ít 0,03 - 2ml).
+   động ruột giúp ăn ngon (liều rất ít 0,03 - 2ml).
 #. Liều lượng tinh dầu Nhục đậu khấu làm say tê rõ rệt. Người uống 7,5g
    bột Nhục đậu khấu có thể gây hoa mắt, chóng mặt, nói sảng, hôn mê,
    uống quá liều đã có trường hợp gây tử vong. Trên thực nghiệm ở mèo,
    liều gây tê mê thường là độc dẫn đến suy gan.
 #. Độc tính của thuốc: trên mèo thực nghiệm, với liều 1,9g/kg thường gây
-   nhiễm độc gan ( kiểm tra sinh thiết). Trên người với liều uống bột
+   nhiễm độc gan (kiểm tra sinh thiết). Trên người với liều uống bột
    thuốc 7,5g gây độc có triệu chứng kích thích thần kinh, nói sảng.
    Chất gây độc chủ yếu là thành phần Myristicin.
 
@@ -62,9 +62,9 @@ Tác dụng dược lý:
 thận dương hư: dùng bài:
 
 -  Bổ cốt chi 10 - 12g, Ngô thù du 9g, Ngũ vị tử 10g, Đảng sâm 15g, Nhục
-   đậu khấu 6g ( cho vào sau) sắc uống.
--  Tứ thần hoàng ( Chứng trị chuẩn thằng): Bổ cốt chi 10g, Nhục đậu khấu
-   5g ( sao), Ngũ vị tử 5g, Ngô thù du 4g, Đại táo 3 quả, Gừng tươi 3
+   đậu khấu 6g (cho vào sau) sắc uống.
+-  Tứ thần hoàng (Chứng trị chuẩn thằng): Bổ cốt chi 10g, Nhục đậu khấu
+   5g (sao), Ngũ vị tử 5g, Ngô thù du 4g, Đại táo 3 quả, Gừng tươi 3
    lát sắc uống với nước muối nhạt trước lúc ngủ.
 
 Liều thường dùng:

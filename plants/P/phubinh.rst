@@ -2,9 +2,9 @@
 
 PHÙ BÌNH
 
-( Herba Lemnae seu Spirodelae)
+(Herba Lemnae seu Spirodelae)
 
-Là toàn cây Phù bình ( Spirodela polyrhiza Schleid) khác với vị Bèo cái
+Là toàn cây Phù bình (Spirodela polyrhiza Schleid) khác với vị Bèo cái
 hoặc còn gọi là Đại phù bình, Bèo tía, Bèo ván. Tên khoa học là Pista
 stratiotes L. thuộc họ Ráy (Araceae). Vị cay, tính hàn qui kinh phế.
 
@@ -31,7 +31,7 @@ Dùng bài Bình đậu qua bì thang: Phù bình 8g, Mộc tặc thảo 12g, Li
 12g, Xích tiểu đậu 20g, Đông qua bì 16g, Tây qua bì 12g, Ma hoàng 4g,
 Cam thảo 4g, sắc nước uống.
 
-3.Chữa mề đay ( Urticaire) : dùng bài:
+3.Chữa mề đay (Urticaire) : dùng bài:
 
 -  Phù bình 8 - 12g, Kinh giới 8 - 12g, Phòng phong 8g, Thuyền thoái 2 -
    4g, Nhân trần 12g, Cam thảo 4g, sắc nước uống. Cũng có thể dùng độc

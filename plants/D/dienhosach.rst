@@ -4,7 +4,7 @@ DIÊN HỔ SÁCH
 
 Diên hồ sách dùng làm thuốc được ghi đầu tiên trong sách Bản thảo thập
 di là thân rễ đã chế biến khô của cây Huyền hồ sách cũng gọi là Diên hồ
-sách, Huyền hồ, Nguyên hồ ( Corydalis bulbosa DC) họ Cải cần (
+sách, Huyền hồ, Nguyên hồ (Corydalis bulbosa DC) họ Cải cần (
 Fumariaceae). Cũng có loại Diên hồ sách có tên La tinh là Corydals
 turschaninovii Bess f.yanhusuo Y.H.Chou et C.C. Hsu.
 
@@ -76,7 +76,7 @@ Thuốc còn có tác dụng tăng tiết nội tiết tố vỏ tuyến thượ
 -  Diên hồ sách thang: Diên hồ sách, Đương qui, Thược dược, Hậu phác mỗi
    thứ 10g, Tam lăng, Nga truật, Mộc hương mỗi thứ 5g, sắc nước uống trị
    đau bụng kinh.
--  Diên hồ sách ( sao rượu) 80g, Hương phụ ( sao giấm) 20g, tán bột mịn
+-  Diên hồ sách (sao rượu) 80g, Hương phụ (sao giấm) 20g, tán bột mịn
    trộn đều, mỗi lần uống 6g với rượu ấm.
 
 2.Trị các chứng đau bao tử: như lóet dạ dày tá tràng, đau viêm bao tử,
@@ -96,14 +96,14 @@ gia giảm trị chứng đau có thể tùy bệnh mà gia giảm như sau:
 -  Phối hợp với Đương qui, Xuyên khung, Hương phụ trị chứng đau kinh,
    phối hợp với Qua lâu, Phỉ bạch, Uất kim trị đau ngực sườn, cùng với
    Đương qui, Quế chi, Xích thược trị đau mình mẩy và chân tay do phong
-   hàn, cùng dùng với Tiểu hồi, Ô dược trị đau do sán khí ( đau do sa
+   hàn, cùng dùng với Tiểu hồi, Ô dược trị đau do sán khí (đau do sa
    ruột ) cùng dùng với Ngân hoa, Liên kiều, Mộc hương có tác dụng thanh
    nhiệt giải độc trị chứng viêm ruột đau bụng, phối hợp với Đương qui,
    Nhũ hương, Một dược trị chứng đau do té ngã.
 
 5.Dùng làm thuốc gây tê tại chỗ: dùng dịch chích kiềm Diên hồ sách 0,2%
 gây tê tại chỗ làm phẫu thuật 105 ca, kết quả tốt 98 ca, tỷ lệ 93,4%, có
-tác dụng gây tê kém ( trong quá trình phẫu thuật hơi đau) 6 ca (5,7%)
+tác dụng gây tê kém (trong quá trình phẫu thuật hơi đau) 6 ca (5,7%)
 ,(theo Bệnh viện số 2 Đường sơn, Tạp chí Tân y dược Hà bắc 1973,4:34).
 
 6.Trị đau mạch vành: dùng cồn 80% chiết xuất Diên hồ sách chế thành

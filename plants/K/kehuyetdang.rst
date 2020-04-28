@@ -2,7 +2,7 @@ KÊ HUYẾT ĐẰNG
 
 Caulis Mucunae, Caulis Sargentodoxae
 
-Là thân dây leo của cây Kê huyết đằng ( Sargentodoxa cubeata) , họ Đậu
+Là thân dây leo của cây Kê huyết đằng (Sargentodoxa cubeata) , họ Đậu
 Fabaceae.
 
 Tính vị: vị đắng, hơi ngọt, tính ấm.

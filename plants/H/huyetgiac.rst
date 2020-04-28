@@ -12,11 +12,11 @@ nhựa.
 
 Chỉ biết trong huyết giác có chất nhựa màu đỏ tan trong cồn, aceton,
 acid, không tan trong ête, clorofoc và benzen. Với kiềm, màu đỏ vàng lúc
-đầu chuyển sang màu da cam ( Bộ môn Dược liệu và thực vật Trường đại học
+đầu chuyển sang màu da cam (Bộ môn Dược liệu và thực vật Trường đại học
 Dược Hà nội, 1961)
 
 Tác dụng dược lý: Sơ bộ nghiên cứu tác dụng giãn mạch trên tai thỏ, thấy
-chất tan trong rượu với nồng độ 1/270 có tác dụng giãn mạch ( Báo cáo
+chất tan trong rượu với nồng độ 1/270 có tác dụng giãn mạch (Báo cáo
 tốt nghiệp của Đặng thị Mai An, Hà nội, 1961)
 
 Công dụngø: Huyết giác là một vị thuốc dùng trong nhân dân dùng chữa

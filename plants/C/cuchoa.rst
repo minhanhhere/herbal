@@ -2,11 +2,11 @@
 
 CÚC HOA
 
-( Flos Chrysanthemi Morifolii)
+(Flos Chrysanthemi Morifolii)
 
-Cúc hoa có nhiều loại: Cam cúc hoa ( Cúc hoa trắng), Hàng cúc (Cúc hoa
+Cúc hoa có nhiều loại: Cam cúc hoa (Cúc hoa trắng), Hàng cúc (Cúc hoa
 vàng mọc ở Hàng châu Trung quốc) là hoa của nhiều loại Cúc (
-Chrysanthemum morifolium Ramat) thuộc họ cúc ( Compositae).
+Chrysanthemum morifolium Ramat) thuộc họ cúc (Compositae).
 
 Vị ngọt đắng, tính hơi hàn, qui kinh Phế Can Thận.
 
@@ -19,11 +19,11 @@ Tác dụng dược lý:
 
 Theo dược lý cổ truyền thuốc có tác dụng:
 
-1.Giải cảm hạ sốt ( sơ phong tán nhiệt) tiêu viêm.
+1.Giải cảm hạ sốt (sơ phong tán nhiệt) tiêu viêm.
 
-2.Giải độc ( giải đinh độc)
+2.Giải độc (giải đinh độc)
 
-3.Làm sáng mắt ( dưỡng can minh mục)
+3.Làm sáng mắt (dưỡng can minh mục)
 
 Theo các tài liệu nghiên cứu dược lý hiện đại :
 
@@ -70,16 +70,16 @@ Chú ý lúc dùng thuốc: Các loại Cúc hoa đều ít nhiều có tác d�
 phong nhiệt, giải độc tiêu viêm, làm sáng mắt, nhưng mỗi loại đều có tác
 dụng sở trường:
 
--  Cúc hoa vàng ( Hàng châu) mạnh về sơ tán phong nhiệt, đau đầu mắt đỏ
+-  Cúc hoa vàng (Hàng châu) mạnh về sơ tán phong nhiệt, đau đầu mắt đỏ
    thường dùng.
--  Cúc hoa trắng ( Cam cúc hoa) mạnh về dưỡng can minh mục thường dùng
+-  Cúc hoa trắng (Cam cúc hoa) mạnh về dưỡng can minh mục thường dùng
    chữa chứng Can thận âm hư sinh mờ mắt, còn có tác dụng giảm đau.
--  Dã cúc hoa ( Chryanthemum indicum L.) vị đắng cay tính mát có tác
+-  Dã cúc hoa (Chryanthemum indicum L.) vị đắng cay tính mát có tác
    dụng thanh nhiệt giải độc tốt. Qua nghiên cứu dược lý thực nghiệm
-   thấy có tác dụng kháng khuẩn ( ức chế tụ cầu khuẩn vàng và trực khuẩn
-   bạch hầu). Còn có tác dụng hạ áp ( do thuốc có tác dụng đối kháng với
+   thấy có tác dụng kháng khuẩn (ức chế tụ cầu khuẩn vàng và trực khuẩn
+   bạch hầu). Còn có tác dụng hạ áp (do thuốc có tác dụng đối kháng với
    adrenalin, làm giãn mạch máu ngoại vi thường dùng chữa mụn nhọt. Dùng
-   độc vị hoặc kết hợp Kim ngân hoa, Bồ công anh ( dùng tươi đắp hoặc
+   độc vị hoặc kết hợp Kim ngân hoa, Bồ công anh (dùng tươi đắp hoặc
    thuốc sắc uống). Chữa cao huyết áp dùng dạng trà độc vị hoặc kết hợp
    với Thảo quyết minh, Hạ khô thảo sắc nước uống.
 -  Dùng thận trọng đối với người tỳ vị hư hàn.

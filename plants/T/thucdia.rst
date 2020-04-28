@@ -2,12 +2,12 @@
 
 THỤC ĐỊA
 
-( Radix Rehmanniae Glutinosae Conquitae)
+(Radix Rehmanniae Glutinosae Conquitae)
 
 Thục địa là do Sinh địa chế biến thành, được ghi đầu tiên trong sách Bị
 ấp thiên kim yếu phương, tập 27 với tên Thục can địa hoàng. Thục địa là
-phần rrễ của cây Địa hoàng ( Rehmannia glutinóa Libosch, thuộc họ Hoa
-mõm chó ( Scrophulariaceae).
+phần rrễ của cây Địa hoàng (Rehmannia glutinóa Libosch, thuộc họ Hoa
+mõm chó (Scrophulariaceae).
 
 Tính vị qui kinh:
 
@@ -84,37 +84,37 @@ dùng bài Tứ vật thang (Cục phương) gia giảm.
 -  Tứ vật thang: Thục địa 20g, Đương qui, Bạch thược mỗi thứ 12g, Xuyên
    khung 6 - 8g.
 -  Gia giảm: Khí hư gia Đảng sâm, Hoàng kỳ để bổ khí sinh huyết, nếu ứ
-   huyết nặng gia thêm Đào nhân, Hồng hoa ( tức bài Đào hồng Tứ vật) để
+   huyết nặng gia thêm Đào nhân, Hồng hoa (tức bài Đào hồng Tứ vật) để
    tăng tác dụng hoạt huyết hóa ứ. Trường hợp huyết hư kiêm hàn gia Nhục
    quế, Bào khương để ôn dưỡng huyết mạch. Nếu huyết hư sinh nội nhiệt
    gia thêm Liên kiều, Đơn bì, Thục địa thay bằng Sinh địa để lương
    huyết dưỡng huyết. Trường hợp huyết hư kèm chảy máu bỏ Xuyên khung
    gia A giao, Hoa hòe để bổ huyết chỉ huyết.
 
-2.Trị chứng âm hư ( hư nhiệt sốt âm ỉ vào chiều tối nặng hơn, sôt kéo
+2.Trị chứng âm hư (hư nhiệt sốt âm ỉ vào chiều tối nặng hơn, sôt kéo
 dài, ra mồ hôi trộm, môi khô, lưỡi thon đỏ, mạch tế, sác.) thường gặp
 trong các bệnh nhiễm thời kỳ hồi phục, bệnh ung thư suy kiệt, bệnh chất
 tạo keo, viêm đa khớp dạng thấp, bệnh suy giảm miễn dịch . tùy tình hình
 bệnh lý có thể chọn dùng các bài sau:
 
--  Tả qui hoàn ( Cảnh nhạc toàn thư): Thục địa 20g, Sơn thù, Câu kỷ tử,
+-  Tả qui hoàn (Cảnh nhạc toàn thư): Thục địa 20g, Sơn thù, Câu kỷ tử,
    Thỏ ty tử, Lộc giác giao, Qui bản mỗi thứ 12g, Sơn dược 16g, Ngưu tất
    12g, tán bột mịn luyện mật làm hoàn. Mỗi lần uống 8 - 12g, ngày 2
    lần.
--  Lục vị Địa hoàng hoàn ( Tiểu nhi dược chứng trực quyết): Thục địa
+-  Lục vị Địa hoàng hoàn (Tiểu nhi dược chứng trực quyết): Thục địa
    hoàng 32g, Sơn dược 16g, Sơn thù 16g, Bạch linh, Trạch tả, Đơn bì mỗi
    thứ 12g. Thục địa sắc lấy nước còn bã cùng các vị thuốc khác sấy khô
    tán bột mịn trộn với nước Thục địa cho thêm mật ong vừa đủ làm hoàn
    nhỏ. Mỗi lần uống 8 - 12g, ngày 2 - 3 lần với nước sôi nguội hòa nước
    nuối nhạt, chủ yếu là bổ thận âm.
--  Đại bổ âm hoàn ( Đơn khê tâm pháp): Thục địa (rượu chưng), Qui bản (
+-  Đại bổ âm hoàn (Đơn khê tâm pháp): Thục địa (rượu chưng), Qui bản (
    dấm chích) mỗi thứ 24g, Tri mẫu, Hoàng bá mỗi thứ 16g, Thục địa sắc
    lấy nước như trên, các vị thuốc tán bột mịn cùn tủy heo chưng chín
    luyện mật làm hoàn, mỗi lần uống 8 - 12g, ngày uống 2 lần sáng tối.
 
 Đối với những bệnh viêm thận mạn, huyết áp cao, tiểu đường, suy nhược
 thần kinh thể âm hư, dùng bài Lục vị gia giảm có kết quả tốt, có thể cải
-thiện chức năng thận ( Nghiên cứu dược lý bài Phức phương Lục vị địa
+thiện chức năng thận (Nghiên cứu dược lý bài Phức phương Lục vị địa
 hoàng hoàn, Tác dụng của thuốc đối với huyết áp và chức năng thận đối
 với mô hình viêm thận của chuột trắng to - Tạp chí Nội khoa Trung hoa
 12:23-25,1964.
@@ -123,9 +123,9 @@ với mô hình viêm thận của chuột trắng to - Tạp chí Nội khoa Tr
 đờm". Bệnh nhân hư suyễn có thể dùng Thục địa uống thay trà phối hợp với
 Ngưu tất càng tốt. Có thể dùng các bài:
 
--  Đô khí hoàn ( Lục vị địa hoàng gia Ngũ vị tử) mỗi lần 8 -12g, ngày 2
+-  Đô khí hoàn (Lục vị địa hoàng gia Ngũ vị tử) mỗi lần 8 -12g, ngày 2
    lần, tùy tình hình bệnh có thể gia vị sắc uống.
--  Kim thủy lục quân tiễn ( Cảnh nhạc toàn thư): Đương qui 12g, Thục địa
+-  Kim thủy lục quân tiễn (Cảnh nhạc toàn thư): Đương qui 12g, Thục địa
    16g, Trần bì 6g, Bán hạ chế gừng 8g, Bạch linh 12g, Chích thảo 4g,
    sắc uống.
 
@@ -134,7 +134,7 @@ với thịt nạc heo uống.
 
 5.Trị tiểu đường: dùng bài:
 
--  Sinh tân chỉ khát thang ( kinh ngiệm): Đại Thục địa 12g, Thái tử sâm
+-  Sinh tân chỉ khát thang (kinh ngiệm): Đại Thục địa 12g, Thái tử sâm
    16g, Sơn dược 20g, Ngũ vị tử 8g, sắc uống.
 
 6.Trị huyết áp: mỗi ngày dùng Thục địa 20 - 30g liên tục trong 2 tuần.
@@ -147,7 +147,7 @@ cân, đều sấy khô, tán bột mịn, Cốt toái bổ, Dâm dương hoắc
 mật 3 cân, trộn đều luyện thành hoàn nặng 2,5g/hoàn, mỗi lần uống 2
 hoàn, ngày uống 2 - 3 lần, liệu trình một tháng. Đã trị trên 3 vạn ca,
 theo 1000 ca được thống kê: kết quả tốt 803 ca, tiến bộ 141 ca, không
-kết quả 56 ca, phần lớn trong 1 - 2 liệu trình có kết quả ( Lưu bá Linh,
+kết quả 56 ca, phần lớn trong 1 - 2 liệu trình có kết quả (Lưu bá Linh,
 Phân tích lâm sàng 1.000 ca viêm thoái hóa cột sống, Tạp chí Trung y
 Liêu ninh 1982,3:40).
 
@@ -157,7 +157,7 @@ Thục địa, Sơn thù, sơn dược, trạch tả, Phục linh, Đơn bì the
 mỗi hoàn 10g, mỗi lần uống 1 -2 hoàn, ngày uống 1 - 3 lần liên tục trong
 12 năm. Đã trị 46 ca nghi ung thư thực quản và tế bào thực quản tăng
 sinh, kết quả ung thư hóa 1 ca, ổn định 4 ca, tiến bộ tốt 41 ca. Đối với
-tế bào thượng bì thực quản tăng sinh, tỷ lệ tiến bộ tốt 89,1% ( Bệnh
+tế bào thượng bì thực quản tăng sinh, tỷ lệ tiến bộ tốt 89,1% (Bệnh
 viện Ung thư tỉnh Hà bắc: Nhận xét bước đầu về kết quả điều trị tế bào
 thượng bì thực quản tăng sinh bằng Lục vị Địa hoàng hoàn, Tạp chí Tân y
 dược học 1977,7:15).

@@ -2,22 +2,22 @@
 
 NGŨ BỘI TỬ
 
-( Galla Rhi Chinesis)
+(Galla Rhi Chinesis)
 
 Ngũ bội tử là những túi đặc biệt do nhộng của con sâu Ngũ bội tử (
-Melaphis chinensis ( Bell) Baker), ký sinh trên những cuống lá và cành
+Melaphis chinensis (Bell) Baker), ký sinh trên những cuống lá và cành
 của cây Muối hay Diêm phụ mộc có nhiều loại có tên thực vật khác nhau
 như Rhus chinensis Mill R.Potaninii Maxim, R.punjabensis Stew var Sinica
-( Diels) Rehd et Wils, thuộc họ Đào lộn hột ( Anacardiaceae).
+(Diels) Rehd et Wils, thuộc họ Đào lộn hột (Anacardiaceae).
 
 Ngũ bội tử dùng làm thuốc được ghi đầu tiên trong sách Bản thảo thập di.
 Ở nước ta, Ngũ bội tử chỉ mới phát hiện có ít tại các tỉnh Cao bằng,
 Lạng sơn, Hà giang, Tuyên quang, Hoàng liên sơn, Lào cai và một số vùng
 Tây bắc, vùng biên giới Trung việt. Ngũ bội tử cũng có tại Nhật bản,
-Trung quốc ( Quảng đông, Quảng tây, Vân nam, Phúc kiến.)
+Trung quốc (Quảng đông, Quảng tây, Vân nam, Phúc kiến.)
 
-Ngũ bội tử có tên gọi là Bầu bí, Mặc piết, Bơ pật ( Thái), Văn cáp, Bách
-trùng thương ( Trung quốc).
+Ngũ bội tử có tên gọi là Bầu bí, Mặc piết, Bơ pật (Thái), Văn cáp, Bách
+trùng thương (Trung quốc).
 
 Tính vị qui kinh:
 
@@ -34,7 +34,7 @@ Theo các sách cổ:
 
 Thành phàn chủ yếu:
 
-Thành phần chủ yếu là Tanin ( tannic acid) còn gọi là galotanic acid,
+Thành phần chủ yếu là Tanin (tannic acid) còn gọi là galotanic acid,
 chiếm tỷ lệ 50 - 80%, resin 2 - 4%, chất béo, tinh bột.
 
 Tác dụng dược lý:
@@ -53,7 +53,7 @@ Trích đọan Y văn cổ:
 -  Sách Bản thảo cương mục: " liễm phế giáng hỏa, hóa đàm ẩm, chỉ khái
    thấu, tiêu khát, đạo hãn, nôn mữa, mất máu, lî lâu ngày, bệnh vàng
    da, đau bụng trên, trẻ em khóc đêm, làm đen tóc râu. Trị mắt đỏ lóet
-   lở, tiêu sưng độc, trị hầu tý ( đau sưng họng), làm thu miệng các
+   lở, tiêu sưng độc, trị hầu tý (đau sưng họng), làm thu miệng các
    nhọt lở lóet, trị lòi dom, sa ruột".
 
 B.Kết quả nghiên cứu dược lý hiện đại:
@@ -82,31 +82,31 @@ dưới 7g, cho truyền máu. Mỗi ngày theo dõi phân và làm thử nghi�
 của phân. Tác giả trị xuất huyết đường tiêu hóa trên 33 ca, kết quả sau
 1 tuần, thử nghiệm máu trong phân chuyển âm tính 29 ca, tỷ lệ 91%, do
 táo bón 9 ngày chuyển âm tính 2 ca, 11 ngày chuyển âm tính 1 ca, 1 ca do
-ung thư bao tử nên không kết quả ( Học báo học viện Trung y Triết giang
+ung thư bao tử nên không kết quả (Học báo học viện Trung y Triết giang
 1987,6:20).
 
 2.Trị di tinh: Dương Hiểu dùng bột mịn Ngũ bội tử trộn với nước muối
 sinh lý thành hồ lỏng phết vào miếng cao dán 3 x 4cm dán vào huyệt Tứ
-mãn ( huyệt ở vị trí dưới rốn 2 thốn ngang ra mỗi bên 0,5 thốn), 3 ngày
+mãn (huyệt ở vị trí dưới rốn 2 thốn ngang ra mỗi bên 0,5 thốn), 3 ngày
 thay 1 lần, 3 lần là 1 liệu trình. Trị 35 ca kết quả tốt 9 ca, có kết
-quả 19 ca, không kết quả 7 ca ( Báo Trung Y dợc Tân cương 1986,4 bìa 4)
+quả 19 ca, không kết quả 7 ca (Báo Trung Y dợc Tân cương 1986,4 bìa 4)
 
 3.Trị sẹo do bỏng: Phòng văn Bưu và cộng sự dùng Ngũ bội tử 8 - 100g tán
 bột mịn, giấm đen 250ml, Ngô công 1 con tán bột, Mật ong 18g, trộn đều
 thành cao, phết vào vải đen dán vùng sẹo, 3 - 5 ngày thay 1 lần cho đến
 khi sẹo mềm và băng lại, hết triệu chứng, chức năng hồi phục. Trị 10 ca
-đều có kết quả ( Báo Tân trung y 1986,12:8).
+đều có kết quả (Báo Tân trung y 1986,12:8).
 
-4.Trị tưa miệng ( muguet): Tiết duy Chấn dùng bột Ngũ bội tử 20g, Băng
+4.Trị tưa miệng (muguet): Tiết duy Chấn dùng bột Ngũ bội tử 20g, Băng
 phiến 3g, tán bột mịn trộn đều thổi vào vùng bệnh, ngày 2 lần. Trị 20
-ca, trong 2 ngày khỏi ( Báo Trung y Hà bắc 1987,6:48).
+ca, trong 2 ngày khỏi (Báo Trung y Hà bắc 1987,6:48).
 
 5.Trị trĩ: Đặng Quế Trân dùng Ngũ bội tử 500g, tán vụn (sạch), ngâm vào
 52,5% cồn 1000ml, bỏ vào lọ bịt kín giữ trong 1 - 2 tháng, lọc nấu sôi
 vô trùng. Sau khi vô trùng hậu môn vùng trĩ, trực tiếp chích vào búi
 trĩ, bên trong uống thanh nhiệt chỉ huyết thông tiện, giữ không cho táo
 bón, sau khi đi tiêu ngâm rửa hậu môn với thuốc tím, thay thuốc dán cao
-Hoàng liên cho đến khi trĩ rụng, miệng lành. Trị 80 ca đều khỏi ( Tạp
+Hoàng liên cho đến khi trĩ rụng, miệng lành. Trị 80 ca đều khỏi (Tạp
 chí Trung y Hà bắc 1984,2:25).
 
 6.Trị mồ hôi đêm: dùng bột Ngũ bội tử làm thành hồ đắp lên rốn bệnh nhân

@@ -97,7 +97,7 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 -  Ngô thù tán bột mịn, mỗi lần uống với nước sôi ấm 2 - 5g.
 -  Ngô thù, Gừng nướng lượng bằng nhau tán bột mịn, mỗi lần uống 3 - 5g
    với nước sôi ấm. Trị nôn kèm đau bụng, ợ chua.
--  Ngô thù du thang ( Thương hàn luận): Ngô thù 5g, Đẳng sâm 10g, Đại
+-  Ngô thù du thang (Thương hàn luận): Ngô thù 5g, Đẳng sâm 10g, Đại
    táo 10g, Gừng tươi 20g, sắc uống ấm.
 
 2.Trị các chứng đau do hàn như đau đầu, đau bụng, đau cước khí:

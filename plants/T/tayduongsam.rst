@@ -1,10 +1,10 @@
 TÂY DƯƠNG SÂM
 
-( Radix Panacis Quinguefollii)
+(Radix Panacis Quinguefollii)
 
 Tây dương sâm còn gọi là Dương sâm, Tây sâm, Hoa kỳ sâm, Tây dương Nhân
 sâm, Quảng đông Nhân sâm, đầu tiên được ghi trong sách Bản thảo tùng tân
-là rễ của cây Tây dương sâm ( Panax quinque folium L.) . Cây Tây dương
+là rễ của cây Tây dương sâm (Panax quinque folium L.) . Cây Tây dương
 sâm mọc nhiều ở Mỹ, Canada và Pháp, Trung quốc có di thực làm thuốc.
 
 Tính vị qui kinh:
@@ -79,16 +79,16 @@ thêm Tây dương sâm 10g, nếu âm thóat gia Mạch môn 30g, Ngọc trúc 
 Ngũ vị tử 3g. Nếu dương thóat gia Phụ tử 6 - 10g, Mẫu lệ nung 30 - 60g.
 Nếu âm dương lưỡng hư gia Phụ tử 6g, Long cốt 24g, Mẫu lệ nung 30 - 60g,
 Mạch môn 24g, ngày 1 thang sắc uống, nặng thì 2 thang, không uống cho
-xông đường mũi, thêm truyền dịch Đơn sâm phức phương 8 - 12g ( mỗi ống
+xông đường mũi, thêm truyền dịch Đơn sâm phức phương 8 - 12g (mỗi ống
 có 2g Đơn sâm), liệu trình 3 - 4 ngày. Trị 272 ca, tử vong 7 ca, tỷ lệ
 tử vong 2,57% so với tổ đối chiếu dùng Tây y 68 ca chết 11, tỷ lệ tử
-vong 16,18% ( Từ Đức Tiên và cộng sự: Quan sát kết quả điều trị sốt xuất
+vong 16,18% (Từ Đức Tiên và cộng sự: Quan sát kết quả điều trị sốt xuất
 huyết bằng Đông tây y kết hợp - Tạp chí Trung tây y kết hợp 1986,2:93).
 
 4.Trị phản ứng do xạ trị ung thư mũi họng: dùng Tây dương sâm sắc uống
 mỗi ngày 3g, bắt đầu dùng trước khi xạ trị 2 tuần đến hết xạ trị. Theo
 dõi 20 ca do xạ trị gây nên họng khô, chán ăn kết quả tốt, tốt hơn so
-với uống Nhân sâm ( Mao Thừa Việt, Điều trị phản ứng do xạ trị đối với
+với uống Nhân sâm (Mao Thừa Việt, Điều trị phản ứng do xạ trị đối với
 Ung thư đầu cổ - Tạp chí Trung y dược Thượng hải 1979,4:29).
 
 Liều thường dùng và chú ý:
@@ -96,6 +96,6 @@ Liều thường dùng và chú ý:
 -  Liều: 3 - 6g nếu thuốc thang nhiều vị sắc riêng.
 -  Không nên dùng đối với chứng dương hư, hàn thấp, hỏa uất khí trệ.
 -  Thuốc không dùng chung với Lê lô, không dùng dao bằng sắt thái, cắt
-   và sao với lửa ( theo sách Bản thảo cương mục thập di).
+   và sao với lửa (theo sách Bản thảo cương mục thập di).
 
  

@@ -11,7 +11,7 @@ biệt lục), qui kinh Can, Phế (Bản thảo tái tân). Hơi độc.
 
 Thành phần chủ yếu:
 
-Có ít tinh dầu ( chủ yếu là chất Métyl-nonyl-xeton mùi khó chịu), một ít
+Có ít tinh dầu (chủ yếu là chất Métyl-nonyl-xeton mùi khó chịu), một ít
 chất ancaloit gọi là cordanlin. Hoa và quả chứa chất quexitrin. Cây có
 clorua kali và sunfua kali.
 
@@ -35,7 +35,7 @@ B.Kết quả nghiên cứu dược lý hiện đại chứng minh:
 phổi đốm.
 
 -  Trường hợp áp xe phổi, viêm phổi thùy dùng bài: Ngư tinh thảo Cát
-   cánh thang ( Ngư tinh thảo 40g, Cát cánh 20g sắc uống hoặc tán bột
+   cánh thang (Ngư tinh thảo 40g, Cát cánh 20g sắc uống hoặc tán bột
    uống).
 -  Ngư tinh thảo 40g, trứng gà 1 cái. Cho thuốc ngâm vào nước 1 chén,
    ngâm 1 tiếng đồng hồ rồi sắc lên (không sắc lâu) bỏ xác cho trứng
@@ -46,7 +46,7 @@ phổi đốm.
 -  Ngư tinh thảo 30g sắc uống lúc nóng, ngày 1 lần trị các bệnh áp xe
    phổi, lao phổi, giãn phế quản, viêm phế quản đều có kết quả.
 
-2.Trị viêm phần phụ, viêm cổ tử cung, viêm hố chậu: có kết quả ( Báo Tân
+2.Trị viêm phần phụ, viêm cổ tử cung, viêm hố chậu: có kết quả (Báo Tân
 Y học 1979,12:601).
 
 3.Trị hội chứng thận hư: mỗi ngày dùng Ngư tinh thảo khô 100g, trụng

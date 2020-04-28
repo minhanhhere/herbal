@@ -2,13 +2,13 @@
 
 HOÀI SƠN
 
-( Radix Dioscoreae Popositae)
+(Radix Dioscoreae Popositae)
 
 Hoài sơn là một vị thuốc được ghi đầu tiên trong sách Bản kinh với tên
-Thư dự ( củ khoai ăn được), Hoài sơn ( Rhizoma Dioscoreae) còn có tên
+Thư dự (củ khoai ăn được), Hoài sơn (Rhizoma Dioscoreae) còn có tên
 khác là: Sơn dược, Khoai mài, Củ mài, Chính hoài là thân rễ của cây
-Khoai mài ( Dioscorea persimlis) hoặc ( Dioscorea oppsita Thunb,) cạo vỏ
-sơ bộ chế biến và sấy khô, thuộc họ củ nâu ( Dioscoreaceae).
+Khoai mài (Dioscorea persimlis) hoặc (Dioscorea oppsita Thunb,) cạo vỏ
+sơ bộ chế biến và sấy khô, thuộc họ củ nâu (Dioscoreaceae).
 
 Củ mài mọc khắp nơi tại các vùng rừng núi nước ta nhiều nhất ở các tỉnh
 Hà bắc, Hoàng liên sơn, Thanh hóa, Nghệ tĩnh và Quảng ninh. Hiện nay ta
@@ -77,25 +77,25 @@ dưỡng, thuốc có giá trị giúp tiêu hóa thức ăn chất bột.
 
 1.Trị chứng tiêu chảy kéo dài do Tỳ hư, dùng bài:
 
--  Sâm Linh Bạch truật tán ( Hòa tể cục phương): Đảng sâm, Bạch truật,
+-  Sâm Linh Bạch truật tán (Hòa tể cục phương): Đảng sâm, Bạch truật,
    Bạch linh, Sơn dược, Chích Cam thảo, mỗi thứ 80g, sao Biển đậu 60g,
    Liên nhục, Ý dĩ nhân, Cát cánh, Sa nhân mỗi thứ 40g, Trần bì 30g, tất
-   cả tán bột mịn trộn đều, mỗi lần uống 8 - 12g ( trẻ em bớt lượng),
+   cả tán bột mịn trộn đều, mỗi lần uống 8 - 12g (trẻ em bớt lượng),
    với nước sôi nguội, hoặc làm thuốc thang sắc uống.
--  Cốm Bổ tỳ ( Trần văn Kỳ): Bạch biển đậu, Ý dĩ nhân, Hoài sơn đều sao,
-   mỗi thứ 200g, Cốc nha, Liên nhục ( bỏ tim) sao mỗi thứ 100g, Nhục đậu
+-  Cốm Bổ tỳ (Trần văn Kỳ): Bạch biển đậu, Ý dĩ nhân, Hoài sơn đều sao,
+   mỗi thứ 200g, Cốc nha, Liên nhục (bỏ tim) sao mỗi thứ 100g, Nhục đậu
    khấu 30g, Trần bì, Sa nhân mỗi thứ 20g. Ba vị sau sắc lấy nước, các
    vị khác tán bột mịn hòa với nước thuốc cùng ít mật đường làm thành
    dạng cốm. Trẻ em mỗi lần uống 6 - 12g, chia 2 - 3 lần với nước cơm
    càng tốt. Bài thuốc này có tác dụng kiện tỳ, hành khí, tiêu thực. Trị
    tiêu chảy kéo dài, trẻ em suy dinh dưỡng đều tốt. Bột Hoài sơn gia
    nước khuấy thành hồ uống trị tiêu chảy.
--  Sơn dược 40 - 80g, gạo tẻ ( lâu năm càng tốt), sao hơi vàng hoặc gạo
+-  Sơn dược 40 - 80g, gạo tẻ (lâu năm càng tốt), sao hơi vàng hoặc gạo
    nếp, sao 50 - 100g, sắc uống.
 -  Sơn dược 15g, Dĩ nhân 10g tán bột mịn, dùng 1 cái gan gà cắt nhỏ với
    dao tre trộn thuốc, thêm ít dấm cho vào hấp cơm, chia 2 lần ăn sáng
    tối. Trị trẻ tiêu chảy kéo dài, hơn 1000 ca kết quả tốt, thường chỉ 3
-   ngày là khỏi ( Tạp chí Trung y Hồ bắc 1985,5:35).
+   ngày là khỏi (Tạp chí Trung y Hồ bắc 1985,5:35).
 
 2.Trị di tinh nhiều lần hoặc phụ nữ bạch đới nhiều: dùng bài Bí nguyên
 tiễn có tác dụng ích thận cố tinh, chỉ đới.

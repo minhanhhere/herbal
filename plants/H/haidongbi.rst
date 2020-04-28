@@ -15,7 +15,7 @@ Qui kinh: vào kinh Tâm.
 
 Ứng dụng lâm sàng:
 
-#. An thần thông huyết: dùng để trị mất ngủ, có thể hợp với Lá sen ( Xi
+#. An thần thông huyết: dùng để trị mất ngủ, có thể hợp với Lá sen (Xi
    rô Lạc tiên); hoặc lấy lá non nấu canh ăn
 #. Tiêu độc sát khuẩn: dùng lá tươi giả nát đắp vào mụn nhọt, còn có tác
    dụng lên da non; chữa sốt, thông tiểu.
@@ -23,7 +23,7 @@ Qui kinh: vào kinh Tâm.
    tích trẻ em.
 #. Hạt trị rắn cắn.
 
-Liều dùng: lá vỏ 8 - 16g. Hạt 3 - 6g. Trẻ em dùng 3 - 4g ( vỏ).
+Liều dùng: lá vỏ 8 - 16g. Hạt 3 - 6g. Trẻ em dùng 3 - 4g (vỏ).
 
 Về dược lý: Ancaloit Erythrine có trong lá và thân làm giảm hoạt động
 của thần kinh trung ương, chất Migarin làm giãn đồng tử. Lá vông còn có

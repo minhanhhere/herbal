@@ -2,16 +2,16 @@
 
 KHA TỬ
 
-( Fructus Terminaliae Chebulae)
+(Fructus Terminaliae Chebulae)
 
 Kha tử còn có tên là Kha lê lặc, Kha lê là quả chín phơi hay sấy khô của
-cây Kha tử ( cây Chiêu liêu), tên thực vật là Terminalia chebula Retz
+cây Kha tử (cây Chiêu liêu), tên thực vật là Terminalia chebula Retz
 hoặc cây Dung mao Kha tử T.Chebula Retz var Tomentella Kurt thuộc họ
-Bàng ( Combretaceae). Kha tử dùng làm thuốc được ghi đầu tiên trong sách
+Bàng (Combretaceae). Kha tử dùng làm thuốc được ghi đầu tiên trong sách
 Dược tính bản thảo với nguyên tên Kha lê lặc.
 
-Cây Kha tử hay Chiêu liêu ( Myrobolan de commerce) mọc ở miền Nam,
-Campuchia ( còn gọi là Sramar), Lào, Aán độ, Miến điện, Thái lan và miền
+Cây Kha tử hay Chiêu liêu (Myrobolan de commerce) mọc ở miền Nam,
+Campuchia (còn gọi là Sramar), Lào, Aán độ, Miến điện, Thái lan và miền
 Nam Trung quốc. Vào tháng 9, 10, 11 quả chín hái về phơi khô làm thuốc.
 
 Tính vị qui kinh:
@@ -30,7 +30,7 @@ Theo các sách thuốc cổ:
 Thành phần chủ yếu:
 
 Kha tử có hàm lượng Tanin 20 - 40%, quả thật khô có thể đến 51,3% gồm
-acidelagic, acidgalic và acidluteolic, acidchebulinic ( 3 - 4%). Trong
+acidelagic, acidgalic và acidluteolic, acidchebulinic (3 - 4%). Trong
 nhân còn có 36,7% dầu vàng nhạt, trong.
 
 Tác dụng dược lý:
@@ -43,7 +43,7 @@ Tác dụng dược lý:
 #. Ngoài chất Tanin ra, thuốc còn có thành phần gây tiêu chảy (
    laxative) như Đại hoàng trước gây tiêu chảy, tiếp theo lại có tác
    dụng thu liễm.
-#. Chiết xuất cồn của thuốc có tác dụng chống co thắt ( antispasmodic)
+#. Chiết xuất cồn của thuốc có tác dụng chống co thắt (antispasmodic)
    tương tự như papaverine.
 
 Ứng dụng lâm sàng:
@@ -52,7 +52,7 @@ Tác dụng dược lý:
 Trần bì, Mạch nha đều 5 - 10g, Cát căn, Sơn tra đều 5 - 20g. Thương thực
 do ăn, bú cho thêm Kê nội kim 5 - 10g, Mộc hương 3 - 5g; thấp nhiệt nặng
 gia Hoàng cầm, Trần bì đều 5 - 10g; Tỳ hư gia Ô dược 5 - 10g, Túc xác 3
-- 5g. Trị 230 ca khỏi 227 ca, không kết quả 3 ca ( Báo Trung y dược Cát
+- 5g. Trị 230 ca khỏi 227 ca, không kết quả 3 ca (Báo Trung y dược Cát
 lâm 1983,1:25).
 
 2.Trị tiêu chảy, lî mạn tính:

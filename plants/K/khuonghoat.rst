@@ -4,8 +4,8 @@ KHƯƠNG HOẠT
 
 (Rhizoma et radix Notopterygii)
 
-Khương hoạt là rễ và thân rễ ( phần dưới đất) của cây Khương hoạt
-(Notopterygium incisium Ting Mss) thuộc họ Hoa tán ( Umbelliferae) vị
+Khương hoạt là rễ và thân rễ (phần dưới đất) của cây Khương hoạt
+(Notopterygium incisium Ting Mss) thuộc họ Hoa tán (Umbelliferae) vị
 cay đắng tính ấm qui kinh Bàng quang, Can, Thận.
 
 Thành phần chủ yếu: có tinh dầu. Các hoạt chất khác chưa thấy có tài

@@ -3,10 +3,10 @@ MỘT DƯỢC
 (Myrrha)
 
 Một dược dùng làm thuốc được ghi đầu tiên trong sách " Dược tính bản
-thảo", là chất nhựa dầu lấy ở cây Một dược ( Commiphora Myrrha Engl.)
+thảo", là chất nhựa dầu lấy ở cây Một dược (Commiphora Myrrha Engl.)
 hoặc cây Một dược khác có tên La tinh là Balsamodendron Ehrenbegianum
 Berg. Nơi sản xuất chính là Xômali và các nước ở bán đảo Á rập. Thuộc họ
-Đào lộn hột ( Anacardiaceae).
+Đào lộn hột (Anacardiaceae).
 
 Tính vị qui kinh:
 
@@ -59,14 +59,14 @@ sưng tấy phù nề, thuốc có tác dụng khu ứ chỉ thống.
 -  Hải phù tán: Nhũ hương, Một dược đều 10g làm thuốc tán đắp ngoài có
    tác dụng làm sạch mủ sinh cơ chóng lành miệng.
 
-3.Trị huyết áp cao: Một dược chế thành viên bọc nhựa ( Một dược 0,1g)
+3.Trị huyết áp cao: Một dược chế thành viên bọc nhựa (Một dược 0,1g)
 ngày uống 3 lần, mỗi lần uống 2 - 3 viên, liệu trình 2 tháng. Kết quả
-cho thấy Một dược có tác dụng hạ mỡ trong máu ( Tạp chí trung y
+cho thấy Một dược có tác dụng hạ mỡ trong máu (Tạp chí trung y
 1988,6:36).
 
 4.Trị chấn thương đau lưng cấp: dùng Nhũ hương, Một dược lượng bằng nhau
 tán bột mịn, dùng 30% rượu chế thuốc thành hồ, đắp vùng đau 1 - 2 lần/
-ngày thường 3 - 5 ngày khỏi ( Học báo Trung y học viện Hà nam
+ngày thường 3 - 5 ngày khỏi (Học báo Trung y học viện Hà nam
 1980,3:38).
 
 Liều dùng: liều dùng thông thường từ 3 - 5g. Dùng ngoài tùy theo yêu
@@ -78,14 +78,14 @@ Chú ý lúc dùng:
 #. Giảm liều lúc dùng chung với Nhũ hương, hai vị thuốc có tác dụng
    tương tự. Nhũ hương có tác dụng hoạt huyết mạnh gân trị chứng tý, nên
    thường dùng Nhũ hương trong điều trị các chứng đau phong thấp, nên
-   trong bài Quyên tý thang dùng Nhũ hương mà không dùng Một dược ( Y
+   trong bài Quyên tý thang dùng Nhũ hương mà không dùng Một dược (Y
    học tâm ngộ, tập 3). Một dược lại sở trường về tán ứ, giảm đau nên
    lúc trị chứng vị quản thống do khí trệ huyết ứ dùng Một dược mà không
-   dùng Nhũ hương như bài Thủ niêm tán ( Y học tâm ngộ tập 3).
+   dùng Nhũ hương như bài Thủ niêm tán (Y học tâm ngộ tập 3).
 #. Đối với trường hợp xuất huyết dưới da và xuất huyết đáy mắt có huyết
    ứ nên dùng Nhũ hương. Một dược được kết hợp với thuốc cầm máu.
 #. Dùng Một dược trị chứng té ngã sưng đau nên uống thuốc với rượu để
-   tăng tác dụng thông ứ ( theo sách Bản thảo diễn nghĩa).
+   tăng tác dụng thông ứ (theo sách Bản thảo diễn nghĩa).
 #. Nhũ hương hoạt huyết, Một dược tán huyết đều có tác dụng giảm đau
-   tiêu sưng sinh cơ nên 2 vị thuốc nên dùng chung ( Sách Bản thảo cương
+   tiêu sưng sinh cơ nên 2 vị thuốc nên dùng chung (Sách Bản thảo cương
    mục tập 34).

@@ -74,9 +74,9 @@ hưởng về sau (Học báo Trung y học viện An huy 1986,5(3):33).
 
 4.Trị sỏi tiết niệu:
 
-Trung Học Năng dùng bài Nhị tử hóa ứ bài Thạch thang ( Vương bất lưu
+Trung Học Năng dùng bài Nhị tử hóa ứ bài Thạch thang (Vương bất lưu
 hành, Cấp tính tử, Xuyên ngưu tất, Chỉ xác, Sinh Kê nội kim, Thạch vỹ,
-Biển súc) trị 95 ca sỏi tiết niệu ( Sỏi thận 32 ca, sỏi đa phát 10 ca,
+Biển súc) trị 95 ca sỏi tiết niệu (Sỏi thận 32 ca, sỏi đa phát 10 ca,
 sỏi niệu quản phần trên 19 ca, phần giữa 12 ca, phần dưới 21 ca, sỏi
 bàng quang 1 ca. Chụp kiểm tra 122 ca, trong đó sỏi đường kính trên
 0,6cm 34 hòn, trên 1cm 10 hòn. Trị hết 65 ca, có kết quả 19 ca, tỷ lệ có
@@ -84,7 +84,7 @@ kết quả 88,4%, không kết quả 11 ca. Trong 65 ca khỏi, bình quân u�
 thuốc 89 thang, hòn sỏi tống ra to nhất là 2,0 x 1,0 cm. Tác giả có nhận
 xét là dùng thuốc hóa ứ đối với sỏi là có lợi. Trong bài Vương bất lưu
 hành, Xuyên Ngưu tất có tác dụng điều chỉnh pH của nước tiểu ở mức 6,5 -
-7,0, có thể làm mòn và tan sỏi ( Tạp chí Trung y 1986,27(11):36). Theo
+7,0, có thể làm mòn và tan sỏi (Tạp chí Trung y 1986,27(11):36). Theo
 kinh nghiệm, trị sỏi kết hợp với Kim tiền thảo.
 
 Ngoài ra, theo cac tài liệu cổ và kinh nghiệm của nhân dân, quả Xộp là
@@ -95,7 +95,7 @@ lòi dom, tắc tia sữa. Vương bất lưu hành có thể làm mức ăn đ�
 phụ, Hồng hoa, Xuyên khung.
 
 6.Trường hợp dùng thuốc trị tắc tia sữa, sữa ít: thường phối hợp với
-Xuyên sơn giáp như bài Dũng tuyền tán ( Vệ sinh bảo giám tập 18) có
+Xuyên sơn giáp như bài Dũng tuyền tán (Vệ sinh bảo giám tập 18) có
 Vương bất lưu hành, Bào sơn giáp, Long cốt, Cù mạch, Mạch môn.
 
 -  Nếu do sau sanh khí huyết hư mà ít sữa dùng thêm Hoàng kỳ, Đương qui.

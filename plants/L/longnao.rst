@@ -2,13 +2,13 @@
 
 LONG NÃO
 
-( Camphora)
+(Camphora)
 
 Long não còn gọi là Chương não, Triều não, Não tử dùng làm thuốc được
 ghi đầu tiên trong sách Bản thảo phẩm hội tinh yếu, là tinh thể không
 màu mùi thơm đặc biệt cất từ thân cành rễ của cây Long não, tên thực vật
 là Cinnamomum Camphora (L) Presl hoặc Cinnamomum camphora L. Ness et
-Eberm. ( Laurus Camphora L.) thuộc họ Long não ( Lauraceae).
+Eberm. (Laurus Camphora L.) thuộc họ Long não (Lauraceae).
 
 Cây Long não đưọc trồng tại nhiều tỉnh ở miền Bắc như Hà giang, Vĩnh
 phú, Cao bằng, Lạng sơn . Cây Long não còn mọc nhiều ở Nhật bản, Trung
@@ -34,9 +34,9 @@ Thành phần chủ yếu:
 
 Tinh dầu và Long não tinh thể d-camphora.
 
-Tinh dầu Long não cất phân đoạn sẽ được tinh dầu Long não trắng ( dùng
-chế cineola), tinh dầu long não đỏ ( chứa safrola, carvacrola), tinh dầu
-Long não xanh ( chứa cadinen, camphoren, azulen).
+Tinh dầu Long não cất phân đoạn sẽ được tinh dầu Long não trắng (dùng
+chế cineola), tinh dầu long não đỏ (chứa safrola, carvacrola), tinh dầu
+Long não xanh (chứa cadinen, camphoren, azulen).
 
 Tác dụng dược lý:
 
@@ -49,11 +49,11 @@ ngã đau.
 Trích đoạn Y văn cổ:
 
 -  Sách Bản thảo phẩm hội tinh yếu: quyển 17: " chủ sát trùng, trừ giới
-   tiên, liệu thang hóa sang, dịch uế khí ( trị ghẻ lở, bỏng lửa, nước
+   tiên, liệu thang hóa sang, dịch uế khí (trị ghẻ lở, bỏng lửa, nước
    sôi, khí độc)".
 -  Sách Bản thảo cương mục: " thông quan khiếu, lợi trệ khí, trị trúng
    ác tà khí, hoắc loạn, tâm phúc thống, hàn thấp cước khí, giới tiên,
-   phong tao ( ngứa), khu xĩ ( sâu răng). trừ thấp sát trùng, do đó dùng
+   phong tao (ngứa), khu xĩ (sâu răng). trừ thấp sát trùng, do đó dùng
    thuốc đốt khói xông áo quần, thúng mủng có thể trừ sâu mọt".
 
 B.Kết quả nghiên cứu dược lý hiện đại:
@@ -83,7 +83,7 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 
 Ứng dụng lâm sàng:
 
-1.Phòng trị chứng lóet do đồ lót ( tả lót) nằm lâu:
+1.Phòng trị chứng lóet do đồ lót (tả lót) nằm lâu:
 
 -  Long não, Não sa mỗi thứ 2g, trường hợp chưa lóet, dùng cồn 75%,
    200ml chế thành tinctura bôi vào. Nếu đã lóet, dùng cao mềm Hoàng
@@ -92,13 +92,13 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 2.Trị hậu môn thấp chẩn lở ngứa: Long não, Minh phàn đều 2g, Mang tiêu
 20g, hòa vào nước sôi 600ml đợi ấm ngâm đít vào 10 phút, ngày 2 lần.
 
-3.Trị chàm ở chân bội nhiễm hoặc lóet: Long não 3g Đậu hủ ( đậu phụ 2
+3.Trị chàm ở chân bội nhiễm hoặc lóet: Long não 3g Đậu hủ (đậu phụ 2
 miếng) trộn nát đắp ngoài.
 
-4.Trị giun kim: Long não 1g, Hắc bạch sữu 3g, Binh lang ( hạt cau) 6g,
+4.Trị giun kim: Long não 1g, Hắc bạch sữu 3g, Binh lang (hạt cau) 6g,
 tất cả tán bột mịn. Trước lúc ngủ, lấy nước sôi 100ml, hòa thuốc đợi ấm
 30 độ C, lấy bơm chích hút thuốc bơm vào đít, liên tục 3 - 5 lượt kết
-quả tốt ( Tào Mỹ Hoa, Tạp chí Trung y dược Thượng hải 1985, 5:34).
+quả tốt (Tào Mỹ Hoa, Tạp chí Trung y dược Thượng hải 1985, 5:34).
 
 5.Trị trẻ em ghẻ lỡ ngứa: Long não, Hoa tiêu, Mè đen lượng đủ bôi, tán
 bột mịn trộn với vaselin bôi.

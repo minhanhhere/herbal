@@ -2,14 +2,14 @@
 
 NGỌC TRÚC
 
-( Rhizoma Polygonati Odorati)
+(Rhizoma Polygonati Odorati)
 
 Ngọc trúc dùng làm thuốc được ghi đầu tiên trong sách Bản kinh với tên
-Nữ ủy, là thân rễ phơi hay sấy khô của cây Ngọc trúc( Polygonatum
-officinale All.) hay ( Polygonatum odoratum (Mill.) Druce).
+Nữ ủy, là thân rễ phơi hay sấy khô của cây Ngọc trúc(Polygonatum
+officinale All.) hay (Polygonatum odoratum (Mill.) Druce).
 
 Vì lá giống lá trúc, thân rễ bóng nhaün trông như ngọc nên có tên Ngọc
-trúc, họ Hành tỏi ( Liliaceae).
+trúc, họ Hành tỏi (Liliaceae).
 
 Cây này mọc nhiều ở các tỉnh Quảng đông, Quảng tây, Vân nam Trung quốc
 nên tại các tỉnh biên giới của ta có thể có, nhưng ta chưa khai thác.
@@ -46,7 +46,7 @@ Trích đoạn Y văn cổ:
 -  Sách Nhật hoa tử bản thảo: " trừ phiền muộn, chỉ khát, nhuận tâm phế,
    bổ ngũ lao thất thương, hư tổn".
 -  Sách Bản thảo cương mục: " chủ phong ôn tự hãn, lao ngược hàn nhiệt,
-   thiêm ngược ( sốt rét) và tất cả các chứng bất túc, dùng thây Sâm Kỳ,
+   thiêm ngược (sốt rét) và tất cả các chứng bất túc, dùng thây Sâm Kỳ,
    thuốc không hàn, không táo, rất có công hiệu".
 
 B.Kết quả nghiên cứu Dược lý hiện đại:
@@ -75,11 +75,11 @@ táo. Nếu huyết áp thấp gia Chích thảo, trường hợp suy tuần ho�
 Phụ tử, Quế nhục, trường hợp mạch nhanh huyết áp hơi cao, cần thận trọng
 lúc dùng.
 
-3.Trị chứng ngoại cảm ( có triệu chứng ho, phế táo) ở bệnh nhân vốn âm
+3.Trị chứng ngoại cảm (có triệu chứng ho, phế táo) ở bệnh nhân vốn âm
 hư: dùng bài:
 
--  Gia giảm Ngọc trúc thang ( thông tục Thương hàn luận): Ngọc trúc 12g,
-   Hành tươi 3 củ, Cát cánh 6g, Đạm đậu xị 16g, Bạc hà 4g ( cho sau),
+-  Gia giảm Ngọc trúc thang (thông tục Thương hàn luận): Ngọc trúc 12g,
+   Hành tươi 3 củ, Cát cánh 6g, Đạm đậu xị 16g, Bạc hà 4g (cho sau),
    Chích thảo 2g, Bạch vị 4g, Táo 2 quả, sắc nước uống.
 
 4.Trị viêm phế quản lâu ngày, lao phổi, ho do phế táo: dùng Ngọc trúc

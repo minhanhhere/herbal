@@ -102,14 +102,14 @@ thành viên nhỏ, mỗi lần uống 2g, ngày 2 lần. Tác giả điều tr�
 
 7.Trị xuất huyết tử cung: Theo sách Trung dược ứng dụng lâm sàng đối với
 xuất huyết tử cung sau đẻ, xuất huyết tử cung cơ năng, sẩy thai không
-hoàn toàn, dùng rau sam uống hoặc tiêm đều có kết quả ( theo báo cáo của
+hoàn toàn, dùng rau sam uống hoặc tiêm đều có kết quả (theo báo cáo của
 khoa Phụ sản Bệnh viện số 2 Trường Đại học Cát lâm Trung quốc - Tờ thông
 tin Trung thảo dược 1972,1:32).
 
 8.Trị một số bệnh khác: dùng Rau sam khô 60g (nếu tươi lượng gấp đôi)
 gia đường đỏ 30g, sắc uống trị huyết niệu 4 ca, viêm đường tiết niệu 98
 ca, lî trực khuẩn 32 ca, viêm ruột cấp 39 ca, 112 ca bệnh ngoài da làm
-mủ đắp ngoài đều có kết quả tốt ( Y viện Tứ xuyên 1982,2:97).
+mủ đắp ngoài đều có kết quả tốt (Y viện Tứ xuyên 1982,2:97).
 
 Theo Giáo sư Đỗ tất Lợi:
 

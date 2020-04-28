@@ -58,7 +58,7 @@ hương, Một dược, Đào nhân, Qui vĩ . Trường hợp chấn thương s
 chứng đau đầu, phối hợp Xuyên khung, Bạch chỉ, Đương qui, Khương hoạt.
 
 3.Trường hợp liệt nửa người: phối hợp với Hoàng kỳ, Địa long như bài: Bổ
-dương hoàn ngũ thang ( Y lâm cải thác) gồm: Sinh Hoàng kỳ 40 - 100g,
+dương hoàn ngũ thang (Y lâm cải thác) gồm: Sinh Hoàng kỳ 40 - 100g,
 Đương qui vỹ 8 - 12g, Xích thược 6 - 8g, Địa long 4g, Xuyên khung 8g,
 Đào nhân 8g, Hồng hoa 8g, sắc nước uống. Thuốc có tác dụng bổ khí hoạt
 huyết thông lạc.

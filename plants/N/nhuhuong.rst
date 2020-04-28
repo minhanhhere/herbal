@@ -1,11 +1,11 @@
 NHŨ HƯƠNG
 
-( Gummi Olibanum)
+(Gummi Olibanum)
 
 Nhũ hương dùng làm thuốc được ghi đầu tiên trong sách "Danh y biệt lục"
 . Tên La tinh là Mastic hay Olibanum là chất nhựa dầu lấy ở cây Nhũ
-hương ( Boswellia Carteni Birdw cũng có tên La tinh là Pistica lenticus
-L) thuộc họ Đào lộn hột ( Anacardiaceae), sản xuất từ một số nước ven bờ
+hương (Boswellia Carteni Birdw cũng có tên La tinh là Pistica lenticus
+L) thuộc họ Đào lộn hột (Anacardiaceae), sản xuất từ một số nước ven bờ
 Địa trung hải. Còn có tên là Hắc lục hương, Thiên trạch hương, Địa nhũ
 hương.
 
@@ -37,7 +37,7 @@ lâu ngày khó lành miệng.
 
 Trích theo một số Y văn cổ:
 
--  Sách Bản thảo cương mục ( chương 34 nói về Hắc lục hương ghi) : " Nhũ
+-  Sách Bản thảo cương mục (chương 34 nói về Hắc lục hương ghi) : " Nhũ
    hương mùi thơm nhập Tâm kinh, hoạt huyết định thống trị được các
    chứng ung thư sang lở, thuốc chủ yếu của tâm phúc thống . thuốc trị
    bệnh sản khoa hay dùng nhờ tính hoạt huyết của thuốc".
@@ -67,7 +67,7 @@ Trị đau vùng thượng vị phối hợp cùng thuốc hành khí như Xuyê
 Mộc hương, Trần bì.
 
 Thuốc phối hợp với Khương hoạt, Tần giao, Đương qui, Hải phong đằng trị
-chứng tý như bài Quyên tý thang ( Y học tâm ngộ).
+chứng tý như bài Quyên tý thang (Y học tâm ngộ).
 
 2.Trị chấn thương ngoại khoa gây sưng đau: dùng các bài:
 
@@ -85,19 +85,19 @@ chứng tý như bài Quyên tý thang ( Y học tâm ngộ).
    Đại hoàng, Hoàng kỳ, Ngưu bàng tử, Mẫu lệ đều 10g, Kim ngân hoa 15g,
    Cam thảo 3g, sắc nước uống.
 -  Những nhọt vỡ lâu ngày khó lành miệng, dùng Nhũ hương, Một dược tán
-   mịn trộn đều đắp ngoài có tác dụng tiêu sưng, sinh cơ tốt ( bài Hải
+   mịn trộn đều đắp ngoài có tác dụng tiêu sưng, sinh cơ tốt (bài Hải
    phù tán trong Ngoại khoa trích lục).
 
 4.Trị viêm gan, vùng gan đau: dùng bài thuốc gồm: Nhũ hương, Một dược,
 Miết giáp, Ngũ linh chi, lượng bằng nhau sắc đặc tẩm gạc đắp lên vùng
 đau lúc còn ấm. Thẩm tích lâm dùng trị 32 ca, khỏi 21 ca, bớt đau rõ 6
-ca, tiến bộ 3 ca ( Tạp chí Trung y Giang tô 1962, 8:39).
+ca, tiến bộ 3 ca (Tạp chí Trung y Giang tô 1962, 8:39).
 
-5.Trị Nhũ hạch: dùng bài Nhũ một băng hoàng cao ( Nhũ hương, Một dược,
+5.Trị Nhũ hạch: dùng bài Nhũ một băng hoàng cao (Nhũ hương, Một dược,
 Hoàng bá, Đại hoàng) tán bột mịn trộn đều cho Băng phiến cất vào lọ nâu.
 Lúc dùng lấy tròng trắng trứng trộn thuốc cho vào gạc đắp lên vùng đau (
 gạc dày 1mm) chườm nóng ngoài càng tốt, cứ 24 giờ thay thuốc cho tới khi
-tiêu hạch ( Tạp chí Trung y Thiểm tây 1982,3(6):41).
+tiêu hạch (Tạp chí Trung y Thiểm tây 1982,3(6):41).
 
 Liều dùng:
 

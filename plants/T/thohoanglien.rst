@@ -4,8 +4,8 @@ Thalictrum foliolosum D.C.
 
 Họ Mao lương Ranunculaceae.
 
-Thổ Hoàng liên ( Rhizoma Thalictri) là thân rễ phơi hay sấy khô của cây
-Thổ Hoàng liên ( Thalictrum foliolosum D.C.) và nhiều loài khác thuộc
+Thổ Hoàng liên (Rhizoma Thalictri) là thân rễ phơi hay sấy khô của cây
+Thổ Hoàng liên (Thalictrum foliolosum D.C.) và nhiều loài khác thuộc
 giống Thalictrum.
 
 Tính vị qui kinh: vị rất đắng.

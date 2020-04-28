@@ -57,7 +57,7 @@ Thuốc có tác dụng kháng viêm, giãn mạch, hạ huyết áp, ức chế
 lượng vừa đủ, rửa sạch giã nát đắp ngoài.
 
 3.Kinh nghiệm của Chu Lương Xuân dùng: Hy thiêm 100g, Đương qui 30g, sắc
-uống trị viêm khớp và viêm đa khớp có kết quả ( Tạp chí Trung y dưọc
+uống trị viêm khớp và viêm đa khớp có kết quả (Tạp chí Trung y dưọc
 Thượng hải 1982,9:33).
 
 Liều lượng và chú ý lúc dùng:

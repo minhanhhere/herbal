@@ -44,8 +44,8 @@ Theo Y văn cổ:
    trị phụ nữ kinh nguyệt không đều, huyết kết, ích tinh, lợi âm khí,
    giảm tóc bạc".
 -  Sách Bản thảo cương mục: " Ngưu tất sao rượu bổ can thận, dùng sống
-   trừ ác huyết ( máu độc). Trị đau lưng gối, chân teo, âm tiêu ( yếu
-   sinh lý) tiểu không tự chủ ( thất niệu), sốt rét lâu ngày (cửu
+   trừ ác huyết (máu độc). Trị đau lưng gối, chân teo, âm tiêu (yếu
+   sinh lý) tiểu không tự chủ (thất niệu), sốt rét lâu ngày (cửu
    ngược). Thuốc còn trị chứng trưng hà, các chứng tâm phúc thống, ung
    thũng ác sang, họng lợi răng đau, tiểu đau, tiểu ra máu, các chứng
    kinh thai sản nhờ thuốc có tác dụng khử ác huyết".
@@ -87,39 +87,39 @@ Có thể dùng các bài thuốc sau:
 phối hợp với Thục địa, Qui bản, Tỏa dương, Hổ cốt. Bài thuốc thường
 dùng:
 
--  Hổ tiên hoàn ( Y phương tập giải): Qui bản, Hoàng bá, Tri mẫu, Thục
+-  Hổ tiên hoàn (Y phương tập giải): Qui bản, Hoàng bá, Tri mẫu, Thục
    địa, Đương qui, Tỏa dương, Bạch thược, Trần bì, Hổ cốt, Ngưu tất.
 
 3.Trị chứng tê thấp khớp đau: dùng Ngưu tất phối hợp với Thương truật,
 Hoàng bá, Ý dĩ như các bài:
 
--  Tam diệu tán (hoàn) ( Y học chính truyền): Thương truật 12g, Xuyên
+-  Tam diệu tán (hoàn) (Y học chính truyền): Thương truật 12g, Xuyên
    Ngưu tất 12g, Hoàng bá 8g, tán bột mịn trộn đều mỗi lần uống 10g,
    ngày 3 lần với nước gừng.
 -  Tứ diệu hoàn (Thanh phương tiện độc) gồm Ngưu tất gia Mộc qua, Phòng
    kỷ, Tỳ giải.
 
 4.Trị chứng tiểu ra máu: (viêm niệu, sạn niệu) dùng Ngưu tất gia Đương
-qui, Cù mạch, Hoạt thạch ( Ngưu tất thang trong sách Bị cấp thiên kim
+qui, Cù mạch, Hoạt thạch (Ngưu tất thang trong sách Bị cấp thiên kim
 yếu phương).
 
 5.Phòng trị chứng Bạch hầu: Ngưu tất 7 phần, Cam thảo 3 phần, sắc uống
 thay nước trà hằng ngày.
 
-6.Trị chứng thổ huyết, nục huyết ( chảy máu cam): thường dùng phối hợp
+6.Trị chứng thổ huyết, nục huyết (chảy máu cam): thường dùng phối hợp
 với Tiểu kế, Bạch mao căn, Chi tử .. có kết quả. Có tác giả dùng Ngưu
 tất, Đại giá thạch, Tiên hạc thảo lượng bằng nhau trị chảy máu cam 110
-ca, uống trung bình trên dưới 10 thang đều khỏi ( Báo cáo của Quách
+ca, uống trung bình trên dưới 10 thang đều khỏi (Báo cáo của Quách
 Trung, Tạp chí Trung y Triết giang 1984,19(7):305).
 
 7.Trị tử cung xuất huyết cơ năng: dùng Xuyên Ngưu tất mỗi ngày 30 - 45g
 sắc uống. Trị 23 ca, uống liên tục 2 - 4 ngày hết xuất huyết, trường hợp
-xuất huyết lâu ngày, uống tiếp thêm 5 - 10 ngày cũng cố ( Tạp chí Trung
+xuất huyết lâu ngày, uống tiếp thêm 5 - 10 ngày cũng cố (Tạp chí Trung
 y Triết giang 1982,17(2):86).
 
 8.Trị Lactosurie: dùng Ngưu tất 90 - 120g, hạt rau cần 45 - 60g, sắc 2
 lần trộn uống chia 2 - 3lần, uống 6 thang khỏi, 3 tháng thấy có kết quả,
-trị 21 ca có kết quả 86% ( Tạp chí Trung y Sơn đông 1989,6:40).
+trị 21 ca có kết quả 86% (Tạp chí Trung y Sơn đông 1989,6:40).
 
 Liều dùng và chú ý:
 

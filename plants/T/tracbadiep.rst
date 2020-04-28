@@ -2,7 +2,7 @@
 
 TRẮC BÁ DIỆP
 
-( Cacumen Biotae Orientalis)
+(Cacumen Biotae Orientalis)
 
 Trắc bá diệp là lá cành phơi hay sấy khô của cây Trắc bá diệp Biota
 Orientalis (L.) Endi, dùng làm thuốc được ghi đầu tiên trong sách " Danh
@@ -37,7 +37,7 @@ Trích đoạn Y văn cổ:
 
 -  Sách Danh y biệt lục: " chủ thổ huyết, nục huyết, lî huyết, băng
    trung xích bạch. Làm tăng lực nhẹ người (khinh thân ích khí), giúp
-   con người chịu được với khí hậu lạnh và oi bức ( lãnh nhân nại hàn
+   con người chịu được với khí hậu lạnh và oi bức (lãnh nhân nại hàn
    thử), trừ thấp khí sinh cơ."
 -  Sách Dược tính bản thảo: " Chỉ niệu huyết, năng trị lãnh phong, lịch
    tiết đông thống".
@@ -100,7 +100,7 @@ chuột thì LD50 là 30,5g/kg nói lên độc tính giảm.
 
 Ứng dụng lâm sàng:
 
-1.Dùng trị các chứng xuất huyết ( huyết nhiệt vong hành) như: thổ huyết,
+1.Dùng trị các chứng xuất huyết (huyết nhiệt vong hành) như: thổ huyết,
 nục huyết, băng lậu, niệu huyết.
 
 -  Trắc bá tán: Trắc bá diệp (chích giấm) 20g tán bột, mỗi lần 8 -12g,
@@ -108,7 +108,7 @@ nục huyết, băng lậu, niệu huyết.
 -  Than Trắc bá diệp, than Bồ hoàng đều 42g, Bạch thược (sao rượu) 40g,
    tán bột, mỗi lần 8g, ngày 3 lần, chế nước sôi uống trị băng lậu (
    nhiệt).
--  Tứ sinh hoàn ( Hiệu chú phụ nhân lương phương): Sinh Địa hoàng 20g,
+-  Tứ sinh hoàn (Hiệu chú phụ nhân lương phương): Sinh Địa hoàng 20g,
    Sinh Trắc bá diệp 12g, Sinh Ngãi diệp 12g, Sinh Hà diệp 12g, giã nát
    làm hoàn hoặc sắc uống trị thổ huyết, nục huyết do nhiệt.
 -  Bá diệp thang: than Trắc bá 12g, than Can khương 6g, Ngãi diệp lâu
@@ -117,12 +117,12 @@ nục huyết, băng lậu, niệu huyết.
 2.Dùng trị xuất huyết do lóet dạ dày tá tràng: Nhi đạt Nhân dùng Trắc bá
 diệp 15g, sắc nước uống trị 50 ca và 50 ca làm lô chứng. Ở lô trị bằng
 lá Trắc bá, xét nghiệm phân hết máu bình quân 2,8 ngày; lô chứng 4,5
-ngày ( tạp chí Nội khoa Trung hoa 1960,8(3):249).
+ngày (tạp chí Nội khoa Trung hoa 1960,8(3):249).
 
 3.Trị trĩ xuất huyết: Sao Trắc bá diệp 30g, Kinh giới sao đen 15g, than
 Địa hoàng 20g, tán bột, cho nước sôi chế 200ml thụt ruột lưu cho đến lúc
 không nhịn được, ngày 1 lần. Với phương pháp này, Trương pháp Vân đã trị
-khỏi 8 ca ( Tạp chí bệnh giang môn Trung quốc 1985,4:5).
+khỏi 8 ca (Tạp chí bệnh giang môn Trung quốc 1985,4:5).
 
 4.Dùng trị bệnh ngoài da: Trần Hữu Thế đã dùng bài: Trắc bá diệp, Địa
 long đều 20g, Hoàng liên, Địa hoàng đều 25g, Hùng hoàng 15g, Khinh phấn
@@ -132,7 +132,7 @@ trị zona 23 ca, lở chảy máu vàng 17 ca, bình quân 3 - 7 ngày khỏi.
 5.Trị ho gà: Trắc bá diệp tươi gồm cả nhánh con 30g sắc được 100ml cho
 mật ong 20ml. Dưới 2 tuổi mỗi lần uống 15 - 20ml, ngày 3 lần, lượng tùy
 theo tuổi gia giảm. Đã trị 56 ca ho gà trẻ em. Sau uống thuốc 4 - 10
-ngày, khỏi 41 ca, tiến bộ rõ 9 ca, không khỏi 6 ca ( Tạp chí Nhi khoa
+ngày, khỏi 41 ca, tiến bộ rõ 9 ca, không khỏi 6 ca (Tạp chí Nhi khoa
 Trung hoa1960,11(2):146).
 
 6.Trị lao phổi: Khoa lao Quân y viện giải phóng quân Trung quốc 309 đã
@@ -143,15 +143,15 @@ hang là 23,33%, BK đờm chuyển thành âm tính là 58,14%, phần lớn c�
 triệu chứng ho, mồ hôi trộm, ho ra máu, mệt mõi được cải thiện rõ rệt. (
 Báo Quân y 1976,7:57).
 
-7.Trị sói tóc: Trắc bá diệp tươi ( gồm cả quả non) 25 - 35g, xắt nhỏ cho
+7.Trị sói tóc: Trắc bá diệp tươi (gồm cả quả non) 25 - 35g, xắt nhỏ cho
 vào 60 - 75% cồn 100ml, 7 ngày sau lọc nước dùng, xát vào chỗ rụng tóc,
 ngày 3 - 4 lần. Đã trị 160 ca, kết quả tốt 33 ca, có kết quả 91 ca, tỷ
-lệ kết quả 77,5% ( Tạp chí y học Trung quốc 1973, 53(8):459).
+lệ kết quả 77,5% (Tạp chí y học Trung quốc 1973, 53(8):459).
 
 8.Trị quai bị: Dùng Trắc bá diệp 200 - 300g, rửa sạch giã nát gia lòng
 trắng trứng gà trộn đều đắp vùng đau, mỗi ngày 7 - 8 lần, thường trong 1
 ngày là hết phù, đã trị 50 ca, trừ 2 ca nhiễm khuẩn dùng thêm trụ sinh,
-còn 48 ca chỉ đắp thuốc 1 - 2 ngày là khỏi ( Tăng minh Nhân, Tạp chí
+còn 48 ca chỉ đắp thuốc 1 - 2 ngày là khỏi (Tăng minh Nhân, Tạp chí
 Trung y Hà bắc 1985,4:31).
 
 Liều dùng và chú ý:

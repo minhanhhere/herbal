@@ -2,25 +2,25 @@
 
 RAU MÙI
 
-( Hồ tuy, Nguyên tuy, Rau ngò)
+(Hồ tuy, Nguyên tuy, Rau ngò)
 
-( Herba Coriandri Sativi)
+(Herba Coriandri Sativi)
 
-Toàn cây dùng làm thuốc. Cây rau mùi ( Coriandrum sativum L.) thuộc họ
-Hoa tán ( Umbelliferae) . Vị cay tính ấm mùi thơm qui kinh phế vị.
+Toàn cây dùng làm thuốc. Cây rau mùi (Coriandrum sativum L.) thuộc họ
+Hoa tán (Umbelliferae) . Vị cay tính ấm mùi thơm qui kinh phế vị.
 
 Thành phần chủ yếu:
 
 Quả mùi có tinh dầu (0,3 - 1,0% ), chất béo (13 - 20%), protein (16 -
-18%), chất xơ ( 38%). Thành phần chủ yếu của tinh dầu là Linalola quay
-phải ( 70 -90), còn gọi là Coriandrola. 5% d.pinen, limonex, tecpinen,
+18%), chất xơ (38%). Thành phần chủ yếu của tinh dầu là Linalola quay
+phải (70 -90), còn gọi là Coriandrola. 5% d.pinen, limonex, tecpinen,
 mycxen, phelandren, một ít geranioa và bocneola. Trong lá thân cũng chứa
 trên dưới 1% tinh dầu.
 
 Tác dụng dược lý:
 
-Theo Y học cổ truyền thuốc có tác dụng phát tán thấu chẩn ( giúp sởi
-đâïu chóng mọc), giảm độc làm nhẹ trạng thái nhiễm độc toàn thân ( nhất
+Theo Y học cổ truyền thuốc có tác dụng phát tán thấu chẩn (giúp sởi
+đâïu chóng mọc), giảm độc làm nhẹ trạng thái nhiễm độc toàn thân (nhất
 là đối với bệnh sởi trẻ em), kiện vị tiêu thực.
 
 Tây y chưa có báo cáo về nghiên cứu rau mùi.
@@ -32,12 +32,12 @@ sốt kéo dài mà sởi chưa mọc hoặc mọc quá ít, dùng cây rau mùi
 dụng thúc sởi mọc nhanh và đều, tăng tuần hoàn ngoại vi làm cho độc sởi
 được phát ra ngoài, trạng thái nhiễm độc được giảm nhẹ.
 
--  Dùng ngoài: Hạt rau mùi tươi ( hoặc cả thân lá) 100 - 150g sắc nước
+-  Dùng ngoài: Hạt rau mùi tươi (hoặc cả thân lá) 100 - 150g sắc nước
    sôi độ 5 phút, giã nát để sắc (không sắc lâu) đem xoa ấn vào tay chân
-   và thân mình trẻ ( theo thứ tự lưng trước bụng sau, trên trước dưới
+   và thân mình trẻ (theo thứ tự lưng trước bụng sau, trên trước dưới
    sau) không để trẻ bị lạnh. Hoặc dùng Hạt mùi 80g tán nhỏ trộn với
    rượu 100ml và nước 100ml đun sôi lọc bỏ bã phun vào người bệnh nhi
-   trừ mặt ( để nước thuốc hơi ấm mà dùng).
+   trừ mặt (để nước thuốc hơi ấm mà dùng).
 -  Uống trong: Hạt mùi 12g sắc nuớc uống ấm trong ngày 1 - 2 lần.
 
 2.Trị rối loạn tiêu hóa bụng đầy đau do thực tích: Dùng bài: Hồ tuy 8g,

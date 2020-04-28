@@ -52,9 +52,9 @@ Trích đọan Y văn cổ:
    như rượu, có thể trừ hàn nặng ở biểu và ở lý, trị chứng quyết nghịch
    cấm khẩu, tác dụng ôn trung cường âm, làm ấm ngũ tạng, hồi dương khí,
    trị cách dương hầu tý (đau họng do lạnh), đại tiện không thông do
-   dương hư và phụ nhân kinh hàn bất điều ( kinh nguyệt không đều do
+   dương hư và phụ nhân kinh hàn bất điều (kinh nguyệt không đều do
    hàn), trị trẻ em mạn kinh phong. Phụ tử dùng nhiều dẫn hỏa qui
-   nguyên, nếu mạch tế vô thần, khí hư vô nhiệt ( chân tay lạnh ngắt)
+   nguyên, nếu mạch tế vô thần, khí hư vô nhiệt (chân tay lạnh ngắt)
    cần dùng cấp cứu".
 -  Sách Y học Trung tham tây lục: " Phụ tử, vị cay, tính đại nhiệt, là
    chủ dược bổ nguyên dương, lực có thể thăng giáng, vào trong tán

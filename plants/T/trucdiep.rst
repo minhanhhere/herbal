@@ -5,7 +5,7 @@ TRÚC DIỆP
 (Herba Lophatheri Gracilis)
 
 Còn gọi là Đạm trúc diệp, là thân lá phơi khô của cây Đạm trúc diệp
-(Lophatherum gracile Brongn) thuộc họ Lúa ( Gramineae).
+(Lophatherum gracile Brongn) thuộc họ Lúa (Gramineae).
 
 Vị cay, nhạt, ngọt, tính hàn qui kinh Tâm Phế.
 

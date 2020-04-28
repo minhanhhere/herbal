@@ -2,10 +2,10 @@
 
 SƠN THÙ DU
 
-( Fructus Corni Officinalis)
+(Fructus Corni Officinalis)
 
 Sơn thù du còn gọi là Sơn thù, Thù nhục, Táo bì dùng làm thuốc được ghi
-đầu tiên trong sách Bản kinh là quả bỏ hột của cây Sơn thù du ( Cornus
+đầu tiên trong sách Bản kinh là quả bỏ hột của cây Sơn thù du (Cornus
 officinalis Sieb et Zucc.) Nước ta hiện đang còn phải nhập Sơn thù của
 Trung quốc. Cây này mọc hoang hoặc được trồng nhiều tại các tỉnh Thiểm
 tây, Sơn đông, Hà nam, An huy, Triết giang, Tứ xuyên.
@@ -30,7 +30,7 @@ Theo các sách thuốc cổ:
 
 Thành phần chủ yếu:
 
-Saponin ( 13%), verbenalin, ursolic acid, tanin, vitamin A.
+Saponin (13%), verbenalin, ursolic acid, tanin, vitamin A.
 
 Tác dụng dược lý:
 
@@ -38,19 +38,19 @@ A.Theo Y học cổ truyền:
 
 Sơn thù du có tác dụng bổ ích can thận thu liễm cố sáp. Chủ trị các
 chứng: Can thận hư tổn, huyễn vựng, dương nuy, hoạt tinh di tinh, hư hãn
-( mồ hôi trộm), băng lậu.
+(mồ hôi trộm), băng lậu.
 
 Trích đoạn Y văn cổ:
 
--  Sách Danh y biệt lục: " Trị nhĩ lung ( điếc tai), diệu sang ( lở ở
-   mặt), ra mồ hôi, thuốc có tác dụng ôn trung, hạ khí cường âm ( làm
-   mạnh sinh lý sinh dục), ích tinh, làm khỏe ngũ tạng ( yên ngũ tạng),
-   thông cửu khiếu, làm bớt chứng tiểu nhiều, minh mục, cường lực ( làm
+-  Sách Danh y biệt lục: " Trị nhĩ lung (điếc tai), diệu sang (lở ở
+   mặt), ra mồ hôi, thuốc có tác dụng ôn trung, hạ khí cường âm (làm
+   mạnh sinh lý sinh dục), ích tinh, làm khỏe ngũ tạng (yên ngũ tạng),
+   thông cửu khiếu, làm bớt chứng tiểu nhiều, minh mục, cường lực (làm
    sáng mắt, tăng sức).
 -  Sách Lôi công bào chế luận: " tráng nguyên khí, bí tinh".
--  Sách Dược tính bản thảo: " chỉ nguyệt thủy bất định ( trị rối loạn
-   kinh nguyệt), bổ thận khí, hưng dương đạo ( trị liệt dương) thêm tinh
-   tủy, liệu nhĩ minh ( trị tai ù). trị người già tiểu nhiều".
+-  Sách Dược tính bản thảo: " chỉ nguyệt thủy bất định (trị rối loạn
+   kinh nguyệt), bổ thận khí, hưng dương đạo (trị liệt dương) thêm tinh
+   tủy, liệu nhĩ minh (trị tai ù). trị người già tiểu nhiều".
 
 B.Kết quả nghiên cứu dược lý hiện đại:
 
@@ -79,21 +79,21 @@ liệt dương, di tinh, váng đầu, ù tai, điếc tai, tiểu nhiều lần
 -  Lai phục thang: Sơn thù, Đảng sâm đều 30g, Sinh Long cốt, Sinh mẫu
    lệ, Sinh Bạch thược đều 12g, Cam thảo 3g, sắc uống. Trị ra mồ hôi
    nhiều.
--  Sinh Mẫu lệ 10 - 15g ( sắc trước), Phù tiểu mạch 6 - 15g, Sơn thù
+-  Sinh Mẫu lệ 10 - 15g (sắc trước), Phù tiểu mạch 6 - 15g, Sơn thù
    nhục 6 - 10g sắc uống. Trị chứng ra mồ hôi ở trẻ em còi xương, suy
    dinh dưỡng.
 
 3.Trị phụ nữ kinh nguyệt ra nhiều do cơ thể yếu hoặc do tiểu cầu giảm
 dùng bài:
 
--  Sơn thù du 30g, Nhân sâm 4 - 8g sắc uống ( nếu huyết nhiệt không
+-  Sơn thù du 30g, Nhân sâm 4 - 8g sắc uống (nếu huyết nhiệt không
    dùng).
 -  Sơn thù nhục, Thục địa đều 15g, Đương qui, Bạch thược đều 12g, sắc
    uống.
 
 4.Trị chứng tăng cholesterol máu: dùng bài:
 
--  Lục vị địa hoàng ( Tiểu nhi dược chứng trực huyết): Thục địa 20g,
+-  Lục vị địa hoàng (Tiểu nhi dược chứng trực huyết): Thục địa 20g,
    Hoài sơn, Sơn thù đều 10g, Trạch tả, Phục linh, Đơn bì đều 8g, sắc
    uống.
 

@@ -94,18 +94,18 @@ linh, Tạp chí Nội khoa Trung hoa 1982,12:783).
 nóng của nước. Dùng 10 lớp gạc làm thành 4 miếng rộng mỗi bề 30cm, tẩm
 nước thuốc đắp lên bụng chườm nóng 3 - 4 lần trong ngày mỗi lần 1 giờ,
 ngoài ra tùy tình hình bệnh cho trụ sinh, bổ sung dịch, giảm áp lực bao
-tử, theo dõi 40 ca, khỏi 37 ca ( Vương Cẩm Vân, Học báo viện Y học Hà
+tử, theo dõi 40 ca, khỏi 37 ca (Vương Cẩm Vân, Học báo viện Y học Hà
 nam 1965, 22:203).
 
 3.Trị viêm tuyến vú sau sanh: Tạo giác tán bột trộn với cồn 75% hoặc
 rượu trắng, dùng 1 lớp gạc bọc thuốc thành gói nhỏ nhét vào lỗ mũi cùng
 bên đau, 12 giờ sau lấy ra. Theo dõi 36 ca điều trị khỏi trong số 43 ca
-được điều trị ( Hứa hoài Cần, Tạp chí Y học Trung hoa 1973,11:685).
+được điều trị (Hứa hoài Cần, Tạp chí Y học Trung hoa 1973,11:685).
 
 4.Trị trẻ em lười ăn: cho Tạo giác vào chảo, trước to lửa sao nhỏ lửa để
 sao tồn tính, tán bột mịn cho vào lọ để dùng, mỗi lần uống 1g, ngày 2
 lần, trộn với đường uống. Thường từ 3 - 10 ngày, trung bình 5 ngày có
-hiệu nghiệm. Đã trị 110 ca, tỷ lệ kết quả 94,5%% ( Uông di Khôi, Tạp chí
+hiệu nghiệm. Đã trị 110 ca, tỷ lệ kết quả 94,5%% (Uông di Khôi, Tạp chí
 Trung y Hồ bắc 1987,1:25).
 
 5.Trị ho suyễn đờm nhiều:

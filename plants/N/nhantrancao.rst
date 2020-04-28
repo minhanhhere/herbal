@@ -23,7 +23,7 @@ nhiều nơi cũng dùng như Nhân trần nhưng chưa được nghiên cứu n
 
 Thực ra trên thị trường người ta hay dùng lẫn lộn, tác dụng dược lý cần
 được nghiên cứu thêm. Trong bài này chủ yếu giới thiệu về cây Nhân trần
-cao ( Trung quốc) đã được nghiên cứu nhiều. Nhân trần cao cũng có tên là
+cao (Trung quốc) đã được nghiên cứu nhiều. Nhân trần cao cũng có tên là
 Nhân trần hiên còn nhập của Trung quốc.
 
 Tính vị qui kinh:
@@ -95,7 +95,7 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    viêm gan cấp 32 ca đều khỏi, thuố có tác dụng hạ sốt hết vàng da, gan
    nhỏ nhanh, thời gian điều trị 3 - 15 ngày, phần lớn trong 7 ngày khỏi
    (Tạp chí Trung y dược Phúc kiến 1959,7:42).
--  Nhân trần ngũ linh tán ( Kim quỉ yếu lược): Nhân trần 16g, Bạch truật
+-  Nhân trần ngũ linh tán (Kim quỉ yếu lược): Nhân trần 16g, Bạch truật
    12g, Trạch tả 12g, Bạch linh, Trư linh đều 12g, Quế chi 6g sắc uống.
    Trị viêm gan vàng da, tiểu ít.
 
@@ -128,7 +128,7 @@ pha vào cồn 95 độ chế thành cồn xoa Nhân trần số I và số II, 
 dùng Nhân trần chế thành dầu nước 5ml là số III. Trị chàm thân mình và
 chân bôi thuốc ngày 2 lần liên tục trong 4 tuần. Kết quả tổ dùng cồn số
 II có 7 ca, khỏi 5 ca, tốt 2 ca. Tổ dùng cồn số I có 4 ca, khỏi 2 ca,
-tốt 2 ca. Tổ dùng dầu xoa nước số III có 9 ca chỉ có 2 ca khỏi ( Thông
+tốt 2 ca. Tổ dùng dầu xoa nước số III có 9 ca chỉ có 2 ca khỏi (Thông
 tin Trung thảo dược Tứ xuyên 1976,3:28).
 
 Liều thường dùng:

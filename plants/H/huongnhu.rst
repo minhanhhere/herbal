@@ -2,11 +2,11 @@
 
 HƯƠNG NHU
 
-( Herba Elshltziae Splenttensis )
+(Herba Elshltziae Splenttensis )
 
 Hương nhu là một vị thuốc dùng toàn cây trừ rễ của cây Hương nhu gồm
 nhiều loại khác nhau. Ở nước ta có Hương nhu tía (Ocimum sanxctum L) và
-Hương nhu trắng ( Ocimum Gratissimum L ) đều thuộc họ Hoa môi
+Hương nhu trắng (Ocimum Gratissimum L ) đều thuộc họ Hoa môi
 (Labiatae). Hương nhu Trung quốc (Elsholtsia haichowensis Sun) tuy có
 nguồn gốc khác nhau nhưng cùng một công dụng. Hương nhu vị cay tính ấm,
 qui kinh Phế vị.
@@ -35,7 +35,7 @@ Chưa thấy báo cáo về nghiên cứu thực nghiệm.
 viêm ruột cấp thường dùng Hương nhu phối hợp với Hậu phác, Biển đậu sao
 để tăng tác dụng trừ thấp như bài:
 
-HƯƠNG NHU ẨM ( Hòa lợi cục phương) Hương nhu 12g, Bạch biển đậu 12g, Hậu
+HƯƠNG NHU ẨM (Hòa lợi cục phương) Hương nhu 12g, Bạch biển đậu 12g, Hậu
 phác 8g, sắc nước uống, chia 2 lần; nếu nôn gia gừng tươi.
 
 2.Trị phù do viêm cầu thận cấp hoặc do dị ứng: đầu mặt phù, sợ lạnh,

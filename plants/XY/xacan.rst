@@ -33,10 +33,10 @@ Các sách cổ ghi:
 
 -  Sách Bổn kinh: *" Chủ khái huyết thượng khí, hầu tý yết thống khó
    thở. Tán kết khí, phúc trung tà nghịch, ẩm thực đại nhiệt*".
--  Sách Danh y biệt lục: " trị huyết cũ ( huyết ứ) tại tâm tỳ, ho, mồm
+-  Sách Danh y biệt lục: " trị huyết cũ (huyết ứ) tại tâm tỳ, ho, mồm
    hôi, tán nhiệt khí trong ngực".
 -  Sách Dược tính bản thảo: " trị hầu tý thủy tương bất nhập thông nữ
-   nhân nguyệt bế, trị chủ khí ( mệt mỏi), tiêu ứ huyết".
+   nhân nguyệt bế, trị chủ khí (mệt mỏi), tiêu ứ huyết".
 -  Sách Nhật hoa tử bản thảo: "tiêu đàm, phá trưng kết, hung cách mãn,
    phúc trướng, khí suyễn khai vị hạ thực, tiêu thủng độc, trấn can minh
    mục".

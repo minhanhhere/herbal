@@ -4,9 +4,9 @@ MẬT GẤU
 
 (Fel Urisi)
 
-Mật gấu ( Hùng đởm ) là túi mật phơi khô hay sấy khô của nhiều loại gấu.
+Mật gấu (Hùng đởm ) là túi mật phơi khô hay sấy khô của nhiều loại gấu.
 Ở Việt nam thường dùng loại Gấu ngựa (Sélénaretos thibetanus Cuvier),
-đôi khi dùng Gấu xám ( Ursus Arcto L).
+đôi khi dùng Gấu xám (Ursus Arcto L).
 
 Vị đắng tính hàn, qui kinh Can, Đởm, Tâm.
 
@@ -40,7 +40,7 @@ co giật uống mật gấu 5 li cũng có tác dụng.
 lóet mồm, bôi mật gấu lên chỗ đau có tác dụng giảm đau tiêu viêm.
 
 4.Dùng trong Nhãn khoa: chữa viêm màng tiếp hợp đỏ, sưng đau hoặc mộng
-thịt. Bài Hùng đởm tán ( Thọ vực phương). Mật gấu 2 li, Băng phiến 2 li,
+thịt. Bài Hùng đởm tán (Thọ vực phương). Mật gấu 2 li, Băng phiến 2 li,
 hòa nước điểm vào chỗ đau hoặc viêm sưng tấy đều có kết quả.
 
 5.Đối với trẻ sơ sinh: viêm kết mạc chảy nước mắt, không mở mắt được,

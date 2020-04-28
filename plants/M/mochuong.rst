@@ -2,12 +2,12 @@
 
 MỘC HƯƠNG
 
-( Radix saussureae lappae)
+(Radix saussureae lappae)
 
 Mộc hương là rễ phơi hay sấy khô của cây Mộc hương, dùng làm thuốc được
 ghi đầu tiên trong sách Bản kinh. Cây Mộc hương có nhiều loại, sách
-Trung dược học ( Trung quốc) nêu 2 loại: Vân mộc hương Saussurea lappa
-mọc ở vùng Lệ giang tỉnh Vân nam ( nên có tên Vân mộc hương) và Xuyên
+Trung dược học (Trung quốc) nêu 2 loại: Vân mộc hương Saussurea lappa
+mọc ở vùng Lệ giang tỉnh Vân nam (nên có tên Vân mộc hương) và Xuyên
 mộc hương Viadiminia souliei (Franch) Ling. Còn loại trồng ở Ấn độ, Miến
 điện thì sách thuốc Trung quốc gọi là Quảng mộc hương. Sách của Đỗ tất
 Lợi có giới thiệu thêm cây Thổ mộc hương Inula helenium L. đều thuộc họ
@@ -64,16 +64,16 @@ Trích đoạn Y văn cổ:
 
 Ứng dụng lâm sàng:
 
-1.Trị rối loạn tiêu hóa: bụng đầy đau, sôi bụng ( do trúng hàn khí trệ).
+1.Trị rối loạn tiêu hóa: bụng đầy đau, sôi bụng (do trúng hàn khí trệ).
 
 -  Mộc hương điều khí tán:Mộc hương, Bạch đậu khấu, Đàn hương, Cam thảo
    đều 4g, Đinh hương 2g, Hoắc hương diệp 10g, Sa nhân 5g, sắc uống.
 
-2.Trị chứng tả lî bụng đau, lý cấp hậu trọng ( do khí trệ ở đại trường):
+2.Trị chứng tả lî bụng đau, lý cấp hậu trọng (do khí trệ ở đại trường):
 
 -  Mộc hương bình lang hoàn: Mộc hương, Ngô thù đều 4g, Bình lang 10g,
    Thanh bì, Chỉ xác, Trần bì, Tam lăng đều 6g, Hoàng bá 10g, Nga truật
-   6g, Đại hoàng, Hương phụ, Khiên ngưu, Mang tiêu ( hòa uống) đều 10g
+   6g, Đại hoàng, Hương phụ, Khiên ngưu, Mang tiêu (hòa uống) đều 10g
    sắc uống.
 -  Hương liên hoàn: Mộc hương 4g, Hoàng liên 6g, sắc uống. Theo cổ
    phương thì Hoàng liên sao với Ngô thù, xong bỏ Ngô thù gia Mộc hương
@@ -83,10 +83,10 @@ Trích đoạn Y văn cổ:
 
 Mã văn Quang dùng dịch Mộc hương 100% chích bắp, 2ml/lần, ngày 2 lần.
 Trị rối loạn tiêu hóa, viêm ruột cấp, viêm bao tử mạn 29 ca đạt tỷ lệ
-kết quả 93% ( Thông tin Trung thảo dược 1979, 3:37).
+kết quả 93% (Thông tin Trung thảo dược 1979, 3:37).
 
 3.Trị cơn đau thắt túi mật: Hoàng dục Quang dùng thuốc trị 8 ca kết quả
-đều tốt ( Tạp chí Ngoịa khoa Trung hoa 1958, 1:24).
+đều tốt (Tạp chí Ngoịa khoa Trung hoa 1958, 1:24).
 
 Liều dùng và chú ý:
 

@@ -2,10 +2,10 @@
 
 CÁT CĂN
 
-( Radix Puerariae)
+(Radix Puerariae)
 
 Vị thuốc Cát căn là rễ của cây Sắn dây (Pueraria thomsoni Benth ) thuộc
-họ Cánh bướm (Papilionaceae). Vị ngọt nhạt tính mát ( có tài liệu nói vị
+họ Cánh bướm (Papilionaceae). Vị ngọt nhạt tính mát (có tài liệu nói vị
 ngọt cay tính bình, qui kinh Tỳ Vị.
 
 Thành phần chủ yếu:
@@ -15,22 +15,22 @@ Có tinh bột, các flavonoit puerarin, daizin, daizein.
 Tác dụng dược lý:
 
 Tài liệu cổ ghi nhận Sắn dây có tác dụng: tán nhiệt giải cảm, tuyên độc
-thấu chẩn, giải kinh ( chống co giật), sinh tân chỉ khát.
+thấu chẩn, giải kinh (chống co giật), sinh tân chỉ khát.
 
 Qua nghiên cứu, nhiều tài liệu xác nhận thuốc có những tác dụng sau:
 
-1.Giải nhiệt ( trên súc vật thực nghiệm nhận thấy thuốc có tác dụng giải
+1.Giải nhiệt (trên súc vật thực nghiệm nhận thấy thuốc có tác dụng giải
 nhiệt mạnh: Theo tài liệu " Nghiên cứu dược lý tác dụng giải nhiệt một
-số thuốc Trung y" ( Tạp chí Y học Trung hoa 42(10):964:967, 1956).
+số thuốc Trung y" (Tạp chí Y học Trung hoa 42(10):964:967, 1956).
 
 2.Giãn mạch vành, kết quả thực nghiệm còn cho thấy Cát căn còn có tác
 dụng đối kháng với nội kích tố hậu tuyến yên gây phản ứng thiếu máu cơ
-tim cấp ( tuyển tập 2 về nghiên cứu thực nghiệm và ứng dụng lâm sàng vị
+tim cấp (tuyển tập 2 về nghiên cứu thực nghiệm và ứng dụng lâm sàng vị
 Cát căn phòng trị bệnh tâm phế, bệnh mạch vành và cao huyết áp - trang
 96 - 102, 1972).
 
 3.Có tác dụng huyết lượng ở não do làm giãn mạch não trên súc vật thực
-nghiệm ( theo tài liệu trên đây).
+nghiệm (theo tài liệu trên đây).
 
 4.Ngoài ra sử dụng thuốc trên lâm sàng còn thấy tác dụng thu liễm tiêu
 viêm làm giãn cơ co thắt của cơ.
@@ -43,7 +43,7 @@ viêm làm giãn cơ co thắt của cơ.
    chỉ, Hoàng cầm, Bạch thược mỗi thứ 4 - 8g, Cam thảo 2g, Cát cánh 4 -
    8g, Thạch cao 16g, Gừng tươi 3 lát, Đại táo 2 quả sắc nước uống.
 
-2.Chữa chứng nhiệt tả ( Viêm ruột cấp, lî trực khuẩn ) dùng bài:
+2.Chữa chứng nhiệt tả (Viêm ruột cấp, lî trực khuẩn ) dùng bài:
 
 -  Cát căn hoàng cầm hoàng liên thang: Cát căn 12 - 20g, Hoàng cầm 12g,
    Hoàng liên 8g, Cam thảo 4g sắc nước uống.

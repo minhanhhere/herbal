@@ -40,7 +40,7 @@ Trích đoạn Y văn cổ:
 -  Sách Tân tu bản thảo: " hạ khí tiêu cốc, trừ phong phá lãnh".
 -  Sách Thực liệu bản thảo: " sát trùng".
 -  Sách Bản thảo thập di: " khử thủy ác chướng khí, trừ phong thấp, .
-   huyền tích ( nổi hạch, bụng báng), phục tà ác, để tuyên thông ôn bổ,
+   huyền tích (nổi hạch, bụng báng), phục tà ác, để tuyên thông ôn bổ,
    không mấy ai không dùng, trị sang tiễn (chàm lỡ)".
 -  Sách Nhật hoa tử bản thảo: " kiện tỳ, trị thận khí, trị chứng thổ tả
    rút gân, phúc thống. trị lao ngược. ôn dịch khí . rắn cắn.".
@@ -111,7 +111,7 @@ a.Trị lao phổi: dùng các bài:
 b.Trị nấm phổi: Tỏi sống 6 - 9g, dùng nước lạnh rửa sạch, giã nát, cho
 vào nước sôi 60ml ngâm trong 1 giờ bỏ bã uống nước, chia nhiều lần uống
 trong ngày, là liều lượng cho trẻ 1 tuổi, những lứa tuổi khác có giảm
-trị 28 ca bình quân dùng thuốc từ 7 - 18 ngày khỏi ( Lưu vạn Triều, Báo
+trị 28 ca bình quân dùng thuốc từ 7 - 18 ngày khỏi (Lưu vạn Triều, Báo
 cáo điều trị nấm phổi trẻ em bằng uống tỏi - Báo Trung cấp Y 1987,6:54).
 
 c.Trị ho gà: dùng Toán bộ hợp tễ (Tỏi vỏ tím, Bách bộ, Tử uyển đều 30g).
@@ -134,7 +134,7 @@ Trung y Hồ bắc 1986,2:51).
 6.Trị sói đầu: dùng nước tỏi vỏ đỏ tươi 3 phần, glycerin 2 phần (tỷ lệ
 theo trọng lượng 3:1), trộn đều xát vào chỗ bệnh, ngày 2 - 3 lần, uống
 thêm Bổ trung ích khí. Đã trị 856 ca khỏi trong thời gian từ 17 - 46
-ngày uống thuốc ( Kim Trần Đồng, Báo Cát lâm Y học 1985,5:24).
+ngày uống thuốc (Kim Trần Đồng, Báo Cát lâm Y học 1985,5:24).
 
 7.Kinh nghiệm dùng tỏi trị phù bụng, có nước, tiểu ít: dùng tỏi, ốc
 đồng, lá mã đề, đều giã nát đắp lên rốn, có kết quả.

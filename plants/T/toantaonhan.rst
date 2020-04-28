@@ -95,7 +95,7 @@ Ngoài ra chia 3 tổ nghiên cứu: trị 60 ca mất ngủ, dùng:
 Đều dùng lượng 45g gia Cam thảo 4,5g sắc nước uống trước lúc ngủ đều có
 kết quả an thần giúp ngủ tốt hơn, cả 3 tổ không khác biệt rõ và không có
 tác dụng phụ hoặc nhiễm độc. Ngoài ra, có 20 ca bệnh nhân dùng bột sao
-Táo nhân 6g hòa uống trước lúc ngủ cũng có kết quả ( Tạp chí Trung tây y
+Táo nhân 6g hòa uống trước lúc ngủ cũng có kết quả (Tạp chí Trung tây y
 kết hợp 1982,2:97).
 
 Liều dùng và chú ý:

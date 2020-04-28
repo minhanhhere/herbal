@@ -8,7 +8,7 @@ Sâm tam thất dùng làm thuốc được ghi đầu tiên trong sách Bản t
 mục, tập 12 với tên Tam thất, còn có tên khác là Kim bất hoán, Điền
 thất, sơn thất, Nhân sâm tam thất, là rễ phơi khô của cây Tam thất
 (Panax notoginseng (burt). F.H.Chen hoặc Panax repens Maxim) thuộc họ
-Ngũ gia bì ( Araliaceae).
+Ngũ gia bì (Araliaceae).
 
 Tính vị qui kinh:
 
@@ -52,14 +52,14 @@ Theo các Y văn cổ:
 -  Sách Y trung tham tây lục: " Tam thất vị đắng, hơi ngọt, tính bình,
    hóa ứ huyết chỉ huyết, vượng hành là vị thuốc chủ yếu cầm thổ huyết,
    nục huyết, bệnh khỏi không sinh ứ huyết ở kinh lạc.kiêm trị nhị tiện
-   hạ huyết, con gái băng huyết, lî ra máu đỏ tươi lâu không khỏi ( nên
+   hạ huyết, con gái băng huyết, lî ra máu đỏ tươi lâu không khỏi (nên
    dùng với Nha đảm tử). Trường hợp ruột bị loét đi lî phân sắc tím hôi
    tanh có màng mỡ, loét ruột muốn thủng. Tam thất có tác dụng hóa hủ
    sinh tân, dùng để trị. Thuốc còn có tác dụng hóa ứ huyết trị chứng
    trưng hà, kinh nguyệt không thông, thuốc hóa ứ mà không hại huyết mới
    sanh, chảy máu ngoài da dùng bột đắp vết thương cầm ngay. Trường hợp
    té ngã tổn thương ảnh hưởng nội tạng, kinh lạc ngoài đắp trong uống
-   rất tốt. Nhọt mới bị sưng đau đắp ngoài là khỏi ( nên kết hợp với
+   rất tốt. Nhọt mới bị sưng đau đắp ngoài là khỏi (nên kết hợp với
    đồng lượng bột Đại hoàng trộn dấm đăép). Trường hợp sang độc trong
    xương có thể dùng Tam thất làm độc thóat ra".
 
@@ -67,7 +67,7 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 
 #. Tác dụng cầm máu: nước sắc uống của rễ Tam thất, bột Tam thất và dịch
    chiết Tam thất đều có tác dụng rút ngắn thời gian đông máu và thời
-   gian prothrombin có tác dụng ức chế ngưng tập tiểu cầu ( theo Đoàn
+   gian prothrombin có tác dụng ức chế ngưng tập tiểu cầu (theo Đoàn
    thị Nhu, Vũ thị Tâm và Nguyễn thị Nho, Thông báo Dược liệu
    1977,4:14-20, Hà nội); rễ Tam thất có kháng năng kháng lại hiện tượng
    giảm prothrombin trong máu thỏ và giảm khả năng máu đông gây thực
@@ -113,7 +113,7 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    làm sinh thiết tim, gan, thận, lá lách, dạ dày và ruột đều không thay
    đổi.
 #. Một số kết quả nghiên cứu sâm Tam thất trên súc vật thí nghiệm của
-   Đoàn thị Nhu và cộng sự tại Hà nội - Việt nam ( Thông báo Dược liệu
+   Đoàn thị Nhu và cộng sự tại Hà nội - Việt nam (Thông báo Dược liệu
    1977,4:14-20, Hà nội).
 
 -  Rễ Tam thất làm tăng khả năng hoạt động của súc vật thể hiện kéo dài
@@ -142,11 +142,11 @@ Tam thất thì thấy lá Tam thất có hoạt tính yếu hưo khoảng 8 - 1
 với rễ củ Tam thất 5 năm.
 
 #. Tác dụng tiêu viêm: Nước sắc Tam thất có tác dụng chống viêm đối với
-   chuột cống gây viêm khớp thực nghiệm ( ảnh hưởng của nước sắc Tam
+   chuột cống gây viêm khớp thực nghiệm (ảnh hưởng của nước sắc Tam
    thất đối với viêm khớp thực nghiệm, Dược học học báo
    12:446-451.1965).
 #. Nước ngâm kiệt Tam thất trên ống nghiệm có tác dụng ức chế nhiều loại
-   nấm ngoài da ( Tạp chí Bệnh ngoài da Trung hoa:286-292,1957).
+   nấm ngoài da (Tạp chí Bệnh ngoài da Trung hoa:286-292,1957).
 
 Ứng dụng lâm sàng:
 
@@ -156,14 +156,14 @@ với rễ củ Tam thất 5 năm.
    hiệu quả tốt hơn 50 ca đối chiếu dùng Tây y. Số bệnh nhân bao gồm
    loét hành tá tràng 113 ca, viêm dạ dày mạn 19 ca, loét dạ dày 6 ca,
    loét hổn hợp 4 ca, 18 ca chưa phát hiện bệnh lý. Tổ điều trị dùng
-   dịch tiêm Tam thất do Xí nghiệp 1 Thượng hải sản xuất ( 2ml/ống hàm
+   dịch tiêm Tam thất do Xí nghiệp 1 Thượng hải sản xuất (2ml/ống hàm
    lượng 1g thuốc sống) liều 8 - 16ml gia vào dung dịch gluco đẳng
    trương 500ml truyền tĩnh mạch ngày 1 lần, không dùng các loại thuốc
    cầm máu khác gia vào dịch gluco đẳng trương, lượng và truyền như
    nhau. Kết quả: Tổ dùng Tam thất máu trong phân chuyển âm tính bình
    quân sau 5,98 ngày, thời gian nằm viện trung bình 15,2 ngày. Tổ Tây
    y, máu trong phân chuyển âm tính bình quân sau 9,12 ngày và thời gian
-   nằm viện trung bình 21,64 ngày ( P nhỏ hơn 0,02 có ý nghĩa thống kê)
+   nằm viện trung bình 21,64 ngày (P nhỏ hơn 0,02 có ý nghĩa thống kê)
    (Theo Phạm xương Háo và cộng sự, Báo cáo 110 ca huyết xuất đường tiêu
    hóa trên chữa bằng bằng dịch tiêm Tam thất, Tạp chí Trung y dược
    Thượng hải 1983,9:15).
@@ -171,26 +171,26 @@ với rễ củ Tam thất 5 năm.
    uống với nước ấm, bệnh nhân nghỉ tại giường, trừ trường hợp nôn ra
    máu còn ăn bình thường, chế độ lỏng hoặc bán lỏng, sau khi máu trong
    phân âm tính còn uống thêm 2 ngày để củng cố. Kết quả 60 ca chảy máu
-   khỏi hoàn toàn 58 ca, không khỏi 2 ca ( La Dụ Dân, Bột Điền thất trị
+   khỏi hoàn toàn 58 ca, không khỏi 2 ca (La Dụ Dân, Bột Điền thất trị
    xuất huyết bao tử, Tạp chí Trung y Vân nam 1985,1:28).
 -  Trị loét dạ dày chảy máu cấp lượng nhiều: Hòa bột Tam thất 10g vào 30
    - 50ml nước muối sinh lý, cứ mỗi 6 - 8 giờ bơm vào dạ dày 1 lần, kẹp
    ống trong một giờ rồi hút dịch dạ dày cho đến khi dịch không còn máu
    tươi, lưu ống dạ dày 2 - 3 ngày sau đó tiếp tục cho uống bột Tam thất
    mỗi lần 10g, 3 - 5 lần. Thời gian hết máu tươi trong dịch dạ dày từ
-   12 giờ ( ngắn nhất) đến 96 giờ ( dài nhất) bình quân 55,33 giờ, sắc
+   12 giờ (ngắn nhất) đến 96 giờ (dài nhất) bình quân 55,33 giờ, sắc
    phân trở lại bình thường 2 - 8 ngày, bình quân 3,83. Tác giả trị 6
    ca, trừ 1 ca hết chảy máu và chết sau 5 ngày do viêm phổi và nhiễm
-   trùng huyết, còn tất cả đều khỏi ( Dương quốc Phong, trị dạ dày chảy
+   trùng huyết, còn tất cả đều khỏi (Dương quốc Phong, trị dạ dày chảy
    máu cấp do loét, Thực dụng ngoại khoa tạp chí 1982,4:90).
 -  Trị ho ra máu: Bột Tam thất mỗi lần uống 6 - 9g, ngày 2 - 3 lần. Trị
    dãn phế quản, lao phổi và áp xe phổi kèm ho ra máu: 10 ca uống thuốc
    5 ngày, cầm máu trong đó hoàn toàn cầm máu 8 ca, còn 2 ca cầm máu
-   được 1 - 2 tuần lại ho ra máu ít ( Trịnh Hỉ Vân, sơ bộ quan sát bột
+   được 1 - 2 tuần lại ho ra máu ít (Trịnh Hỉ Vân, sơ bộ quan sát bột
    Tam thất trị ho ra máu - Tạp chí Trung y 1965,11:29).
 -  Trị tiểu ra máu: Trị 39 ca bệnh nhân tiểu ra máu, mỗi 4 - 8 giờ uống
    bột Tam thất 0,9 - 1,5g, đại bộ phận bệnh nhân sau khi dùng thuốc
-   trên dưới 3 ngày hết tiểu ra máu ( Khoa Tiết niệu ngoại Bệnh viện số
+   trên dưới 3 ngày hết tiểu ra máu (Khoa Tiết niệu ngoại Bệnh viện số
    1 Cáp nhĩ Tân, Quan sát lâm sàng dùng bột Tam thất trị tiểu ra máu,
    Báo Đại học Y Cáp nhĩ tân 1974,7(2):51).
 -  Trị xuất huyết nhãn tiền phòng: do chấn thương nhãn tiền phòng xuất
@@ -199,22 +199,22 @@ với rễ củ Tam thất 5 năm.
    phương pháp thẩm thấu Ion 10% dịch Tam thất ngày 1 lần, mỗi lần 20
    phút. Kết quả trừ 1 ca xuất huyết lâu ngày teo cũng mạc không kết
    quả, 1 ca xuất huyết giác mạc nhuộm máu kết quả không rõ, còn lại vài
-   ngày sau hết, thị lực hồi phục nhanh ( Trạm bảo vệ sức khỏe Xưởng
+   ngày sau hết, thị lực hồi phục nhanh (Trạm bảo vệ sức khỏe Xưởng
    điện cơ Thượng hải,1978,3:16).
 
-2.Trị chấn thương sọ não: cho uống bột Tam thất 3g ( hôn mê cho xông qua
+2.Trị chấn thương sọ não: cho uống bột Tam thất 3g (hôn mê cho xông qua
 mũi) ngày 2 - 3 lần, theo dõi trị 40 ca, có kết quả 75% đối với thể nhẹ
 và vừa, kết quả tốt, ý thức hồi phục nhanh, triệu chứng thần kinh và cảm
 giác chủ quan được cải thiện, nước não tủy trong nhanh, lưu lượng máu,
 lực cản mạch máu não và phù não đều được cải thiện. Thời gian dùng thuốc
 3 - 10 ngày dài nhất 21 ngày, trường hợp nặng dùng thêm lợi niệu, trụ
-sinh, an thần.( Khoa Ngoại thần kinh Bệnh viện thực hành số 1 thuộc Y
+sinh, an thần.(Khoa Ngoại thần kinh Bệnh viện thực hành số 1 thuộc Y
 học viện Quảng tây - Quan sát kết quả điều trị 40 ca chấn thương sọ não
 điều trị bằng Tam thất, Báo Tân y học 1979,10(7):330).
 
 3.Trị bệnh mạch vành:
 
--  Dùng Tam thất Quan tâm ninh ( chiết xuất từ Tam thất ) trong 28 Bệnh
+-  Dùng Tam thất Quan tâm ninh (chiết xuất từ Tam thất ) trong 28 Bệnh
    viện của tỉnh đã tổng kết 828 ca bệnh mạch vành, mỗi ngày uống 0,6 -
    1,2g; 778 ca đau thắt ngực có kết quả 70,2% kết quả rõ rệt 20,1% (
    trong tổng số liệu trình từ 4 đến 6 tháng, tỷ lệ kết quả 82,7%; 625
@@ -225,10 +225,10 @@ học viện Quảng tây - Quan sát kết quả điều trị 40 ca chấn th�
 -  Phức phương Tam thất quan tâm phiến gồm: Tam thất 0,8g, Diên hồ sách
    4g, Hồng hoa, Chế thủ ô, Kê huyết đằng mỗi thứ 12g, Một dược 2g. Tất
    cả đều lượng 1 ngày chia 3 lần uống, 30 ngày là một liệu trình, dùng
-   trị 1 - 2 liệu trình nhận thấy kết quả: 68 ca đau thắt tim ( 127
+   trị 1 - 2 liệu trình nhận thấy kết quả: 68 ca đau thắt tim (127
    lần), tỷ lệ kết quả 88,2%, trước khi dùng thuốc có 52 lần đã dùng
    Nitroglycerin, sau khi điều trị bằng phức phương Tam thất có 73,1%
-   không dùng hoặc giảm liều. Tỷ lệ có kết quả điện tâm đồ 26,7% ( Tổ
+   không dùng hoặc giảm liều. Tỷ lệ có kết quả điện tâm đồ 26,7% (Tổ
    phòng trị bệnh mạch vành, Tổng Y viện Giải phóng quân Nhân dân Trung
    quốc - Quan sát kết quả điều trị bệnh mạch vành bằng Quan tâm phiến
    68 ca, Tạp chí Tân y dược học 1973,10:12).
@@ -238,7 +238,7 @@ học viện Quảng tây - Quan sát kết quả điều trị 40 ca chấn th�
 não kèm theo lipid máu và cholesterol cao đã phát hiện lipid máu và
 cholesterol đều giảm. Cho uống liên tục 1 tháng, lipid huyết bình quân
 từ 1179,2mg% xuống còn 718,4mg%, cholesterol từ 272,6mg% xuống còn
-185mg% ( Trương Côn, Tác dụng của Sinh Tam thất đối với hạ lipid và
+185mg% (Trương Côn, Tác dụng của Sinh Tam thất đối với hạ lipid và
 cholesterol máu - Tạp chí Tân y dược học 1973,10:13).
 
 5.Trị bệnh gan:
@@ -246,14 +246,14 @@ cholesterol máu - Tạp chí Tân y dược học 1973,10:13).
 -  Tác giả cho bệnh nhân gan mật và những bệnh nhân không rõ nguyên nhân
    45 ca có SGPT tăng cao uống bột Tam thất 1g/lần, ngày 3 lần liên tục
    trong một tháng có 44 ca có SGPT hạ bình thường, trong đó có 10 ca
-   viêm gan ạn có protit huyết tương được cải thiện ( Trương Côn, Tác
+   viêm gan ạn có protit huyết tương được cải thiện (Trương Côn, Tác
    dụng hạ SGPT và cải thiện Protit huyết tương của bột Tam thất, Trung
    y tạp chí 1980,5:25).
 -  Dùng dịch tiêm Tam thất trị viêm gan mạn 65 ca thể huyết ứ, chích với
-   liều lượng khác nhau, chích bắp hoặc tĩnh mạch, mỗi ngày 1 ống ( 1
+   liều lượng khác nhau, chích bắp hoặc tĩnh mạch, mỗi ngày 1 ống (1
    ống 2ml có 1g thuốc sống) có 25 ca, chích 2 ống 34 ca, chích 3 ống 6
    ca, 1 lần/1 ngày, một liệu trình 3 - 4 tháng. Kết quả tốt 47 ca, có
-   chuyển biến 5 ca, không kết quả 13 ca, tỷ lệ kết quả 80,0% ( Thiện
+   chuyển biến 5 ca, không kết quả 13 ca, tỷ lệ kết quả 80,0% (Thiện
    Minh và cộng sự, Tiêm dịch Tam thất trị viêm gan mạn thể huyết ứ,
    Thượng hải Trung y dược tạp chí 1983,8:12).
 
@@ -263,7 +263,7 @@ cholesterol máu - Tạp chí Tân y dược học 1973,10:13).
    Tam thất 4g với nước cơm hoặc cho uống với 30 - 40ml rượu trắng,
    ngoài xoa bột Tam thất 2g, phối hợp với Long cốt nung, Ngũ bội tử mỗi
    thứ 15 - 20g.
--  Trị thổ huyết ho ra máu dùng bài An huyết ẩm ( bột Tam thất 4g, Bạch
+-  Trị thổ huyết ho ra máu dùng bài An huyết ẩm (bột Tam thất 4g, Bạch
    cập 16g, nước củ sen 1 chén con 5 - 10ml), Bạch mao căn 30g, Mẫu lệ
    20g, Đại hoàng chế 8g sắc uống.
 -  Trị băng lậu, kinh nguyệt ra nhiều, có huyết cục, dùng Tam thất kết

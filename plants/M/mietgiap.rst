@@ -2,17 +2,17 @@
 
 MIẾT GIÁP
 
-( Carapax Amydae Sinensis)
+(Carapax Amydae Sinensis)
 
 Còn gọi là Mai ba ba, Thủy ngư xác, Giáp ngư, Miết xác, được ghi đầu
 tiên trong sách Bản kinh. Miết giáp là Mai con Ba ba gồm nhiều loại khác
 nhau như ng phổ biến nhất là con Ba ba Trionyx sinensis Wegmann hay
-Amyda sinensis Stejneger thuộc họ Ba ba ( Trionychidae). Loại Ba ba này
+Amyda sinensis Stejneger thuộc họ Ba ba (Trionychidae). Loại Ba ba này
 có nhiều ở miền Bắc và miền Trung nước ta, sống ở hồ ao, sông lạch, độ
 cao khác nhau.
 
 Con Ba ba bắt về dùng dao cắt đầu, phơi khô dùng làm thuốc gọi là Miết
-đầu ( Caput amydae), sau đó cho Ba ba vào nồi nước sôi, đun trong 1 - 2
+đầu (Caput amydae), sau đó cho Ba ba vào nồi nước sôi, đun trong 1 - 2
 giờ, lấy mai riêng ra cạo sạch thịt, phơi khô. Nếu giết Ba ba còn đang
 sống lấy mai mà không phải đun sôi càng tốt.
 
@@ -20,7 +20,7 @@ Theo tài liệu Trung dược học, cách bào chế Ba ba: Cho Miết giáp v
 đun sôi 45 phút, lấy ra bỏ vào nước nóng cạo ngay da thịt, rửa sạch phơi
 khô gọi là Sinh Miết giáp, hoặc dùng cát cho vào nồi rang nóng sau cho
 Miết giáp sạch vào rang cho đến lúc chuyển thành màu vàng nhạt, lấy ra
-tẩm dấm ( mỗi 100kg Miết giáp cho 20kg dấm), sao khô tức Miết giáp chích
+tẩm dấm (mỗi 100kg Miết giáp cho 20kg dấm), sao khô tức Miết giáp chích
 dấm.
 
 Tính vị qui kinh:
@@ -53,12 +53,12 @@ Tư âm tiềm dương, nhuyễn kiên tán kết. Chủ trị các chứng hư 
 Trích đoạn Y văn cổ:
 
 -  Sách Bản kinh: " chủ tâm phúc trưng hà kiên tích, hàn nhiệt, khử bỉ
-   (báng ở bụng), tức nhục ( polip), âm thực ( lóet âm hộ), trĩ, ác
+   (báng ở bụng), tức nhục (polip), âm thực (lóet âm hộ), trĩ, ác
    nhục".
 -  Sách Danh y biệt lục: " liệu ngôn ngược, huyết hà, yêu thống, tiểu
-   nhi hiệp hạ kiên ( gan lách to).
+   nhi hiệp hạ kiên (gan lách to).
 -  Sách Dược tính bản thảo: " chủ lao sấu (gày còm), hạ khí, trừ cốt
-   nhiệt, cốt tiết gan nhiệt ( nóng trong khớp xương), trị phụ nhân lậu
+   nhiệt, cốt tiết gan nhiệt (nóng trong khớp xương), trị phụ nhân lậu
    hạ".
 -  Sách Nhật hoa tử bản thảo: " tiêu sang thũng., ngược tật, trường
    ung".
@@ -85,18 +85,18 @@ kháng thể, có tác dụng an thần.
 
 1.Trị lao phổi có triệu chứng hư nhiệt, triều nhiệt, mồ hôi trộm:
 
--  Thanh cốt tán ( Chứng trị chuẩn thằng): Ngân sài hồ 12g, Hồ Hoàng
-   liên 4g, Miết giáp 20g ( sắc trước), Thạch cao 8g, Tần giao 8g, Địa
+-  Thanh cốt tán (Chứng trị chuẩn thằng): Ngân sài hồ 12g, Hồ Hoàng
+   liên 4g, Miết giáp 20g (sắc trước), Thạch cao 8g, Tần giao 8g, Địa
    cốt bì 12g, Tri mẫu 12g, Cam thảo 4g, sắc uống.
 
 2.Trị chứng sốt rét kéo dài thời kỳ cuối của nhiều bệnh nhiễm: có hội
 chứng can âm bất túc như chân tay run giật, lưỡi khô mà trơn bóng, mạch
 tế sác nhược, dùng bài:
 
--  Tam giáp phục mạch thang ( Ôn bệnh điều biện): Sinh Mẫu lệ 20g, Sinh
-   Miết giáp 30g ( đậpn vụn sắc trước), Sinh Qui bản 40g (sắc trước),
+-  Tam giáp phục mạch thang (Ôn bệnh điều biện): Sinh Mẫu lệ 20g, Sinh
+   Miết giáp 30g (đậpn vụn sắc trước), Sinh Qui bản 40g (sắc trước),
    Chích thảo 20g, Can đại hoàng 20g, Sinh Bạch thược 20g, Mạch môn 18g
-   ( không bỏ lõi), A giao 12g ( hòa thuốc), Hỏa Ma nhân 12g, sắc uống.
+   (không bỏ lõi), A giao 12g (hòa thuốc), Hỏa Ma nhân 12g, sắc uống.
 
 3.Trị gan lách to: trong những trường hợp viêm gan mãn, xơ gan, gan lách
 to, có triệu chứng âm hư hỏa thịnh, vùng gan đau, hoa mắt, bứt rứt, có
@@ -104,7 +104,7 @@ thể dùng Chích Miết giáp phối hợp, Tiêu dao tán, Nhất quán tiễ
 dụng: Trường hợp sốt kéo dài, lách to thì vị Miết giáp là không thể
 thiếu, dùng bài:
 
--  Miết giáp ẩm gia giảm: Miết giáp ( chích dấm) 40g ( cho trước), Hoàng
+-  Miết giáp ẩm gia giảm: Miết giáp (chích dấm) 40g (cho trước), Hoàng
    kỳ 12g, Bạch truật 8g, Binh lang 12g, Xuyên phác 4g, sao Bạch thược
    12g, Sinh khương 3 lát, Đại táo 3 quả, sắc uống.
 

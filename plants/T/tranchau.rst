@@ -65,7 +65,7 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 -  Bột Trân châu 10g, Ngưu hoàng 10g, tán bột mịn trộn đều, mỗi lần uống
    0,5g, ngày 2 - 3 lần với nước ấm. Trị trẻ em sốt cao co giật, viêm
    họng, viêm amidale, viêm mồm, khóc đêm.
--  Kim bạc trấn tâm hoàn ( Trân châu, Ngưu hoàng, Hổ phách, Đởm tinh,
+-  Kim bạc trấn tâm hoàn (Trân châu, Ngưu hoàng, Hổ phách, Đởm tinh,
    Thiên trúc hoàng). Trị suy nhược thần kinh, mất ngủ, hồi hộp, cấp
    kinh phong, sốt cao co giật.
 -  Trân châu phối hợp với Phục thần, Toan táo nhân, Ngũ vị tử tán bột
@@ -92,7 +92,7 @@ Liều thường dùng:
 
 Phụ lục: TRÂN CHÂU MẪU
 
-( Mother of Pearl)
+(Mother of Pearl)
 
 Còn có tên là Ngọc diệp, là những hạt sần sùi nổi lên trong vỏ cứng của
 con trai các loại Concha Margaritaferae hoặc Pteria Martensii (Dunker),

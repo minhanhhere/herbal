@@ -2,13 +2,13 @@
 
 CHỈ THỰC
 
-( Fructus immaturus citri aurantii )
+(Fructus immaturus citri aurantii )
 
 Chỉ thực là quả chưa chín phơi hay sấy khô của nhiều loại cây khác nhau
 thuộc chi Citrus và Poncirus như cây Hương duyên Citrus wilsonii Tanaka;
 cây Câu quất Poncirus trifoliata (L.) Raf; cây Toan đằng Citrus
 aurantium L.; cây Đại đại hoa Aurantium L. var amara Engl. và nhiều cây
-khác thuộc họ Cam qúit ( Rutaceae). Những cây này mọc khắp nơi ở nước ta
+khác thuộc họ Cam qúit (Rutaceae). Những cây này mọc khắp nơi ở nước ta
 và tại nhiều tỉnh của Trung quốc như Tứ xuyên, Giang tây, Phúc kiến,
 Triết giang, Giang tô, Hồ nam.
 
@@ -36,7 +36,7 @@ Tinh dầu, Neohespendin, Naringin, Rhoifolin, Lonicerin, Vitamin c. Năm
 Tác dụng dược lý:
 
 1.Theo y học cổ truyền: Thuốc có tác dụng phá khí tiêu tích, hóa đàm trừ
-bỉ. Chủ trị các chứng thực tích, bụng đau táo bón, tả lî, mót rặn ( lý
+bỉ. Chủ trị các chứng thực tích, bụng đau táo bón, tả lî, mót rặn (lý
 cấp hậu trọng), đàm trọc trở trệ, bụng ngực đầy tức.
 
 Trích đoạn Y văn cổ:
@@ -82,26 +82,26 @@ thái bệnh lý là tốt.
 
 1.Trị táo bón:
 
--  Chỉ thực đạo trệ hoàn ( Nội ngoại thương biện luận): Chỉ thực, Bạch
+-  Chỉ thực đạo trệ hoàn (Nội ngoại thương biện luận): Chỉ thực, Bạch
    truật, Phục linh, Thần khúc, Trạch tả, Đại hoàng đều 10g, Hoàng liên
    4g, Sinh khương 8g, Hoàng cầm 8g, tán bột làm hoàn hoặc sắc uống.
    Trị: trường vị tích nhiệt, bụng đầy táo bón.
--  Tiểu thừa khí thang ( Thương hàn luận) Chỉ thực, Hậu phác, Đại hoàng
+-  Tiểu thừa khí thang (Thương hàn luận) Chỉ thực, Hậu phác, Đại hoàng
    lượng bằng nhau sắc uống hoặc tán bột làm hoàn. Trị: táo bón do nhiệt
    kết.
--  Chỉ kết hoàn ( kinh nghiệm): Chỉ thực, Bồ kết đều 20g tán mịn viên
+-  Chỉ kết hoàn (kinh nghiệm): Chỉ thực, Bồ kết đều 20g tán mịn viên
    bằng hạt ngô, mỗi ngày uống 10 viên, tối trước lúc ngủ.
 
 2.Trị rối loạn tiêu hóa, thực tích đầy bụng: dùng các bài:
 
--  Chỉ truật hoàn ( Kim quỉ yếu lược): Chỉ thực ( mạch sao) 40g, Bạch
+-  Chỉ truật hoàn (Kim quỉ yếu lược): Chỉ thực (mạch sao) 40g, Bạch
    truật 80g tán bột làm hoàn, mỗi lần uống 4 - 8g tùy tuổi với nước
    cơm.
--  Khúc mạch chỉ truật hoàn ( y học chính truyện): tức Chỉ truật hoàn
+-  Khúc mạch chỉ truật hoàn (y học chính truyện): tức Chỉ truật hoàn
    gia Mạch nha, Thần khúc lượng bằng Chỉ thực tăng tác dụng tiêu thực.
 
 3.Trị suy tim: Tổ nghiên cứu bệnh tim mạch nội khoa Bệnh viện trực thuộc
-số 1 Trường Đại học Y Hà nam dùng dịch chích ( tương đương 40g thuốc,
+số 1 Trường Đại học Y Hà nam dùng dịch chích (tương đương 40g thuốc,
 nặng trên 60kg dùng 60g) cho vào 250ml glucoza 10% nhỏ giọt tĩnh mạch 1
 lần. Trị 20 ca có tác dụng cường tim lợi tiểu. Có 4 ca dùng dịch chích
 Chỉ thực 80g cho vào 10% dung dịch glucoza 500ml, truyền tĩnh mạch ngày
@@ -110,7 +110,7 @@ dược 1980, 4:171)
 
 4.Trị sa tử cung: Diệp khắc Nghĩa dùng Thăng đề thang: Chỉ thực, Sung úy
 tử đều 15g sắc đặc uống 100ml trong một ngày, liệu trình một tháng. Kết
-quả trị sa tử cung độ 1 được 924 ca, tỷ lệ khỏi 83,87% ( Tạp chí kết hợp
+quả trị sa tử cung độ 1 được 924 ca, tỷ lệ khỏi 83,87% (Tạp chí kết hợp
 Trung tây y 1984, 4:238).
 
 Liều dùng và chú ý:

@@ -61,7 +61,7 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 #. Thuốc có tác dụng kháng histamin và chống co giật.
 #. Thuốc làm tăng hoạt tính dung giải của fibrin, chống hình thành huyết
    khối. Có tác dụng hưng phấn tử cung, chất chiết xuất diệt tinh trùng.
-#. Thuốc có tác dụng phá huyết ( theo báo cáo của nhà nghiên cứu Nhật
+#. Thuốc có tác dụng phá huyết (theo báo cáo của nhà nghiên cứu Nhật
    bản Bát mộc -1911) thì chất lumbritin có tác dụng phá huyết.
 
 Ứng dụng lâm sàng:

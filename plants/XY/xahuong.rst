@@ -5,7 +5,7 @@ XẠ HƯƠNG
 (Secretio Moschus Moschiferi)
 
 Xạ hương dùng làm thuốc được ghi đầu tiên trong sách Bản kinh, là chất
-tiết khô đựng trong túi thơm của con Chồn hương ( Hươu xạ) đực đã trưởng
+tiết khô đựng trong túi thơm của con Chồn hương (Hươu xạ) đực đã trưởng
 thành.
 
 Chồn hương có tên khoa học là Moschus moschiferus L. hoặc Moschus
@@ -108,7 +108,7 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    dụng nâng huyết áp và tăng tần số hô hấp.
 #. Tác dụng kháng khuẩn và kháng viêm: 2% ceton Xạ hương dịch pha 1%
    loãng 1:400, in vitro có tác dụng ức chế tụ cầu vàng, trực khuẩn đại
-   tràng ( E. Coli), khuẩn thổ tả heo, thuốc còn có tác dụng kháng viêm
+   tràng (E. Coli), khuẩn thổ tả heo, thuốc còn có tác dụng kháng viêm
    trên mô hình gây viêm khớp cho chuột đồng.
 #. Tác dụng đối với tử cung: thuốc có tác dụng hưng phấn rõ rệt đối với
    tử cung cô lập của thỏ nhà, chuột đồng và chuột Hà lan, tác dụng hưng
@@ -128,23 +128,23 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    lại không có tác dụng như nitroglycerin, dùng hơn 1 viên thì có ca có
    tác dụng, có ca không. Về tác dụng phụ, chỉ có 3 ca có nôn nhẹ, không
    có đau đầu, chóng mặt, không làm thay đổi mạch và huyết áp.
--  Xạ hương Ceton ( Muscone) chế thành thuốc phun sương và ngậm dùng trị
-   cho 367 ca đau thắt ngực, bệnh mạch vành, kết quả tốt ( Báo cáo của
+-  Xạ hương Ceton (Muscone) chế thành thuốc phun sương và ngậm dùng trị
+   cho 367 ca đau thắt ngực, bệnh mạch vành, kết quả tốt (Báo cáo của
    Trần Gia Trinh, tập kỷ yếu nghiên cứu thành phần Trung dược
    1981,9:31).
 -  Dùng Xạ hương, Nha tạo, Bạch chỉ chế thành cao dán, mỗi lần dán 2
    miếng ở vùng đau trước tim và huyệt Tâm du, cứ 24 giờ thay một lần.
-   Trị 287 ca tỷ lệ kết quả 81,9%, kết quả tốt 28,6% ( Báo cáo của Ninh
+   Trị 287 ca tỷ lệ kết quả 81,9%, kết quả tốt 28,6% (Báo cáo của Ninh
    Tuyển, Tạp chí Trung tây y kết hợp 1988,7:409).
 
 2.Trị bệnh viêm gan mạn và xơ gan thời kỳ đầu: dùng dịch chích Xạ hương
 5% luân lưu chích vào 2 huyệt Chương môn, Kỳ môn 2 bên, mỗi lần 2 ml, 1
-tuần 1 lần, 4 tuần là một liệu trình. Trị 32 ca kết quả tốt ( Báo cáo
+tuần 1 lần, 4 tuần là một liệu trình. Trị 32 ca kết quả tốt (Báo cáo
 của Từ Thừa Quý, Tạp chí Trung y Thiên tân 1987,5:20).
 
 3.Trị bong gân vùng eo lưng: Dùng dịch chích Xạ hương 0,2% chích vào A
-thị huyệt ( điểm đau nhất), mỗi lần 2 - 4 ml, mỗi tuần 1 lần, 2 tuần là
-một liệu trình. Theo dõi 21 ca kết quả tốt ( Báo cáo của Triệu Xương
+thị huyệt (điểm đau nhất), mỗi lần 2 - 4 ml, mỗi tuần 1 lần, 2 tuần là
+một liệu trình. Theo dõi 21 ca kết quả tốt (Báo cáo của Triệu Xương
 Cương, Báo Tân trung y 1985,4:26).
 
 4.Trị bệnh Bạch điến phong: dùng dịch chích Xạ hương 0,4% chích dưới da

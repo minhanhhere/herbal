@@ -2,7 +2,7 @@
 
 ĐẠI HOÀNG
 
-( Rhizoma Rhei)
+(Rhizoma Rhei)
 
 Đại hoàng còn gọi là Xuyên Đại hoàng, Tướng quân, Cẩm Văn dùng làm thuốc
 được ghi đầu tiên trong sách Bản kinh, là thân rễ phơi hay sấy khô của
@@ -45,7 +45,7 @@ A.Theo Y học cổ truyền:
 Đại hoàng có tác dụng: tả hạ công tích, tả hỏa, thanh nhiệt giải độc,
 hoạt huyết hóa ứ, lợi thủy thanh nhiệt hóa thấp. Chủ trị các chứng: tích
 trệ chứng thực, lî tật, đau đầu do thực hỏa, mắt đỏ họng đau, mồm lở,
-xuất huyết do nhiệt, nhọt lở do nhiệt độc, bỏng, trường ung ( viêm ruột
+xuất huyết do nhiệt, nhọt lở do nhiệt độc, bỏng, trường ung (viêm ruột
 thừa), kinh bế, sau sanh nước ối không ra, trưng hà, chấn thương do té
 ngã, phù thũng, hoàng đản, chứng lâm.
 
@@ -68,7 +68,7 @@ Trích đoạn Y văn cổ:
    Đại hoàng chế rượu".
 -  Sách Bản thảo cương mục: " thuốc phải trị các chứng hạ lî xích bạch,
    lî cấp phúc thống, tiểu tiện lâm lịch (đái rắt, không thông lợi),
-   thực nhiệt táo kết, triều nhiệt đạm ngữ ( sốt nhiều nói nhỏ), hoàng
+   thực nhiệt táo kết, triều nhiệt đạm ngữ (sốt nhiều nói nhỏ), hoàng
    đản (vàng da), hỏa sang (lở do nhiệt)".
 -  Sách Cảnh nhạc toàn thư: "khí hư dùng với Nhân sâm là bài Hoàng long
    thang, huyết hư dùng với Đương qui là bài Ngọc chúc tán. Dùng thêm
@@ -118,10 +118,10 @@ sắc còn 600 - 800ml, thụt lưu đại tràng, mỗi ngày 1 lần, bệnh n
 lần, giữ bệnh nhân mỗi ngày tiêu 3 - 4 lần là được. Kết quả trong 20 ca,
 tổ A 10 ca (creatinin 10mg%), triệu chứng cải thiện, urê giảm kết quả
 rõ. Tổ B (creatinin 10 - 15mg%) 6 ca kết quả kém. Tổ C (creatinin 15mg%)
-4 ca, kết quả kém hơn ( Tất tăng Kỳ, Tạp chí Trung y 1981,9:21).
+4 ca, kết quả kém hơn (Tất tăng Kỳ, Tạp chí Trung y 1981,9:21).
 
 2.Trị xuất huyết tiêu hóa trên: dùng bột (viên hoặc sirô) Đại hoàng trị
-890 ca xuất huyết tiêu hóa trên ( không bao gồm xuất huyết do xơ gan),
+890 ca xuất huyết tiêu hóa trên (không bao gồm xuất huyết do xơ gan),
 mỗi lần uống 3g, ngày 3 lần, kiểm tra phân âm tính hoặc dương tính nhẹ
 mới thôi uống. Trong thời gian điều trị không dùng các loại thuốc cầm
 máu khác. Chảy máu nhiều truyền máu hoặc glucoz. Kết quả trong 890 ca có
@@ -138,23 +138,23 @@ viên Đại hoàng, mỗi lần 3 g, ngày 2 lần để cũng cố. Kết qu�
 bệnh nhân đều có kết quả, bình quân sau 2 ngày, amylase nước tiểu bình
 thường, sau 3 ngày bụng hết đau và triệu chứng bệnh lý ở bụng hết, sau 5
 ngày, thử nghiệm SGPT hồi phục bình thường. Bình quân mỗi bệnh nhân dùng
-450g Đại hoàng ( Tạp chí Trung tây y kết hợp 1982,2:85).
+450g Đại hoàng (Tạp chí Trung tây y kết hợp 1982,2:85).
 
 4.Trị viêm ruột hoại tử xuất huyết: tác giả dùng thuốc sắc Đại hoàng
 sống kết hợp truyền dịch cân bằng nước điện giả trị 14 ca. Người lớn mỗi
 lần uống Đại hoàng sống sắc 24 - 30g, mỗi ngày 2 - 3 lần. Trừ 2 ca không
 khỏi, còn lại đều tốt. Thường sau 2 - 6 lần uống thuốc, bụng đau giảm
 rõ, triệu chứng nhiễm độc được cải thiện, phân máu mũi chuyển thành phân
-lỏng ( Chu Kiến Nghi, Tạp chí Trung y dược Phúc kiến 1985,1:36).
+lỏng (Chu Kiến Nghi, Tạp chí Trung y dược Phúc kiến 1985,1:36).
 
 5.Trị tai biến mạch máu não: Bệnh viện Trung y Thành phố Tôn nghĩa trị
-72 ca tai biến mạch máu não ( não xuất huyết 11 ca, nhũn não 61 ca có
+72 ca tai biến mạch máu não (não xuất huyết 11 ca, nhũn não 61 ca có
 các triệu chứng bình quân 4 ngày không đại tiện, rêu lưỡi vàng nhớt hoặc
-khô. Dùng Đại hoàng 12g, Mang tiêu 10g (hòa uống), Chỉ thực ( hoặc Hậu
+khô. Dùng Đại hoàng 12g, Mang tiêu 10g (hòa uống), Chỉ thực (hoặc Hậu
 phác 9g, Cam thảo 6g, sắc còn 200ml chia 2 lần uống, mỗi 2 giờ 1 lần,
 hôn mê gia An cung Ngưu hoàng hoàn 1 - 2 hạt. Thông thường uống 1 - 2
 lần tỉnh, triệu chứng giảm, bệnh nhẹ hơn. Trong đó 18 ca hôn mê, sau
-uống thuốc tỉnh 10 ca, không thay đổi 8 ca ( Thang tống Minh, Tạp chí
+uống thuốc tỉnh 10 ca, không thay đổi 8 ca (Thang tống Minh, Tạp chí
 Trung tây y kết hợp 1983,1:19).
 
 6.Trị chứng lipid huyết cao: dùng cồn chiết xuất Đại hoàng làm viên
@@ -165,7 +165,7 @@ quả tốt; số bệnh nhân tri glyceride và beta-lipoprotein cao đạt k�
 7.Trị viêm gan vàng da cấp tính: tác giả dùng làm cao Đại hoàng trị 80
 ca, người lớn dùng 50g, trẻ em 25 - 30g, sắc uống, ngày 1 lần, trung
 bình dùng 16g mỗi ngày. Kết quả hồi phục chức năng gan, cải thiện triệu
-chứng tốt, tỷ lệ có kết quả 95%, tốt 81,25% ( Ngô Tài Hiền, Tạp chí
+chứng tốt, tỷ lệ có kết quả 95%, tốt 81,25% (Ngô Tài Hiền, Tạp chí
 Trung tây y kết hợp 1984,2:88).
 
 8.Trị viêm amidale có mủ cấp: mỗi ngày dùng Sinh Đại hoàng 15g, trẻ em
@@ -175,17 +175,17 @@ văn Mỗ, Tạp chí Trung y dược Phúc kiến 1987,2:43).
 
 Báo cáo của Tôn thị Diệc, mỗi ngày dùng Đại hoàng sống 6 - 9g hãm nước
 uống, 2 giờ sau lại hãm nước sôi thuốc đó uống lần nữa. Đã trị 40 ca
-viêm amidale có mủ ở trẻ em, kết quả tỷ lệ khỏi 85% ( Tôn Thiệu Danh,
+viêm amidale có mủ ở trẻ em, kết quả tỷ lệ khỏi 85% (Tôn Thiệu Danh,
 Tạp chí Trung tây y kết hợp 1987,11:695).
 
 9.Trị chứng trường vị thực nhiệt táo bón:
 
--  Đại thừa khí thang ( Thương hàn luận): Đại hoàng 10 - 15g, Hậu phác
-   8g, Chỉ thực 8g, Mang tiêu 10g ( hòa uống).
--  Tiểu thừa khí thang ( Thương hàn luận): Đại hoàng 10 - 15g, Chỉ thực,
+-  Đại thừa khí thang (Thương hàn luận): Đại hoàng 10 - 15g, Hậu phác
+   8g, Chỉ thực 8g, Mang tiêu 10g (hòa uống).
+-  Tiểu thừa khí thang (Thương hàn luận): Đại hoàng 10 - 15g, Chỉ thực,
    Hậu phác đều 6 - 8g, sắc uống.
--  Điều vị thừa khí thang ( Thương hàn luận): Đại hoàng 10 - 15g, Mang
-   tiêu 10g ( hòa uống), Cam thảo 3g, sắc uống.
+-  Điều vị thừa khí thang (Thương hàn luận): Đại hoàng 10 - 15g, Mang
+   tiêu 10g (hòa uống), Cam thảo 3g, sắc uống.
 
 Trong các bài thuốc trên, Đại hoàng cho vào sau, Mang tiêu tán bột hòa
 nước uống. Về tác dụng tẩy xổ thì bài Đại thừa khí thang mạnh nhất, bài
@@ -200,7 +200,7 @@ lợi sưng đau, mắt đỏ xung huyết.:
    đau.
 -  Đại hoàng Mẫu đơn thang: Đại hoàng 10g, Mẫu đơn bì 12g, Đào nhân,
    Đông qua tử, Mang tiêu (hòa uống) đều 10g, sắc nước uống. Trị đại
-   tiện táo bón, trường ung ( viêm ruột thừa).
+   tiện táo bón, trường ung (viêm ruột thừa).
 -  Đại hoàng tán bột mịn trôïn dầu mè bôi vào chỗ bỏng, nhọt độc.
 
 11.Trị chứng kinh bế huyết ứ đau bụng dưới, chấn thương do té ngã:

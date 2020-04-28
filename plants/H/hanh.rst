@@ -1,10 +1,10 @@
 |image0|
 
-HÀNH ( THÔNG BẠCH)
+HÀNH (THÔNG BẠCH)
 
 Herba Allii Fistulosi
 
-Chủ yếu dùng thân rễ ( củ) cây hành hoa, còn gọi là Đại thông, Thông
+Chủ yếu dùng thân rễ (củ) cây hành hoa, còn gọi là Đại thông, Thông
 bạch (Allium fistulóum L ). Vị cay, tính ấm, qui kinh Phế, Vị. Thuộc họ
 Hành tỏi (Liliaceae).
 
@@ -29,7 +29,7 @@ Có thể nấu cháo gạo tẻ có hành ăn lúc nóng, đắp chăn cho ra m
 
 Có thể dùng các bài thuốc sau:
 
--  Thông xị thang ( Cửu hậu phương): Thông bạch 12g, Đạm đậu xị 20g, sắc
+-  Thông xị thang (Cửu hậu phương): Thông bạch 12g, Đạm đậu xị 20g, sắc
    nước uống.
 -  Hành 30g, Gừng sống 10g, Chè hương 10g, nước 300ml, đun sôi 15 phút
    uống nóng, đắp chăn cho ra mồ hôi.
@@ -42,8 +42,8 @@ bật ngòi ra, dùng giấm rửa. Đối với nhọt mới sưng tấy dùng 
 bã cho uống.
 
 4.Trị đau bụng do lãi đũa: Hành tươi 1 lạng giã nát, vắt lấy nước trộn
-với 1 lạng dầu mè uống lúc bụng đói ( trẻ em giảm liều), ngày uống 2
-lần, đã trị 25 ca, uống 1 -2 lần khỏi ( báo cáo của Âu an Toàn, tạp chí
+với 1 lạng dầu mè uống lúc bụng đói (trẻ em giảm liều), ngày uống 2
+lần, đã trị 25 ca, uống 1 -2 lần khỏi (báo cáo của Âu an Toàn, tạp chí
 Trung y Triết giang, năm 1966, 4:13)
 
 5.Trị lãi kim: Củ hành hoặc tỏi bỏ vỏ và râu, mỗi 40g hành cho thêm
@@ -52,11 +52,11 @@ mỗi tối trước lúc ngủ thụt hậu môn, kết quả khỏi 74,1% (hà
 (tỏi). Theo Tạp chí Trung y 1962,9:10.
 
 6.Trị viêm da có mủ cấp: Hành lượng vừa đủ, cho thêm 1/3 mật ong, mỗi 1
-- 2 ngày thay 1 lần, đã trị 100 ca kết quả tốt ( Báo cáo của Mã khánh
+- 2 ngày thay 1 lần, đã trị 100 ca kết quả tốt (Báo cáo của Mã khánh
 thiện, báo Vệ sinh Cát lâm năm 1960, 1:40).
 
 7.Trị bụng báng nước: Hành tươi 10 củ, Mang tiêu 10g, trộn giã nát, đắp
-rốn ngày 1 lần, có kết quả 38/42 ca ( Báo cáo của Phương nhu Ngọc, Tạp
+rốn ngày 1 lần, có kết quả 38/42 ca (Báo cáo của Phương nhu Ngọc, Tạp
 chí Trung y Triết giang năm 1987,11:497).
 
 Liều lượng thường dùng: Dùng tươi 20 - 40g có thể dùng nhiều hơn, tùy

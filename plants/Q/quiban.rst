@@ -2,14 +2,14 @@
 
 QUI BẢN
 
-( Plastrum Testudinis)
+(Plastrum Testudinis)
 
 Qui bản còn có tên Yếm rùa, Kim qui, Qui giáp, đầu tiên ghi trong sách
-Bản kinh với tên Qui giáp, Qui bản ( Carapax Testudinis) là cái yếm của
-con Rùa ( Chinemyx reevessi (Gray)) thuộc họ Rùa ( testudinidae).
+Bản kinh với tên Qui giáp, Qui bản (Carapax Testudinis) là cái yếm của
+con Rùa (Chinemyx reevessi (Gray)) thuộc họ Rùa (testudinidae).
 
 Ở nước ta đâu cũng có rùa, nhiều nhất là nơi có ao hồ. Bắt rùa giết
-chết, lấy yếm thì gọi là Thang bản, thường dùng phần bụng ( yếm) nhưng
+chết, lấy yếm thì gọi là Thang bản, thường dùng phần bụng (yếm) nhưng
 phần lưng cũng dùng được.
 
 Tính vị qui kinh:
@@ -44,7 +44,7 @@ nhiệt băng lậu, kinh nguyệt ra nhiều và chứng xuất huyết.
 Trích đoạn Y văn cổ:
 
 -  Sách Bản kinh: " chủ lậu hạ xích bạch, phá trưng hà, trị giai ngược (
-   sốt rét), âm thực ( lóet âm hộ), thấp tý tay chân nặng nề, trẻ em
+   sốt rét), âm thực (lóet âm hộ), thấp tý tay chân nặng nề, trẻ em
    thóp to".
 -  Sách Danh y biệt lục: " chủ đầu sang lở khó khô, nữ tử âm sang. tâm
    phúc thống, không đứng lâu được, nóng lạnh trong xương .. ích khí tư
@@ -72,7 +72,7 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 ra mồ hôi trộm, thường phối hợp với Hoàng bá, Tri mẫu, Sinh địa để tăng
 tác dụng tư âm thanh nhiệt, dùng bài:
 
--  Đại bổ âm hoàn ( Đơn khê tâm pháp): Hoàng bá, Tri mẫu mỗi thứ 16g,
+-  Đại bổ âm hoàn (Đơn khê tâm pháp): Hoàng bá, Tri mẫu mỗi thứ 16g,
    Thục địa, Qui bản mỗi thứ 24g, tán bột mịn, thêm tủy xương heo gia
    mật làm hoàn, mỗi lần uống 8 - 12g, ngày 2 lần, dùng thang nước gừng
    hoặc nước muối nhạt uống ấm lúc bụng đói.

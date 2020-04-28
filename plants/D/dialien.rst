@@ -2,7 +2,7 @@
 
 ĐỊA LIỀN
 
-Kaempferia galanga L ( Kaempferia rotunda Ridl .)
+Kaempferia galanga L (Kaempferia rotunda Ridl .)
 
 Họ Gừng Zingiberaceae
 
@@ -15,7 +15,7 @@ Thành phần hóa học: trong Địa liền có tinh dầu, trong tinh dầu c
 là Boeneola metyl, metyl p. cumaric acid etyl este, xinamic acid etyl
 este, pentadecan C15H32, Xinamic andehyt và xineola.
 
-Tác dụng: ôn trung tán hàn, trừ thấp, tịch ( tránh) uế.
+Tác dụng: ôn trung tán hàn, trừ thấp, tịch (tránh) uế.
 
 Công dụng: chữa ngực bụng lạnh đau, đau răng làm cho ăn ngon, chóng tiêu
 còn dùng làm thuốc xông.
@@ -29,7 +29,7 @@ Kinh nghiệm lâm sàng:
 
 Địa liền 2g, Quế chi 1g. Hai vị tán nhỏ, chia làm 3 lần uống trong ngày,
 mỗi lần 0,5 hay 1g bột. Dùng trị ăn uống không tiêu, đau dạ dày , đau
-thần kinh ( Diệp Quyết Tuyền)
+thần kinh (Diệp Quyết Tuyền)
 
 .. |image0| image:: DIALIEN.JPG
    :width: 50px

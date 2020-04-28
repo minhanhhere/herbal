@@ -2,11 +2,11 @@
 
 TIỂU KẾ
 
-( Herba Cephalanoplosís )
+(Herba Cephalanoplosís )
 
 Tiểu kế là vị thuốc dùng toàn cây Tiểu kế Cephalonoplos segetum (Bge.)
 Kitam hoặc cây Tiểu kế Cephalanoplos setosum (Willd) Kitam, thuộc họ Hoa
-Cúc ( Asteraceae). Cây này theo GS Đỗ tất Lợi thì chưa thấy mọc ở nước
+Cúc (Asteraceae). Cây này theo GS Đỗ tất Lợi thì chưa thấy mọc ở nước
 ta nhưng lại mọc khắp nơi ở Trung quốc, cả hai miền Nam Bắc nên cần tìm
 hiểu thêm.
 
@@ -91,26 +91,26 @@ chuột lớn trong vòng 14 ngày liền không có phản ứng nhiễm độc
 
 1.Trị các chứng xuất huyết do nhiệt: như chảy máu cam, nôn ra máu, thuốc
 có tác dụng cầm máu, dùng phối hợp với Đại kế, Trắc bá diệp, Thuyên thảo
-căn, Mao căn ... như dùng trong bài Thập khôi tán ( Thập dược thần thư).
-Trường hợp nôn ra máu, dùng bài Ngẫu tế ẩm tử ( Thái bình thanh huệ
+căn, Mao căn ... như dùng trong bài Thập khôi tán (Thập dược thần thư).
+Trường hợp nôn ra máu, dùng bài Ngẫu tế ẩm tử (Thái bình thanh huệ
 phương) có nước chiết rễ Tiểu kế gia nước Ngẫu tiết tươi, nước Ngưu bàng
-tươi, nước Địa hoàng tươi. Trường hợp trong đàm có máu ( bệnh lao hư
-nhiệt, dùng bài Tam tiên ẩm ( y học Trung trung tham tây lục) gồm rễ
+tươi, nước Địa hoàng tươi. Trường hợp trong đàm có máu (bệnh lao hư
+nhiệt, dùng bài Tam tiên ẩm (y học Trung trung tham tây lục) gồm rễ
 Tiểu kế tươi, rễ tranh tươi và Ngẫu tiết tươi sắc uống. Trị tiểu ra máu
-có thể dùng độc vị Tiẻu kế hoặc bài Tiểu kế ẩm ( rễ Tiểu kế, Sinh địa
+có thể dùng độc vị Tiẻu kế hoặc bài Tiểu kế ẩm (rễ Tiểu kế, Sinh địa
 hoàng, Hoạt thạch, Mộc thông, Bồ hoàng, Ngẫu tiết, Đạm trúc diệp, Đương
-qui, Sinh chi tử, Cam thảo ( Trùng đính Nghiêm thị tể sinh phương). Trị
+qui, Sinh chi tử, Cam thảo (Trùng đính Nghiêm thị tể sinh phương). Trị
 băng lậu, dùng thân rễ Tiểu kế và lá nghiền lấy nước, thêm Sinh địa
-hoàng, Bạch truật sắc uống ( Thiên kim phương). Trường hợp có mang trụy
-thai xuất huyết. Tiểu kế kết hợp với Ích mẫu thảo sắc uống ( Thần tế
+hoàng, Bạch truật sắc uống (Thiên kim phương). Trường hợp có mang trụy
+thai xuất huyết. Tiểu kế kết hợp với Ích mẫu thảo sắc uống (Thần tế
 tổng lục).
 
 Ngoài ra có thể dùng bài Tiểu kế trị tiêu ra máu và dùng đắp ngoài cầm
-máu ( Thực liệu bản thảo).
+máu (Thực liệu bản thảo).
 
 -  Trị chảy máu cam, có thể dùng bông tẩm nước Tiểu kế nhét mũi mỗi ngày
    thay 3 - 4 lần. Mã thúc Long đã dùng trị chảy máu mũi do phong hủi 34
-   ca khỏi 70,6% ( 24 ca) cầm máu trong 4 - 14 ngày ( Tạp chí Trung hoa
+   ca khỏi 70,6% (24 ca) cầm máu trong 4 - 14 ngày (Tạp chí Trung hoa
    bì phụ khoa 1960, 2:118).
 
 2.Trị chứng xuất huyết sau sinh do tử cung co bóp thiểu năng: dùng cao
@@ -118,15 +118,15 @@ nước Tiểu kế (1:10) mỗi lần 1 - 3ml, ngày uống 3 lần. Đã theo 
 cho 45 ca, tử cung co bóp tốt, hết chảy máu, thường sau khi uống thuốc 2
 - 3 ngày, tử cung bình quân co 2 -5cm. Trường hợp chảy máu nhiều có thể
 uống mỗi lần 4 - 8ml, ngày uống 3 - 4 lần, lúc hết chảy máu dùng liều
-bình thường. Hoặc dùng toàn cây 60 - 80g sắc chia 2 lần uống ( Thông báo
+bình thường. Hoặc dùng toàn cây 60 - 80g sắc chia 2 lần uống (Thông báo
 Y dược 1960, 8 (2):79).
 
 3.Phòng trị Kiết lî: Trạm vệ sinh phòng dịch huyện Đại hưng Bắc kinh
-dùng 100ml thuốc sắc ( có 50g thuốc sống), người lớn mỗi lần uống 50ml,
+dùng 100ml thuốc sắc (có 50g thuốc sống), người lớn mỗi lần uống 50ml,
 trẻ em giảm liều, uống cách nhật, uống 3 lần, dùng cho những người có
 tiếp xúc bệnh nhân lî trong 2 - 3 ngày và theo dõi 7 ngày. Kết quả tổ
 uống Tiểu kế 99 ca đều an toàn, còn tổ đối chứng dùng thuốc trị lî có 5
-ca mắc bệnh lî, tỷ lệ phát bệnh 5,20% ( Báo Tân y học 1974, 7:333).
+ca mắc bệnh lî, tỷ lệ phát bệnh 5,20% (Báo Tân y học 1974, 7:333).
 
 Ngoài ra có báo cáo dùng thuốc Tiểu kế làm thuốc lợi tiểu, hạ áp, trị
 viêm gan, viêm thận, trĩ, đắp ngoài trị ung nhọt.

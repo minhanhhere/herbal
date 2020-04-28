@@ -5,7 +5,7 @@ HOA HÒE
 (Flos Sophorae Japonica Immaturus)
 
 Hoa hòe là hoa chưa nở phơi hay sấy khô của cây Hòe Sophora Japonica L.
-thuộc họ Cánh bướm Fabaceae ( Papitionaceae) . Dùng làm thuốc được ghi
+thuộc họ Cánh bướm Fabaceae (Papitionaceae) . Dùng làm thuốc được ghi
 đầu tiên trong sách Nhật hoa tử bản thảo. Cây Hòe mọc hoang và được
 trồng khắp nơi ở nước ta.
 
@@ -41,7 +41,7 @@ Trích đoạn Y văn cổ:
    sán lãi, nhiệt trong bụng, trị phong ở da, trị phong ngoài da, trường
    phong tảhuyết, xích bạch lî."
 -  Sách Bản thảo cương mục: " sao thơm nhai nhiều trị mất giọng và hầu
-   tý ( đau họng) trị được nục huyết, thổ huyết, băng trưng lậu hạ."
+   tý (đau họng) trị được nục huyết, thổ huyết, băng trưng lậu hạ."
 -  Sách Cảnh nhạc toàn thư: " bì phu phong nhiệt, lương đại tràng, sát
    cam trùng, trị ung thư, sang độc", " âm sang thấp ngứa, trĩ lậu, trị
    dương mai ác sang, hạ cam phục độc."
@@ -87,7 +87,7 @@ niêm mạc ruột sinh chất tiết dịch có tác dụng làm giảm tiêu c
 1.Dùng làm thuốc lương huyết chỉ huyết: Trong các chứng tiêu ra máu, trĩ
 ra máu, huyết lî, băng lậu, niệu huyết, dùng bài:
 
--  Hoa hòe 12g, Bách thảo sương ( nhọ nồi) 4g, tán bột mịn uống với nước
+-  Hoa hòe 12g, Bách thảo sương (nhọ nồi) 4g, tán bột mịn uống với nước
    sắc rễ tranh. Trị nôn ra máu.
 -  Viên hoa hòe: Bột hoa hòe làm thành viên 0,07g, ngày uống 3 lần, mỗi
    lần 3 - 4 viên, ngoài chỉ định các chứng có xuất huyết, sách Dược
@@ -103,7 +103,7 @@ Hoa hòe than, Tề thái, Mã xĩ hiện đều 30g, Ô tặc cốt nung, Thuy�
 than, Địa du than, Kế mộc (?) mỗi thứ 15g, Bồ hoàng than 10g, Sinh Cam
 thảo 5g. Tùy chứng gia giảm. Phan Hóa Quang đã dùng trị cho 140 ca băng
 lậu, ngày uống 1 thang, ra máu nhiều dùng 2 thang mỗi ngày. Kết quả:
-uống 1 - 3ngày hết chảy máu( 64 ca); 4 - 6 ngày hết (53 ca); không kết
+uống 1 - 3ngày hết chảy máu(64 ca); 4 - 6 ngày hết (53 ca); không kết
 quả (23 ca); tỷ lệ có kết quả 83,6%, xuất huyết cơ năng thuốc có tác
 dụng tốt hơn là đối với băng huyết có tổn thương thực thể. (Trung y tạp
 chí 1982,3(6):28).
@@ -122,12 +122,12 @@ chí 1982,3(6):28).
 5.Trị vảy nến: Hoa hòe sao vàng tán bột mịn, luyện mật làm hoàn mỗi lần
 uống 3g, ngày 2 lần, dùng nước sôi để nguội uống sau bữa cơm. Kết quả đã
 trị 53 ca, khỏi 6 ca, tiến bộ 22 ca, có tiến bộ 19 ca, không kết quả 6
-ca ( Thông tin nghiên cứu bệnh ngoài da 1972, 3:207).
+ca (Thông tin nghiên cứu bệnh ngoài da 1972, 3:207).
 
 6.Trị mụn nhọt mùa hè: dùng Hoa hòe khô 30 - 60g cho nước 1500ml sắc lấy
 nước, lấy bông thấm nước rửa tại chỗ, nước có thể hâm nóng mỗi ngày rửa
 2 - 3 lần, bã thuốc đắp vào chỗ đau. Thường sau 1 - 2 ngày mụn nhọt hết
-sưng và khỏi ( Báo cáo của Cốc Trần Thanh, Tạp chí Trung y Giang tây
+sưng và khỏi (Báo cáo của Cốc Trần Thanh, Tạp chí Trung y Giang tây
 1966, 9(7):40).
 
 7.Trị chứng can nhiệt: mắt đỏ, đầu căng đau, chóng mặt ... thuốc có tác

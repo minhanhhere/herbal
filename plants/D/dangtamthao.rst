@@ -5,8 +5,8 @@
 (Medulla Junci Effusi)
 
 Đăng tâm thảo còn có tên là Cây Bấc đèn, là ruột phơi khô của thân cây
-Bấc đèn ( Juncus effusus L. var decipiens Buchen) dùng làm thuốc được
-ghi đầu tiên trong sách Khai bảo bản thảo, thuộc họ Bấc ( Juncaceae).
+Bấc đèn (Juncus effusus L. var decipiens Buchen) dùng làm thuốc được
+ghi đầu tiên trong sách Khai bảo bản thảo, thuộc họ Bấc (Juncaceae).
 
 Cây Bấc đèn mọc hoang và được trồng ở những nơi ẩm ướt ở nước ta. Tên
 thuốc gọi Đăng tâm hoặc Đăng thảo.

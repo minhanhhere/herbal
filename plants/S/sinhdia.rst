@@ -87,7 +87,7 @@ thường phối hợp với các loại tư âm thanh nhiệt như: Tri mẫu, 
    Bạc hà, hạt Lười ươi, Sơn đậu căn. Trị chứng âm hư có tiêu bón, táo
    bón kéo dài. Dùng Sinh địa 80g sắc uống hoặc gia thêm thịt nạc heo
    cùng nấu nhừ để ăn.
--  Kinh ngọc cao ( Chu đan khê) gồm: Sinh địa 2400g, Bạch linh 480g,
+-  Kinh ngọc cao (Chu đan khê) gồm: Sinh địa 2400g, Bạch linh 480g,
    Nhân sâm 240g, Mật ong 1200g. Giã Sinh địa vắt nước thêm mật ong nấu
    sôi, thêm Bạch linh và Nhân sâm đã tán nhỏ cho vào lọ đậy kín đun các
    thủy 3 ngày 3 đêm để nguội, mỗi lần uống 1 - 2 thìa, ngày 2 - 3 lần.
@@ -117,13 +117,13 @@ Chú ý lúc dùng thuốc:
 -  Địa hoàng là Sinh địa tươi rửa sạch sao khô, nếu qua bào chế nhiều
    lần chưng phơi sẽ thành Thục địa có tác dụng bổ âm huyết.
 -  Không dùng Sinh địa trong các trường hợp: Tỳ hư thấp, tiêu chảy, bụng
-   đầy, dương hư. Trường hợp dương hư ( hư hàn) dùng Thục địa không dùng
+   đầy, dương hư. Trường hợp dương hư (hư hàn) dùng Thục địa không dùng
    Sinh địa, trường hợp có sốt dùng Sinh địa không dùng Thục địa. Nếu
    cần thanh nhiệt mà cơ thể hư thì Sinh - Thục địa cùng dùng như bài
-   Bách hợp cổ kim thang ( y phương tập giải) gồm: Sinh thục địa hoàng,
+   Bách hợp cổ kim thang (y phương tập giải) gồm: Sinh thục địa hoàng,
    Bối mẫu, Bách hợp, Mạch môn, Huyền sâm, Đương qui, Bạch thược, Cam
    thảo, Cát cánh có tác dụng dưỡng âm thanh nhiệt nhuận phế hóa đàm.
-   Bài Đương qui lục hoàng thang ( Lam thất bí tàng) gồm: Đương qui,
+   Bài Đương qui lục hoàng thang (Lam thất bí tàng) gồm: Đương qui,
    Sinh Thục địa, Hoàng liên, Hoàng cầm, Hoàng bá, Hoàng kỳ có tác dụng
    tư âm thanh nhiệt cố biểu chỉ hãn.
 -  Lúc dùng Sinh địa, để làm giảm bớt tính nê trệ của thuốc , bớt ảnh

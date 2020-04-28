@@ -2,14 +2,14 @@
 
 NHÂN SÂM
 
-( Radix Ginseng)
+(Radix Ginseng)
 
-Nhân sâm ( Radix Ginseng hay Radix ginseng Sylvestris) là rễ chế phơi
-sấy khô của cây Nhân sâm ( Panax ginseng C.A.Mey). Có hai loại Nhân sâm:
+Nhân sâm (Radix Ginseng hay Radix ginseng Sylvestris) là rễ chế phơi
+sấy khô của cây Nhân sâm (Panax ginseng C.A.Mey). Có hai loại Nhân sâm:
 
-#. Nhân sâm trồng gọi là Viên sâm ( Panax ginseng C.A.Mey forma sativum
+#. Nhân sâm trồng gọi là Viên sâm (Panax ginseng C.A.Mey forma sativum
    Chao et Shih.).
-#. Nhân sâm mọc hoang gọi là Sơn sâm ( Panax Ginseng C.A.Mey forma
+#. Nhân sâm mọc hoang gọi là Sơn sâm (Panax Ginseng C.A.Mey forma
    sylvestre Chao et Shih.).
 
 Nhân sâm dùng làm thuốc được ghi đầu tiên trong sách Bản kinh.
@@ -110,7 +110,7 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    huyết.
 #. Saponin Nhân sâm làm tăng chuyển hóa lipid, tăng cường sự hợp thành
    sinh vật học cholesterol và lipoprotein trong gan chuột cống thực
-   nghiệm. Nhưng lúc gây mô hình ( cholesterol) cao trên động vật thì
+   nghiệm. Nhưng lúc gây mô hình (cholesterol) cao trên động vật thì
    Nhân sâm có tác dụng làm hạ. Nhân sâm có thể ngăn ngừa sự phát sinh
    cholesterol cao ở thỏ, vì vậy mà ngăn ngừa được sự hình thành xơ mỡ
    động vật.
@@ -135,7 +135,7 @@ thuốc và vị thuốc Việt nam:
 
 #. Tác dụng trên hệ thần kinh: Từ xưa tại Trung quốc, người ta đã biết
    thí nghiệm tác dụng làm giảm mệt của Nhân sâm; Lý thời Trân trong
-   sách Bản thảo cương mục ( thế kỷ 16) có ghi: Cho 2 người cùng chạy,
+   sách Bản thảo cương mục (thế kỷ 16) có ghi: Cho 2 người cùng chạy,
    một người ngậm Nhân sâm, một người không, sau khi chạy độ 3 - 5 dặm,
    người không ngậm Nhân sâm thở mạnh, còn người ngậm Nhân sâm thở bình
    thường. Trong các năm 1949 - 1951, tại Liên xô Abramôva thí nghiệm
@@ -146,10 +146,10 @@ thuốc và vị thuốc Việt nam:
    hơn. Năm 1955, Drake theo phương pháp của Zacuxov đã chứng minh liều
    điều trị của Nhân sâm có khả năng rút ngắn thời kỳ phản xạ tiềm phục
    của thần kinh và làm mau chuyển động của thần kinh, nhưng liều cao
-   quá có thể gây hiện tượng quá trấn tĩnh ( Chu Nhan, Chu kim Hoàng,
+   quá có thể gây hiện tượng quá trấn tĩnh (Chu Nhan, Chu kim Hoàng,
    Trung hoa Y học tạp chí 12,1956).
 #. Tác dụng trên huyết áp và tim: Các nhà nghiên cứu Liên xô Burkrat,
-   Xakhopov (1947) và Kixêlev ( 1948-1959) đã nghiên cứu nước sắc và cồn
+   Xakhopov (1947) và Kixêlev (1948-1959) đã nghiên cứu nước sắc và cồn
    Nhân sâm kết luận rằng tác dụng của dung dịch nước và dung dịch rượu
    của Nhân sâm như sau: Kixêlev dùng dung dịch 5%, 10% và 20% Nhân sâm
    tiêm vào tĩnh mạch thỏ và mèo thấy tác dụng hạ huyết áp, nồng độ càng
@@ -166,19 +166,19 @@ thuốc và vị thuốc Việt nam:
    chất panaxen cũng thấy tác dụng như vậy.
 #. Tác dụng đối với chuyển hóa cơ bản: Năm 1922, hai tác giả Nhạt bản Bộ
    thắng Mã và Nại Đằng Hệ Bình đã nghiên cứu tác dụng của bột Nhân sâm
-   và chất tan trong cồn của Nhân sâm ( uống và tiêm) đối với bệnh đường
+   và chất tan trong cồn của Nhân sâm (uống và tiêm) đối với bệnh đường
    huyết cao nhân tạo trên thỏ đều thấy có tác dụng rõ rệt làm hạ đường
    huyết. Năm 1954 và 1956, một số tác giả Trung quốc cũng xác nhận tác
-   dụng hạ đường huyết của Nhân sâm. Trên lâm sàng Khâu trần Ba ( 1955)
+   dụng hạ đường huyết của Nhân sâm. Trên lâm sàng Khâu trần Ba (1955)
    nhận thấy nếu dùng Nhân sâm chung với Insulin thì có thể giảm bớt
    được Insulin, thời gian hạ đường được kéo dài và chữa được bệnh.
-#. Tác dụng đối với sự sinh trưởng của động vật ( máu lạnh hoặc máu nóng
+#. Tác dụng đối với sự sinh trưởng của động vật (máu lạnh hoặc máu nóng
    côn trùng): Cho uống hoặc tiêm thuốc chế bằng Nhân sâm hoặc các chất
    lấy từ Nhân sâm trên một số động vật so sánh với số không dùng Sâm,
    thấy trọng lượng con vật tăng lên, thời gian giao cấu của con vật kéo
    dài, hiện tượng tình dục xuất hiện rõ rệt.
 #. Tác dụng với sức chống đỡ bệnh tật: Những thí nghiệm của Daugolnikov
-   (1950-1952) , Brekhman và Phruentov ( 1954 - 1957) và Abramow (1953)
+   (1950-1952) , Brekhman và Phruentov (1954 - 1957) và Abramow (1953)
    cho biết Nhân sâm có tác dụng tăng sức đề kháng của động vật đối với
    bệnh tật. Theo bài Tình hình nghiên cứu dược lý Nhân sâm dăng trên
    Tập san Dược học học báo 12,477-484,1965.cho biết Nhân sâm có tác
@@ -186,25 +186,25 @@ thuốc và vị thuốc Việt nam:
 
 Ứng dụng lâm sàng:
 
-1.Dùng Nhân sâm điều trị cấp cứu trong trường hợp bệnh nguy kịch ( Đông
+1.Dùng Nhân sâm điều trị cấp cứu trong trường hợp bệnh nguy kịch (Đông
 y cho là chứng Vong âm vong dương): khí thóat, chân tay lạnh, tự ra mồ
-hôi, mạch trầm vi tế hoặc trường hợp chảy máu nhiều, gây chóang ( suy
+hôi, mạch trầm vi tế hoặc trường hợp chảy máu nhiều, gây chóang (suy
 tuần hoàn cấp), dùng Nhân sâm để ích khí cứu thóat, hồi dương cứu
 nghịch, tùy tình hình chọn các bài:
 
 -  Độc sâm thang: Nhân sâm 4 - 12g, chưng cách thủy cho uống, nên uống
    nhiều lần.
 -  Sâm phụ thang: Nhân sâm 3 - 6g, Phụ tử chế 4 - 16g, sắc uống 6 lần.
-   Đối với trường hợp dương hư chân tay lạnh ( choáng trụy tim mạch) cần
+   Đối với trường hợp dương hư chân tay lạnh (choáng trụy tim mạch) cần
    thực hiện Đông tây y kết hợp cấp cứu.
 -  Cấp cứu trẻ sơ sinh trạng thái nguy kịch: mỗi ngày dùng Hồng sâm thái
-   mỏng 3 - 5g ( tương đương 1g/1kg cân nặng/ 1ngày) cho nước 40 - 50ml
-   chưng 30 phút cho uống cứ 3 giờ 1 lần ( nhỏ giọt vào mồm hoặc cho
+   mỏng 3 - 5g (tương đương 1g/1kg cân nặng/ 1ngày) cho nước 40 - 50ml
+   chưng 30 phút cho uống cứ 3 giờ 1 lần (nhỏ giọt vào mồm hoặc cho
    bằng ống sonde qua mũi), mỗi lần 5ml, 1 liệu trình 4 - 6 ngày dài là
    10 ngày có phối hợp Tây y cấp cứu, theo dõi 10 ca đều khỏi, thường
    sau 2 - 3 lần uống Sâm, các triệu chứng đều được cải thiện trên lâm
-   sàng ( Vương Xích Mai và cộng sự). Theo dõi lâm sàng 30 ca trẻ sơ
-   sinh điều trị bằng nước chưng Hồng sâm ( Tạp chí nghiên cứu Trung
+   sàng (Vương Xích Mai và cộng sự). Theo dõi lâm sàng 30 ca trẻ sơ
+   sinh điều trị bằng nước chưng Hồng sâm (Tạp chí nghiên cứu Trung
    thành dược 1987,7:34).
 -  Dùng Hồng sâm 30g sắc nước cho uống liên tục đồng thời châm Bách hội,
    2 kim hướng trước sau, cấp cứu 10 ca choáng do mất máu có tác dụng
@@ -212,7 +212,7 @@ nghịch, tùy tình hình chọn các bài:
 -  Dùng Nhân sâm, Mạch môn, Ngũ vị chế thành thuốc tiêm Sinh mạch (hàm
    lượng mỗi ml có 0,57g thuốc sống, mỗi lần tiêm bắp hoặc tiêm tĩnh
    mạch 2 - 4ml có kết quả tốt đối với nhồi máu cơ tim và chóang do tim
-   ( Y viện Ma khai, Thiên tân, Dịch tiêm Sinh mạch tứ nghịch, Thông tin
+   (Y viện Ma khai, Thiên tân, Dịch tiêm Sinh mạch tứ nghịch, Thông tin
    Trung thảo dược 1972,4:21).
 
 2.Trị chứng rối loạn tiêu hóa, tiêu chảy kéo dài do tỳ vị hư nhược, dùng
@@ -224,7 +224,7 @@ phối hợp với Bạch truật, Bạch linh.
 3.Trị các loại bệnh phổi như hen phế quản, viêm phế quản mạn tính, tâm
 phế mạn, dùng bài:
 
--  Nhân sâm định suyễn thang: Nhân sâm 8g ( gói sắc riêng), Thục địa
+-  Nhân sâm định suyễn thang: Nhân sâm 8g (gói sắc riêng), Thục địa
    20g, Thục phụ phiến 12g, Hồ đào nhục 16g, Tắc kè 8g, Ngũ vị tử 8g,
    sắc uống.
 -  Nhân sâm Hồ đào thang: Nhân sâm 4g, Hồ đào nhục 12g, saüc uống trị
@@ -232,9 +232,9 @@ phế mạn, dùng bài:
 
 4.Trị bệnh cảm ở người vốn khí hư dùng bài:
 
--  Sâm tô ẩm ( cục phương): Nhân sâm 4g (sắc riêng), Tô diệp 12g, Phục
-   linh 12g, Cát căn 12g, Tiền hồ 4g, Bán hạ ( gừng chế) 4g, Trần bì 4g,
-   Chỉ xác 4g, Cát cánh 4g, Mộc hương 3g ( cho sau), Cam thảo 3g, Sinh
+-  Sâm tô ẩm (cục phương): Nhân sâm 4g (sắc riêng), Tô diệp 12g, Phục
+   linh 12g, Cát căn 12g, Tiền hồ 4g, Bán hạ (gừng chế) 4g, Trần bì 4g,
+   Chỉ xác 4g, Cát cánh 4g, Mộc hương 3g (cho sau), Cam thảo 3g, Sinh
    khương 3 lát, Đại táo 2 quả, sắc uống nóng cho ra mồ hôi.
 
 5.Trị chứng thiếu máu: dùng các bài bổ huyết như Tứ vật thang, Đương qui
@@ -243,14 +243,14 @@ bổ huyết thang, gia thêm Nhân sâm kết quả tốt hơn.
 6.Trị tiểu đường: thường dùng các thuốc tư bổ thận âm như: Thục địa, Kỷ
 tử, Thiên môn, Sơn thù nhục, dùng bài:
 
--  Tiêu khát ẩm: Cát lâm sâm 8g ( sắc riêng), Thục địa 24g, Kỷ tử 16g,
+-  Tiêu khát ẩm: Cát lâm sâm 8g (sắc riêng), Thục địa 24g, Kỷ tử 16g,
    Thiên môn đông 12g, Sơn thù nhục 12g, Trạch tả 16g, sắc uống.
 -  Dùng độc vị Nhân sâm uống, theo báo cáo dùng cao lỏng Nhân sâm mỗi
    lần uống 0,5ml ngày 2 lần, liệu trình tùy tình hình bệnh, nếu bệnh
    nhẹ kết quả rõ, có thể làm hạ đường huyết 40 - 50mg% ngưng thuốc có
    thể kéo dài thời gian ổn định trên 2 tuần, đối với thể trung bình tác
    dụng hạ đường huyết không rõ nhưng triệu chứng chung được cải thiện
-   như khát nước giảm, đỡ mệt mỏi ( Vương Bản Tường, kết quả nghiên cứu
+   như khát nước giảm, đỡ mệt mỏi (Vương Bản Tường, kết quả nghiên cứu
    Dược lý Nhân sâm - Dược học học báo 1965,7:477, Ứng dụng lâm sàng vị
    Nhân sâm Y học Cát lâm 1983,5:5).
 
@@ -258,7 +258,7 @@ tử, Thiên môn, Sơn thù nhục, dùng bài:
 được hồi phục hoàn toàn 15 ca, 9 ca chuyển biến tốt, 3 ca không kết quả.
 Ngoài ra dùng uống nước chiết xuất 500mg mỗi ngày dùng để trị các trường
 hợp: Liệt dương , tảo tiết, phóng tinh yếu, tính dục giảm đều có kết quả
-nhất định ( Vương Bản Tường, Ứng dụng lâm sàng vị Nhân sâm, Cát lâm Y
+nhất định (Vương Bản Tường, Ứng dụng lâm sàng vị Nhân sâm, Cát lâm Y
 học 1983,5:54).
 
 8.Trị cao huyết áp và xơ mỡ động mạch: Các tác giả Liên xô dùng cồn 20%
@@ -266,7 +266,7 @@ Nhân sâm, mỗi lần 20 giọt, ngày 2 lần, đối với các chứng huy�
 xơ mỡ động mạch, đau thắt tim, thần kinh tim và hở van tim, đều có kết
 quả nhất định như cảm giác dễ chịu, bớt khó thở, bớt đau thắt tim, bớt
 đau đầu, ngủ tốt, điện áp sóng T và R được nâng cao. ngưng thuốc 6 - 9
-tháng, bệnh tình vẫn ổn định ( Vương Bản Tường, Ứng dụng lâm sàng vị
+tháng, bệnh tình vẫn ổn định (Vương Bản Tường, Ứng dụng lâm sàng vị
 Nhân sâm Cát lâm Y học 1983,5:54).
 
 Nhân sâm có tác dụng làm giảm mỡ trong máu ở người già nhất là đối với
@@ -274,7 +274,7 @@ Triglicerid 80% người được thí nghiệm cảm thấy thể lực và tr�
 tăng, 54% mất ngủ được cải thiện, 40% chứng tinh thần trầm cảm giảm, rối
 loạn sắc tố da ở người già được cải thiện, bớt rụng tóc.
 
-9.Dùng trị chứng suy thượng thận ( Addison): do Nhân sâm có tác dụng
+9.Dùng trị chứng suy thượng thận (Addison): do Nhân sâm có tác dụng
 kháng lợi niệu nên ảnh hưởng tới chuyển hóa của nước muối như Hocmon vỏ
 thượng thận gluco-cocticoit. Theo báo cáo của Vương Bản Tường theo dõi
 18 ca, bệnh nhân Addison cho uống cồn chiết xuất thân lá Nhân sâm 20% (
@@ -284,7 +284,7 @@ Sau điều trị, bệnh nhân lên cân, huyết áp được nâng lên, lự
 mạnh hơn, đường huyết lên, natri huyết thanh tăng. Thử nghiệm nước
 cocticoit và ACTH đều được cải thiện, giảm lắng đọng sắc tố ở da, đối
 với bệnh nhân sớm và ở giai đoạn bù trừ có kết quả tốt, có thể hồi phục
-khả năng bù trừ, cần dùng kết hợp với cocticoit có giảm liều ( Báo Y học
+khả năng bù trừ, cần dùng kết hợp với cocticoit có giảm liều (Báo Y học
 Cát lâm 1983,5:54).
 
 10.Dùng trị tỳ hư trẻ em: Theo báo cáo của Từ Hỷ Mai dùng Hồng sâm chữa
@@ -296,25 +296,25 @@ theo liều:
 -  Trẻ em trên 3 tuổi: sắc lấy 60ml gia thêm đường mía, chia 2 lần uống
    trong ngày, một liệu trình 7 - 14 ngày.
 -  Thuốc có tác dụng làm trẻ em ăn ngon, hết mồ hôi, lên cân, sắc mặt
-   tươi hơn ( theo báo Y dược Trùng khánh 1984,6:41).
+   tươi hơn (theo báo Y dược Trùng khánh 1984,6:41).
 
 11.Trị bệnh động mạch vành: Theo báo cáo của Dụ Hương Quần dùng Tiểu
 Hồng sâm chế thành dịch, tiêm hàm lượng 200mg/2ml/1ống; dùng 6 - 10ml
 thuốc trộn với 40ml gluco 10% tiêm tĩnh mạch, ngày 1 - 2 lần. Tác giả
 theo dõi 31 ca: Đau thắt tim có kết quả 93,54%, điện tâm đồ được cải
-thiện 76,66% đối với loạn nhịp tim cũng có tác dụng nhất định ( Báo Y
+thiện 76,66% đối với loạn nhịp tim cũng có tác dụng nhất định (Báo Y
 học An huy 1988,3:51).
 
 12.Trị chứng giảm bạch cầu: Chiết xuất Saponin từ thân, rễ, lá Nhân sâm
 chế thành viên, mỗi lần dùng 50 - 100mg, ngày uống 2 - 3 lần. Trị 38 ca
 hạ bạch cầu do hóa liệu, tỷ lệ kết quả 87%, trên súc vật thực nghiệm
 cũng chứng minh thuốc có tác dụng tăng bạch cầu rõ và có khả năng kích
-thích chức năng tạo máu ( theo báo nghiên cứu phòng trị Ung thư
+thích chức năng tạo máu (theo báo nghiên cứu phòng trị Ung thư
 1987,3:149).
 
 13.Trị viêm gan cấp: Theo báo cáo của các học giả Liên xô, uống cao lỏng
 Nhân sâm có khả năng làm cho chức năng gan hồi phục nhanh hơn và làm
-giảm khả năng bệnh chuyển thành mạn tính ( theo báo Cát lâm Y học 1983,
+giảm khả năng bệnh chuyển thành mạn tính (theo báo Cát lâm Y học 1983,
 5:54).
 
 Liều lượng thường dùng và chú ý lúc dùng:
@@ -338,7 +338,7 @@ Ví dụ:
 #. Nhân sâm do vùng đất cây mọc, phương pháp bào chế và bộ phận dùng
    khác nhau mà dược lực có khác. Thường thì Sâm mọc hoang và sống lâu
    năm là tốt nhất nhưng đắt và hiếm, dùng loại trồng thì có nhiều và
-   rẻ. Sâm mọc ở Cát lâm, Liêu ninh ( Trung quốc) và Sâm Triều tiên là
+   rẻ. Sâm mọc ở Cát lâm, Liêu ninh (Trung quốc) và Sâm Triều tiên là
    tốt. Hồng sâm tính ôn dùng tốt đối với dương khí hư.
 
 Lúc dùng Sâm cần chú ý:
@@ -348,12 +348,12 @@ Lúc dùng Sâm cần chú ý:
    giác": không nên cùng dùng.
 #. Theo sách Dược đối thì: " Nhân sâm úy Ngũ linh chi" nhưng trong nhiều
    bài thuốc có hai vị cùng dùng có tác dụng ích khí hoạt huyết không
-   phát hiện gây độc nên sách Dược điển ( Trung quốc) năm 1985 không có
+   phát hiện gây độc nên sách Dược điển (Trung quốc) năm 1985 không có
    cấm dùng chung.
 #. Theo sách Bản thảo tập yếu ghi: " Nhân sâm úy La bạc" nên trong thời
    gian uống Nhân sâm, không nên ăn Củ Cải và không nên uống trà để
    tránh giảm hiệu lực của thuốc. Nếu uống Nhân sâm mà đầy tức bụng, khó
-   chịu có thể dùng La bạc tử giải độc ( La bạc tử sắc uống).
+   chịu có thể dùng La bạc tử giải độc (La bạc tử sắc uống).
 #. Lúc dùng Nhân sâm để bớt nóng có thể phối hợp Mạch môn, Sinh địa; để
    bớt đầy tức thì phối hợp với Trần bì, Sa nhân.
 #. Nhân sâm rất ít độc: uống cồn Nhân sâm 3% 100ml chỉ cảm giác khó chịu
@@ -362,8 +362,8 @@ Lúc dùng Sâm cần chú ý:
    huyết là nhiễm độc cấp của Nhân sâm. Ở nước ngoài có báo cáo 1 ca
    chết vì uống 500ml cồn Nhân sâm và 1 em bé chết do uống nhiều nước
    sắc Nhân sâm.
-#. Cuống Nhân sâm ( Nhân sâm lô) không có tác dụng gây nôn như sách cổ
-   đã ghi: có người dùng 1 lần 50g cũng không bị nôn ( Báo Trung y Bắc
+#. Cuống Nhân sâm (Nhân sâm lô) không có tác dụng gây nôn như sách cổ
+   đã ghi: có người dùng 1 lần 50g cũng không bị nôn (Báo Trung y Bắc
    kinh 1986,1:30). Theo báo cáo của Vương Ngọc Hoa thuộc công ty Dược
    liệu tỉnh Hà bắc cho những bệnh nhân ở phòng khám mắc các bệnh tiểu
    đường, liệt dương, huyết áp thấp, mất ngủ, cường giáp, bạch cầu và
@@ -378,8 +378,8 @@ Lúc dùng Sâm cần chú ý:
    phần hóa học ở cuống Sâm lại cao hơn ở rễ Sâm.
 #. Giới thiệu bài thuốc giải độc Nhân sâm của Lưu trường Giang gồm: La
    bạc tử 25g, Sài hồ, Hương phụ, Mạch đông, Thiên đông, Ngũ vị tử, Viễn
-   chí, Câu đằng, Cam thảo sống ( mỗi thứ 15g), Đại táo 5 quả, sắc uống
-   ngày 1 thang ( đã dùng trị 61 ca nhiễm độc Nhân sâm đều khỏi - Báo
+   chí, Câu đằng, Cam thảo sống (mỗi thứ 15g), Đại táo 5 quả, sắc uống
+   ngày 1 thang (đã dùng trị 61 ca nhiễm độc Nhân sâm đều khỏi - Báo
    Trung y Giang tô 1988,9:16).
 
 .. |image0| image:: NHANSAM.JPG

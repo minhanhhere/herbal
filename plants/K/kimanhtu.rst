@@ -2,11 +2,11 @@
 
 KIM ANH TỬ
 
-( Fructus Rosac Laevigatae)
+(Fructus Rosac Laevigatae)
 
 Kim anh tử ccòn gọi là Thích Lê tử, Đường quân tử là quả gỉa hoặc đế hoa
-chín phơi hay sấy khô của cây Kim anh ( Rosa Laevigata Michx) thuộc họ
-Hoa Hồng ( Rosaceae). Kim anh tử dùng làm thuốc được ghi đầu tiên trong
+chín phơi hay sấy khô của cây Kim anh (Rosa Laevigata Michx) thuộc họ
+Hoa Hồng (Rosaceae). Kim anh tử dùng làm thuốc được ghi đầu tiên trong
 sách Thục bản thảo. Có tên Kim anh vì quả giả giống cái chén màu vàng.
 
 Ở nước ta cây mọc hoang ở đồi núi và là đặc sản của các tỉnh Cao bằng,
@@ -39,7 +39,7 @@ Tác dụng dược lý:
 A.Theo Y học cổ truyền:
 
 Kim anh tử có tác dụng: cố tinh súc niệu, sáp trường chỉ tả. Chủ trị các
-chứng: hoạt tinh, tiểu nhiều lần ( niệu lần), bạch đới quá nhiều, cửu tả
+chứng: hoạt tinh, tiểu nhiều lần (niệu lần), bạch đới quá nhiều, cửu tả
 cửu lî.
 
 Trích đoạn Y văn cổ:
@@ -49,7 +49,7 @@ Trích đoạn Y văn cổ:
 -  Sách Cảnh nhạc toàn thư, Bản thảo chính: " chỉ thổ huyết, nục huyết,
    sinh tân dịch, thu tự hãn, liễm hư hỏa, ích tinh tủy, tráng gan cốt,
    bổ ngũ tạng, dưỡng khí huyết, bình khái thấu, định suyễn, cấp liệu
-   chính xung kinh quí, chỉ tỳ tả huyết lî cấp tiểu thủy bất cầm ( tiểu
+   chính xung kinh quí, chỉ tỳ tả huyết lî cấp tiểu thủy bất cầm (tiểu
    nhiều lần)".
 
 B.Kết quả nghiên cứu dược lý hiện đại:
@@ -60,7 +60,7 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    beta-lipoprotein có ý nghĩa so với lô chứng. Mỡ ở tim và gan cũng như
    xơ mỡ mạch ở nhóm điều trị là ít hơn.
 #. Tác dụng kháng khuẩn: nước sắc Kim anh tử có tác dụng ức chế mạnh in
-   vitro đối với tụ cầu vàng ( Staphylococcus aureus) và E.Coli. Nước
+   vitro đối với tụ cầu vàng (Staphylococcus aureus) và E.Coli. Nước
    của thuốc cũng có tác dụng ức chế virus cúm.
 
 Ứng dụng lâm sàng:
@@ -70,7 +70,7 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 -  Kim anh tử 30 - 60g sắc uống hoặc nấu cao uống. Thuốc còn dùng trị
    suy nhược thần kinh, ra mồ hôi, bạch đới.
 -  Thủy lục đơn: Kim anh tử, Khiếm thực lượng bằng nhau tán làm hoàn,
-   mỗi lần uống 6 - 8g với nước cơm. Trị cả bạch đới ( vì bài thuốc có 1
+   mỗi lần uống 6 - 8g với nước cơm. Trị cả bạch đới (vì bài thuốc có 1
    vị mọc ở trên đất, 1 vị mọc ở dưới nước).
 
 2.Trị sa tử cung, sa trực tràng:

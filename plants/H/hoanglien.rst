@@ -55,7 +55,7 @@ song cầu khuẩn, viêm não, song cầu khuẩn viêm phổi, ức chế viru
 ứùc chế nấm ngoài da.
 
 Dược lý: Berberin có thể nội tạng hoặc thể ngoại đèu có tác dụng tăng
-cường công năng của bạch huyết cầu ( đối với việc nuốt tụ cầu vàng).
+cường công năng của bạch huyết cầu (đối với việc nuốt tụ cầu vàng).
 Berberin có tác dụng lợi mật, dùng cho bệnh viêm túi mật rất tốt. Ngoài
 ra còn có tác dụng dãn mạch máu và hạ huyết áp, hạ nhiệt độ.
 

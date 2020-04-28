@@ -42,30 +42,30 @@ A.Theo Y học cổ truyền:
 
 Mang tiêu có tác dụng: tả hạ nhuyễn kiên, thanh nhiệt tả hỏa. Chủ trị
 các chứng: nhiệt kết tiện bí, ngoại cảm nhiệt bệnh, đàm nhiệt khái thấu,
-tý thống ( đau cánh tay), chứng điên cuồng, ung thũng ( nhọt sưng), đơn
-độc, yết thống ( họng đau), khẩu sang (lở mồm), răng lợi sưng đau ( nha
+tý thống (đau cánh tay), chứng điên cuồng, ung thũng (nhọt sưng), đơn
+độc, yết thống (họng đau), khẩu sang (lở mồm), răng lợi sưng đau (nha
 ngân thũng thống).
 
 Trích đoạn Y văn cổ:
 
 -  Sách Danh y biệt lục: " chủ ngũ tạng tích tụ, cửu nhiệt vị bế, trừ tà
-   khí, phá lưu huyết, phúc trung đàm nhiệt kết bác ( bụng đầy có đàm
-   nhiệt kết), thông kinh mạch, lợi đại tiểu tiện và nguyệt thủy ( kinh
+   khí, phá lưu huyết, phúc trung đàm nhiệt kết bác (bụng đầy có đàm
+   nhiệt kết), thông kinh mạch, lợi đại tiểu tiện và nguyệt thủy (kinh
    nguyệt), phá ngũ lâm, tống cũ sinh mới (suy trần chí tân)".
 -  Sách Trân châu nang: " công dụng của Mang tiêu có 3: khử thực nhiệt,
-   địch trường trung súc cấu ( tẩy chất bẩn đọng lại trong ruột), phá
+   địch trường trung súc cấu (tẩy chất bẩn đọng lại trong ruột), phá
    kiên tích nhiệt khối".
 -  Sách Dược phẩm hóa nghĩa: " vị mặn nhuyễn kiên mà thông được táo kết,
    tính hàn giáng hạ mà có thể khử hỏa táo. Chủ trị chứng thời hành
-   nhiệt cuồng ( bệnh nhiễm sốt cao phát hoảng). Trị lục phủ tà nhiệt
-   hoặc thượng tiêu cách nhiệt hoặc đi tiêu táo bón ( hoặc hạ bộ tiện
+   nhiệt cuồng (bệnh nhiễm sốt cao phát hoảng). Trị lục phủ tà nhiệt
+   hoặc thượng tiêu cách nhiệt hoặc đi tiêu táo bón (hoặc hạ bộ tiện
    kiên).
 
 B.Kết quả nghiên cứu dược lý hiện đại:
 
 Tác dụng tẩy xổ(laxative): sodium sulfat hòa tan vào nước nhưng gốc
 SO\ :sub:`4` có phân tử lớn khó qua màng ruột lưu lại ở ruột hút nước ở
-các tổ chức vào ruột làm lỏng phân ( do SO\ :sub:`4` hình thành dung
+các tổ chức vào ruột làm lỏng phân (do SO\ :sub:`4` hình thành dung
 dịch ưu trương), làm tăng dung tích ruột gây kích thích cơ giới làm tăng
 nhu động ruột gây tiêu chảy.
 
@@ -74,7 +74,7 @@ nhu động ruột gây tiêu chảy.
 1.Trị vú sữa đầy căng tức đau: dùng Mang tiêu làm thuốc giảm sữa. Tác
 giả đã trị 33 ca đều thành công, cách làm: Mang tiêu 200g, dùng 2 lớp
 gạc gói thành 2 gói đặt lên 2 núm vú dùng vải băng buộc lại, sau 24 giờ
-lấy ra, làm 1 lần chưa hết làm lại lần 2 ( Lôi Vĩnh Trọng, Tạp chí Phụ
+lấy ra, làm 1 lần chưa hết làm lại lần 2 (Lôi Vĩnh Trọng, Tạp chí Phụ
 sản khoa Trung hoa 1957,5:401).
 
 2.Trị nhiễm khuẩn ngoài da: dùng Băng phiến, Mang tiêu theo tỷ lệ 1:10
@@ -83,12 +83,12 @@ cố định băng băng dính, 2 - 3 ngày thay 1 lần, đã dùng trị nhi�
 ngoại khoa chưa có mủ và chưa vỡ mủ bao gồm: đơn độc 25 ca, viêm tuyến
 vú cấp 42 ca, sưng tấy (phlegmon) 30 ca, nhọt sưng 40 ca, viêm ống lâm
 ba 38 ca, viêm tĩnh mạch 27 ca, viêm ruột thừa có mủ 28 ca. Tất cả 230
-ca kết quả tốt, bình quân thay thuốc 3 lần là khỏi ( Trương Liên Xuân và
+ca kết quả tốt, bình quân thay thuốc 3 lần là khỏi (Trương Liên Xuân và
 cộng sự, Tạp chí Trung tây y kết hợp 1984,5:272).
 
 3.Trị bệnh ở hậu môn: dùng dịch Huyền minh phấn 3% ngâm hậu môn, trị các
 chứng trĩ, nẻ, dò hậu môn thời kỳ viêm tấy. Đã theo dõi 4834 ca, kết quả
-tốt ( Hoàng Ngọc Nga, Học báo Trung y học viện Hà bắc 1983,1:21).
+tốt (Hoàng Ngọc Nga, Học báo Trung y học viện Hà bắc 1983,1:21).
 
 4.Trị chứng táo bón do trường vị thực nhiệt:
 

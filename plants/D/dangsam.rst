@@ -2,10 +2,10 @@
 
 ĐẢNG SÂM
 
-( Radix Codopsis Pilosulae)
+(Radix Codopsis Pilosulae)
 
-Đảng sâm ( Radix codonopsis) là rễ phơi khô của nhiều loài Codonopsis
-như Codonopsis pilosula (Franch) Nannf, Codonopsis tangshen Oliv ( Xuyên
+Đảng sâm (Radix codonopsis) là rễ phơi khô của nhiều loài Codonopsis
+như Codonopsis pilosula (Franch) Nannf, Codonopsis tangshen Oliv (Xuyên
 Đảng sâm và một số Codonopsis khác, đều thuộc họ Hoa chuông (
 Campanulaceae). Đảng sâm được ghi đầu tiên trong sách Bản kinh phùng
 nguyên với tên Thượng Đảng sâm.
@@ -47,7 +47,7 @@ Theo ghi chép của một số tài liệu cổ:
    phần vệ, phối hợp với Thạch liên cầm lî, cùng dùng với Đương qui hoạt
    huyết, giúp Táo nhân bổ tâm, dùng bổ phế thì chế mật chưng chín, dùng
    bổ tỳ sợ khí trệ thì thêm ít Tang bì hoặc gia Quảng bì".
--  Sách Bản thảo cương mục thập di ( tập 3): " trị phế hư, thuốc có tác
+-  Sách Bản thảo cương mục thập di (tập 3): " trị phế hư, thuốc có tác
    dụng ích phế khí".
 -  Sách Bản thảo chính nghĩa: " Đảng sâm bổ tỳ dưỡng vị, nhuận phế sinh
    tân, kiện vận trung khí, so với Nhân sâm không thua mấy. Thuốc kiện
@@ -61,7 +61,7 @@ B.Kết quả nghiên cứu Dược lý hiện đại:
    chứng minh Đảng sâm có tác dụng tren cả hai mặt hưng phấn và ức chế
    của vỏ não. Thí nghiệm cho thấy dịch chiết thô của Đảng sâm có tác
    dụng làm tăng sự thích nghi của chuột nhắt trong trạng thái thiếu
-   dưỡng khí ( do thiếu dưỡng khí ở tổ chức tế bào, do suy tuần hoàn,
+   dưỡng khí (do thiếu dưỡng khí ở tổ chức tế bào, do suy tuần hoàn,
    hoặc do làm tăng sự tiêu hao dưõng khí.) thuốc đều có tác dụng với
    mức độ khác nhau.
 #. Thuốc có tác dụng làm tăng khả năng miễn dịch của cơ thể. Dùng chế
@@ -76,11 +76,11 @@ B.Kết quả nghiên cứu Dược lý hiện đại:
    sắc Đảng sâm đều có tác dụng làm tăng số lượng hồng cầu trong đó
    lượng bạch cầu trung tính tăng còn lượng tế bào lâm ba lại giảm. Dịch
    tiêm Đảng sâm tăng nhanh máu đông mà không có tác dụng tán huyết.
-   Tiêm tĩnh mạch máu dung dịch Đảng sâm 20% ( 4ml/kg cân nặng) hoặc cho
-   uống ( mỗi ngày 20g) đều thấy hồng cầu tăng lên, bạch cầu giảm xuống.
+   Tiêm tĩnh mạch máu dung dịch Đảng sâm 20% (4ml/kg cân nặng) hoặc cho
+   uống (mỗi ngày 20g) đều thấy hồng cầu tăng lên, bạch cầu giảm xuống.
    Có tác giả cho rằng tác dụng bổ huyết của Đảng sâm là kết qủa của
    chất Đảng sâm cùng với sự cộng đồng tác dụng của chất đó với một
-   thành phần nào đó trong mạch ( trích yếu văn kiện nghiên cứu Trung
+   thành phần nào đó trong mạch (trích yếu văn kiện nghiên cứu Trung
    dược trang 535 - Nhà xuất bản Khoa học xuất bản 1965).
 #. Tác dụng của thuốc đối với hệ tiêu hóa: Dịch của Đảng sâm làm tăng
    trương lực của hồi tràng chuột Hà lan cô lập hoặc bắt đầu thì giảm,
@@ -89,7 +89,7 @@ B.Kết quả nghiên cứu Dược lý hiện đại:
    Dịch Đảng sâm có tác dụng đối kháng rõ đối với chất 5-HT gây co bóp
    ruột nhưng đối với ếch gây co bóp ruột thì lại không có tác dụng.
    Đảng sâm có tác dụng bảo vệ rõ rệt đối với 4 loại mô hình gây loét
-   bao tử ở súc vật ( gây loét do kích thích gây viêm, gây loét do acid
+   bao tử ở súc vật (gây loét do kích thích gây viêm, gây loét do acid
    acetic, loét do thắt môn vị).
 #. Tác dụng đối với hệ tim mạch: Cao lỏng Đảng sâm và chiết xuất cồn
    tiêm tĩnh mạch chó và thỏ gây mê có tác dụng hạ áp trong thời gian
@@ -100,7 +100,7 @@ B.Kết quả nghiên cứu Dược lý hiện đại:
    áp lực tĩnh mạch trung tâm hạ, nhịp tim chậm lại, so với tổ đối chiếu
    dùng Nhân sâm, Cam thảo. Nhận thấy tác dụng nâng áp của Đảng sâm cao
    hơn. Theo tài liệu " tiếp tục nghiên cứu tác dụng đối với huyết áp
-   của Đảng sâm" ( trích yếu văn kiện nghiên cứu Trung dược, trang
+   của Đảng sâm" (trích yếu văn kiện nghiên cứu Trung dược, trang
    536,1965). Thì tác dụng hạ áp của Đảng sâm trên thực nghiệm súc vật
    là do tác dụng dãn mạch ngoại vi và tác dụng ức chế Adrenalin của
    thuốc gây nên.
@@ -116,7 +116,7 @@ B.Kết quả nghiên cứu Dược lý hiện đại:
 Ứng dụng lâm sàng:
 
 1.Trong điều trị bằng Đông y: Đảng sâm thường được dùng thay Nhân sâm
-trong những bài thuốc bổ khí ( nhưng lượng phải gấp 2 - 3 lần), nhất là
+trong những bài thuốc bổ khí (nhưng lượng phải gấp 2 - 3 lần), nhất là
 chứng tỳ vị hư yếu, tiêu hóa kém thường kết hợp với Bạch truật, Bạch
 linh, Hoài sơn, Liên nhục. Bài thuốc như bài Sâm Linh Bạch truật tán,
 Hương sa lục quân, Bổ trung ích khí chữa bệnh suy dinh dưỡng trẻ em tiêu
@@ -133,41 +133,41 @@ hợp với Thục địa, Đương qui, Kê huyết đằng, Bạch thược, n
 hợp với A giao, Ngũ vị tử, Tử uyển như các bài:
 
 -  Thanh táo cứu phế thang: Tang diệp 12g, Thạch cao 12g(sắc trước),
-   Đảng sâm 12g, Cam thảo 4g, Hồ ma nhân 6g, A giao 8g ( hòa với nước
-   sắc thuốc uống), Mạch môn 12g, Hạnh nhân 6g, Tỳ bà diệp ( mật chích),
+   Đảng sâm 12g, Cam thảo 4g, Hồ ma nhân 6g, A giao 8g (hòa với nước
+   sắc thuốc uống), Mạch môn 12g, Hạnh nhân 6g, Tỳ bà diệp (mật chích),
    sắc uống có tác dụng nhuận phế hóa đờm.
--  Sinh mạch tán ( Nội ngoại thương biện luận): Đảng sâm 12g, Mạch môn
+-  Sinh mạch tán (Nội ngoại thương biện luận): Đảng sâm 12g, Mạch môn
    12g, Ngũ vị tử 8g, sắc uống, có tác dụng bổ khí tư âm liễm hãn.
 
 4.Trị xuất huyết tử cung cơ năng: dùng độc vị Đảng sâm lượng mỗi ngày 30
-- 60g, sắc uống, chia 2 lần ( sáng, tối), uống liên tục 5 ngày trong
+- 60g, sắc uống, chia 2 lần (sáng, tối), uống liên tục 5 ngày trong
 thời kỳ kinh nguyệt. Đã trị 37 ca khỏi 5 ca, kết quả tốt 14 ca, có kết
-quả 10 ca, 8 ca không kết quả ( Trung y tạp chí Triết giang 1986,5:207).
+quả 10 ca, 8 ca không kết quả (Trung y tạp chí Triết giang 1986,5:207).
 
-5.Trị suy nhược thần kinh: dùng dịch tiêm Phức phương Đảng sâm ( mỗi ml
+5.Trị suy nhược thần kinh: dùng dịch tiêm Phức phương Đảng sâm (mỗi ml
 có Đảng sâm 1g, Vitamin B1 50mg), tiêm bắp mỗi ngày 1 lần 2ml, liệu
-trình 15 ngày có kết quả nhất định ( Báo Khoa học kỹ thuật Y dược Hồ bắc
+trình 15 ngày có kết quả nhất định (Báo Khoa học kỹ thuật Y dược Hồ bắc
 1976,3:25).
 
 6.Trị huyết áp thấp: dùng Đảng sâm 15g, Hoàng tinh 12g, Nhục quế 10g,
 Cam thảo 6g, Đại táo 10 quả, sắc nước uống ngày 1 thang, 15 ngày là một
 liệu trình, dùng 1 - 2 liệu trình. Đã trị 30 ca, 28 ca có kết quả, 2 ca
-kết quả không rõ ( Báo Trung Y dược Quảng tây 1985, 5:36).
+kết quả không rõ (Báo Trung Y dược Quảng tây 1985, 5:36).
 
 7.Trị viêm phế quản mạn tính thể khí hư huyết ứ: Phùng thế Luân và cộng
 sự dùng Đảng sâm, Ngũ linh Chi, Sinh khương, Thương truật, mỗi thứ 10g,
 sắc uống cô còn 200ml (lượng uống 3 ngày), gia đường mía vừa đủ đóng vào
 chai. Trị 32 ca mỗi năm uống thuốc từ tháng 11 đến tháng 3 năm sau mỗi
-lần 10 - 20ml, ngày 3 lần ( những lúc sốt cảm không uống), uống liên tục
+lần 10 - 20ml, ngày 3 lần (những lúc sốt cảm không uống), uống liên tục
 1 - 2 tháng, có kết quả 93,75%, kết quả tốt 53, 13% không có tác dụng
-phụ ( theo tờ Thông báo Trung dược 1986,3:55).
+phụ (theo tờ Thông báo Trung dược 1986,3:55).
 
 Liều lượng thường dùng và chú ý:
 
 -  Liều: 6 - 30g dùng trong các bài thuốc sắc hoặc hoàn tán.
--  Chú ý: Có tác giả báo cáo dùng lượng sâm quá lớn ( mỗi liều quá 63g
+-  Chú ý: Có tác giả báo cáo dùng lượng sâm quá lớn (mỗi liều quá 63g
    Đảng sâm) gây cho bệnh nhân khó chịu vùng trước tim và nhịp tim không
-   đều, ngưng thuốc thì hết ( Báo cáo của Khương Đình Lương, Tài liệu
+   đều, ngưng thuốc thì hết (Báo cáo của Khương Đình Lương, Tài liệu
    nghiên cứu Trung y dược 1976,4:33)
 -  Theo Dược điển Trung quốc, không nên dùng chung với Lê lô.
 

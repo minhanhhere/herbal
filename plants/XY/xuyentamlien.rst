@@ -6,7 +6,7 @@ XUYÊN TÂM LIÊN
 
 Còn gọi là cây Công cộng, Nhất kiến hỷ, Lãm hạch liên, Khổ đởm thảo (
 Roides amers, Green chireta). Dùng toàn cây hoặc lá phơi khô của cây
-Xuyên tâm liên ( Andrographis paniculata (Burm.f) Ness, bộ phận dùng
+Xuyên tâm liên (Andrographis paniculata (Burm.f) Ness, bộ phận dùng
 trên mặt đất.
 
 Thuộc họ Ô rô (Acanthaceae). Vị đắng tính hàn, không độc. Qui kinh Phế,
@@ -47,9 +47,9 @@ gây suy hô hấp. Thuốc có tác dụng làm sẩy thai ở chuột nhắt v
 Ứng dụng lâm sàng:
 
 #. Thuốc được dùng rộng rãi chữa các bệnh viêm nhiễm bao gồm nhiễm khuẩn
-   hô hấp ( viêm mũi, viêm xoang mũi, viêm đường hô hấp trên, viêm
+   hô hấp (viêm mũi, viêm xoang mũi, viêm đường hô hấp trên, viêm
    amidale, viêm phế quản, viêm phổi .), nhiễm khuẩn tiêu hóa (viêm ruột
-   cấp, kiết lî), viêm tiết niệu ( viêm niệu đạo, viêm thận bể thận),
+   cấp, kiết lî), viêm tiết niệu (viêm niệu đạo, viêm thận bể thận),
    viêm da, mụn nhọt và những bệnh xoắn trùng. Điều trị viêm mũi và viêm
    xoang mũi mạn tính 242 ca, tỷ lệ có kết quả 81% (Tân y học
    1984,9:481). Trị viêm phổi và viêm đường hô hấp trên ở trẻ em, viêm
@@ -73,7 +73,7 @@ Liều thường dùng và chú ý:
 
 -  Liều thường dùng: 12 - 40g.
 -  Chú ý: thuốc còn có tên Nhất kiến hỷ, Lam hạch tiên. Trên lâm sàng có
-   báo cáo Xuyên tâm liên có gây phản ứng dị ứng choáng ( Tân y học
+   báo cáo Xuyên tâm liên có gây phản ứng dị ứng choáng (Tân y học
    1972,11:53)
 
 .. |image0| image:: XUYENTAMLIEN.JPG

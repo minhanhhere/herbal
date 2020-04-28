@@ -2,7 +2,7 @@
 
 THUYỀN THOÁI
 
-( Periostracum Cicadae)
+(Periostracum Cicadae)
 
 Thuyền thoái là xác lột (Periostracum Cicadae) của con ve sầu
 (Cryptotympana pustulata Fabricius) thuộc họ Ve sầu (Cicadae). Vị mạên
@@ -16,7 +16,7 @@ nitơ, 14,57% tro.
 
 Tác dụng dược lý:
 
-1.Tán phong nhiệt, thấu chẩn, giải kinh ( chống co giật), thối ế ( làm
+1.Tán phong nhiệt, thấu chẩn, giải kinh (chống co giật), thối ế (làm
 tan màng thịt ở mắt) theo dược lý Đông y.
 
 2.Có tác dụng chống co giật trên động vật thực nghiệm.
@@ -44,15 +44,15 @@ Thường dùng nhiều trong Nhi khoa, Nội khoa, Nhãn khoa cũng có dùng:
 
 #. Trị màng mộng ở mắt: dùng bài:
 
--  Thuyền thoái vô tỷ tán ( Ngân hải tinh vi): Thuyền thoái ( bỏ đàu
-   chân) 3g, Xà thối ( xác rắn) 3g, Bạch tật lê 12g, Thạch quyết minh
+-  Thuyền thoái vô tỷ tán (Ngân hải tinh vi): Thuyền thoái (bỏ đàu
+   chân) 3g, Xà thối (xác rắn) 3g, Bạch tật lê 12g, Thạch quyết minh
    20g, Phòng phong 12g, Thương truật 8g, Đương qui 8g, Xuyên khung 4g,
    Xích thược 12g, Chích thảo 4g, sắc nước uống.
 
-#. Trị uốn ván ( phá thương phong): dùng bài Ngũ hổ truy phong thang:
+#. Trị uốn ván (phá thương phong): dùng bài Ngũ hổ truy phong thang:
    Thuyền thoái 32g, Chế nam tinh 8g, Minh thiên ma 8g, Toàn yết (cả
    đuôi) 7 con, Cương tằm sao 7 con, sắc nước uống ngày 1 thang trong 3
-   ngày liền ( Báo cáo Trung y chữa 27 ca uốn ván. Tạp chí Y học Trung
+   ngày liền (Báo cáo Trung y chữa 27 ca uốn ván. Tạp chí Y học Trung
    hoa 4: (10)1956.
 
 -  Bài thuốc kinh nghiệm chữa bệnh uốn ván: Xác ve sầu 40g, Nam tinh chế
@@ -69,7 +69,7 @@ Chú ý lúc dùng thuốc: thuốc nhẹ thường dùng lượng ít nhưng đ
 trường hợp trị viêm cầu thận mạn, uốn ván cần dùng liều cao mới có hiệu
 nghiệm.
 
-Dùng thận trọng đối với phụ nữ có thai vì theo sách cổ ( Biệt lục) thuốc
+Dùng thận trọng đối với phụ nữ có thai vì theo sách cổ (Biệt lục) thuốc
 có tác dụng dục sản.
 
 .. |image0| image:: THUYENTHOAI.JPG

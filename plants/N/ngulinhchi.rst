@@ -81,12 +81,12 @@ tác dụng ức chế nhiều loại nấm ngoài da, làm dịu co thắt củ
    sắc nước uống chia 2 lần trong ngày. Bài này cũng trị tử cung xuất
    huyết, đau bụng kinh.
 
-3.Trị viêm gan virut: dùng Nhân trần, Thất tiêu tán ( Nhân trần, Ngũ
-linh chi, Sao Bồ hoàng) trị 200 ca ( cấp 136 ca, mạn 64) trị khỏi 140
-ca, tốt 50 ca, không kết quả 10 ca ( Tạp chí Trung y Hồ bắc 1985,5:17).
+3.Trị viêm gan virut: dùng Nhân trần, Thất tiêu tán (Nhân trần, Ngũ
+linh chi, Sao Bồ hoàng) trị 200 ca (cấp 136 ca, mạn 64) trị khỏi 140
+ca, tốt 50 ca, không kết quả 10 ca (Tạp chí Trung y Hồ bắc 1985,5:17).
 
 4.Trị vô sinh do nội mạc tử cung tăng sinh: dùng bài Thất tiêu tán gia
-vị trị bệnh thu kết quả tốt ( Tạp chí Trung y Triết giang 1985,9(4):24).
+vị trị bệnh thu kết quả tốt (Tạp chí Trung y Triết giang 1985,9(4):24).
 
 Liều dùng và chú ý:
 

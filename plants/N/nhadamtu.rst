@@ -65,7 +65,7 @@ Tác dụng dưọc lý:
 Ứng dụng lâm sàng:
 
 1.Trị lî amíp cấp: dùng Nha đảm tử 12 cái bọc nhựa chia 3 lần uống trong
-ngày, đồng thời dùng 20 hạt ngâm trong 200ml nước sau 2 giờ ( ngâm vào
+ngày, đồng thời dùng 20 hạt ngâm trong 200ml nước sau 2 giờ (ngâm vào
 200ml dung dịch 1% natri bicacbonat sau 1 giờ đến 2 giờ thụt rửa đại
 tràng, mỗi ngày 1 lần, 10 ngày là một liệu trình. Trị 65 ca, kết quả
 trước mắt 94% (Tạp chí Trung y 1956,1:6).

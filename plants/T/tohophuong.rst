@@ -8,7 +8,7 @@ Tô hợp hương, Tô hạp, Tô hợp du, dùng làm thuốc được ghi đ�
 sách Danh y biệt lục là nhựa lấy ở cây Tô hợp hương, tên khoa học là
 Liquidambar orientalis Mill, thuộc họ Sao sau (Hamamelidaceae). Cây Tô
 hợp hương có mọc ở Châu phi, Aán độ, Thổ nhĩ kỳ, Iran và triển vọng có
-mọc ở Việt nam ( tại Nông trường Tràng vinh, cách thị xã Hải ninh 5 km).
+mọc ở Việt nam (tại Nông trường Tràng vinh, cách thị xã Hải ninh 5 km).
 Thuốc này phải được cất ở chỗ mát và đậy kín.
 
 Tính vị qui kinh:
@@ -85,7 +85,7 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    triệu chứng với tỷ lệ 83,4%, kết quả điện tâm đồ 31,5% (Báo cáo của
    Bệnh viện Hoa sơn trực thuộc Học viện Y số 1 Thượng hải, Tập san giao
    lưu tình hình Y học Thượng hải 1977,2:19).
--  Ngoài ra dùng Tô tâm hoàn ( Nhân sâm, Xạ hương, dầu Tô hợp hương,
+-  Ngoài ra dùng Tô tâm hoàn (Nhân sâm, Xạ hương, dầu Tô hợp hương,
    Băng phiến, Nhục quế, Thiềm tô, Ngưu hoàng), ngày 3 lần, mỗi lần 2
    viên trong 3 ngày hoặc lúc lên cơn uống 1 - 2 viên. Trị 132 lần cơn
    đau mạch vành, có đối chứng với viên Cứu tâm hoàn của Nhật, kết quả
@@ -95,12 +95,12 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    nghiên cứu Tô tâm hoàn của Thượng hải, Tạp chí Trung y 1981,12:23).
 
 2.Trị bệnh giun chui ống mật: dùng nước ấm uống viên Tô hợp hương hoàn,
-mỗi lần 1 viên, ngày 2 - 3 lần. Trị 9 ca có kết quả 89% ( Cổn gia Sương,
+mỗi lần 1 viên, ngày 2 - 3 lần. Trị 9 ca có kết quả 89% (Cổn gia Sương,
 Báo Trung y Thiểm tây 1985.7:322).
 
 3.Trị trúng phong đàm quyết chứng bế:
 
--  Tô hợp hương hoàn ( Hòa tể cục phương): Bạch truật, Thanh mộc hương,
+-  Tô hợp hương hoàn (Hòa tể cục phương): Bạch truật, Thanh mộc hương,
    Tê giác, Hương phụ, Chu sa, Kha tử, Bạch đàn hương, An tức hương,
    Trầm hương, Đinh hương, Xạ hương, Tất bạc đều 40g, Long não , Tô hợp
    hương, Nhũ hương đều 20g. Trừ Tô hợp hương, Xạ hương, Băng phiến (

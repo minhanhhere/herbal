@@ -2,12 +2,12 @@
 
 Ô MAI
 
-( Fructus Prunl Mume)
+(Fructus Prunl Mume)
 
-Ô mai còn gọi là Hạnh, Khổ hạnh nhân, Abricotier ( Pháp) dùng làm thuốc
+Ô mai còn gọi là Hạnh, Khổ hạnh nhân, Abricotier (Pháp) dùng làm thuốc
 được ghi đầu tiên trong sách Bản kinh với nguyên tên là Mai thực, là quả
-gần chín của cây Mơ ( Prunus Mume (Sieb et Zuce) được gia công chế biến
-phơi hay sấy khô, cây Mơ thuộc họ Hoa Hồng ( Rosaceae).
+gần chín của cây Mơ (Prunus Mume (Sieb et Zuce) được gia công chế biến
+phơi hay sấy khô, cây Mơ thuộc họ Hoa Hồng (Rosaceae).
 
 Cây Mơ mọc hoang hay được trồng nhiều tại các tỉnh miền Bắc nước ta như
 Sơn tây, Hà nam, Ninh bình, Thanh hóa, Nghệ an, Hà tĩnh. Các nước như
@@ -21,7 +21,7 @@ Theo các sách cổ:
 
 -  Sách Bản kinh: vị chua bình.
 -  Sách Danh y biệt lục: không độc.
--  Sách Nhật hoa tử bản thảo: tính noãn ( ấm), không độc.
+-  Sách Nhật hoa tử bản thảo: tính noãn (ấm), không độc.
 -  Sách Lôi công bào chế dược tính giải: nhập 2 kinh Phế Thận.
 -  Sách Bản thảo kinh sơ: nhập Can.
 -  Sách Dược phẩm hóa nghĩa: nhập 3 kinh Phế, Vị, Đại tràng.
@@ -36,15 +36,15 @@ A.Theo Y học cổ truyền:
 
 Ô mai có tác dụng liễm phế, sáp tràng, sinh tân, an hồi.
 
-Chủ trị các chứng: ho lâu ngày do phế hư ( phế hư cửu khái), chứng tiêu
-chảy và lî kéo dài ( cửu tả, cửu lî), mồm khát do hư nhiệt ( hư nhiệt
-khẩu khát), chứng đau bụng do lãi đũa ( hồi quyết phúc thống).
+Chủ trị các chứng: ho lâu ngày do phế hư (phế hư cửu khái), chứng tiêu
+chảy và lî kéo dài (cửu tả, cửu lî), mồm khát do hư nhiệt (hư nhiệt
+khẩu khát), chứng đau bụng do lãi đũa (hồi quyết phúc thống).
 
 Trích đoạn Y văn cổ:
 
 -  Sách Bản kinh: " hạ khí, trừ nhiệt phiền mãn, an tâm, chỉ chi thể
-   thống ( trị đau tay chân), chứng chân tay tê dại không cử động được (
-   thiên khô bất nhân, tử cơ), trị nốt ruồi, làm tiêu thịt thối ( Khu
+   thống (trị đau tay chân), chứng chân tay tê dại không cử động được (
+   thiên khô bất nhân, tử cơ), trị nốt ruồi, làm tiêu thịt thối (Khu
    thanh hắc trí thực ác nhục).
 -  Sách Danh y biệt lục: " khứ tý lợi cân mạch, chỉ hạ lî mồm khô".
 -  Sách Bản thảo cương mục: " liễm phế sáp tràng, chỉ cửu thâu tả lî,
@@ -57,28 +57,28 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 #. Ô mai có tác dụng ức chế ruột cô lập của thỏ. Cổ phương Ô mai hoàn
    làm thư giãn cơ Oddi và tăng tiết mật.
 #. Nước sắc Ô mai có tác dụng ức chế nhiều loại vi khuẩn gây bệnh như tụ
-   cầu khuẩn ( tụ cầu vàng), liên cầu khuẩn viêm phổi, trực khuẩn bạch
+   cầu khuẩn (tụ cầu vàng), liên cầu khuẩn viêm phổi, trực khuẩn bạch
    hầu, trực khuẩn salmonella typhi, shigella sonnei cùng nhiều loại
    trực khuẩn khác và một số nấm gây bệnh.
 #. Tác dụng chống dị ứng: Trên súc vật thí nghiệm, nước sắc Ô mai có tác
    dụng giảm tỷ lệ tử vong của chuột lang gây choáng bằng chất albumin.
 #. Tác dụng chống ung thư: in vitro Ô mai có tác dụng ức chế trên 90%
-   ung thư cổ tử cung ( ở người) loại JTC26.
+   ung thư cổ tử cung (ở người) loại JTC26.
 
 Ứng dụng lâm sàng:
 
-1.Trị trĩ nội: Lục Đức Viêm dùng Ô mai chế thành thuốc chích ( mỗi ml có
+1.Trị trĩ nội: Lục Đức Viêm dùng Ô mai chế thành thuốc chích (mỗi ml có
 hàm lượng 0,4g thuốc sống, mỗi lần dùng 5 - 10ml, không quá 30ml tối
 đa), cho bệnh nhân nằm nghiêng, gây tê vô trùng, cho búi trĩ ra ngoài
 hậu môn, chích vào trung tâm búi trĩ vào tầng dưới niêm mạc cho đến khi
 búi trĩ thay màu. Đã trị các loại nội trĩ, trĩ hỗn hợp 110 ca kết quả
-tốt ( Tạp chí Trung y Giang tô 1980,5:29).
+tốt (Tạp chí Trung y Giang tô 1980,5:29).
 
-2.Trị viêm gan do virus : Ô mai 40 - 50g ( trẻ em giảm liều) gia 500ml
+2.Trị viêm gan do virus : Ô mai 40 - 50g (trẻ em giảm liều) gia 500ml
 nước sắc đặc còn 250ml chia 2 lần uống ngày 1 thang, đồng thời uống thêm
 vitamin C và B. Đã trị 74 ca, 66 ca kết quả tốt, có kết quả 7 ca, không
 kết quả 1 ca, thuốc có tác dụng hạ men transaminasa, hết vàng da và cải
-thiện triệu chứng lâm sàng ( Từ Tuyền, Tạp chí Trung tây y kết hợp
+thiện triệu chứng lâm sàng (Từ Tuyền, Tạp chí Trung tây y kết hợp
 1986,11:694).
 
 3.Trị tiêu chảy trẻ nhỏ: Mã nghiệp Canh dùng:
@@ -88,11 +88,11 @@ thiện triệu chứng lâm sàng ( Từ Tuyền, Tạp chí Trung tây y kết
 
 Uống ngày 3 lần, mỗi lần liều lượng như trên, 3 ngày là 1 liệu trình. Đã
 trị 67 ca, khỏi 65 ca, tốt 1 ca, không kết quả 1 ca, tỷ lệ kết quả 98,5%
-( Tạp chí Trung tây y kết hợp 1988,6:566).
+(Tạp chí Trung tây y kết hợp 1988,6:566).
 
 4.Trị tiêu chảy khát nước:
 
--  Ngọc huyền hoàn ( Cổ phương): Ô mai, Thiên hoa phấn, Cát căn, Hoàng
+-  Ngọc huyền hoàn (Cổ phương): Ô mai, Thiên hoa phấn, Cát căn, Hoàng
    kỳ, Mạch môn đều 10g, Cam thảo 3g, luyện mật làm hoàn, mỗi lần uống
    6g, ngày 2 lần, hoặc sắc nước uống.
 
@@ -100,7 +100,7 @@ trị 67 ca, khỏi 65 ca, tốt 1 ca, không kết quả 1 ca, tỷ lệ kết 
 
 -  Ô mai cao: Ô mai lượng vừa đủ nấu thành cao, mỗi tối uống với mật ong
    trước khi ngủ. Thuốc có tác dụng trị ho lâu ngày, người mệt mõi.
--  Nhất phục tán: Ô mai, Hạnh nhân, Bán hạ, A giao ( hòa uống), Sinh
+-  Nhất phục tán: Ô mai, Hạnh nhân, Bán hạ, A giao (hòa uống), Sinh
    khương đều 10g, Cù túc xác 5g, Tô diệp 6g, Cam thảo 3g, sắc uống.
 
 6.Trị kiết lî:
@@ -113,7 +113,7 @@ trị 67 ca, khỏi 65 ca, tốt 1 ca, không kết quả 1 ca, tỷ lệ kết 
 
 7.Trị giun lãi: đau bụng hoặc nôn ra lãi đũa.
 
--  Ô mai hoàn ( cổ phương): Ô mai, Phụ tử, Đương qui, Đảng sâm đều 10g,
+-  Ô mai hoàn (cổ phương): Ô mai, Phụ tử, Đương qui, Đảng sâm đều 10g,
    Hoàng liên, Hoàng bá, Can khương, Xuyên tiêu đều 5g, Quế chi 6g, Tế
    tân 3g, tán bột mịn luyện mật làm hoàn, mỗi lần uống 6g, ngày 2 lần
    hoặc sắc uống. Trị nôn ra lãi, lãi chui ống mật, đau bụng do lãi đũa.
@@ -130,7 +130,7 @@ trị 67 ca, khỏi 65 ca, tốt 1 ca, không kết quả 1 ca, tỷ lệ kết 
 -  Ô mai 7 quả thiêu tồn tính, tán nhỏ chia làm 3 lần uống trong ngày,
    dùng nước cơm chiêu thuốc.
 
-Ngoài ra người ta còn dùng nước cất hạt mơ ( có độc) để trị ho, nôn, đau
+Ngoài ra người ta còn dùng nước cất hạt mơ (có độc) để trị ho, nôn, đau
 dạ dày. Mỗi lần uống 0,5 - 2ml, liều tối đa cả ngày 6ml. Dầu hạt mơ làm
 thuốc bổ, thuốc nhuận tràng, liều 5 - 15ml dùng dưới hình thức thuốc
 sữa, dầu hạt mơ còn dùng làm thuốc bôi trừ nẽ da, bôi tóc cho trơn và

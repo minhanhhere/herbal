@@ -5,7 +5,7 @@ XUYÊN KHUNG
 (Radix Ligustici Wallichii)
 
 Xuyên khung dùng làm thuốc được ghi đầu tiên trong sách Bản kinh, là
-thân rễ phơi hay sấy khô của cây Xuyên khung ( Ligusticum Wallichi
+thân rễ phơi hay sấy khô của cây Xuyên khung (Ligusticum Wallichi
 Franch, Ligusticum chuanxiong Hort) thuộc họ Hoa tán Umbelliferae. Còn
 có tên Khung cùng.
 
@@ -112,11 +112,11 @@ ngoài da, còn có tác dụng trị chứng thiếu vitamin E.
 1.Trị đau đầu:
 
 -  Dùng Xuyên khung phối hợp với Thạch cao sống, Tế tân, Cúc hoa trị 50
-   ca đau đầu ( Vương Liêm). Trường hợp đau do phong hàn gia Bạch chỉ,
+   ca đau đầu (Vương Liêm). Trường hợp đau do phong hàn gia Bạch chỉ,
    Khương hoạt, Phòng phong; phong nhiệt trọng dụng Thạch cao gia Cúc
    hoa, Bạc hà, Liên kiều; phong thấp gia Bạch chỉ, Khương hoạt, Thương
    truật, Cao bản; huyết ứ trọng dụng Xuyên khung gia Đào nhân, Hồng
-   hoa, Đương qui, Xạ hương ( Tạp chí Trung y Thiểm tây 1985,10:447).
+   hoa, Đương qui, Xạ hương (Tạp chí Trung y Thiểm tây 1985,10:447).
 -  Xuyên khung 3g, Tế tân 2g, Hương phụ 3g, nước 300ml sắc còn 100ml
    chia 3 lần uống trong ngày.
 -  Xuyên khung, Kinh giới đều 12g, Bạc hà 24g, Phòng phong 4g, Tế tân
@@ -127,38 +127,38 @@ ngoài da, còn có tác dụng trị chứng thiếu vitamin E.
 
 2.Trị bệnh mạch vành đau thắt ngực:
 
--  Dùng Xuyên khung chiết xuất chất acid ferulic ( acid a ngùy) 20mg cho
+-  Dùng Xuyên khung chiết xuất chất acid ferulic (acid a ngùy) 20mg cho
    vào glucoz 5% - 250ml, nhỏ giọt tĩnh mạch ngày 1 lần, liên tục 10 lần
    trị 8 ca bệnh động mạch vành, hết cơn đau thắt ngực 6/6, mỡ máu giảm
-   mức độ khác nhau ( Tập Y dược Trùng khánh 1978,1:23).
+   mức độ khác nhau (Tập Y dược Trùng khánh 1978,1:23).
 -  Dùng dịch kiềm Xuyên khung trị cơn đau thắt ngực 30 ca, có kết quả
    92,5%, số kết qủa tốt 62,9%, cơn đau giảm trong 24 giờ chiếm hơn phân
-   nửa, 40% điện tim trở lại bình thường ( Tạp chí Tân y dược học
+   nửa, 40% điện tim trở lại bình thường (Tạp chí Tân y dược học
    1977,1:15).
 -  Dùng dịch tiêm Xuyên khung truyền tĩnh mạch trị 10 ca bệnh mạch vành
-   đau thắt ngực, tốt 7 ca, tiến bộ 2 ca, không kết quả 1 ca ( Tạp chí
+   đau thắt ngực, tốt 7 ca, tiến bộ 2 ca, không kết quả 1 ca (Tạp chí
    Trung y 1980,9:69)
 
 3.Trị viêm cột sống phì đại và gai xương gót chân:
 
 Dùng bột Xuyên khung đựng vào bọc đắp vào chỗ đau hoặc lót vào giầy, mỗi
 tuần thay 1 lần, sau 5 - 10 ngày hết hoặc giảm đau, có người sau 2 tháng
-tái phát tiếp tục đắp lại ( Báo Tân y học 1975).
+tái phát tiếp tục đắp lại (Báo Tân y học 1975).
 
 4.Trị nhồi máu não và tắc mạch não:
 
-Dùng dịch tiêm phức phương Xuyên khung ( Xuyên khung, Xích thược, Đan
+Dùng dịch tiêm phức phương Xuyên khung (Xuyên khung, Xích thược, Đan
 sâm, Xuyên qui trị nhồi máu não và tắc mạch não 400 ca. Theo dõi bằng
 chụp động mạch não, điện tâm đồ, lưu lượng huyết dịch đều có cải thiện (
-P nhỏ hơn 0,005 - 0,001; tỷ lệ có kết quả 94,5%). ( Tạp chí Trung tây y
+P nhỏ hơn 0,005 - 0,001; tỷ lệ có kết quả 94,5%). (Tạp chí Trung tây y
 kết hợp 1986,6(4):234).
 
 5.Trị đau dây thần kinh tam thoa:
 
-Dùng thuốc sắc Xuyên khung ( Xuyên khung 30g, Đương quy, Đan sâm, Bạch
+Dùng thuốc sắc Xuyên khung (Xuyên khung 30g, Đương quy, Đan sâm, Bạch
 thược, Sài hồ, Hoàng cầm, Bạch chỉ, Toàn yết, Thuyền thoái, Địa long đều
 9g), trị 21 ca đau dây thần kinh tam thoa trong 1 tháng, tỷ lệ có kết
-quả 90,6% ( Tạp chí Trung y Hồ bắc 1982,4:34).
+quả 90,6% (Tạp chí Trung y Hồ bắc 1982,4:34).
 
 6.Trị đau nhức các khớp và mình mẩy:
 
@@ -179,20 +179,20 @@ quả 90,6% ( Tạp chí Trung y Hồ bắc 1982,4:34).
 
 -  Khung qui thang: Xuyên khung 8g, Đương qui 12g, cho rượu nước mỗi thứ
    một nửa sắc uống trị đẻ khó.
--  Ích mẫu thảo kim đơn ( y học tâm ngộ): Xuyên khung, Ích mẫu thảo,
+-  Ích mẫu thảo kim đơn (y học tâm ngộ): Xuyên khung, Ích mẫu thảo,
    Sung úy tử, Đương qui, Bạch thược. Huyết nhiệt gia Đan bì, Sanh địa.
    Huyết hàn gia Nhục quế. Chảy máu cam lúc có kinh gia Ngưu tất, Bạch
    mao căn. Kinh bế gia Hồng hoa, Trạch lan. Trường hợp kinh bế người
    mập thuộc đàm thấp tích trệ, dùng Xuyên khung phối hợp Đương qui,
-   Hương phụ, Thương truật hợp với Đạo đàm thang ( Bán hạ, Quất hồng,
+   Hương phụ, Thương truật hợp với Đạo đàm thang (Bán hạ, Quất hồng,
    Phục linh, Nam tinh, Chỉ thực, Chích thảo, Gừng tươi).
 
 9.Đau bụng kinh: Kinh nguyệt có máu cục, màu tím đậm, dùng Xuyên khung
 phối hợp Đào nhân, Hồng hoa, Đương qui, Bạch thược như bài Đào hồng tứ
-vật thang ( Y tông kim giám - Phụ khoa tâm pháp yếu quyết).
+vật thang (Y tông kim giám - Phụ khoa tâm pháp yếu quyết).
 
-10.Trị tai biến mạch máu não ( Bán thân bất toại, chân tay tê dại): Dùng
-bài Huyết phủ trục ứ thang ( Sanh địa, Đương qui, Bạch thược, Xuyên
+10.Trị tai biến mạch máu não (Bán thân bất toại, chân tay tê dại): Dùng
+bài Huyết phủ trục ứ thang (Sanh địa, Đương qui, Bạch thược, Xuyên
 khung, Đào nhân, Hồng hoa, Chỉ xác, Sài hồ, Cát cánh, Ngưu tất, Cam
 thảo).
 
@@ -206,7 +206,7 @@ thảo).
 Liều lượng và cách dùng:
 
 -  Liều: 3 - 10g. Tán bột mịn uống mỗi lần 1 - 1,5g.
--  Cần thận trọng lúc dùng đối với các chứng âm hư hỏa vượng ( lưỡi thon
+-  Cần thận trọng lúc dùng đối với các chứng âm hư hỏa vượng (lưỡi thon
    đỏ, mồm họng khô, mạch tế sác), trường hợp kinh nguyệt ra nhiều.
 
 .. |image0| image:: XUYENKHUNG.JPG

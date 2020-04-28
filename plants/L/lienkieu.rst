@@ -40,7 +40,7 @@ tim.
 Ứng dụng lâm sàng: là vị thuốc chính, trị bệnh viêm nhiễm và ung nhọt.
 
 1.Chữa bệnh nhiễm như viêm họng, viêm amidan: sưng đỏ, đau dùng bài Ngân
-kiều tán ( Ôn bệnh điều biện) gồm Liên kiều, Kim ngân hoa, Cát cánh, Bạc
+kiều tán (Ôn bệnh điều biện) gồm Liên kiều, Kim ngân hoa, Cát cánh, Bạc
 hà, Trúc diệp, Cam thảo, Kinh giới, Đạm đậu xị, Ngưu bàng tử có tác dụng
 thanh nhiệt giải độc. Hoặc dùng các bài thuốc sau:
 
@@ -70,7 +70,7 @@ nước vừa đủ sắc nhỏ lửa còn 150ml, chia 3 lần trong ngày uốn
 cay (Báo Y dược Giang tây 1961,7:18).
 
 5.Trị ban xuất huyết do giảm tiểu cầu: Liên kiều 30g, gia nước vừa đủ
-sắc, còn 150ml chia 3 lần trong ngày uống trước bữa ăn ( Trung y Quãng
+sắc, còn 150ml chia 3 lần trong ngày uống trước bữa ăn (Trung y Quãng
 đông 1960,10:469).
 
 Liều thường dùng: 6 - 15g, có thể dùng đến 20g.

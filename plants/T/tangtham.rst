@@ -5,7 +5,7 @@ TANG THẦM
 (Fructus Mori Albae)
 
 Còn gọi là Tang thầm tử, được ghi đầu tiên trong sách Tân tu bản thảo,
-là quả chín của cây Dâu tằm ( Morus Alba L.) thuộc họ Dâu tằm (
+là quả chín của cây Dâu tằm (Morus Alba L.) thuộc họ Dâu tằm (
 Moraceae).
 
 Tính vị qui kinh:

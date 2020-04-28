@@ -98,7 +98,7 @@ cholesterol và triglycerit (Tờ Tin tức Trung y dược 1987,4:36).
 
 4.Trị chứng bạch cầu giảm: dùng Thích Ngũ gia bì trị 43 ca Bạch cầu giảm
 do hóa liệu kết quả tốt hơn cả (Học báo Quảng tây Y học viện 1978,3:1).
-Dùng viên Ngũ gia bì trị 22 ca, 19 ca có kết quả ( Tạp chí Trung y Hồ
+Dùng viên Ngũ gia bì trị 22 ca, 19 ca có kết quả (Tạp chí Trung y Hồ
 bắc 1982,6:52).
 
 5.Trị nhồi máu não: dùng dịch chích Ngũ gia bì 40ml cho vào dịch gluco

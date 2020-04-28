@@ -2,9 +2,9 @@
 
 TẾ TÂN
 
-( Herba Asaricum Radice )
+(Herba Asaricum Radice )
 
-Tế tân là vị thuốc dùng toàn cây Tế tân ( Asarum heterotropoides Fr
+Tế tân là vị thuốc dùng toàn cây Tế tân (Asarum heterotropoides Fr
 Sch.var mandshuricum (Maxim) Kitag). Vị cay tính ấm, qui kinh Tâm, Phế,
 Thận.
 
@@ -32,8 +32,8 @@ Phòng phong, Kinh giới hoặc Quế chi, Sinh khương .hoặc dùng bài: MA
 HOÀNG PHỤ TỬ TẾ TÂN THANG gồm: Ma hoàng 4g, Phụ tử 8g, Tế tân 4g, sắc
 uống trị người bệnh vốn dương hư mắc chứng ngoại cảm phong hàn.
 
-2.Trị các chứng đau đầu ( đầu phong thống), đau răng ( do thần kinh),
-đau khớp ( do phong thấp). Trị chứng đau răng gặp lạnh đau nhiều dùng
+2.Trị các chứng đau đầu (đầu phong thống), đau răng (do thần kinh),
+đau khớp (do phong thấp). Trị chứng đau răng gặp lạnh đau nhiều dùng
 bài ĐỊNH THỐNG TÁN gồm: Tế tân 4g, Xuyên ô 2g, Nhũ hương 4g, Bạch chỉ
 4g, tán bột mịn mỗi lần 1 -2g rắc vào chỗ đau ngày 3 - 4 lần. Trường hợp
 đau răng kèm sưng đỏ, dùng bài: Tế tân 4g, Thạch cao sống 40g sắc uống.
@@ -57,7 +57,7 @@ Liều lượng thường dùng: 1 - 4g.
 Chú ý khi dùng thuốc: Đối với người bệnh khí huyết kếm nên dùng lượng
 ít. Người xưa có nói: Can khương, Tế tân, Ngũ vị tử là thuốc tốt đối với
 chứng đàm ẩm khái thấu nhưng đối với chứng ho khan, ho lao có triệu
-chứng âm hư ( hư hỏa ) không nên dùng.
+chứng âm hư (hư hỏa ) không nên dùng.
 
 Tế tân không nên dùng với Lê lô.
 

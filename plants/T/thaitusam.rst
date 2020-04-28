@@ -1,11 +1,11 @@
 THÁI TỬ SÂM
 
-( Radix Pseudostellariae)
+(Radix Pseudostellariae)
 
 Thái tử sâm dùng làm thuốc được ghi đầu tiên trong sách Trung quốc dược
-dụng thực vật chí, là rễ phơi khô của cây Thái tử sâm ( Pseudostellaria
+dụng thực vật chí, là rễ phơi khô của cây Thái tử sâm (Pseudostellaria
 heterophylla (miq.) Pax ex Hoffm. Hoặc Pseudostellaria raphonorrhiza
-(hemsl.) Pax) thuộc họ Cẩm chướng ( Caryphyllaceae).
+(hemsl.) Pax) thuộc họ Cẩm chướng (Caryphyllaceae).
 
 Tính vị qui kinh:
 
@@ -62,7 +62,7 @@ nhiệt.
 
 4.Trị viêm phổi trẻ em kéo dài không khỏi: Tỳ phế lưỡng hư dùng Hoàng
 kỳ, Mạch môn, Ngũ vị, Bạch truật, Chích Tử uyển, chích Khoản đông hoa
-tán bột trộn uống kiên trì điều trị hơn 1 tháng, kết quả tốt ( Hồ chí
+tán bột trộn uống kiên trì điều trị hơn 1 tháng, kết quả tốt (Hồ chí
 Kiên, Trung dược ứng dụng lâm sàng - Nhà xuất bản Nhân dân Nội mông
 1980: 442).
 

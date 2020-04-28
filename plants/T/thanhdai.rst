@@ -63,17 +63,17 @@ bài Thanh cáp tán: Thanh đại, Cáp phấn mỗi thứ 12g tán mịn, mỗ
 bột mịn, mỗi lần 2g, ngày 3 lần.
 
 5.Trị bệnh vẩy nến: Mỗi ngày uống Điện ngọc hồng 25 - 50mg, liệu trình 8
-tuần, thuốc có tác dụng ức chế tế bào biểu bì tăng sinh ( Tạp chí Y học
+tuần, thuốc có tác dụng ức chế tế bào biểu bì tăng sinh (Tạp chí Y học
 Trung hoa 1987,1:7).
 
 6.Trị bệnh bạch cầu hạt mạn tính (leucose chronique): mỗi ngày uống viên
 Điện ngọc hồng 150 - 200mg chia 3 lần từ 1 tháng đến hơn 6 tháng trị 314
-ca, tỷ lệ khống chế bệnh 59,87, tỷ lệ có kết quả 87,26% ( Tạp chí huyết
+ca, tỷ lệ khống chế bệnh 59,87, tỷ lệ có kết quả 87,26% (Tạp chí huyết
 học Trung hoa 1980).
 
 Liều thường dùng và chú ý:
 
--  Liều:1,5 - 3g nên dùng thuốc hoàn tán ( vì thuốc không tan trong
+-  Liều:1,5 - 3g nên dùng thuốc hoàn tán (vì thuốc không tan trong
    nước).
 -  Dùng bôi ngoài lượng vừa đủ.
 -  Dùng thận trọng đối với người tỳ vị hư hàn.

@@ -2,7 +2,7 @@
 
 Ý DĨ NHÂN
 
-( Hạt Bo bo)
+(Hạt Bo bo)
 
 Coix lachayma jobi Linca thuộc họ Lúa.
 

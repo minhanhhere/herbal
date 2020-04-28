@@ -2,19 +2,19 @@
 
 KHIÊN NGƯU TỬ
 
-( Semen Pharbitidis)
+(Semen Pharbitidis)
 
 Khiên ngưu tử còn gọi là Hắc bạch sửu, Nhị sửu, Bìm bìm biếc, Lạt bát
 hoa tử, là hạt phơi khô của cây Khiên ngưu hay Bìm bìm biếc. Tên thực
 vật có nhiều loại: Phabitis nil (L) choisy, Phabitis purpurea (L) Volgt
-hoặc Ipomoea hederacea Jacq ( Phabitis hederacea choisy).
+hoặc Ipomoea hederacea Jacq (Phabitis hederacea choisy).
 
 Hạt trên mặt màu đen gọi là Hắc sửu, màu vàng gọi là Bạch sửu, tác dụng
 như nhau. Theo sách của Đỗ tất Lợi có tên Khiên ngưu và Khiên là dắt,
 Ngưu là trâu, người xưa có người dùng vị thuốc này khỏi bệnh, dắt trâu
 đến tạ ơn người mách thuốc.
 
-Khiên ngưu thuộc họ Bìm bìm ( Convolvulceae) dùng làm thuốc được ghi đầu
+Khiên ngưu thuộc họ Bìm bìm (Convolvulceae) dùng làm thuốc được ghi đầu
 tiên trong sách Danh y biệt lục.
 
 Cây Bìm bìm biếc mọc hoang nhiều ở nước ta. Nhiều nước khác cũng có như
@@ -35,7 +35,7 @@ Theo các sách thuốc cổ:
 
 Thành phần chủ yếu:
 
-Pharbitin ( có Pharbitic acid vài purolic acid), là chất glucosid có
+Pharbitin (có Pharbitic acid vài purolic acid), là chất glucosid có
 khoảng 2%, nilic acid, gallic acid, lysergol, chanoclavine,
 penniclavine, Isopenniclavine, elymoclavine.
 
@@ -80,8 +80,8 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 -  Khiên ngưu tử 120g, Hồi hương 30g, tán bột mịn, mỗi lần 6 - 8g, uống
    lúc bụng đói với nước sôi ấm, ngày 1 lần, liên tục trong 2 - 3 ngày.
    Trị xơ gan bụng nước hoặc viêm thận mạn bụng nước.
--  Khiên ngưu tử 36g ( tán bột mịn), Đại táo 60g ( Nấu chín bỏ hột giã
-   nhuyễn), Sinh khương 500g ( bỏ vỏ giã nát lấy nước). Cho Khiên ngưu
+-  Khiên ngưu tử 36g (tán bột mịn), Đại táo 60g (Nấu chín bỏ hột giã
+   nhuyễn), Sinh khương 500g (bỏ vỏ giã nát lấy nước). Cho Khiên ngưu
    tử vào nước gừng trộn đều với Táo, bỏ lên bếp chưng 30 phút, trộn đều
    chưng lên 30 phút nữa là được. Chia làm 8 phần, mỗi ngày uống vào
    sáng, chiều, tối lúc bụng đói liền trong 4,5 ngày uống hết, kiêng
@@ -94,19 +94,19 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 -  Ngưu lang hoàn: Khiên ngưu tử, Binh lang, Đại hoàng lượng bằng nhau
    tán bột mịn. Uống sớm và tối lúc bụng đói 2 - 3 g với nước sôi ấm.
 -  Khiên ngưu tử, Lôi hoàng đều 10g, Sinh Địa hoàng 3g, tán bột mịn chia
-   2 lần uống ( uống 1 lần trước lúc ngủ), với nước sôi ấm. Trị giun
+   2 lần uống (uống 1 lần trước lúc ngủ), với nước sôi ấm. Trị giun
    kim.
 
 3.Trị tâm thần phân liệt: Đại hoàng, Hùng hoàng đều 12g, Hắc bạch sửu
 24g, Kẹo Mạch nha 16g. Các vị tán bột viên thành viên 2g. Ngày uống 4
-viên, 1 đợt 15 ngày liền nghỉ 7 ngày, rồi uống tiếp ( Y học thực hành
+viên, 1 đợt 15 ngày liền nghỉ 7 ngày, rồi uống tiếp (Y học thực hành
 1968,154:27-29).
 
 4.Trị động kinh: Khoa Thần kinh Bệnh viện Thủ đô Bắc kinh thuộc Viện
 Khoa học Y học Trung quốc dùng chiết xuất của Khiên ngưu tử làm thành
 viên hoặc hoàn. Trị 115 ca trong 3 tháng, tỷ lệ có kết quả 56,7%, hiệu
 quả trị bệnh của viên và hoàn là như nhau, đối với tất cả các thể bệnh
-đều có hiệu quả ( Tạp chí Nội khoa Trung hoa 1977,6:323).
+đều có hiệu quả (Tạp chí Nội khoa Trung hoa 1977,6:323).
 
 Liều lượng thường dùng và chú ý:
 

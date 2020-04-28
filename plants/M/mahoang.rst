@@ -2,15 +2,15 @@
 
 MA HOÀNG
 
-( Herba Ephedrae)
+(Herba Ephedrae)
 
 Ma hoàng là tên chung chỉ 3 loại thường dùng làm thuốc là Thảo ma hoàng
-( *Ephedra simica Stapt),* Mộc tặc ma hoàng *( Ephedra equisetima Bge),*
+(*Ephedra simica Stapt),* Mộc tặc ma hoàng *(Ephedra equisetima Bge),*
 Trung ma hoàng *(Ephedra Intermedia).* Thân cắt bỏ đốt làm thuốc.
 
 Vị cay đắng, tính ấm vào phế kinh.
 
-Tác dụng dược lý chủ yếu: phát hãn ( làm ra mồ hôi), bình suyễn, lợi
+Tác dụng dược lý chủ yếu: phát hãn (làm ra mồ hôi), bình suyễn, lợi
 tiểu.
 
 #. Phát hãn: chỉ dùng lúc nóng ở người có tác dụng làm tăng ra mồ hôi.
@@ -35,7 +35,7 @@ tiểu.
 
 #. Trị chứng NGOẠI CẢM PHONG HÀN (như cảm mạo, cảm cúm, viêm đường hô
    hấp trong thời kỳ đầu.) : sốt gai rét, đau đầu, đau mình, nghẹt mũi,
-   không ra mồ hôi, mạch phù khẩn, dùng bài **Ma hoàng thang** ( Thương
+   không ra mồ hôi, mạch phù khẩn, dùng bài **Ma hoàng thang** (Thương
    hàn luận)
 #. Trị chứng ho suyễn: dùng các bài sau đây chữa chứng ho suyễn trong
    các bệnh viêm đường hô hấp trên: Viêm phế quản, ho gà. phối hợp thuốc
@@ -56,7 +56,7 @@ khát nước, ho suyễn.
 Ma hoàng, Hạnh nhân, Cam thảo, Bách bộ mỗi thứ 8g, Thạch cao sống 40g,
 Cát cánh, Hoàng cầm mỗi thứ 12g sắc uống.
 
-+ Tiểu thanh long thang ( Thương hàn luận) trị Viêm phế quản cấp mạn,
++ Tiểu thanh long thang (Thương hàn luận) trị Viêm phế quản cấp mạn,
 hen phế quản kéo dài, ho, khó thở, đàm loãng trắng.
 
 Ma hoàng 8-12g, Bạch thược 12g, Quế chi 8g, Can khương 8-12g, Bán hạ
@@ -89,7 +89,7 @@ cho bệnh nhân huyết áp cao.
 + Trường hợp dùng Ma hoàng nhiều dẫn đến vong dương dùng Nhân sâm phụ tử
 sắc uống.
 
-+ Rễ Ma hoàng ( Ma hoàng căn) vị ngọt tính bình có tác dụng cầm mồ hôi.
++ Rễ Ma hoàng (Ma hoàng căn) vị ngọt tính bình có tác dụng cầm mồ hôi.
 Bài thuốc cầm mồ hôi gồm có: Ma hoàng căn, Mẫu lệ, Phù tiểu mạch, Nhân
 sâm, Hoàng kỳ, Bạch truật, Cam thảo, Quế chi, Đương quy sắc uống.
 

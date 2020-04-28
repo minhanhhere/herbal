@@ -1,6 +1,6 @@
 TỲ GIẢI
 
-( Củ Kim cang )
+(Củ Kim cang )
 
 Smilaxchima họ Liliaceae.
 

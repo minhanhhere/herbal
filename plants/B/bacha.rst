@@ -1,29 +1,26 @@
 .. _plants_bac_ha:
 
-======
-BẠC HÀ
-======
-
-(Herba Menthae)
+======================
+Bạc hà (Herba Menthae)
+======================
 
 Là vị thuốc dùng toàn cây Bạc hà (Mentha Arvensis L.) thuộc họ Hoa Môi
 (Labiatae). Vị cay tính mát, qui vào kinh Phế Can.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+----------------
 
-1.Giải cảm sơ tán phong nhiệt
+#. Giải cảm sơ tán phong nhiệt
+#. Trừ phong giảm đau: Tinh dầu Bạc hà bốc hơi nhanh gây cảm giác mát và
+   tê tại chỗ, làm giảm đau giảm ngứa.
+#. Giải độc thúc sởi mọc nhanh (theo y học cổ truyền)
+#. Bạc hà, tinh dầu bạc hà hay Menthol uống với liều rất nhỏ có thể gây
+   hưng phấn, xúc tiến sự bài tiết của tuyến mồ hôi làm cho nhiệt độ cơ thể
+   hạ thấp, liều lớn có tác dụng kích thích tủy sống gây tê liệt phản xạ và
+   ngăn sự lên men quả bình thường trong ruột.
 
-2.Trừ phong giảm đau: Tinh dầu Bạc hà bốc hơi nhanh gây cảm giác mát và
-tê tại chỗ, làm giảm đau giảm ngứa.
-
-3.Giải độc thúc sởi mọc nhanh (theo y học cổ truyền)
-
-4.Bạc hà, tinh dầu bạc hà hay Menthol uống với liều rất nhỏ có thể gây
-hưng phấn, xúc tiến sự bài tiết của tuyến mồ hôi làm cho nhiệt độ cơ thể
-hạ thấp, liều lớn có tác dụng kích thích tủy sống gây tê liệt phản xạ và
-ngăn sự lên men quả bình thường trong ruột.
-
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+-----------------
 
 #. Trị ngoại cảm phong nhiệt: thời kỳ đầu như cảm mạo, cảm cúm, viêm
    đường hô hấp trên, dùng cồn Bạc hà 10%, mỗi lần 5 -10 giọt, uống
@@ -46,7 +43,8 @@ ngăn sự lên men quả bình thường trong ruột.
    mùa hè cho thêm Hoắc hương mỗi thứ 4 - 6g, sắc nước cho trẻ uống để
    chống cúm lúc có dịch cúm.
 
-Liều thường dùng và chú ý:
+Liều thường dùng và chú ý
+-------------------------
 
 -  Liều : 3 - 8g.
 -  Chú ý: thuốc không được đun sôi lâu, nếu là nước sắc, vì Bạc hà phải

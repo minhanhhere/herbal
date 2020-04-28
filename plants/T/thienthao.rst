@@ -7,7 +7,7 @@ THIẾN THẢO
 Thiến thảo còn gọi là Tây thảo, Thiến căn, Huyết kiến sầu, Hoạt huyết
 đan, Địa huyết là rễ phơi hay sấy khô của cây Thiến thảo Rubia
 cordifolia L. dùng làm thuốc được ghi đầu tiên trong sách " Bản kinh".
-Cây Thiến thảo thuộc họ Cà phê ( Rubiaceae) mọc hoang dại ở vùng núi cao
+Cây Thiến thảo thuộc họ Cà phê (Rubiaceae) mọc hoang dại ở vùng núi cao
 mát như Sapa, Nghĩa lộ Lai châu. Ở Trung quốc cây thuốc mọc nhiều ở các
 tỉnh Thiểm tây, Hà nam, Hà bắc, An huy, Sơn đông... thường được đào rễ
 vào mùa thu đông để chế biến làm thuốc.
@@ -109,23 +109,23 @@ con chết.
 1.Dùng cầm máu: Trị các chứng chảy máu cam, nôn ra máu, tiêu ra máu,
 kinh kéo dài, huyết lî.
 
--  Thiến mai hoàn ( Phổ tế bản thị phương) gồm: Thiến thảo, Ngãi diệp, Ô
+-  Thiến mai hoàn (Phổ tế bản thị phương) gồm: Thiến thảo, Ngãi diệp, Ô
    mai lượng bằng nhau tán bột mịn luyện mật làm hoàn, uống mỗi lần 2 -
    4g, ngày 2 - 3 lần. Trị chảy máu cam do nhiệt.
 -  Cát căn tán: Thiến thảo, A giao đều 10g, Hoàng cầm, Trắc bá đều 8g,
-   Sinh địa 16g, Cam thảo 3g, chế thành dạng bột hoặc sắc uống ( trị thổ
+   Sinh địa 16g, Cam thảo 3g, chế thành dạng bột hoặc sắc uống (trị thổ
    huyết, chảy máu cam). Nôn ra máu có thể dùng độc vị Thiến thảo tán
    bột sắc uống hoặc phối hợp với Đậu đen, Cam thảo tán bột làm hoàn
-   uống gọi là Thiến thảo hoàn ( trong sách Thần tế tổng lục). Trường
+   uống gọi là Thiến thảo hoàn (trong sách Thần tế tổng lục). Trường
    hợp nôn ra máu mà cơ thể hư yếu, thuốc kết hợp với Hoàng cầm, Trắc bá
-   diệp, Hoàng kỳ, Đương qui ( bài Thiến căn tán trong Phổ tế phương).
+   diệp, Hoàng kỳ, Đương qui (bài Thiến căn tán trong Phổ tế phương).
    Trường hợp cần cầm thổ huyết mạnh hơn gia Tam thất, Kê huyết đằng sắc
-   uống ( thổ huyết thần phương Y môn bổ yếu).
+   uống (thổ huyết thần phương Y môn bổ yếu).
 -  Thiến căn thang: Thiến căn, Địa du đều 10g, Đương qui 12g, Địa hoàng
    16g, Hoàng cầm, Chi tử đều 8g, Hoàng liên 6g, Đậu xị 12g, Phỉ bách
    12g, sắc uống trị xích lî thể nhiệt.
 -  Trị chảy máu răng sau khi nhổ răng: dùng bột Thiến thảo rắc lên miếng
-   gạc đắp vào cắn chặt sau 1 - 2 phút cầm máu ( Thông báo Vệ sinh y
+   gạc đắp vào cắn chặt sau 1 - 2 phút cầm máu (Thông báo Vệ sinh y
    dược 1974, 1:54)
 
 2.Trị tắt kinh: dùng Thiến thảo 20g sắc uống.
@@ -133,13 +133,13 @@ kinh kéo dài, huyết lî.
 3.Trị Xích bạch đới: dùng bài:
 
 -  Thanh đới thang: Thiến thảo, Hải phiêu tiêu, Long cốt, Mẫu lệ đều
-   12g, Hoài sơn 20g, ( Xích đới gia Bạch thược, Khổ sâm. Bạch đới gia
+   12g, Hoài sơn 20g, (Xích đới gia Bạch thược, Khổ sâm. Bạch đới gia
    Lộc giác sương) sắc uống.
 
 4.Trị viêm phế quản mạn tính: dùng Thiến thảo và vỏ cây cam chanh chế
 thành thuốc sắc hoặc thuốc viên cho uống trị 123 ca, mỗi liệu trình 10
 ngày, sau 1 liệu trình tỷ lệ có kết quả là 40,7%, sau 2 liệu trình là
-69,1% kết quả tốt, đối với thể hen kết quả càng rõ rệt ( tư liệu Y học
+69,1% kết quả tốt, đối với thể hen kết quả càng rõ rệt (tư liệu Y học
 của Bộ vệ sinh quân khu Phúc châu 1972,3:10))
 
 Liều dùng và chú ý:

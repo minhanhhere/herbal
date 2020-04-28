@@ -56,7 +56,7 @@ Trích đoạn Y văn cổ:
    cụt, nóng trong da, mặt mắt vàng".
 -  Sách Dược tính bản thảo: " trị chứng hay quên, làm yên tinh thần, con
    người được tỉnh táo (trị kiện vong, an hồn phách, lệnh nhân bất mê)".
--  Sách Bản thảo tùng tân: " trị các chứng ung thư ( nhọt lóet), đắp
+-  Sách Bản thảo tùng tân: " trị các chứng ung thư (nhọt lóet), đắp
    uống đều có kết quả, có tác dụng hóa đàm".
 
 B.Kết quả nghiên cứu dược lý hiện đại:
@@ -78,13 +78,13 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 
 1.Trị viêm tuyến vú cấp và u xơ tuyến vú: Tác giả Hoàng Sĩ Tiêu dùng
 Viễn chí 12g gia rượu 60 độ 15ml ngâm 1 tí, cho nước 1 chén đun sôi 15 -
-20 phút lọc cho uống. Trị 62 ca viêm tuyến vú cấp có kết quả ( Thông tin
-Tân y dược Quảng châu 1973,6:5) và u xơ tử tuyến vú 20 ca đều khỏi ( Báo
+20 phút lọc cho uống. Trị 62 ca viêm tuyến vú cấp có kết quả (Thông tin
+Tân y dược Quảng châu 1973,6:5) và u xơ tử tuyến vú 20 ca đều khỏi (Báo
 cáo của Trần Phủ, Báo Trung y dược học 1977,1:48).
 
 2.Trị viêm âm đạo do trùng roi: Viễn chí tán bột mịn gia glycerine làm
 thuốc đan, mỗi viên có hàm lượng thuốc sống là 0,75g. Trước khi đặt
-thuốc, dùng bài thuốc nước rửa phụ khoa 1 ( Ngãi diệp, Xà sàng tử, Khổ
+thuốc, dùng bài thuốc nước rửa phụ khoa 1 (Ngãi diệp, Xà sàng tử, Khổ
 sâm, Chỉ xác đều 15g, Bạch chỉ 9g) sắc xông và rửa âm hộ, đặt thuốc vào
 âm đạo mỗi tối 1 lần. Trị 225 ca, sau 3 - 12 lần, hết triệu chứng và
 kiểm tra trùng roi âm tính có 193 ca khỏi, tỷ lệ 85,8% (Báo cáo của Cao

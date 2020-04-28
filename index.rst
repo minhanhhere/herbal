@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Herbal Medicine – *master* branch
-============================
+Herbal Medicine
+===============
 
 .. only:: not i18n
 
@@ -63,7 +63,7 @@ The main documentation for the site is organized into the following sections:
 
 .. toctree::
    :maxdepth: 1
-   :caption: General
+   :caption: Tổng quan
    :name: sec-general
 
    about/index
@@ -71,7 +71,7 @@ The main documentation for the site is organized into the following sections:
 
 .. toctree::
    :maxdepth: 1
-   :caption: Từ điển cây thuốc
+   :caption: Từ điển vị thuốc
    :name: sec-plants
    :glob:
 

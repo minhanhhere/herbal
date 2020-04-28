@@ -84,7 +84,7 @@ Tác dụng dược lý:
 4.Trị trẻ em khóc đêm:
 
 -  Câu đằng, Thuyền thoái đều 3g, Bạc hà 1g sắc uống, ngày 1 thang liên
-   tục 2 - 3 ngày. Đã trị 18 ca, khỏi 17 ca ( Thông tin Trung thảo dược
+   tục 2 - 3 ngày. Đã trị 18 ca, khỏi 17 ca (Thông tin Trung thảo dược
    1979,3:38).
 
 Liều dùng và chú ý:

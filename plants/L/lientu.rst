@@ -1,10 +1,10 @@
 |image0|
 
 | LIÊN TỬ
-| ( Semen Nelumbinis Nuciferae)
+| (Semen Nelumbinis Nuciferae)
 
 Liên tử tức hạt sen, dùng làm thuốc được ghi đầu tiên trong sách Bản
-kinh là hạt chín bỏ vỏ của cây sen ( Nelumbo nucifera Gaertn.).
+kinh là hạt chín bỏ vỏ của cây sen (Nelumbo nucifera Gaertn.).
 
 Cây được trồng khắp nơi, ở nước ta mọc ở vùng ao đầm. Thu hái Sen vào
 các tháng 7 - 9, hái gương sen về lấy quả, bỏ vỏ phơi hay sấy khô làm
@@ -40,10 +40,10 @@ rứt hồi hộp, mất ngủ.
 Trích đoạn Y văn cổ:
 
 -  Sách Bản kinh: " bổ trung dưỡng thần, ích khí lực".
--  Sách Bản thảo thập di: " làm cho tóc đen, không già ( lệnh phát hắc,
+-  Sách Bản thảo thập di: " làm cho tóc đen, không già (lệnh phát hắc,
    bất lão).
 -  Sách Bản thảo cương mục: " giao tâm thận, hậu trường vị, cố tinh khí,
-   cường gân cốt, bổ hư tổn, lợi nhĩ mục ( làm rõ tai sáng mắt), trừ hàn
+   cường gân cốt, bổ hư tổn, lợi nhĩ mục (làm rõ tai sáng mắt), trừ hàn
    thấp, chỉ tỳ tả cửu lî, xích bạch trọc, phụ nữ băng trung đới hạ, các
    bệnh về huyết".
 
@@ -56,7 +56,7 @@ Chất oxoushinsunine trong hạt sen có khả năng ức chế ung thư mũi h
 1.Trị tiêu chảy, lî mạn tính do tỳ hư:
 
 -  Liên nhục 12g, Hoàng liên 5g, Đảng sâm 12g sắc uống.
--  Sâm linh Bạch truật tán ( Hòa tễ cục phương): Đảng sâm, Bạch linh,
+-  Sâm linh Bạch truật tán (Hòa tễ cục phương): Đảng sâm, Bạch linh,
    Bạch truật, Hoài sơn, Biển đậu, Liên nhục, Ý dĩ đều 10g, Cát cánh, Sa
    nhân, Trần bì đều 6g, Cam thảo 4g sắc uống hoặc làm thuốc hoàn tán
    uống.
@@ -80,16 +80,16 @@ Liều lượng thường dùng và chú ý:
 
 LIÊN TỬ TÂM
 
-( Tim sen)
+(Tim sen)
 
-Là tim sen ( mầm) nằm giữa hạt sen, vị đắng tính hàn, có tác dụng thanh
+Là tim sen (mầm) nằm giữa hạt sen, vị đắng tính hàn, có tác dụng thanh
 tâm khử phiền, chỉ huyết sáp tinh. Dùng làm thuốc dược ghi trong sách
-Thực tính bản thảo ( đời cuối nhà Đường).
+Thực tính bản thảo (đời cuối nhà Đường).
 
 Kết quả nghiên cứu dược lý hiện đại: trong tim sen có asparagin và ít
-alkaloit chứng 0,06%, neulumbin 0,4 liensinin ( Dược tài học 1946),
-Isoliensinin, neferin, lotusin, methylcorypallin, pronuciferin ( Dược
-học tạp chí 1966, 86:75), demetylcoclaurin ( Chem. Pharm Bull
+alkaloit chứng 0,06%, neulumbin 0,4 liensinin (Dược tài học 1946),
+Isoliensinin, neferin, lotusin, methylcorypallin, pronuciferin (Dược
+học tạp chí 1966, 86:75), demetylcoclaurin (Chem. Pharm Bull
 1970,18:2564).
 
 Trên súc vật thực nghiệm, Liên tâm có tác dụng giãn mạch ngoại vi, hạ
@@ -104,7 +104,7 @@ Liều thường dùng: 1,5 - 3g sắc uống.
 
 LIÊN TU
 
-( Stamen Nelumbinis)
+(Stamen Nelumbinis)
 
 Còn gọi là Tua sen, thường dùng làm thuốc đưọc ghi đầu tiên trong sách
 Bản thảo hội tinh yếu với tên Kim anh thảo là tua nhị đực hoa sen bỏ hạt
@@ -115,7 +115,7 @@ huyết.
 
 Dùng trị các chứng di tinh, mộng tinh, hoạt tinh, đái dầm, đái nhiều
 lần, thổ huyết, nục huyết, băng lậu, thường phối hợp với Sa uyển tử,
-Khiếm thực, Long cốt, Mẫu lệ. như bài Kim tỏa cố tinh hoàn ( Y phương
+Khiếm thực, Long cốt, Mẫu lệ. như bài Kim tỏa cố tinh hoàn (Y phương
 tập giải) có các vị: Sa uyển tử, Liên tu, Mẫu lệ, Khiếm thực, Long cốt (
 giấm nướng).
 
@@ -125,7 +125,7 @@ Trong Liên tu có chất Tanin và alkaloid.
 
 LIÊN PHÒNG
 
-( Receptaculum Nelumbinis)
+(Receptaculum Nelumbinis)
 
 Liên phòng là gương sen già bỏ hết hạt phơi khô làm thuốc đưọc ghi đầu
 tiên trong sách Thực liệu bản thảo đời Đường, còn có tên Ngẫu phòng,
@@ -139,12 +139,12 @@ loại thuốc khác.
 
 Liều thường dùng: 5 - 10g.
 
-Thành phần chủ yếu có: protid ( 4,9%), chất béo 0,6%, carbon hydrate 9%,
+Thành phần chủ yếu có: protid (4,9%), chất béo 0,6%, carbon hydrate 9%,
 ít carotin, nuclein, vitamin C.
 
 HÀ DIỆP
 
-( Folium Loti)
+(Folium Loti)
 
 là Lá sen dùng làm thuốc được ghi đầu tiên trong sách Thực liệu bản thảo
 với tên Ngẫu diệp. Vị đắng tính bình.
@@ -164,7 +164,7 @@ Trong cuống lá cũng có lượng nhỏ roemrin và nonuciferin.
 
 LIÊN NGẪU
 
-( Nodus Rhizomatis Loti)
+(Nodus Rhizomatis Loti)
 
 Còn gọi là Ngó sen, có asparagin 2%, arginin, trigonelin, tyrosin, ete
 phosphoric, glucoza, vitamin C.
@@ -175,7 +175,7 @@ uống.
 
 THẠCH LIÊN TỬ
 
-( Fructus Nelumbinis)
+(Fructus Nelumbinis)
 
 Thạch liên tử là củ quả sen có vỏ, thường dùng trị Lî cấm khẩu dưới dạng
 thuốc sắc. Liều dùng từ 6 - 12g.

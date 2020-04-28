@@ -2,9 +2,9 @@
 
 LÔ HỘI
 
-( Herba Aloes)
+(Herba Aloes)
 
-Lô hội còn gọi là Tương đảm, Du thông, Nô hội, Lưỡi hổ, Long tu ( Bình
+Lô hội còn gọi là Tương đảm, Du thông, Nô hội, Lưỡi hổ, Long tu (Bình
 định), dùng làm thuốc được ghi đầu tiên trong sách Dược tính bản thảo là
 dịch cô đặc của lá nhiều loài cây có tên thực vật là Aloe vera L. và
 Aloe ferox Mill, thuộc họ Hành tỏi (giới thiệu trong bài này). Còn nhiều
@@ -37,13 +37,13 @@ Tác dụng dược lý:
 A.Theo Y học cổ truyền:
 
 Lô hội có tác dụng: Tả hạ thanh can hỏa, sát trùng. Chủ trị các chứng
-nhiệt kết tiện bí ( táo bón do nhiệt), chứng can kinh thực hỏa, cam tích
-ở trẻ em, chàm lở lâu khỏi ( dùng ngoài).
+nhiệt kết tiện bí (táo bón do nhiệt), chứng can kinh thực hỏa, cam tích
+ở trẻ em, chàm lở lâu khỏi (dùng ngoài).
 
 Trích đoạn Y văn cổ:
 
 -  Sách Khai bảo bản thảo: " trị nhiệt phong phiền muộn, nhiệt khí tại
-   vùng hung cách, minh mục trấn tâm ( làm sáng mắt an thần), trị chứng
+   vùng hung cách, minh mục trấn tâm (làm sáng mắt an thần), trị chứng
    động kinh, kinh phong trẻ em, chứng ngũ cam, sát tam trùng, trị trĩ
    sang lậu, giải độc Ba đậu".
 -  Sách Bản thảo cương mục: " tác dụng của Lô hội là chuyên sát trùng,
@@ -66,7 +66,7 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    lập của ếch.
 #. Nước ngâm kiệt Lô hội có tác dụng ức chế với mức độ khác nhau: nấm
    gây bệnh ngoài da. Lô hội còn có tác dụng kháng hoạt tính ung thư.
-#. Liều nhỏ Lô hội gíup kích thích tiêu hóa ( thường liều 0,5 - 1g) vì
+#. Liều nhỏ Lô hội gíup kích thích tiêu hóa (thường liều 0,5 - 1g) vì
    nó kích thích nhẹ niêm mạc ruột và không cho cặn bã ở lâu trong ruột.
 #. Độc tính Lô hội: dùng liều quá cao có thể gây ngộ độc chết người (
    tiêu nhiều, yếu toàn thân, mạch chậm, nhiệt độ xuống).
@@ -76,7 +76,7 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 1.Trị táo bón do trường vị thực nhiệt:
 
 -  Lô hội 20g, Chu sa 15g, tán thành bột mịn, dùng rượu làm hoàn, mỗi
-   lần uống 1 đồng cân ( 3g), ngày 2 lần, uống với rượu hoặc nước cơm.
+   lần uống 1 đồng cân (3g), ngày 2 lần, uống với rượu hoặc nước cơm.
 -  Viên nhuận tràng: Bột Lô hội 0,08g, cao Mật bò tinh chế 0,05g,
    Phenoltalein 0,05g, Bột Cam thảo 0,05g, tá dược vừa đủ 1 viên, ngày
    uống 1 - 2 viên vào bữa cơm chiều.
@@ -90,9 +90,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 3.Trị chứng cam đởm thực nhiệt gây táo bón, tiểu đỏ ít, hoa mắt chóng
 mặt; nặng hơn có triệu chứng co giật, phát cuồng nói nhãm:
 
--  Đương qui Lô hội hoàn: Lô hội, Đại hoàng, Thanh đại ( Thủy phi) mỗi
+-  Đương qui Lô hội hoàn: Lô hội, Đại hoàng, Thanh đại (Thủy phi) mỗi
    thứ 3g, Đương qui, Long đởm thảo, Hoàng cầm, Chi tử, Hoàng liên,
-   Hoàng bá mỗi thứ 6g, Mộc hương 5,5g, Xạ hương 0,3g ( tán riêng), tán
+   Hoàng bá mỗi thứ 6g, Mộc hương 5,5g, Xạ hương 0,3g (tán riêng), tán
    bột mịn luyện mật làm hoàn. Mỗi lần uống 6 - 10g, ngày 3 lần.
 
 4.Trị lãi đũa trẻ em, cam nhiệt:
@@ -107,10 +107,10 @@ mặt; nặng hơn có triệu chứng co giật, phát cuồng nói nhãm:
 5.Trị ghẻ lở, lóet lở hậu môn:
 
 -  Lô hội tán: Lô hội 30g, Cam thảo 15g, tán bột mịn, dùng nước đậu phụ
-   ( đậu hũ), rửa chỗ lóet rồi đắp thuốc.
+   (đậu hũ), rửa chỗ lóet rồi đắp thuốc.
 
 6.Trị mụn ở thanh niên: Chế cao xoa mặt có gia thêm nước lá Lô hội 5 -
-7%, xoa ngày 1 - 3 lần. Trị 140 ca, có kết quả 136 ca ( Vương Thị, Tạp
+7%, xoa ngày 1 - 3 lần. Trị 140 ca, có kết quả 136 ca (Vương Thị, Tạp
 chí Trung y Liêu ninh 1987,9:27).
 
 Liều lượng thường dùng và chú ý:

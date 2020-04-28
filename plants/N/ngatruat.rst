@@ -2,10 +2,10 @@
 
 NGA TRUẬT
 
-( Rhizoma Zedoariae)
+(Rhizoma Zedoariae)
 
 Nga truật là thân rễ phơi khô của cây Ngãi tím Curcuma Zedoaria Rosc.
-Thuộc họ Gừng ( Zingiberaceae), dùng làm thuốc được ghi đầu tiên trong
+Thuộc họ Gừng (Zingiberaceae), dùng làm thuốc được ghi đầu tiên trong
 sách " Dược tính bản thảo", còn gọi là Ngãi tím, Tam nại, Bồng truật,
 Nghệ đen.
 
@@ -39,10 +39,10 @@ kinh bế đau bụng, trưng hà tích tụ, bụng đau đầy.
 Trích lược Y văn cổ:
 
 -  Sách Dược tính bản thảo: " trị nữ tử huyết khí tâm thống, phá huyền (
-   nổi hạch), tích ( bụng báng), lãnh khí dùng rượu giấm mài uống".
+   nổi hạch), tích (bụng báng), lãnh khí dùng rượu giấm mài uống".
 -  Sách Khai bảo bản thảo: " chủ tâm phúc thống, trùng ác chú ngỗ (
    trúng phải khí độc mệt mỏi khó chịu), hoắc loạn, cảm lạnh nôn nước
-   chua, để giải độc, ăn uống không tiêu, uống với rượu ( thuốc tán).
+   chua, để giải độc, ăn uống không tiêu, uống với rượu (thuốc tán).
 -  Sách Bản thảo kinh sơ: " Nga truật hành khí phá huyết tán kết, nếu
    phụ nhân, trẻ em khí huyết hư, tỳ vị vốn hư nhược mà không có tích
    trệ mà uống thì hại chân khí mà ăn càng không tiêu, tỳ vị càng hư;
@@ -96,31 +96,31 @@ hương, Chỉ thực.
 + Trường hợp tỳ hư tích trệ bụng đau nên kết hợp với thuốc kiện tỳ như
 Đảng sâm, Bạch truật.
 
-5.Trị bệnh mạch vành: dùng thuốc chích Nga Lăng Phức phương ( mỗi ống
+5.Trị bệnh mạch vành: dùng thuốc chích Nga Lăng Phức phương (mỗi ống
 2ml tương đương với Nga truật, Tam lăng, An diệp, Hương phụ, Giáng hương
 đều 2g) chích bắp, mỗi lần 1 ống ngày 2 lần, mỗi liệu trình 14 ngày,
 bệnh nhân phần lớn đều được điều trị trong 2 liệu trình, thấy tỷ lệ có
-kết quả là 82,8%, có kết quả điện tâm đồ là 66,7% ( Báo cáo điều trị 35
+kết quả là 82,8%, có kết quả điện tâm đồ là 66,7% (Báo cáo điều trị 35
 ca bệnh mạch vành của Từ tế Dân, Thông tin Trung thảo dược 1979,8:27).
 
-6.Trị viêm da thần kinh: dùng phức phương Nga truật ( Tam lăng Nga truật
+6.Trị viêm da thần kinh: dùng phức phương Nga truật (Tam lăng Nga truật
 ) chế thành thuốc chích, chích bắp hoặc chích huyệt Khúc trì, Huyết hải
 trị 48 ca, khỏi 21 ca, cơ bản khỏi 9 ca, tiến bộ 9 ca, không kết quả 9
-ca. Tỷ lệ khỏi 62%, tỷ lệ có kết quả 81,25% ( Bản thông tin nghiên cứu
+ca. Tỷ lệ khỏi 62%, tỷ lệ có kết quả 81,25% (Bản thông tin nghiên cứu
 phòng trị bệnh ngoài da 1979, 3:152).
 
-7.Trị bệnh tâm thần ( chứng huyết ứ bao gồm các bệnh tâm thần phân liệt,
+7.Trị bệnh tâm thần (chứng huyết ứ bao gồm các bệnh tâm thần phân liệt,
 lão hóa sớm, bệnh tâm thần thể cuồng):
 
 -  Dùng Nga truật, Xích thược, Đại hoàng theo tỷ lệ 10:3:3 chế thành
-   viên ( mỗi viên có 8g thuốc sống), mỗi lần uống 6 - 8 viên, ngày 3
+   viên (mỗi viên có 8g thuốc sống), mỗi lần uống 6 - 8 viên, ngày 3
    lần, 30 ngày là một liệu trình. Đã trị 71 ca, tỷ lệ có kết quả 59,1%
-   ( Tạp chí kết hợp Trung tây y 1988,10:638)
+   (Tạp chí kết hợp Trung tây y 1988,10:638)
 
 8.Trị bệnh phổi có hội chứng huyết ứ mạn tính: như chất lưỡi tím, tĩnh
 mạch dưới lưỡi ứ huyết, bao gồm các bệnh suyễn, viêm phế quản mạn 37 ca.
 Kết quả tốt 16 ca, có kết quả 16 ca, không kết quả 5 ca, tỷ lệ kết quả
-86,6% ( Trần hiếu Bá, Tạp chí Trung y 1983,4:74).
+86,6% (Trần hiếu Bá, Tạp chí Trung y 1983,4:74).
 
 Có một số báo cáo dùng phức phương trị các loại ung thư như ung thư
 phổi, ung thư gan, ung thư đại tràng, ung thư thực quản .có kết quả.

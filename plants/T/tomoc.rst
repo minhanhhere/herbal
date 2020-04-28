@@ -2,7 +2,7 @@
 
 TÔ MỘC
 
-( Lignum Sappan)
+(Lignum Sappan)
 
 Tô mộc còn có tên là Gỗ vang, Tô phương mộc là gỗ phơi khô của cây Gỗ
 vang Caesalpinia sappan L. thuộc họ Vang (Caesalpiniaceae) dùng làm

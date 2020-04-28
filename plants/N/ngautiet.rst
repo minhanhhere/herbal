@@ -2,11 +2,11 @@
 
 NGẪU TIẾT
 
-( Ngó sen)
+(Ngó sen)
 
-( Nodus Nelumbinis Nuciferae Rhizomatis)
+(Nodus Nelumbinis Nuciferae Rhizomatis)
 
-Ngẫu tiết cũng gọi là Liên ngẫu là thân rễ đốt ( phần trong bùn) phơi
+Ngẫu tiết cũng gọi là Liên ngẫu là thân rễ đốt (phần trong bùn) phơi
 hay sấy khô của cây sen Nelumbo nucifera Gaertn thuộc họ Sen (
 Nelumboneae), dùng làm thuốc được ghi đầu tiên trong sách " Dược tính
 bản thảo". Cây sen được trồng nhiều nơi trong nước ta để ăn, làm cảnh và
@@ -39,12 +39,12 @@ tiện huyết.
 Trích đoạn Y văn cổ:
 
 -  Sách Nhật hoa tử bản thảo: " giải nhiệt độc tiêu ứ huyết".
--  Sách Bản thảo cương mục: " chỉ khái huyết, thóa huyết ( nhổ ra máu),
+-  Sách Bản thảo cương mục: " chỉ khái huyết, thóa huyết (nhổ ra máu),
    huyết lâm, huyết lî, huyết băng."
 -  Sách Bản thảo hội ngôn: " ngẫu tiết là thuốc tiêu ứ huyết, chỉ huyết
    lộng hành. Thời Chân phương trị khái huyết, thóa huyết, ẩu huyết, thổ
    huyết và tiện huyết, niệu huyết, lâm huyết, huyết băng, cho vào tứ
-   sinh ẩm ( lá sen, Trắc bá, Ngãi diệp, Sinh địa đều tươi) uống rất
+   sinh ẩm (lá sen, Trắc bá, Ngãi diệp, Sinh địa đều tươi) uống rất
    tốt".
 -  Sách Bản thảo cương mục thập di: " Bột Ngẫu tiết khai cách, bổ thận,
    hòa huyết mạch, tán ứ huyết, sinh tân huyết, người sản hậu và thổ
@@ -74,21 +74,21 @@ các bài:
    lao phổi, ho ra máu.
 -  Ngẫu tiết tươi giã lấy nước nhỏ mũi trị chảy máu mũi.
 -  Ngẫu tiết kết hợp với Tiểu kế, Thông thảo, Hoạt thạch, Đạm trúc diệp
-   trị chứng huyết lâm ( tiểu ra máu).
+   trị chứng huyết lâm (tiểu ra máu).
 
 2.Trị trĩ ra máu: Hinh văn Đường dùng Ngẫu tiết 9g, Bạch quả 15g, sắc
 uống trị trĩ lâu ngày chảy máu không khỏi, uống 1 - 2 thang khỏi. Tiếp
-theo dùng Đương qui bổ huyết thang nâng sức khỏe ( Tạp chí Trung y Sơn
+theo dùng Đương qui bổ huyết thang nâng sức khỏe (Tạp chí Trung y Sơn
 đông 1982, 6:363).
 
 3.Trị nhãn tiền phòng tụ huyết: Trần cẩm Lễ dùng Ngẫu tiết 40g sắc uống,
 ngày uống 2 thang. Trị 2 ca tụ máu nhãn tiền phòng tây y trị nhiều không
-khỏi, kết quả tôt ( Tạp chí Trung y Giang tô, 1987,8(7):46).
+khỏi, kết quả tôt (Tạp chí Trung y Giang tô, 1987,8(7):46).
 
-4.Trị thịt thừa ở mũi ( polip): Tác giả dùng Ngẫu tiết tươi 60g, Ô mai
+4.Trị thịt thừa ở mũi (polip): Tác giả dùng Ngẫu tiết tươi 60g, Ô mai
 nhục 30g, Bạch phàn 15g, Băng phiến 3g, tán bột mịn thổi vào mũi đau,
 mỗi giờ 1 lần, 5 ngày là một liệu trình cho đến khi khỏi. Đã trị polip
-mũi 35 ca, khjỏi 27 ca, tốt 5 ca, không khỏi 3 ca ( Tạp chí Trung
+mũi 35 ca, khjỏi 27 ca, tốt 5 ca, không khỏi 3 ca (Tạp chí Trung
 y1987;6:412).
 
 Liều dùng và chú ý:

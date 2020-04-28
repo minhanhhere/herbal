@@ -2,7 +2,7 @@
 
 SA TIỀN TỬ
 
-( Cây Mã đề)
+(Cây Mã đề)
 
 Plantago asiatica họ Plantaginacea
 
@@ -13,7 +13,7 @@ Tính vị qui kinh: ngọt lạnh vào kinh Can, Thận, Tiểu trường.
 Tác dụng: Lợi niệu, thanh nhiệt, minh mục thanh can, hoạt thai.
 
 Ứng dụng lâm sàng: trị Viêm bàng quang, ỉa chảy do thấp, viêm kết mạc,
-thị lực giảm, hoạt thai ( đẻ khó).
+thị lực giảm, hoạt thai (đẻ khó).
 
 Liều lượng: 4 - 12g. Hạt dùng sống hay sao, cây lá dùng sống.
 

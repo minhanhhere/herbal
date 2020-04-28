@@ -16,7 +16,7 @@ Trong rễ lau có protein 6%, các loại đường 51% , asparagin 0,1%, argin
 
 Tác dụng dược lý:
 
--  Theo Y học cổ truyền, rễ lau có tác dụng thanh nhiệt, sinh tân ( chủ
+-  Theo Y học cổ truyền, rễ lau có tác dụng thanh nhiệt, sinh tân (chủ
    yếu là thanh phế vị nhiệt).
 -  In vitro, thuốc có tác dụng kháng khuẩn đối với Liên cầu khuẩn dung
    huyết beta.
@@ -36,7 +36,7 @@ Những bài thuốc thường dùng có:
    Trị viêm đường hô hấp trên, viêm phế quản cấp.
 
 2.Trị viêm dạ dày cấp: có triệu chứng nôn, ợ, mồm khát, lưỡi đỏ khô, .
-dùng bài: Lô căn ẩm ( Lô căn tươi 40g, Trúc nhự 12g, Cánh mễ 12g, Gừng 3
+dùng bài: Lô căn ẩm (Lô căn tươi 40g, Trúc nhự 12g, Cánh mễ 12g, Gừng 3
 lát), sắc uống, có tác dụng thanh vị nhiệt chỉ ẩu.
 
 Liều lượng thường dùng: 20 - 80g, tươi có thể dùng gấp đôi.

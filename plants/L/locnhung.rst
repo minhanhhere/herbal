@@ -30,7 +30,7 @@ Thành phần chủ yếu:
 
 A substance called pantocrinum has been derived from Siberian Cornu
 cervi parvum (Lu Rong), otherwise, the know ingredients include calcium,
-magnesium, phosphorus and very small amounst of estrone ( theo Lilian
+magnesium, phosphorus and very small amounst of estrone (theo Lilian
 Lai Besky: Chinese Herbal Medicin (materia Medica).
 
 Tác dụng dược lý:

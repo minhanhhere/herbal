@@ -1,6 +1,6 @@
 LƯU HOÀNG
 
-( Sulfur)
+(Sulfur)
 
 Lưu hoàng tức Diêm sinh còn gọi là Thạch Lưu hoàng, Hoàng nha, dùng làm
 thuốc được ghi đầu tiên trong sách Bản kinh, là một nguyên tố có sẳn
@@ -46,11 +46,11 @@ táo bón do hư lạnh.
 Trích đoạn Y văn cổ:
 
 -  Sách Bản kinh: " chủ phụ nhân âm thực, thư trĩ ác huyết, kiện gân
-   cốt, trừ đầu thốc ( trị phụ nữ loét âm hộ, loét trĩ máu độc, làm mạnh
+   cốt, trừ đầu thốc (trị phụ nữ loét âm hộ, loét trĩ máu độc, làm mạnh
    gân cốt, trị chứng hói đầu)".
 -  Sách Danh y biệt lục: " liệu tâm phúc tích tụ, tà khí, lạnh tích ở
    sườn, ho khó thở, chân lạnh đau yếu và các chứng ác sang, chảy máu
-   mũi, hạ bộ lở loét, cầm máu, giết sâu ghẻ ( sát giới trùng)".
+   mũi, hạ bộ lở loét, cầm máu, giết sâu ghẻ (sát giới trùng)".
 -  Sách Dược tính bản thảo: " trừ lãnh phong ngoan tý, dùng sống trị ghẻ
    lở và hàn nhiệt khái nghịch, uống Lưu hoàng chế trị chứng hư tổn tiết
    tinh".
@@ -77,7 +77,7 @@ hoàng 10 - 25% bôi ngoài trị ghẻ.
 
 2.Trị táo bón người cao tuổi:
 
--  Lưu hoàng ( thăng hoa) 100g, Bán hạ 60g, tán nhỏ trộn đều, thêm mật
+-  Lưu hoàng (thăng hoa) 100g, Bán hạ 60g, tán nhỏ trộn đều, thêm mật
    làm thành viên nhỏ bằng hạt đậu xanh. Uống mỗi lần 10 - 20 viên, ngày
    uống 2 - 3 lần. Trị xơ cứng mạch máu, khớp sưng đau.
 -  Diêm sinh tán nhỏ cho vào ruột lợn, luộc sôi đều trong 4 giờ lấy ra
@@ -93,7 +93,7 @@ hoàng 10 - 25% bôi ngoài trị ghẻ.
 
 Lưu hoàng sống 3g, Hành 1 múi giã đắp lên rốn trước lúc ngủ băng lại
 sáng hôm sau lấy ra, mỗi tối một lần. Đã trị 20 ca trẻ em đái dầm, sau 3
-- 5 lần kết quả tốt ( Tôn thế Phúc, Tạp chí Trung y Sơn đông 1983,5:42).
+- 5 lần kết quả tốt (Tôn thế Phúc, Tạp chí Trung y Sơn đông 1983,5:42).
 
 Liều thường dùng và chú ý:
 
@@ -103,7 +103,7 @@ Liều thường dùng và chú ý:
 -  Chú ý: không dùng lâu và uống quá liều. Không dùng đối với thể bệnh
    âm hư hỏa vượng đối với phụ nữ có thai không dùng uống. Nếu cần uống
    phải dùng Lưu hoàng đã bào chế. Uống quá liều và uống lâu dễ nhiễm
-   độc. Thạch tín ( có trong Lưu hoàng). Nhưng vấn đề nhiễm độc Lưu
+   độc. Thạch tín (có trong Lưu hoàng). Nhưng vấn đề nhiễm độc Lưu
    hoàng có phải do Thạch tín hay không ? và Lưu hoàng bào chế với Đậu
    phụ có ảnh hưởng như thế nào đến Thạch tín và độc tính của thuốc còn
    cần nghiên cứu thêm.

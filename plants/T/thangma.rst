@@ -4,7 +4,7 @@ THĂNG MA
 
 (Rhizoma Cimicifugae)
 
-Dùng làm thuốc thân rễ khô của cây Thăng ma ( Cimicifuga Foetida L.).
+Dùng làm thuốc thân rễ khô của cây Thăng ma (Cimicifuga Foetida L.).
 
 Vị cay ngọt, tinh hơi hàn, hơi đắng. Qui kinh Phế, Đại tràng, Tỳ Vị.
 
@@ -36,7 +36,7 @@ thai.
 1.Chữa bệnh sởi lúc mới mọc: có tác dụng giải độc làm sởi mọc
 nhanh.Thường dùng bài:
 
--  Thăng ma cát căn thang:( Tiểu nhi phương luận) Thăng ma 6 -10g, Cát
+-  Thăng ma cát căn thang:(Tiểu nhi phương luận) Thăng ma 6 -10g, Cát
    căn 8 - 16g, Thược dược 8 - 12g, Chích thảo 2 - 4g sắc nước uống.
 
 2.Chữa chứng sa tạng phủ: như sa tử cung, sa dạ dày, sa trực tràng .

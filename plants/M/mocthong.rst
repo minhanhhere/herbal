@@ -26,7 +26,7 @@ Liều dùng: 6 - 12g.
 Chú ý:
 
 #. Tác dụng dược lý: với liều 0,5g/Kg, tiêm vào phúc mạc thỏ, có tác
-   dụng lợi tiểu. Uống 3g ( 3 lần), lượng nước tiểu tăng, nhưng trong
+   dụng lợi tiểu. Uống 3g (3 lần), lượng nước tiểu tăng, nhưng trong
    nước tiểu lượng Cl giảm.
 #. Tác dụng kháng khuẩn: dịch chiết cồn 1:20 có thể ức chế nhiều loại vi
    khuẩn Gram dương và lî trực khuẩn, trực khuẩn thương hàn.

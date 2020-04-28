@@ -79,7 +79,7 @@ chân tay tê dại do can dương thịnh:
 
 3.Trị các chứng di tinh, đới hạ:
 
--  Cố tinh hoàn ( Y phương tập giải): Mẫu lệ, Long cốt, Kim anh tử, Sa
+-  Cố tinh hoàn (Y phương tập giải): Mẫu lệ, Long cốt, Kim anh tử, Sa
    uyển tật lê, Liên tu, Khiếm thực, Liên nhục lượng bằng nhau, sao tán
    bột mịn làm hoàn hoặc sắc uống. Trị di tinh.
 -  Mẫu lệ hoàn: Mẫu lệ, A giao, Lộc giác giao, Qui thân, Tục đoạn đều

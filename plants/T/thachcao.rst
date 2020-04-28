@@ -1,6 +1,6 @@
 THẠCH CAO
 
-( Gypsum)
+(Gypsum)
 
 Thạch cao còn gọi là Đại thạch cao, Bạch hổ, Băng thạch (Gypsum) là một
 loại khoáng chất có tinh thể tụ tập thành khối có 2 loại cứng và mềm,
@@ -8,7 +8,7 @@ loại mềm dùng làm thuốc.
 
 Vị ngọt cay, tính rất hàn, qui kinh Phế Vị.
 
-Thành phần chủ yếu: là Canxi sunfat ngậm 2 phân tử nước ( CaSO42H2O).
+Thành phần chủ yếu: là Canxi sunfat ngậm 2 phân tử nước (CaSO42H2O).
 Thạch cao nung chỉ có sunfat canxi (CaSO4).
 
 Tác dụng dược lý:
@@ -31,13 +31,13 @@ viêm.
 Thạch cao là vị thuốc chủ yếu chữa các bệnh viêm nhiễm có hội chứng bệnh
 lý: Lý nhiệt.
 
-1.Chữa các bệnh viêm nhiễm giai đoạn toàn phát: ( bệnh ở phần khí) có
+1.Chữa các bệnh viêm nhiễm giai đoạn toàn phát: (bệnh ở phần khí) có
 các triệu chứng sốt cao bứt rứt, khát nước, mồm khô, ra nhiều mồ hôi,
 rêu lưỡi vàng, mạch hồng đại .trong các bệnh viêm phổi, viêm màng não,
-viêm não B. thường dùng bài Bạch hổ thang ( Thạch cao sống 20g, Tri mẫu
-12g, Cam thảo 6g, Cánh mễ ( gạo tẻ) 10g ). Trường hợp bệnh đã vào Dinh
+viêm não B. thường dùng bài Bạch hổ thang (Thạch cao sống 20g, Tri mẫu
+12g, Cam thảo 6g, Cánh mễ (gạo tẻ) 10g ). Trường hợp bệnh đã vào Dinh
 phần, huyết phần có triệu chứng sốt cao mê man, co giật, nói sảng, cần
-gia thêm Sanh địa, Tê giác ( có thể thay bột Sừng trâu), Huyền sâm, Đơn
+gia thêm Sanh địa, Tê giác (có thể thay bột Sừng trâu), Huyền sâm, Đơn
 bì, Liên kiều, Trúc diệp . hoặc bài Thanh ôn bại độc ẩm. Theo kinh
 nghiệm sử dụng Thạch cao đối với bệnh nhiễm sốt cao về chiều, khát nước
 nhiều có tác dụng hạ nhiệt giải khát tốt. Đối với viêm màng não sốt cao,
@@ -56,7 +56,7 @@ tốt. Bài thuốc gồm:
 bệnh viêm phổi, viêm phế quản thể hen, hen phế quản thể thực nhiệt, dùng
 các bài:
 
--  Ma hạnh thạch cam thang gia vị ( Ma hoàng 4 - 6g, Hạnh nhân 8g, Thạch
+-  Ma hạnh thạch cam thang gia vị (Ma hoàng 4 - 6g, Hạnh nhân 8g, Thạch
    cao 16 - 20g, Cam thảo 4g, Kim ngân hoa 12g, Tiền hồ 8 - 12g, Trần bì
    4 - 6g, Cát cánh 4 - 6g, sắc nước uống.
 -  Sanh thạch cao 12 - 16g, Trúc diệp 8 -12g, Mạch môn 12g, Chế Bán hạ
@@ -78,10 +78,10 @@ chữa.
 đau.
 
 8.Trường hợp huyết áp cao: người khỏe đau đầu, táo bón, bứt rứt dùng
-Thạch cao kết hợp Ngưu tất, Xích thược ( Thạch cao 40 - 80g, Ngưu tất 20
+Thạch cao kết hợp Ngưu tất, Xích thược (Thạch cao 40 - 80g, Ngưu tất 20
 - 30g, Xích thược 12g, Cam thảo 4g. Trường hợp phù vừa có biểu chứng và
 lý nhiệt, biểu hiện sợ lạnh, đau đầu, bứt rứt, khát nước, tiểu đỏ dùng
-Thạch cao phối hợp Ma hoàng gọi là bài Việt Tý thang ( Ma hoàng 8 -12g,
+Thạch cao phối hợp Ma hoàng gọi là bài Việt Tý thang (Ma hoàng 8 -12g,
 Thạch cao sống 30g, Sinh khương 12g, Đại táo 4 quả, Cam thảo 4g).
 
 9.Trị Chàm chảy nước: Thạch cao nung có thể dùng rắc lên vùng chàm chảy
@@ -92,17 +92,17 @@ trộn thành hồ đắp ngoài trị viêm hạch, nhọt, đinh độc thời
 có kết quả, đã có mủ không dùng (Trương huệ Hàng, Tạp chí Ngoại khoa
 Trung quốc 1960,4:366).
 
-11.Trị viêm lóet đại tràng mạn tính: dùng Thạch cao hợp tể ( Thạch cao
+11.Trị viêm lóet đại tràng mạn tính: dùng Thạch cao hợp tể (Thạch cao
 bột 100g, gia Vân nam bạch dược 2g, Novocain 2% 20ml, gia nước đun sôi
 ấm 250ml thụt lưu đại tràng, một liệu trình 7 -10 ngày, trị 100 ca kết
-quả 97% ( Đường Đức triết, Tạp chí trung y Tứ xuyên 1988,4:43).
+quả 97% (Đường Đức triết, Tạp chí trung y Tứ xuyên 1988,4:43).
 
 12.Trị bỏng: dùng bột Thạch cao cho vào bao bóp rắc đều lên vùng bỏng,
-kết quả khỏi 51/53 ca ( tạp chí Trung y dược Phúc kiến 1960,6:21).
+kết quả khỏi 51/53 ca (tạp chí Trung y dược Phúc kiến 1960,6:21).
 
-13.Trị viêm phổi trẻ em: dùng bài Ngân kiều Ma hạnh thang ( Ma hạnh
+13.Trị viêm phổi trẻ em: dùng bài Ngân kiều Ma hạnh thang (Ma hạnh
 thạch cam thang gia Kim ngân hoa, Liên kiều trị 123 ca, kết quả đều tốt
-( Trần Tiến, báo Trung y dược Giang tây 1987,2:15)
+(Trần Tiến, báo Trung y dược Giang tây 1987,2:15)
 
 Liều thường dùng: 12 - 80g. Người lớn có thể dùng lượng 80 - 160g, trẻ
 em dùng 10 - 40g. Thạch cao sống dùng lượng ít không có tác dụng.

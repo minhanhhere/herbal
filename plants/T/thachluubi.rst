@@ -32,11 +32,11 @@ Tác dụng dược lý:
 A.Theo Y học cổ truyền:
 
 Thuốc có tác dụng sáp tràng, chỉ tả, sát trùng. Chủ trị chứng tả lî lâu
-ngày, lòi dom ( thóat giang). Trị lãi đũa và sán.
+ngày, lòi dom (thóat giang). Trị lãi đũa và sán.
 
 Trích đọan Y văn cổ:
 
--  Sách Bản thảo thập di: " trị hồi trùng ( lãi đũa) sắc uống".
+-  Sách Bản thảo thập di: " trị hồi trùng (lãi đũa) sắc uống".
 -  Sách Trấn nam bản thảo: " trị tiêu chảy lâu ngày, sao nướng với đường
    cát ăn. Trị lî có máu mủ, đại tràng chảy máu".
 -  Sách Bản thảo cương mục: " chỉ tả lî, hạ huyết, thóat giang, băng
@@ -65,14 +65,14 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 
 -  Thạch lựu bì 15g, sắc lấy nước gia lượng đường đỏ vừa đủ uống nóng.
    Trị lî mạn tính, cũng trị được băng lậu, bạch đới.
--  Hoàng liên thang: Thạch lựu bì, A giao ( hòa uống), Đương qui đều
+-  Hoàng liên thang: Thạch lựu bì, A giao (hòa uống), Đương qui đều
    10g, Hoàng liên, Hoàng bá đều 5g, Can khương 5g, Cam thảo 3g sắc
    uống.
 
 2.Trị bỏng lửa: Vương Bảo Sơn dùng Thạch lựu bì 500g cho nước sắc còn
-250ml lọc qua vải ( cho ít thuốc chống mốc nếu là mùa hè), nhúng thuốc
+250ml lọc qua vải (cho ít thuốc chống mốc nếu là mùa hè), nhúng thuốc
 vào gạo vô trùng đắp vào chỗ bỏng. Đã trị 45 ca bỏng độ I, độ II nông và
-sâu đều khỏi ( Báo Trung y dược Cát lâm, 1983,4:28).
+sâu đều khỏi (Báo Trung y dược Cát lâm, 1983,4:28).
 
 3.Trị giun đũa và giun kim:
 
