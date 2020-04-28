@@ -1,8 +1,7 @@
-|image0|
+.. _plants_ichtrinhan:
 
-ÍCH TRÍ NHÂN
-
-(Fructus Alpiniae Oxyphyllae)
+ÍCH TRÍ NHÂN (Fructus Alpiniae Oxyphyllae)
+##########################################
 
 Ích trí nhân, lần đầu tiên được ghi trong sách Bản thảo thập di còn gọi
 là Ích trí tử là hạt chín phơi khô của cây Ích trí (Alppinia oxyphylla
@@ -78,7 +77,7 @@ Thuốc có tác dụng ức chế co bóp hồi tràng, cường tim, làm dãn
 
 Liều thường dùng: 4 - 12g.
 
-.. |image0| image:: ICHTRINHAN.JPG
+..  image:: ICHTRINHAN.JPG
    :width: 50px
    :height: 50px
    :target: ICHTRINHAN_.HTM

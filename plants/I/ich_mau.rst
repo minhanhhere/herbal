@@ -1,8 +1,7 @@
-|image0|
+.. _plants_ichmau:
 
-ÍCH MẪU THẢO
-
-(Herba Leonuri)
+ÍCH MẪU THẢO (Herba Leonuri)
+############################
 
 Ích mẫu thảo là toàn bộ phận trên mặt đất của cây Ích mẫu (Leonurus
 heterophyllus Sweet) phơi hay sấy khô, dùng làm thuốc được ghi đầu tiên
@@ -113,7 +112,7 @@ Liều dùng và chú ý:
 
  
 
-.. |image0| image:: ICHMAU.JPG
+..  image:: ICHMAU.JPG
    :width: 50px
    :height: 50px
    :target: ICHMAUTHAO_.htm
