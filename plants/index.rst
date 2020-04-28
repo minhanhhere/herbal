@@ -1,4 +1,4 @@
-Từ điển cây thuốc
+Danh mục
 =====
 
 .. toctree::
