@@ -963,3 +963,8 @@ kbd, .kbd {
 .wy-menu.wy-menu-vertical::-webkit-scrollbar-thumb:active {
     background-color: var(--navbar-scrollbar-active-color);
 }
+
+.ethical-dark-theme .ethical-sidebar {
+    background-color: #333F67;
+    display: none!important;
+}
