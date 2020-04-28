@@ -1,6 +1,6 @@
 .. _plants_huong_nhu:
 
-HƯƠNG NHU (Herba Elshltziae Splenttensis
+Hương nhu (Herba Elshltziae Splenttensis
 ##########################################
 
 Hương nhu là một vị thuốc dùng toàn cây trừ rễ của cây Hương nhu gồm

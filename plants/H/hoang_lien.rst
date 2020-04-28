@@ -1,6 +1,6 @@
 .. _plants_hoang_lien:
 
-HOÀNG LIÊN
+Hoàng liên
 ##########
 
 Dùng rễ của cây Hoàng liên chân gà Coptis Chinensis hoặc các loại Thổ

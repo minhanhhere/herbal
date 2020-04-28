@@ -1,6 +1,6 @@
 .. _plants_hung_hoang:
 
-HÙNG HOÀNG (Realgar)
+Hùng hoàng (Realgar)
 ####################
 
 Hùng hoàng còn gọi là Minh hùng hoàng, Hùng tinh, Yêu hoàng dùng làm

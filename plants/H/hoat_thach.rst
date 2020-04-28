@@ -1,6 +1,6 @@
 .. _plants_hoat_thach:
 
-HOẠT THẠCH (Talcum)
+Hoạt thạch (Talcum)
 ###################
 
 Hoạt thạch là một chất khoáng bột trắng mịn sờ trơn mát không tan trong

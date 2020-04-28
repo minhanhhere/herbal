@@ -1,6 +1,6 @@
 .. _plants_hoai_son:
 
-HOÀI SƠN (Radix Dioscoreae Popositae)
+Hoài sơn (Radix Dioscoreae Popositae)
 #####################################
 
 Hoài sơn là một vị thuốc được ghi đầu tiên trong sách Bản kinh với tên

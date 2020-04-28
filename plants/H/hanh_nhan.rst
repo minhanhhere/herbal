@@ -1,6 +1,6 @@
 .. _plants_hanh_nhan:
 
-HẠNH NHÂN (Semen Pruni Armeniacae)
+Hạnh nhân (Semen Pruni Armeniacae)
 ##################################
 
 Hạnh nhân tức là hạt khô của quả của cây Mơ, có nhiều loại có tên thực

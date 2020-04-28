@@ -1,6 +1,6 @@
 .. _plants_hy_thiem_thao:
 
-HY THIÊM THẢO (Herba Siegesbeckiae)
+Hy thiêm thảo (Herba Siegesbeckiae)
 ###################################
 
 Còn gọi là Hy thiêm, Cỏ đĩ, Cứt lợn là toàn cây Hy thiêm dùng làm thuốc

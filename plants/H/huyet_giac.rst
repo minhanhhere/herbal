@@ -1,6 +1,6 @@
 .. _plants_huyet_giac:
 
-HUYẾT GIÁC (Pleomele cochine chinensis Merr)
+Huyết giác (Pleomele cochine chinensis Merr)
 ############################################
 
 Họ Hành tỏi Liliaceae

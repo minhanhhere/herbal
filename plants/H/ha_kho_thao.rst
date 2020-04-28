@@ -1,6 +1,6 @@
 .. _plants_ha_kho_thao:
 
-HẠ KHÔ THẢO (Spira Prunellea Vulgario)
+Hạ khô thảo (Spira Prunellea Vulgario)
 ######################################
 
 Bộ phận dùng làm thuốc là toàn cây trên mặt đất (bỏ rễ) hoặc cành mang

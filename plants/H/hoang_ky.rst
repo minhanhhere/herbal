@@ -1,6 +1,6 @@
 .. _plants_hoang_ky:
 
-HOÀNG KỲ (Radix Astragali)
+Hoàng kỳ (Radix Astragali)
 ##########################
 
 Hoàng kỳ là rễ phơi hay sấy khô của cây Hoàng kỳ (Astragalus

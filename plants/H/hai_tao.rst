@@ -1,6 +1,6 @@
 .. _plants_hai_tao:
 
-HẢI TẢO (Herba Sargassii)
+Hải tảo (Herba Sargassii)
 #########################
 
 Hải tảo tức rong biển còn gọi là Rau mã vĩ, rau ngoai, rong mơ. Dùng làm

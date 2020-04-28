@@ -1,6 +1,6 @@
 .. _plants_ichmau:
 
-ÍCH MẪU THẢO (Herba Leonuri)
+Ích mẫu thảo (Herba Leonuri)
 ############################
 
 Ích mẫu thảo là toàn bộ phận trên mặt đất của cây Ích mẫu (Leonurus

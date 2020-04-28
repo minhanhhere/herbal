@@ -1,6 +1,6 @@
 .. _plants_hau_phac:
 
-HẬU PHÁC (Cortex Magnoliae Officinalis)
+Hậu phác (Cortex Magnoliae Officinalis)
 #######################################
 
 Hậu phác còn có tên là Liệt phác, Xích phác, Xuyên phác dùng làm thuốc

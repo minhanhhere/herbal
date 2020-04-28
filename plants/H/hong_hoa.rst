@@ -1,6 +1,6 @@
 .. _plants_hong_hoa:
 
-HỔNG HOA (Flos Carthami)
+Hổng hoa (Flos Carthami)
 ########################
 
 Hồng hoa là hoa phơi hay sấy khô của cây Hoa hồng (có hoa màu đỏ)

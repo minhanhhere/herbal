@@ -1,6 +1,6 @@
 .. _plants_hoang_ba:
 
-HOÀNG BÁ Cortex Phellodendri
+Hoàng bá Cortex Phellodendri
 ############################
 
 Dùng vỏ cây Hoàng bá- Phellodendron amurense Rupr. Họ Cam Rutaceae.

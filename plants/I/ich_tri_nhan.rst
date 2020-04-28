@@ -1,6 +1,6 @@
 .. _plants_ichtrinhan:
 
-ÍCH TRÍ NHÂN (Fructus Alpiniae Oxyphyllae)
+Ích trí nhân (Fructus Alpiniae Oxyphyllae)
 ##########################################
 
 Ích trí nhân, lần đầu tiên được ghi trong sách Bản thảo thập di còn gọi

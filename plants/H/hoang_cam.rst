@@ -1,6 +1,6 @@
 .. _plants_hoang_cam:
 
-HOÀNG CẦM Radix Scutellariae
+Hoàng cầm Radix Scutellariae
 ############################
 
 Là rễ phơi khô của cây Hoàng cầm Scutellaria baicalensis. Georg. Họ hoa

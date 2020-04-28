@@ -1,6 +1,6 @@
 .. _plants_hoa_hoe:
 
-HOA HÒE (Flos Sophorae Japonica Immaturus)
+Hoa hòe (Flos Sophorae Japonica Immaturus)
 ##########################################
 
 Hoa hòe là hoa chưa nở phơi hay sấy khô của cây Hòe Sophora Japonica L.

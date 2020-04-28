@@ -1,6 +1,6 @@
 .. _plants_hanh:
 
-HÀNH (THÔNG BẠCH) Herba Allii Fistulosi
+Hành (thông bạch) Herba Allii Fistulosi
 #######################################
 
 Chủ yếu dùng thân rễ (củ) cây hành hoa, còn gọi là Đại thông, Thông

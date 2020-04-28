@@ -1,6 +1,6 @@
 .. _plants_hoa_chuong:
 
-HOẮC HƯƠNG (Heeba Agastaches seu Pogostemi)
+Hoắc hương (Heeba Agastaches seu Pogostemi)
 ###########################################
 
 Hoắc hương còn gọi Thổ Hoắc hương, Quảng Hoắc hương, dùng làm thuốc được

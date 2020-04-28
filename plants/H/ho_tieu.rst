@@ -1,6 +1,6 @@
 .. _plants_ho_tieu:
 
-HỔ TIÊU (Fructus Piperis Nigri)
+Hổ tiêu (Fructus Piperis Nigri)
 ###############################
 
 Thường gọi là Hạt tiêu, còn có tên là Cổ nguyệt, Hắc cổ nguyệt, Bạch cổ

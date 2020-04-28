@@ -1,6 +1,6 @@
 .. _plants_hoang_tinh:
 
-HOÀNG TINH
+Hoàng tinh
 ##########
 
 Vị thuốc Hoàng tinh được ghi đầu tiên trong sách Danh y biệt lục, còn có

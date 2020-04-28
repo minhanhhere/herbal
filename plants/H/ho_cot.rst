@@ -1,6 +1,6 @@
 .. _plants_ho_cot:
 
-HỒ CỐT (Os Tigris)
+Hồ cốt (Os Tigris)
 ##################
 
 Hổ cốt là toàn bộ xương con Hổ, dùng làm thuốc được ghi đầu tiên trong

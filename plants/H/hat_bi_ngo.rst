@@ -1,6 +1,6 @@
 .. _plants_hat_bi_ngo:
 
-HẠT BÍ NGÔ (Semen cucurbitae Moschatae)
+Hạt bí ngô (Semen cucurbitae Moschatae)
 #######################################
 
 Hạt bí ngô còn gọi là Nam qua tử, Nam qua nhân, Bạch qua tử, dùng làm

@@ -1,6 +1,6 @@
 .. _plants_huong_phu:
 
-HƯƠNG PHỤ (Rhizoma cyperi rotundi
+Hương phụ (Rhizoma cyperi rotundi
 ###################################
 
 Hương phụ còn gọi là cây Cỏ cú, củ gấu là thân rễ phơi hay sấy khô của

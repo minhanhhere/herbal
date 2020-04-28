@@ -1,6 +1,6 @@
 .. _plants_ho_truong:
 
-HỒ TRƯỢNG (Radix Polygoni Cuspidati)
+Hồ trượng (Radix Polygoni Cuspidati)
 ####################################
 
 Hổ trượng (Củ cốt khí) còn gọi là Hoạt huyết dan, Tử kim long, Ban
