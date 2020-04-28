@@ -1,7 +1,7 @@
 .. meta::
    :keywords: A giao, A giao châu, Minh giao, Gelatinum Asini, Colla asini, Gelatinium Asini, Gelatina nugra
 
-.. _doc_faq:
+.. _plants_a_giao:
 
 ======
 A GIAO
