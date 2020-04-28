@@ -1,8 +1,7 @@
-|image0|
+.. _plants_hoai_son:
 
-HOÀI SƠN
-
-(Radix Dioscoreae Popositae)
+HOÀI SƠN (Radix Dioscoreae Popositae)
+#####################################
 
 Hoài sơn là một vị thuốc được ghi đầu tiên trong sách Bản kinh với tên
 Thư dự (củ khoai ăn được), Hoài sơn (Rhizoma Dioscoreae) còn có tên
@@ -131,7 +130,7 @@ Liều lượng thường dùng và chú ý:
 
  
 
-.. |image0| image:: HOAISON.JPG
+..  image:: HOAISON.JPG
    :width: 50px
    :height: 50px
    :target: HOAISON_.HTM

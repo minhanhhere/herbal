@@ -1,6 +1,7 @@
-HOẠT THẠCH
+.. _plants_hoat_thach:
 
-(Talcum)
+HOẠT THẠCH (Talcum)
+###################
 
 Hoạt thạch là một chất khoáng bột trắng mịn sờ trơn mát không tan trong
 nước. Tỷ trọng 2,5 - 2,8, khó bị acid phá hủy, dùng làm thuốc được ghi

@@ -1,8 +1,7 @@
-|image0|
+.. _plants_hoang_ky:
 
-HOÀNG KỲ
-
-(Radix Astragali)
+HOÀNG KỲ (Radix Astragali)
+##########################
 
 Hoàng kỳ là rễ phơi hay sấy khô của cây Hoàng kỳ (Astragalus
 membranaceus (Fish) Bunge) hay cây Hoàng kỳ Mông cổ (Astragalus
@@ -399,7 +398,7 @@ Liều lượng thường dùng và chú ý lúc dùng:
 
  
 
-.. |image0| image:: HOANGKY.JPG
+..  image:: HOANGKY.JPG
    :width: 50px
    :height: 50px
    :target: HOANGKY_.HTM

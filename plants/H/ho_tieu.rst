@@ -1,8 +1,7 @@
-|image0|
+.. _plants_ho_tieu:
 
-HỔ TIÊU
-
-(Fructus Piperis Nigri)
+HỔ TIÊU (Fructus Piperis Nigri)
+###############################
 
 Thường gọi là Hạt tiêu, còn có tên là Cổ nguyệt, Hắc cổ nguyệt, Bạch cổ
 nguyệt, Hắc xuyên, Bạch xuyên là quả gần chín của cây Hồ tiêu phơi hay
@@ -106,7 +105,7 @@ Liều lượng dùng và chú ý:
 
  
 
-.. |image0| image:: HOTIEU.JPG
+..  image:: HOTIEU.JPG
    :width: 50px
    :height: 50px
    :target: HOTIEU_.htm

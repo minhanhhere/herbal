@@ -1,6 +1,7 @@
-HÙNG HOÀNG
+.. _plants_hung_hoang:
 
-(Realgar)
+HÙNG HOÀNG (Realgar)
+####################
 
 Hùng hoàng còn gọi là Minh hùng hoàng, Hùng tinh, Yêu hoàng dùng làm
 thuốc được ghi đầu tiên trong sách Bản kinh là Khoáng thạch có sulfur

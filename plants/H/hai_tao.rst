@@ -1,8 +1,7 @@
-|image0|
+.. _plants_hai_tao:
 
-HẢI TẢO
-
-(Herba Sargassii)
+HẢI TẢO (Herba Sargassii)
+#########################
 
 Hải tảo tức rong biển còn gọi là Rau mã vĩ, rau ngoai, rong mơ. Dùng làm
 thuốc được ghi đầu tiên trong sách Bản kinh là toàn thân tảo rửa sạch,
@@ -117,7 +116,7 @@ Liều lượng thường dùng và chú ý:
 
  
 
-.. |image0| image:: HAITAO.JPG
+..  image:: HAITAO.JPG
    :width: 50px
    :height: 50px
    :target: HAITAO_.HTM

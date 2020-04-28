@@ -1,11 +1,10 @@
-|image0|
+.. _plants_hanh:
 
-HÀNH (THÔNG BẠCH)
-
-Herba Allii Fistulosi
+HÀNH (THÔNG BẠCH) Herba Allii Fistulosi
+#######################################
 
 Chủ yếu dùng thân rễ (củ) cây hành hoa, còn gọi là Đại thông, Thông
-bạch (Allium fistulóum L ). Vị cay, tính ấm, qui kinh Phế, Vị. Thuộc họ
+bạch (Allium fistulóum L. Vị cay, tính ấm, qui kinh Phế, Vị. Thuộc họ
 Hành tỏi (Liliaceae).
 
 Thành phần chủ yếu: Tinh dầu hành, acid malic. Fitin, alylsulfit,
@@ -65,7 +64,7 @@ tình hình bệnh. Đắp ngoài không kể liều lượng.
 Chú ý lúc dùng thuốc: Đối với chứng biểu hư nhiều mồ hôi cẩn thận trong
 lúc dùng.
 
-.. |image0| image:: HANH.JPG
+..  image:: HANH.JPG
    :width: 50px
    :height: 50px
    :target: HANH_.htm

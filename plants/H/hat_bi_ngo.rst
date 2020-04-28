@@ -1,8 +1,7 @@
-|image0|
+.. _plants_hat_bi_ngo:
 
-HẠT BÍ NGÔ
-
-(Semen cucurbitae Moschatae)
+HẠT BÍ NGÔ (Semen cucurbitae Moschatae)
+#######################################
 
 Hạt bí ngô còn gọi là Nam qua tử, Nam qua nhân, Bạch qua tử, dùng làm
 thuốc được ghi đầu tiên trong sách Bản thảo cương mục thập di là nhân
@@ -76,7 +75,7 @@ Liều lượng thường dùng và chú ý:
 -  Liều 60 - 120g, cả vỏ hoặc bỏ vỏ giã nát hòa uống với nước sôi nguội.
 -  Chú ý: Hạt Bí ngô luộc chín không có tác dụng.
 
-.. |image0| image:: HATBINGO.JPG
+..  image:: HATBINGO.JPG
    :width: 50px
    :height: 50px
    :target: HATBINGO_.HTM

@@ -1,8 +1,7 @@
-|image0|
+.. _plants_hy_thiem_thao:
 
-HY THIÊM THẢO
-
-(Herba Siegesbeckiae)
+HY THIÊM THẢO (Herba Siegesbeckiae)
+###################################
 
 Còn gọi là Hy thiêm, Cỏ đĩ, Cứt lợn là toàn cây Hy thiêm dùng làm thuốc
 được ghi đầu tiên trong sách Tân tu bản thảo. Cây thuốc có tên khoa học
@@ -66,7 +65,7 @@ Liều lượng và chú ý lúc dùng:
 -  Chú ý: trị phong thấp dùng chín, dùng để giải độc nên dùng tươi, dùng
    tươi có thể gây nôn mửa.
 
-.. |image0| image:: HYTHIEMTHAO.JPG
+..  image:: HYTHIEMTHAO.JPG
    :width: 50px
    :height: 50px
    :target: HYTHIEMTHAO_.HTM

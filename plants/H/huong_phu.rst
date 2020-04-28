@@ -1,11 +1,10 @@
-|image0|
+.. _plants_huong_phu:
 
-HƯƠNG PHỤ
-
-(Rhizoma cyperi rotundi )
+HƯƠNG PHỤ (Rhizoma cyperi rotundi
+###################################
 
 Hương phụ còn gọi là cây Cỏ cú, củ gấu là thân rễ phơi hay sấy khô của
-cây Củ gấu Cyperus rotundus L. thuộc họ Cói (Cyperaceae ) dùng làm
+cây Củ gấu Cyperus rotundus L. thuộc họ Cói (Cyperaceae dùng làm
 thuốc được ghi đầu tiên trong sách Danh y biệt lục. Cây Củ gấu mọc khắp
 nơi trên đất nước ta và nhiều nước khác châu Á như Trung quốc, Triều
 tiên, Nhật bản, Indonesia.
@@ -104,7 +103,7 @@ Liều dùng và chú ý lúc dùng:
 -  Chú ý: Không dùng cho bệnh nhân âm hư huyết nhiệt, khí hư . Không có
    khí trệ không dùng.
 
-.. |image0| image:: HUONGPHU.JPG
+..  image:: HUONGPHU.JPG
    :width: 50px
    :height: 50px
    :target: HUONGPHU_.htm

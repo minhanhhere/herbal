@@ -1,8 +1,7 @@
-|image0|
+.. _plants_ha_thu_o:
 
-HÀ THỦ Ô
-
-(Radix polygoni Multi flori)
+HÀ THỦ Ô (Radix polygoni Multi flori)
+#####################################
 
 Hà thủ ô dùng làm thuốc bổ huyết là Hà thủ ô đỏ, còn gọi là Chế thủ ô.
 Thủ ô là rễ phơi khô của cây Hà thủ ô đỏ (Polygonum multiflorum thunb)
@@ -241,7 +240,7 @@ Theo sách Trung dược học: Bạch thủ ô có tác dụng kháng ung thư.
 
  
 
-.. |image0| image:: HATHUO.JPG
+..  image:: HATHUO.JPG
    :width: 50px
    :height: 50px
    :target: HATHUO_.HTM

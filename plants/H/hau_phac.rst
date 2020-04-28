@@ -1,8 +1,7 @@
-|image0|
+.. _plants_hau_phac:
 
-HẬU PHÁC
-
-(Cortex Magnoliae Officinalis)
+HẬU PHÁC (Cortex Magnoliae Officinalis)
+#######################################
 
 Hậu phác còn có tên là Liệt phác, Xích phác, Xuyên phác dùng làm thuốc
 được ghi đầu tiên trong sách Bản kinh, là vỏ thân hoặc vỏ rễ phơi hay
@@ -155,7 +154,7 @@ Liều dùng và chú ý:
 -  Trường hợp âm hư táo không dùng. Cần dùng thận trọng đối với phụ nữ
    có thai.
 
-.. |image0| image:: HAUPHAC.JPG
+..  image:: HAUPHAC.JPG
    :width: 50px
    :height: 50px
    :target: HAUPHAC_.HTM

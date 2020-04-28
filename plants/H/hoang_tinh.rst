@@ -1,6 +1,7 @@
-|image0|
+.. _plants_hoang_tinh:
 
 HOÀNG TINH
+##########
 
 Vị thuốc Hoàng tinh được ghi đầu tiên trong sách Danh y biệt lục, còn có
 tên Mễ phủ, cây Cơm nếp, Kim thị hoàng tinh, Cứu hoang thảo, Hoàng tinh
@@ -140,7 +141,7 @@ Liều lượng và cách dùng:
 
  
 
-.. |image0| image:: HOANGTINH.JPG
+..  image:: HOANGTINH.JPG
    :width: 50px
    :height: 50px
    :target: HOANGTINH_.HTM

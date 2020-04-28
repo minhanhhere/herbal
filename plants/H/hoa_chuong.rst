@@ -1,8 +1,7 @@
-|image0|
+.. _plants_hoa_chuong:
 
-HOẮC HƯƠNG
-
-(Heeba Agastaches seu Pogostemi)
+HOẮC HƯƠNG (Heeba Agastaches seu Pogostemi)
+###########################################
 
 Hoắc hương còn gọi Thổ Hoắc hương, Quảng Hoắc hương, dùng làm thuốc được
 ghi đầu tiên trong sách Danh y biệt lục là toàn cây bộ phận trên mặt đất
@@ -121,7 +120,7 @@ Liều lượng thường dùng và chú ý:
 -  Liều uống (cho vào thuốc thang, cao, hoàn tán): 5 - 10g.
 -  Dùng tươi lượng gấp đôi, có thể hãm nước sôi uống.
 
-.. |image0| image:: HOACHUONG.JPG
+..  image:: HOACHUONG.JPG
    :width: 50px
    :height: 50px
    :target: HOACHUONG_.HTM

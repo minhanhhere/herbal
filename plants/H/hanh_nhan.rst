@@ -1,8 +1,7 @@
-|image0|
+.. _plants_hanh_nhan:
 
-HẠNH NHÂN
-
-(Semen Pruni Armeniacae)
+HẠNH NHÂN (Semen Pruni Armeniacae)
+##################################
 
 Hạnh nhân tức là hạt khô của quả của cây Mơ, có nhiều loại có tên thực
 vật học khác nhau, như cây Sơn hạnh Prunus Armeriaca L var ansu Maxim,
@@ -129,7 +128,7 @@ Liều thường dùng và chú ý:
 -  Liều: 3 - 10g, thuốc sắc nên cho sau.
 -  Sao Hạnh nhân trị ho không dùng trị táo bón.
 
-.. |image0| image:: HANHNHAN.JPG
+..  image:: HANHNHAN.JPG
    :width: 50px
    :height: 50px
    :target: HANHNHAN_.HTM

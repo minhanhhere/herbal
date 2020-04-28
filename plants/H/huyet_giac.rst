@@ -1,8 +1,7 @@
-|image0|
+.. _plants_huyet_giac:
 
-HUYẾT GIÁC
-
-Pleomele cochine chinensis Merr
+HUYẾT GIÁC (Pleomele cochine chinensis Merr)
+############################################
 
 Họ Hành tỏi Liliaceae
 
@@ -25,7 +24,7 @@ nữ. Đối với nữ còn dùng khi kinh nguyệt bế.
 
 Liều dùng: ngày 10 - 20g dưới dạng thuốc sắc, ngâm rượu uống và xoa.
 
-.. |image0| image:: HUYETGIAC.JPG
+..  image:: HUYETGIAC.JPG
    :width: 50px
    :height: 50px
    :target: HUYETGIAC_.htm

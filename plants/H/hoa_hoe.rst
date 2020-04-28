@@ -1,8 +1,7 @@
-|image0| |image1|
+.. _plants_hoa_hoe:
 
-HOA HÒE
-
-(Flos Sophorae Japonica Immaturus)
+HOA HÒE (Flos Sophorae Japonica Immaturus)
+##########################################
 
 Hoa hòe là hoa chưa nở phơi hay sấy khô của cây Hòe Sophora Japonica L.
 thuộc họ Cánh bướm Fabaceae (Papitionaceae) . Dùng làm thuốc được ghi
@@ -157,11 +156,11 @@ Dùng trị trị trĩ ra máu đau sưng có thể phối hợp với Địa du
 Trường hợp trị huyết áp cao có thể phối hợp với Hoàng cầm, Quyết minh
 tử, Hạ khô thảo.
 
-.. |image0| image:: HOAHOE.JPG
+..  image:: HOAHOE.JPG
    :width: 50px
    :height: 50px
    :target: HOAHOE_.htm
-.. |image1| image:: HOAHOEBACBO.JPG
+..  image:: HOAHOEBACBO.JPG
    :width: 50px
    :height: 50px
    :target: HOAHOE_1.htm

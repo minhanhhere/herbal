@@ -1,8 +1,7 @@
-|image0|
+.. _plants_hat_cu_cai:
 
-HẠT CỦ CẢI
-
-(Semen Raphani Sativi)
+HẠT CỦ CẢI (Semen Raphani Sativi)
+#################################
 
 Hạt củ cải có tên thuốc là La bạc tử hay Lai phục tử, dùng làm thuốc
 được ghi đầu tiên trong sách Nhật hoa tử bản thảo, là hạt của cây Cải củ
@@ -121,7 +120,7 @@ Liều lượng thường dùng và chú ý:
 -  Thuốc nên sao lên để cho vào thuốc thang vì dùng sống dễ gây buồn
    nôn. Đối với người khí huyết suy nhược, nên thận trọng lúc dùng.
 
-.. |image0| image:: HATCUCAI.JPG
+..  image:: HATCUCAI.JPG
    :width: 50px
    :height: 50px
    :target: HATCUCAI_.HTM

@@ -1,8 +1,7 @@
-|image0|
+.. _plants_hoang_cam:
 
-HOÀNG CẦM
-
-Radix Scutellariae
+HOÀNG CẦM Radix Scutellariae
+############################
 
 Là rễ phơi khô của cây Hoàng cầm Scutellaria baicalensis. Georg. Họ hoa
 môi Lamiaceae.
@@ -47,7 +46,7 @@ Chú ý:
    trong quá trình chế biến, khi làm mềm, cần đồ vị thuốc để diệt men,
    đảm bảo hoạt chất của thuốc.
 
-.. |image0| image:: HOANGCAM.JPG
+..  image:: HOANGCAM.JPG
    :width: 50px
    :height: 50px
    :target: HOANGCAM_.HTM

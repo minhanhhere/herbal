@@ -1,8 +1,7 @@
-|image0|
+.. _plants_ho_cot:
 
-HỒ CỐT
-
-(Os Tigris)
+HỒ CỐT (Os Tigris)
+##################
 
 Hổ cốt là toàn bộ xương con Hổ, dùng làm thuốc được ghi đầu tiên trong
 sách Danh y biệt lục. Hổ (Panthera tigris L.) thuộc Họ Mèo (Felidae)
@@ -113,7 +112,7 @@ Liều dùng và cách dùng:
    vịt, .Viện Y học dân tộc Hà nội dùng Cao ngũ cốt (gồm xương chó, heo,
    bò, gà, vịt) trị đau nhức khớp cũng có kết quả nhất định.
 
-.. |image0| image:: HOCOT.JPG
+..  image:: HOCOT.JPG
    :width: 50px
    :height: 50px
    :target: HOCOT_.HTM

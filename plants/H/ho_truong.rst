@@ -1,8 +1,7 @@
-|image0|
+.. _plants_ho_truong:
 
-HỒ TRƯỢNG
-
-(Radix Polygoni Cuspidati)
+HỒ TRƯỢNG (Radix Polygoni Cuspidati)
+####################################
 
 Hổ trượng (Củ cốt khí) còn gọi là Hoạt huyết dan, Tử kim long, Ban
 trượng căn, Hổ trượng căn, Điền thất (miền nam), là rễ phơi hay sấy khô
@@ -129,7 +128,7 @@ Liều dùng và chú ý:
 -  Liều thuốc uống từ 10 - 30g, dùng ngoài vừa đủ.
 -  Không dùng cho phụ nữ có thai (dược tính bản thảo).
 
-.. |image0| image:: HOTRUONG.JPG
+..  image:: HOTRUONG.JPG
    :width: 50px
    :height: 50px
    :target: HOTRUONG_.htm

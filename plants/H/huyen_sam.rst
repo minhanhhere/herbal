@@ -1,8 +1,7 @@
-|image0|
+.. _plants_huyen_sam:
 
-HUYỀN SÂM
-
-(Radix Scrophulariae Ningpoensis)
+HUYỀN SÂM (Radix Scrophulariae Ningpoensis)
+###########################################
 
 Huyền sâm còn gọi là Hắc sâm, Nguyên sâm là rễ của cây Huyền sâm
 (Scrophularia ningpoensis Hemsl). Theo tài liệu của Giáo sư Đỗ tất Lợi
@@ -99,7 +98,7 @@ Liều thường dùng và chú ý:
 
  
 
-.. |image0| image:: HUYENSAM.JPG
+..  image:: HUYENSAM.JPG
    :width: 50px
    :height: 50px
    :target: HUYENSAM_.htm

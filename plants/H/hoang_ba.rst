@@ -1,8 +1,7 @@
-|image0|
+.. _plants_hoang_ba:
 
-HOÀNG BÁ
-
-Cortex Phellodendri
+HOÀNG BÁ Cortex Phellodendri
+############################
 
 Dùng vỏ cây Hoàng bá- Phellodendron amurense Rupr. Họ Cam Rutaceae.
 
@@ -46,7 +45,7 @@ có tác dụng lợi niệu, hạ huyết áp.
 - Tác dụng kháng kuẩn: Hoàng bá có tác dụng ức chế trực kuẩn lî, đại
 tràng, liên cầu khuẩn.
 
-.. |image0| image:: HOANGBA.JPG
+..  image:: HOANGBA.JPG
    :width: 50px
    :height: 50px
    :target: HOANGBA_.HTM

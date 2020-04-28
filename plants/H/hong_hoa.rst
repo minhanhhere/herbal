@@ -1,8 +1,7 @@
-|image0|
+.. _plants_hong_hoa:
 
-HỔNG HOA
-
-(Flos Carthami)
+HỔNG HOA (Flos Carthami)
+########################
 
 Hồng hoa là hoa phơi hay sấy khô của cây Hoa hồng (có hoa màu đỏ)
 Carthamus tinctorius L. dùng làm thuốc được ghi đầu tiên trong sách Tân
@@ -132,7 +131,7 @@ Liều dùng và chú ý:
 
  
 
-.. |image0| image:: HONGHOA.JPG
+..  image:: HONGHOA.JPG
    :width: 50px
    :height: 50px
    :target: HONGHOA_.htm

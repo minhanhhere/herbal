@@ -1,6 +1,7 @@
-|image0| |image1|
+.. _plants_hoang_lien:
 
 HOÀNG LIÊN
+##########
 
 Dùng rễ của cây Hoàng liên chân gà Coptis Chinensis hoặc các loại Thổ
 Hoàng liên Thalictrum Hoàng liên ba gai
@@ -59,11 +60,11 @@ cường công năng của bạch huyết cầu (đối với việc nuốt tụ
 Berberin có tác dụng lợi mật, dùng cho bệnh viêm túi mật rất tốt. Ngoài
 ra còn có tác dụng dãn mạch máu và hạ huyết áp, hạ nhiệt độ.
 
-.. |image0| image:: HOANGLIEN.JPG
+..  image:: HOANGLIEN.JPG
    :width: 50px
    :height: 50px
    :target: HOANGLIEN_.HTM
-.. |image1| image:: HOANGLIENGAI.JPG
+..  image:: HOANGLIENGAI.JPG
    :width: 50px
    :height: 50px
    :target: HOANGLIENGAI_.HTM

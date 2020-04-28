@@ -1,6 +1,7 @@
-|image0|
+.. _plants_hai_dong_bi:
 
 LÁ VÔNG
+#######
 
 Hải đồng bì, Thích đồng bì
 
@@ -29,7 +30,7 @@ Về dược lý: Ancaloit Erythrine có trong lá và thân làm giảm hoạt 
 của thần kinh trung ương, chất Migarin làm giãn đồng tử. Lá vông còn có
 tác dụng ức chế thần kinh trung ương, hạ nhiệt độ, hạ huyết áp.
 
-.. |image0| image:: LAVONG.JPG
+..  image:: LAVONG.JPG
    :width: 50px
    :height: 50px
    :target: LAVONG_.htm
