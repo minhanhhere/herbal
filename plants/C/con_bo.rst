@@ -1,9 +1,8 @@
 .. _plants_con_bo:
-|image0|
 
-CÔN BỐ
-
-(Thallus Algae)
+######################
+CÔN BỐ (Thallus Algae)
+######################
 
 Côn bố dùng làm thuốc được ghi đầu tiên trong sách Danh y biệt lục là
 toàn cây khô của một loài tảo có thân hình dẹt, tên thực vật học là
@@ -90,7 +89,7 @@ Liều thường dùng và chú ý:
 
  
 
-.. |image0| image:: CONBO.JPG
+..  image:: CONBO.JPG
    :width: 50px
    :height: 50px
    :target: CONBO_.HTM

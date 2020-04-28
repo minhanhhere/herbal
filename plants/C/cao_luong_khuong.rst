@@ -1,9 +1,8 @@
 .. _plants_cao_luong_khuong:
-|image0|
 
-CAO LƯƠNG KHƯƠNG
-
-(Rhizoma Alpiniae Officinari)
+##############################################
+CAO LƯƠNG KHƯƠNG (Rhizoma Alpiniae Officinari)
+##############################################
 
 Cao Lương khương còn gọi là Tiêu lương khương, Phong khương, Riềng,
 Galanga dùng làm thuốc được ghi đầu tiên trong sách Danh y biệt lục là
@@ -117,7 +116,7 @@ Trường hợp âm hư nhiệt không dùng.
 
  
 
-.. |image0| image:: CAOLUONGKHUONG.JPG
+..  image:: CAOLUONGKHUONG.JPG
    :width: 50px
    :height: 50px
    :target: CAOLUONGKHUONG_.htm

@@ -1,9 +1,8 @@
 .. _plants_cot_toai_bo:
-|image0|
 
-CỐT TOÁI BỒ
-
-(Rhizoma Gusuibu)
+#############################
+CỐT TOÁI BỒ (Rhizoma Gusuibu)
+#############################
 
 Cốt toái bổ còn gọi là Hầu khương, Hồ tôn khương, Thân khương, cây Tổ
 phượng, cây Tổ rồng, Tổ diều, Tắc kè đá, là thân rễ phơi khô của cây Bổ
@@ -99,7 +98,7 @@ Liều thường dùng:
 
 -  Liều: 10 - 20g. Dùng ngoài theo yêu cầu.
 
-.. |image0| image:: COTTOAIBO.JPG
+..  image:: COTTOAIBO.JPG
    :width: 50px
    :height: 50px
    :target: COTTOAIBO_.HTM

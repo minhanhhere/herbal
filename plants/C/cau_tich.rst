@@ -1,9 +1,8 @@
 .. _plants_cau_tich:
-|image0|
 
-CẨU TÍCH
-
-(Rhizoma Cibotii Barometz)
+###################################
+CẨU TÍCH (Rhizoma Cibotii Barometz)
+###################################
 
 Còn gọi là Kim mao Cẩu tích, rễ lông Cu li là thân rễ phơi hay sấy khô
 của cây Lông Cu li (Cibotium Barometz (L) J.Sm), thuộc họ Lông Cu li. Vị
@@ -77,7 +76,7 @@ Liều thường dùng và chú ý:
 -  Không nên dùng đối với chứng thận hư có nhiệt, tiểu tiện ít vàng, mồm
    đắng, lưỡi khô.
 
-.. |image0| image:: CAUTICH.JPG
+..  image:: CAUTICH.JPG
    :width: 50px
    :height: 50px
    :target: CAUTICH_.HTM

@@ -1,7 +1,8 @@
 .. _plants_co_muc:
-|image0|
 
+##########
 CỎ NHỌ NỔI
+##########
 
 Eclipta alba họ Cúc Compositea
 
@@ -18,7 +19,7 @@ Tác dụng:Bổ can thận, chỉ huyết.
 
 Liều lượng: 6 - 12g/ ngày.
 
-.. |image0| image:: COMUC.JPG
+..  image:: COMUC.JPG
    :width: 50px
    :height: 50px
    :target: COMUC_.HTM

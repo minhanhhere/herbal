@@ -1,9 +1,8 @@
 .. _plants_cat_canh:
-|image0|
 
-CÁT CÁNH
-
-(Radix Platycodi Grandiflori)
+######################################
+CÁT CÁNH (Radix Platycodi Grandiflori)
+######################################
 
 Cát cánh còn có tên là Khổ cát cánh, Bạch cát cánh, Ngọc cát cánh, dùng
 làm thuốc được ghi đầu tiên trong sách Bản kinh là rễ khô của cây Cát
@@ -119,7 +118,7 @@ Liều lượng thường dùng và chú ý:
 
  
 
-.. |image0| image:: CATCANH.JPG
+..  image:: CATCANH.JPG
    :width: 50px
    :height: 50px
    :target: CATCANH_.HTM

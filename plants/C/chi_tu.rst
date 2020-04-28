@@ -1,9 +1,8 @@
 .. _plants_chi_tu:
-|image0|
 
-CHI TỬ
-
-(Fructus Gardeniae Jasminoidis)
+######################################
+CHI TỬ (Fructus Gardeniae Jasminoidis)
+######################################
 
 Chi tử là tên thuốc của quả Dành dành còn gọi là Sơn chi, Sơn chi tử (
 Fructus Gardeniae) là quả chín phơi hay sấy khô của cây Dành dành (
@@ -93,7 +92,7 @@ Liều thường dùng và chú ý:
 -  Liều dùng: 8 - 20g.
 -  Không dùng đối với chứng tiêu lỏng hư hàn.
 
-.. |image0| image:: CHITU.JPG
+..  image:: CHITU.JPG
    :width: 50px
    :height: 50px
    :target: CHITU_.htm

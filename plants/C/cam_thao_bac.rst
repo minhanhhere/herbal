@@ -1,9 +1,8 @@
 .. _plants_cam_thao_bac:
-|image0|
 
-CAM THẢO BẮC
-
-(Radix Glycyrrhizac Uralensis)
+###########################################
+CAM THẢO BẮC (Radix Glycyrrhizac Uralensis)
+###########################################
 
 Cam thảo bắc còn có tên Quốc lão, sớm được ghi trong sách Bản thảo là rễ
 và thân rễ phơi hay sấy khô của cây thực vật Cam thảo (Glycyrrhiza
@@ -331,7 +330,7 @@ b. Cam thảo nam còn có tên là Dã Cam thảo, Thổ Cam thảo, Giã Cam t
 
  
 
-.. |image0| image:: CAMTHAO.JPG
+..  image:: CAMTHAO.JPG
    :width: 50px
    :height: 50px
    :target: CAMTHAOBAC_.HTM

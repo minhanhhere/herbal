@@ -1,7 +1,8 @@
 .. _plants_chu_sa:
-CHU SA
 
-(Cinnabaris)
+###################
+CHU SA (Cinnabaris)
+###################
 
 Chu sa dùng làm thuốc được ghi đầu tiên trong sách Bản kinh với tên ban
 đầu là Đơn sa, cũng gọi là Thần sa (do thuốc gốc ở tỉnh Hồ nam, xưa kia

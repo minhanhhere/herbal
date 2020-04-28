@@ -1,9 +1,8 @@
 .. _plants_cuc_hoa:
-|image0| |image1|
 
-CÚC HOA
-
-(Flos Chrysanthemi Morifolii)
+#####################################
+CÚC HOA (Flos Chrysanthemi Morifolii)
+#####################################
 
 Cúc hoa có nhiều loại: Cam cúc hoa (Cúc hoa trắng), Hàng cúc (Cúc hoa
 vàng mọc ở Hàng châu Trung quốc) là hoa của nhiều loại Cúc (
@@ -85,11 +84,11 @@ dụng sở trường:
    với Thảo quyết minh, Hạ khô thảo sắc nước uống.
 -  Dùng thận trọng đối với người tỳ vị hư hàn.
 
-.. |image0| image:: CUCHOAVANG.JPG
+..  image:: CUCHOAVANG.JPG
    :width: 50px
    :height: 50px
    :target: CUCHOA_.htm
-.. |image1| image:: CUCHOATRANG.JPG
+..  image:: CUCHOATRANG.JPG
    :width: 50px
    :height: 50px
    :target: CUCHOA_1.htm

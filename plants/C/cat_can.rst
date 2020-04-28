@@ -1,9 +1,8 @@
 .. _plants_cat_can:
-|image0|
 
-CÁT CĂN
-
-(Radix Puerariae)
+#########################
+CÁT CĂN (Radix Puerariae)
+#########################
 
 Vị thuốc Cát căn là rễ của cây Sắn dây (Pueraria thomsoni Benth ) thuộc
 họ Cánh bướm (Papilionaceae). Vị ngọt nhạt tính mát (có tài liệu nói vị
@@ -84,7 +83,7 @@ vùng nhiều mồ hôi ngứa.
 
 Liều lượng thường dùng: 4 - 24g.
 
-.. |image0| image:: CATCAN.JPG
+..  image:: CATCAN.JPG
    :width: 50px
    :height: 50px
    :target: CATCAN_.HTM

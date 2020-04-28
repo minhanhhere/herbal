@@ -1,9 +1,8 @@
 .. _plants_cau_ky_tu:
-|image0|
 
-CÂU KỶ TỬ
-
-(Fructus Lycii Chinensis)
+###################################
+CÂU KỶ TỬ (Fructus Lycii Chinensis)
+###################################
 
 Còn gọi là Câu khởi, Khởi tử, Địa cốt tử, Quả kỷ tử, được ghi đầu tiên
 trong sách Danh y biệt lục với tên Câu kỷ thực, là quả chín phơi hay sấy
@@ -149,7 +148,7 @@ Giới thiệu một số bài thuốc đơn giản:
 
  
 
-.. |image0| image:: CAUKY.JPG
+..  image:: CAUKY.JPG
    :width: 50px
    :height: 50px
    :target: CAUKYTU_.HTM

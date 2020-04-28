@@ -1,9 +1,8 @@
 .. _plants_coc_nha:
-|image0|
 
-CỐC NHA
-
-(Fructus Oryzae Sativae)
+################################
+CỐC NHA (Fructus Oryzae Sativae)
+################################
 
 Cốc nha dùng làm thuốc được ghi đầu tiên trong sách " Danh y biệt lục"
 là hạt cây Lúa Oryza sativa L. ngâm cho nẩy mầm phơi khô; là Cốc nha
@@ -68,7 +67,7 @@ Liều thường dùng và chú ý:
    sao cháy đen thì hóa tích. Có thể dùng cùng một lúc Cốc nha sống và
    sao.
 
-.. |image0| image:: COCNHA.JPG
+..  image:: COCNHA.JPG
    :width: 50px
    :height: 50px
    :target: COCNHA_.HTM

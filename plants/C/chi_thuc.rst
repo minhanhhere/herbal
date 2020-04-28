@@ -1,9 +1,8 @@
 .. _plants_chi_thuc:
-|image0|
 
-CHỈ THỰC
-
-(Fructus immaturus citri aurantii )
+###########################################
+CHỈ THỰC (Fructus immaturus citri aurantii)
+###########################################
 
 Chỉ thực là quả chưa chín phơi hay sấy khô của nhiều loại cây khác nhau
 thuộc chi Citrus và Poncirus như cây Hương duyên Citrus wilsonii Tanaka;
@@ -121,7 +120,7 @@ Liều dùng và chú ý:
 
  
 
-.. |image0| image:: CHITHUC.JPG
+..  image:: CHITHUC.JPG
    :width: 50px
    :height: 50px
    :target: CHITHUC_.htm

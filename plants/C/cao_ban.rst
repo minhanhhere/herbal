@@ -1,9 +1,8 @@
 .. _plants_cao_ban:
-|image0|
 
-CẢO BẢN
-
-(Rhizoma et radix Ligustici Sinensís)
+#############################################
+CẢO BẢN (Rhizoma et radix Ligustici Sinensís)
+#############################################
 
 Cảo bản là thân rễ và rễ của cây Cảo bản (Ligusticumsinense Oliv) . Vị
 cay, tính ấm, qui kinh Bàng quang.
@@ -39,7 +38,7 @@ Liều lượng thường dùng: 4 - 12g.
 
 Chú ý dùng thuốc: Đau đầu do huyết hư không dùng.
 
-.. |image0| image:: CAOBAN.JPG
+..  image:: CAOBAN.JPG
    :width: 50px
    :height: 50px
    :target: CAOBAN_.htm

@@ -1,9 +1,8 @@
 .. _plants_cau_dang:
-|image0|
 
-CÂU ĐẰNG
-
-(Ramulus Uncariae Cum Uncis)
+#####################################
+CÂU ĐẰNG (Ramulus Uncariae Cum Uncis)
+#####################################
 
 Câu đằng là thân có gai móc câu của cây Câu đằng, phơi hay sấy khô dùng
 làm thuốc được ghi đầu tiên trong sách Danh y biệt lục.
@@ -95,7 +94,7 @@ Liều dùng và chú ý:
    cũng đã chứng minh, Câu đằng sắc trên 20 phút thì thành phần hạ áp
    của thuốc bị phá hủy.
 
-.. |image0| image:: CAUDANG.JPG
+..  image:: CAUDANG.JPG
    :width: 50px
    :height: 50px
    :target: CAUDANG_.HTM
