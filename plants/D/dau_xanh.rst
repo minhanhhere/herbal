@@ -1,7 +1,7 @@
-|image0|
+.. _plants_dau_xanh:
 
-| ĐẬU XANH
-| (Semen Phaseoli Radiati)
+Đậu xanh (Semen Phaseoli Radiati)
+#################################
 
 Bộ phận dùng làm thuốc là hạt phơi khô của cây đậu xanh (Phaseolus
 Radiatus L) theo GS Đỗ tất Lợi còn có tên khoa học là Phaseolus aureus
@@ -65,7 +65,7 @@ Chủ yếu dùng thanh nhiệt, giải độc, trị ban đậu, mộng mắt.
 
  
 
-.. |image0| image:: DAUXANH.JPG
+..  image:: DAUXANH.JPG
    :width: 50px
    :height: 50px
    :target: DAUXANH_.htm

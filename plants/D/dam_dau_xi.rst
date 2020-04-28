@@ -1,6 +1,7 @@
-ĐẠM ĐẬU XỊ
+.. _plants_dam_dau_xi:
 
-(Semen Sofae Praeparatum)
+Đạm đậu xị (Semen Sofae Praeparatum)
+####################################
 
 Đạm đậu xị (Semen Sojac praparatum) còn gọi là hàm đậu xị, Hương xị là
 đậu đen (Hắc đại đậu có tên khoa học Vigna Cylindrica L.) chế biến và

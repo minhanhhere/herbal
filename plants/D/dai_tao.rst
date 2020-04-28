@@ -1,8 +1,7 @@
-|image0|
+.. _plants_dai_tao:
 
-ĐẠI TÁO
-
-(Fructus Ziziphi Jujubae)
+Đại táo (Fructus Ziziphi Jujubae)
+#################################
 
 Đại táo còn gọi là Táo tàu, Táo đen, Táo đỏ (Fructus Zizyphi) là quả
 chín phơi hay sấy khô của cây Táo tàu (Zizyphú sativa Mill). Theo sách
@@ -129,7 +128,7 @@ Liều lượng và chú ý lúc dùng:
    khương tốt hơn. Trùng tích, thấp nhiệt, đàm thấp đều hạn chế dùng
    Táo.
 
-.. |image0| image:: DAITAO.JPG
+..  image:: DAITAO.JPG
    :width: 50px
    :height: 50px
    :target: DAITAO_.HTM

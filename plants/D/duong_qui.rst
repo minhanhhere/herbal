@@ -1,8 +1,7 @@
-|image0|
+.. _plants_duong_qui:
 
-ĐƯƠNG QUI
-
-(Radix Angeliae Sinensis)
+Đương qui (Radix Angeliae Sinensis)
+###################################
 
 Đương qui còn gọi là Tần qui, Vân qui, Xuyên qui được ghi đầu tiên trong
 sách Bản kinh là rễ phơi khô hay sấy khô của cây Đương qui (Angelica
@@ -413,7 +412,7 @@ Liều lượng thường dùng và chú ý:
 
  
 
-.. |image0| image:: DUONGQUI.JPG
+..  image:: DUONGQUI.JPG
    :width: 50px
    :height: 50px
    :target: DUONGQUI_.HTM

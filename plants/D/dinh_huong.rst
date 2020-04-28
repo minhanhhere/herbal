@@ -1,8 +1,7 @@
-|image0|
+.. _plants_dinh_huong:
 
-ĐINH HƯƠNG
-
-(Flos Caryophylli)
+Đinh hương (Flos Caryophylli)
+#############################
 
 Đinh hương còn gọi là Công Đinh hương, Hùng tử hương, Đinh tử, Đinh tử
 hương là nụ hoa của cây Đinh hương, tên thực vật là Syzygium aromaticum
@@ -112,7 +111,7 @@ Liều lượng và chú ý: (cho cả 2 thứ)
 
  
 
-.. |image0| image:: DINHHUONG.JPG
+..  image:: DINHHUONG.JPG
    :width: 50px
    :height: 50px
    :target: DINHHUONG_.htm

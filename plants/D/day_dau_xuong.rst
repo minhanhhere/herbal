@@ -1,6 +1,7 @@
-|image0|
+.. _plants_day_dau_xuong:
 
-DÂY ĐAU XƯƠNG
+Dây đau xương
+#############
 
 Dùng toàn cây phơi khô của các loại cây Tinosporatomentosa
 
@@ -10,7 +11,7 @@ Công dụng: chữa phong thấp và đau nhức xương.
 
 Liều lượng dùng: 8 - 12g.
 
-.. |image0| image:: DAYDAUXUONG.JPG
+..  image:: DAYDAUXUONG.JPG
    :width: 50px
    :height: 50px
    :target: DAYDAUXUONG_.HTM

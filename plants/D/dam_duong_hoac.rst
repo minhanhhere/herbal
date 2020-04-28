@@ -1,8 +1,7 @@
-|image0|
+.. _plants_dam_duong_hoac:
 
-DÂM DƯƠNG HOẮC
-
-(Herba Epimedii)
+Dâm dương hoắc (Herba Epimedii)
+###############################
 
 Dâm dương hoắc còn gọi là Tiên linh tỳ, dùng làm thuốc được ghi đầu tiên
 trong sách Bản kinh. Dùng toàn cây (phần lớn dùng lá, cũng có thể dùng
@@ -138,7 +137,7 @@ Liều dùng và chú ý lúc dùng:
    nhân có thể gây tác dụng phụ như váng đầu, nôn, mồm khô, chảy máu mũi
    cần được chú ý.
 
-.. |image0| image:: DAMDUONGHOAC1.JPG
+..  image:: DAMDUONGHOAC1.JPG
    :width: 50px
    :height: 50px
    :target: DAMDUONGHOAC_.HTM

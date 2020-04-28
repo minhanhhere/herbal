@@ -1,8 +1,7 @@
-|image0|
+.. _plants_dang_sam:
 
-ĐẢNG SÂM
-
-(Radix Codopsis Pilosulae)
+Đảng sâm (Radix Codopsis Pilosulae)
+###################################
 
 Đảng sâm (Radix codonopsis) là rễ phơi khô của nhiều loài Codonopsis
 như Codonopsis pilosula (Franch) Nannf, Codonopsis tangshen Oliv (Xuyên
@@ -171,7 +170,7 @@ Liều lượng thường dùng và chú ý:
    nghiên cứu Trung y dược 1976,4:33)
 -  Theo Dược điển Trung quốc, không nên dùng chung với Lê lô.
 
-.. |image0| image:: DANGSAM.JPG
+..  image:: DANGSAM.JPG
    :width: 50px
    :height: 50px
    :target: DANGSAM_.HTM

@@ -1,8 +1,7 @@
-|image0|
+.. _plants_dao_nhan:
 
-ĐÀO NHÂN
-
-(Semen Persicae)
+Đào nhân (Semen Persicae)
+#########################
 
 Đào nhân là nhân của quả chín cây đào Prunus persica (Linn) Batsch hoặc
 cây Sơn đào Prunus davidiana (Carr) Franch, dùng làm thuốc được ghi đầu
@@ -108,7 +107,7 @@ Liều dùng và chú ý:
 
 Liều thường dùng 6 - 10g đập vụn.
 
-.. |image0| image:: DAONHAN.JPG
+..  image:: DAONHAN.JPG
    :width: 50px
    :height: 50px
    :target: DAONHAN_.htm

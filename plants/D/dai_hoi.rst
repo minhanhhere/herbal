@@ -1,8 +1,7 @@
-|image0|
+.. _plants_dai_hoi:
 
-ĐẠI HỔI
-
-(Fructus Anisi Stellati)
+Đại hổi (Fructus Anisi Stellati)
+################################
 
 Đại hồi hay Đại hồi hương còn gọi là Bát giác hồi hương là quả chín phơi
 khô của cây Đại hồi, tên thực vật là Illicium verum Hook .F. , thuộc họ
@@ -96,7 +95,7 @@ Liều lượng thường dùng và chú ý:
 
  
 
-.. |image0| image:: DAIHOI.JPG
+..  image:: DAIHOI.JPG
    :width: 50px
    :height: 50px
    :target: DAIHOI_.htm

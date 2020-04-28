@@ -1,8 +1,7 @@
-|image0|
+.. _plants_do_trong:
 
-ĐỖ TRỌNG
-
-(Cortex Eucommiae Ulmoidis)
+Đỗ trọng (Cortex Eucommiae Ulmoidis)
+####################################
 
 Đỗ trọng (Cortex Eucommiae) là vỏ phơi hay sấy khô dùng làm thuốc của
 cây Đỗ trọng (Eucomia ulmoides Oliv.) thuộc họ Đỗ trọng (Eucommiaceae)
@@ -132,7 +131,7 @@ Liều thường dùng và chú ý:
 
  
 
-.. |image0| image:: DOTRONG.JPG
+..  image:: DOTRONG.JPG
    :width: 50px
    :height: 50px
    :target: DOTRONG_.HTM

@@ -1,8 +1,7 @@
-|image0|
+.. _plants_dai_ke:
 
-ĐẠI KẾ
-
-(Herba seu Radix Cirsii Japonici)
+Đại kế (Herba seu Radix Cirsii Japonici)
+########################################
 
 Còn gọi là Ô rô, Thích kế, Thiết thích ngãi, Dã thích thái, Thích khải
 tư, Hồ kế, Mã kế, Dã hồng hoa, Sơn ngưu bàng, Hê hạng thảo.
@@ -116,7 +115,7 @@ Liều dùng và chú ý:
    khô thảo, Hi thiêm thảo.
 -  Thận trọng lúc dùng với bệnh nhân tỳ vị hư hàn.
 
-.. |image0| image:: DAIKE.JPG
+..  image:: DAIKE.JPG
    :width: 50px
    :height: 50px
    :target: DAIKE_.htm

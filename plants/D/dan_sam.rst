@@ -1,8 +1,7 @@
-|image0|
+.. _plants_dan_sam:
 
-ĐAN SÂM
-
-(Radix Salviae Miltiorrhixae)
+Đan sâm (Radix Salviae Miltiorrhixae)
+#####################################
 
 Đan sâm dùng làm thuốc được ghi đầu tiên trong sách " Bản kinh" là rễ
 phơi hay sấy khô của cây Đan sâm (Salvia miltiorrhiza Bunge) thuộc họ
@@ -191,7 +190,7 @@ Hoa sơn, Báo y học Thượng hải 91978,1(2):64).
 Diệp Hựu Thái dùng dịch Đan sâm nhỏ giọt tĩnh mạch trị 46 ca huyết khối
 não, có kết quả 93,5% (Học viện Trung y An huy học báo 1986,5(4):45).
 
-.. |image0| image:: DANSAM.JPG
+..  image:: DANSAM.JPG
    :width: 50px
    :height: 50px
    :target: DANSAM_.htm

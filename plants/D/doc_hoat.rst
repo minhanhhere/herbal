@@ -1,8 +1,7 @@
-|image0|
+.. _plants_doc_hoat:
 
-ĐỘC HOẠT
-
-(Radix Angeliae Pubescentis)
+Độc hoạt (Radix Angeliae Pubescentis)
+#####################################
 
 Độc hoạt hay Hương Độc hoạt là rễ của cây Mao Đương qui (Angelica
 Pubescens Maxim. F. biserrata Shan et Yuan.) thuộc họ Hoa Tán
@@ -118,7 +117,7 @@ Liều dùng và chú ý:
    thấp, nhưng Khương hoạt tác dụng tốt đối với đau phần trên cơ thể,
    còn Độc hoạt tác dụng chủ yếu đối với chứng đau phần dưới cơ thể.
 
-.. |image0| image:: DOCHOAT.JPG
+..  image:: DOCHOAT.JPG
    :width: 50px
    :height: 50px
    :target: DOCHOAT_.HTM

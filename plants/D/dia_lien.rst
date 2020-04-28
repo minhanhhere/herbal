@@ -1,8 +1,7 @@
-|image0|
+.. _plants_dia_lien:
 
-ĐỊA LIỀN
-
-Kaempferia galanga L (Kaempferia rotunda Ridl .)
+Địa liền | Kaempferia galanga L (Kaempferia rotunda Ridl)
+#########################################################
 
 Họ Gừng Zingiberaceae
 
@@ -31,7 +30,7 @@ Kinh nghiệm lâm sàng:
 mỗi lần 0,5 hay 1g bột. Dùng trị ăn uống không tiêu, đau dạ dày , đau
 thần kinh (Diệp Quyết Tuyền)
 
-.. |image0| image:: DIALIEN.JPG
+..  image:: DIALIEN.JPG
    :width: 50px
    :height: 50px
    :target: DIALIEN_.htm

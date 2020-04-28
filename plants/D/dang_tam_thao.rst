@@ -1,8 +1,7 @@
-|image0|
+.. _plants_dang_tam_thao:
 
-ĐĂNG TÂM THẢO
-
-(Medulla Junci Effusi)
+Đăng tâm thảo (Medulla Junci Effusi)
+####################################
 
 Đăng tâm thảo còn có tên là Cây Bấc đèn, là ruột phơi khô của thân cây
 Bấc đèn (Juncus effusus L. var decipiens Buchen) dùng làm thuốc được
@@ -77,7 +76,7 @@ chứng phù do tim.
 
 Liều dùng: 1 - 3g.
 
-.. |image0| image:: DANGTAMTHAO.JPG
+..  image:: DANGTAMTHAO.JPG
    :width: 50px
    :height: 50px
    :target: DANGTAMTHAO_.HTM

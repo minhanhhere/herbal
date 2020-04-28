@@ -1,8 +1,7 @@
-|image0|
+.. _plants_dia_long:
 
-ĐỊA LONG
-
-(Lumbricus)
+Địa long (Lumbricus)
+####################
 
 Địa long tức giun đất còn có tên Khâu dẫn, Khúc đàn, Ca nữ, Phụ dẫn. Có
 tên khoa học là Pheretima áiatica Michaelsen, pheretima aspergilum
@@ -134,7 +133,7 @@ Liều dùng:
 
  
 
-.. |image0| image:: DIALONG.JPG
+..  image:: DIALONG.JPG
    :width: 50px
    :height: 50px
    :target: DIALONG_.HTM

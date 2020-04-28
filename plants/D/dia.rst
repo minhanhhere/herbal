@@ -1,8 +1,7 @@
-|image0|
+.. _plants_dia:
 
-ĐỈA
-
-(Hirudo seu Whitmania)
+Đỉa (Hirudo seu Whitmania)
+##########################
 
 Đỉa có tên thuốc là Thủy điệt, dùng làm thuốc được ghi đầu tiên trong
 sách Bản kinh, có nhiều loài khác nhau như theo sách: " Những cây thuốc
@@ -121,7 +120,7 @@ Liều dùng và chú ý:
 
  
 
-.. |image0| image:: DIA.JPG
+..  image:: DIA.JPG
    :width: 50px
    :height: 50px
    :target: DIA_.htm

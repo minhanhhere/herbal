@@ -1,8 +1,7 @@
-|image0|
+.. _plants_dia_cot_bi:
 
-ĐỊA CỐT BÌ
-
-(Cortex Lycii Chinensis)
+Địa cốt bì (Cortex Lycii Chinensis)
+###################################
 
 Còn gọi Kỷ tử căn bì là vỏ rễ của cây Kỷ tử (lycium sinense Mill) phơi
 hay sấy khô làm thuốc. Địa cốt bì được ghi đầu tiên trong sách Bổn kinh.
@@ -89,7 +88,7 @@ Liều lượng thường dùng và chú ý:
 -  Liều: 6 - 15g.
 -  Dùng thận trọng đối với trường hợp Tỳ hư, phân lỏng.
 
-.. |image0| image:: DIACOTBI.JPG
+..  image:: DIACOTBI.JPG
    :width: 50px
    :height: 50px
    :target: DIACOTBI_.htm

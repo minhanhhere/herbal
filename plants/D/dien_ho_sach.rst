@@ -1,6 +1,7 @@
-DIÊN HỔ SÁCH
+.. _plants_dien_ho_sach:
 
-(Phizoma Corydalis)
+Diên hổ sách (Phizoma Corydalis)
+################################
 
 Diên hồ sách dùng làm thuốc được ghi đầu tiên trong sách Bản thảo thập
 di là thân rễ đã chế biến khô của cây Huyền hồ sách cũng gọi là Diên hồ

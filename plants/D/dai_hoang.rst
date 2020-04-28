@@ -1,8 +1,7 @@
-|image0|
+.. _plants_dai_hoang:
 
-ĐẠI HOÀNG
-
-(Rhizoma Rhei)
+Đại hoàng (Rhizoma Rhei)
+########################
 
 Đại hoàng còn gọi là Xuyên Đại hoàng, Tướng quân, Cẩm Văn dùng làm thuốc
 được ghi đầu tiên trong sách Bản kinh, là thân rễ phơi hay sấy khô của
@@ -222,7 +221,7 @@ Liều lượng thường dùng và chú ý:
 
  
 
-.. |image0| image:: DAIHOANG.JPG
+..  image:: DAIHOANG.JPG
    :width: 50px
    :height: 50px
    :target: DAIHOANG_.HTM

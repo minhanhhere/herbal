@@ -1,8 +1,7 @@
-|image0|
+.. _plants_dia_du:
 
-ĐỊA DU
-
-(Radix san guisorbae Offcinalis)
+Địa du (Radix san guisorbae Offcinalis)
+#######################################
 
 Địa du dùng làm thuốc được ghi đầu tiên trong sách Bản kinh, là rễ phơi
 hay sấy khô của cây Địa du mọc lâu năm Sanguisorba officinalis L. hoặc
@@ -168,7 +167,7 @@ Liều dùng và chú ý:
 
  
 
-.. |image0| image:: DIADU.JPG
+..  image:: DIADU.JPG
    :width: 50px
    :height: 50px
    :target: DIADU_.htm

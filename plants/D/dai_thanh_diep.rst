@@ -1,8 +1,7 @@
-|image0|
+.. _plants_dai_thanh_diep:
 
-ĐẠI THANH DIỆP
-
-(Folium Dagingye)
+Đại thanh diệp (Folium Dagingye)
+################################
 
 Còn gọi là Đại thanh, Bọ mẩy, Thanh thảo tâm, Bọ nẹt, Lam diệp. Bộ phận
 làm thuốc là lá phơi hoặc sấy khô của cây Bọ mẩy. Theo các tài liệu của
@@ -69,7 +68,7 @@ nhiễm khuẩn, sưng nóng đỏ đau. Lở miệng có thể dùng Trân đ�
 
 Liều thường dùng: 8 - 20g. Liều cao có thể dùng tới 80g.
 
-.. |image0| image:: DAITHANHDIEP.JPG
+..  image:: DAITHANHDIEP.JPG
    :width: 50px
    :height: 50px
    :target: DAITHANHDIEP_.htm
