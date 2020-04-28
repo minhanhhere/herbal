@@ -966,5 +966,6 @@ kbd, .kbd {
 
 .ethical-dark-theme .ethical-sidebar {
     background-color: #333F67;
-    display: none!important;
+    /* display: none!important; */
+    margin-top: 100px;
 }
