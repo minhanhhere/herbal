@@ -1,7 +1,7 @@
 .. _plants_cat_canh:
 
 ######################################
-CÁT CÁNH (Radix Platycodi Grandiflori)
+Cát cánh (Radix Platycodi Grandiflori)
 ######################################
 
 Cát cánh còn có tên là Khổ cát cánh, Bạch cát cánh, Ngọc cát cánh, dùng

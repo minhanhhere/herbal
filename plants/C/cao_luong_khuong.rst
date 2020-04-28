@@ -1,7 +1,7 @@
 .. _plants_cao_luong_khuong:
 
 ##############################################
-CAO LƯƠNG KHƯƠNG (Rhizoma Alpiniae Officinari)
+Cao lương khương (Rhizoma Alpiniae Officinari)
 ##############################################
 
 Cao Lương khương còn gọi là Tiêu lương khương, Phong khương, Riềng,

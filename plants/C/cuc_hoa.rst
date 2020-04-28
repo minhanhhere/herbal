@@ -1,7 +1,7 @@
 .. _plants_cuc_hoa:
 
 #####################################
-CÚC HOA (Flos Chrysanthemi Morifolii)
+Cúc hoa (Flos Chrysanthemi Morifolii)
 #####################################
 
 Cúc hoa có nhiều loại: Cam cúc hoa (Cúc hoa trắng), Hàng cúc (Cúc hoa

@@ -1,7 +1,7 @@
 .. _plants_chi_xac:
 
 ################################
-CHỈ XÁC (Fructus Citri Aurantii)
+Chỉ xác (Fructus Citri Aurantii)
 ################################
 
 Là quả loại bánh tẻ của cây Cam. Ngoài ra nguồn dược liệu còn được lấy

@@ -1,7 +1,7 @@
 .. _plants_cau_ky_tu:
 
 ###################################
-CÂU KỶ TỬ (Fructus Lycii Chinensis)
+Câu kỷ tử (Fructus Lycii Chinensis)
 ###################################
 
 Còn gọi là Câu khởi, Khởi tử, Địa cốt tử, Quả kỷ tử, được ghi đầu tiên

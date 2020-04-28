@@ -1,7 +1,7 @@
 .. _plants_coc_nha:
 
 ################################
-CỐC NHA (Fructus Oryzae Sativae)
+Cốc nha (Fructus Oryzae Sativae)
 ################################
 
 Cốc nha dùng làm thuốc được ghi đầu tiên trong sách " Danh y biệt lục"

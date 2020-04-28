@@ -1,7 +1,7 @@
 .. _plants_can_khuong:
 
 ##########
-CAN KHƯƠNG
+Can khương
 ##########
 
 Gừng khô

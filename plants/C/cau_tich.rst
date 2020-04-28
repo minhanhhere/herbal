@@ -1,7 +1,7 @@
 .. _plants_cau_tich:
 
 ###################################
-CẨU TÍCH (Rhizoma Cibotii Barometz)
+Cẩu tích (Rhizoma Cibotii Barometz)
 ###################################
 
 Còn gọi là Kim mao Cẩu tích, rễ lông Cu li là thân rễ phơi hay sấy khô

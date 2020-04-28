@@ -1,7 +1,7 @@
 .. _plants_chi_tu:
 
 ######################################
-CHI TỬ (Fructus Gardeniae Jasminoidis)
+Chi tử (Fructus Gardeniae Jasminoidis)
 ######################################
 
 Chi tử là tên thuốc của quả Dành dành còn gọi là Sơn chi, Sơn chi tử (

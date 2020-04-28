@@ -1,7 +1,7 @@
 .. _plants_cot_toai_bo:
 
 #############################
-CỐT TOÁI BỒ (Rhizoma Gusuibu)
+Cốt toái bồ (Rhizoma Gusuibu)
 #############################
 
 Cốt toái bổ còn gọi là Hầu khương, Hồ tôn khương, Thân khương, cây Tổ

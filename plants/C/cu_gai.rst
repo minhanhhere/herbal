@@ -1,7 +1,7 @@
 .. _plants_cu_gai:
 
 ###################################################
-CỦ GAI - Boehmeria nivea (L) Gaud (Urtica nivea L.)
+Củ gai - Boehmeria nivea (L) Gaud (Urtica nivea L.)
 ###################################################
 
 Người ta dùng Củ gai (Radix Boehmeria) là rễ phơi hay sấy khô của Cây

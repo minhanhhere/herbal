@@ -1,7 +1,7 @@
 .. _plants_chu_sa:
 
 ###################
-CHU SA (Cinnabaris)
+Chu sa (Cinnabaris)
 ###################
 
 Chu sa dùng làm thuốc được ghi đầu tiên trong sách Bản kinh với tên ban

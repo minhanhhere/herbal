@@ -1,7 +1,7 @@
 .. _plants_chi_thuc:
 
 ###########################################
-CHỈ THỰC (Fructus immaturus citri aurantii)
+Chỉ thực (Fructus immaturus citri aurantii)
 ###########################################
 
 Chỉ thực là quả chưa chín phơi hay sấy khô của nhiều loại cây khác nhau

@@ -1,7 +1,7 @@
 .. _plants_cam_thao_bac:
 
 ###########################################
-CAM THẢO BẮC (Radix Glycyrrhizac Uralensis)
+Cam thảo bắc (Radix Glycyrrhizac Uralensis)
 ###########################################
 
 Cam thảo bắc còn có tên Quốc lão, sớm được ghi trong sách Bản thảo là rễ

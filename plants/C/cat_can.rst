@@ -1,7 +1,7 @@
 .. _plants_cat_can:
 
 #########################
-CÁT CĂN (Radix Puerariae)
+Cát căn (Radix Puerariae)
 #########################
 
 Vị thuốc Cát căn là rễ của cây Sắn dây (Pueraria thomsoni Benth ) thuộc

@@ -1,7 +1,7 @@
 .. _plants_cao_ban:
 
 #############################################
-CẢO BẢN (Rhizoma et radix Ligustici Sinensís)
+Cảo bản (Rhizoma et radix Ligustici Sinensís)
 #############################################
 
 Cảo bản là thân rễ và rễ của cây Cảo bản (Ligusticumsinense Oliv) . Vị

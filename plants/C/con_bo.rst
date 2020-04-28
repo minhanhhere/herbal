@@ -1,7 +1,7 @@
 .. _plants_con_bo:
 
 ######################
-CÔN BỐ (Thallus Algae)
+Côn bố (Thallus Algae)
 ######################
 
 Côn bố dùng làm thuốc được ghi đầu tiên trong sách Danh y biệt lục là

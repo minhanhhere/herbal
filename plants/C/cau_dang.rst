@@ -1,7 +1,7 @@
 .. _plants_cau_dang:
 
 #####################################
-CÂU ĐẰNG (Ramulus Uncariae Cum Uncis)
+Câu đằng (Ramulus Uncariae Cum Uncis)
 #####################################
 
 Câu đằng là thân có gai móc câu của cây Câu đằng, phơi hay sấy khô dùng

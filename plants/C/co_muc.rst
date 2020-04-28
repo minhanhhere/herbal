@@ -1,7 +1,7 @@
 .. _plants_co_muc:
 
 ##########
-CỎ NHỌ NỔI
+Cỏ nhọ nổi
 ##########
 
 Eclipta alba họ Cúc Compositea
