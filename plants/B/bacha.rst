@@ -50,4 +50,4 @@ Liều thường dùng và chú ý
 -  Chú ý: thuốc không được đun sôi lâu, nếu là nước sắc, vì Bạc hà phải
    cho vào sau.
 
-.. attention:: Không dùng cho trường hợp biểu hư ra mồ hôi nhiều.
+.. caution:: Không dùng cho trường hợp biểu hư ra mồ hôi nhiều.

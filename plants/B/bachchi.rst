@@ -77,5 +77,5 @@ Cách dùng
 
 Liều thường dùng: 4 -12g.
 
-.. attention::   Không dùng đối với chứng đau đầu do huyết hư, ung nhọt
-            đã vỡ mủ.
+.. caution::   Không dùng đối với chứng đau đầu do huyết hư, ung nhọt
+               đã vỡ mủ.
