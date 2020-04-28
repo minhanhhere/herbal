@@ -70,12 +70,13 @@ The main documentation for the site is organized into the following sections:
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Từ điển cây thuốc
    :name: sec-plants
    :glob:
 
    plants/index
+   plants/*/index
 
 
 Indices and tables
