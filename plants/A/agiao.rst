@@ -3,11 +3,9 @@
 
 .. _plants_a_giao:
 
-======
-A GIAO
-======
-
-(Gelatinum Asini)
+########################
+A GIAO (Gelatinum Asini)
+########################
 
 A giao (Colla asini, Gelatinium Asini, Gelatina nugra) là keo chế từ da
 con lừa (Equus asinus L.) thuộc ngành động vật có xương sống (Vertebrata),
@@ -37,13 +35,15 @@ Về qui kinh:
    kinh.
 
 Thành phần chủ yếu:
+===================
 
 Amino acids, inlucding lysine, arginine, histadine, glycine, cystine.
 
 Tác dụng dược lý:
+=================
 
-A.Theo Y học cổ truyền:
------------------------
+A. Theo Y học cổ truyền:
+------------------------
 A giao có tác dụng bổ huyết, chỉ huyết tư âm nhuận táo.
 
 Trích đoạn Y văn cổ:
@@ -61,8 +61,8 @@ Trích đoạn Y văn cổ:
    huyết thống, huyết khô, kinh nguyệt không đều, không có con, băng
    trung đới hạ, các chứng thai tiền sản hậu. ung thư thũng độc".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
---------------------------------------
+B. Kết quả nghiên cứu dược lý hiện đại:
+---------------------------------------
 #. Tác dụng bổ huyết: trên súc vật thí nghiệm, thuốc có tác dụng bổ
    huyết rõ, thuốc làm tăng lượng hồng cầu và huyết sắc tố (Trích yếu
    văn kiện nghiên cứu Trung dược do nhà xuất bản Khoa học xuất bản
@@ -89,8 +89,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 Ứng dụng lâm sàng:
 ==================
 
-1.Trị các chứng âm hư xuất huyết như lao phổi, ho ra máu, dãn phế quản
-đàm có máu: dùng bài:
+1. Trị các chứng âm hư xuất huyết như lao phổi, ho ra máu, dãn phế quản đàm có máu
+----------------------------------------------------------------------------------
+Dùng bài:
 
 -  Bổ phế A giao thang (Tiểu nhi dược chứng trực quyết): A giao12g (
    hòa tan), Mã đầu linh 8g, Ngưu bàng tử 8g, Hạnh nhân 8g, Cam thảo 4g,
@@ -105,8 +106,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    giao điều trị 56 ca lao phổi, ho ra máu, Tạp chí Trung y Liêu ninh
    1987,9:39).
 
-2.Trị xuất huyết tử cung cơ năng: A giao là vị thuốc thường dùng kết hợp
-với bài Tứ vật thang:
+2. Trị xuất huyết tử cung cơ năng
+---------------------------------
+A giao là vị thuốc thường dùng kết hợp với bài Tứ vật thang:
 
 -  Giao ngãi Tứ vật thang (Kim qũy yếu lược): A giao 20g (hòa tan),
    Ngãi diệp 20g, Đương qui 16g, Thục địa 20g, Bạch thược 12g, Xuyên
@@ -114,15 +116,17 @@ với bài Tứ vật thang:
 -  Trường hợp tiêu ra máu, lî có máu, dùng A giao phối hợp với Hoàng
    liên.
 
-3.Trị suy nhược thần kinh, mất ngủ, huyết hư tâm phiền, mạch tế sắc,
-dùng phối hợp với Hoàng liên, Hoàng cầm, như bài:
+3. Trị suy nhược thần kinh, mất ngủ, huyết hư tâm phiền, mạch tế sắc
+--------------------------------------------------------------------
+Dùng phối hợp với Hoàng liên, Hoàng cầm, như bài:
 
 -  Hoàng liên A giao thang (Thương hàn luận): A giao 20g (hòa tan),
    Hoàng liên 8g, Hoàng cầm 8g, Bạch thược 8g, saüc nước uống, gia thêm
    lòng đỏ trứng gà 2 cái, khuấy đều, chia 2 lần, uống nóng trong ngày.
 
-4.Trị chứng âm hư co giật: thường gặp trong các di chứng não màng não,
-động kinh thể âm huyết hư, dùng bài:
+4. Trị chứng âm hư co giật
+--------------------------
+Thường gặp trong các di chứng não màng não, động kinh thể âm huyết hư, dùng bài:
 
 -  A giao Kê tử hoàng thang: A giao, sinh Bạch thược, Thạch quyết minh,
    Câu đằng, Phục thần, mỗi thứ 12g, Sinh địa, sinh Mẫu lệ, Qui bản, mỗi
@@ -130,20 +134,26 @@ dùng phối hợp với Hoàng liên, Hoàng cầm, như bài:
    đang sôi bỏ xác, cho hòa tan A giao rồi cho Kê tử hoàng vào, khuấy
    đều uống lúc còn nóng.
 
-5.Trị lóet cẳng chân mạn tính:Rửa vô trùng vùng lóet, chiếu tia hồng
+5. Trị lóet cẳng chân mạn tính
+------------------------------
+Rửa vô trùng vùng lóet, chiếu tia hồng
 ngoại 10 - 15 phút, cho 30g A giao vào 1 chén đổ 70ml nước sắc nhỏ lửa
 cho thành cao rồi phết cao vào miếng gạc độ 2 - 3g tùy diện tích to nhỏ
 của lóet, mỗi ngày 1 lần, thường khoảng 2 0 lần là khỏi. Đã trị 24 ca
 đều khỏi (Duẫn Hồng Như và cộng sự, Dùng tia Hồng ngoại kết hợp A giao
 trị lóet cẳng chân 24 ca, Tạp chí Trung tây y kết hợp 1987,4:24).
 
-6.Trị chứng bạch cầu giảm và thiếu máu nhược sắc: dùng cao lỏng A giao (
+6. Trị chứng bạch cầu giảm và thiếu máu nhược sắc
+-------------------------------------------------
+Dùng cao lỏng A giao (
 A giao, Nhân sâm, Thục địa, Đảng sâm, Sơn tra .) có tác dụng tăng bạch
 cầu, bổ huyết và tăng miễn dịch. Đã trị Bạch cầu giảm 179 ca, tỷ lệ kết
 quả 79,33%, thiếu máu nhược sắc 230 ca, tỷ lệ kết quả 67,8% (Lý Thượng
 Ngọc, Kết quả nghiên cứu A giao, Báo Công nghiệp Sơn đông, 1986,3:21).
 
-7.Trị động thai: thuốc có tác dụng an thai. Dùng A giao 12g, Trứng gà 2
+7. Trị động thai
+----------------
+Thuốc có tác dụng an thai. Dùng A giao 12g, Trứng gà 2
 qủa, đường đỏ 30g. Trị 36 ca khỏi 30 ca, tỷ lệ khỏi 90,3% (Vương Tâm
 Hảo, Tự chế A giao Kê tử hoàng thang trị động thai, hoạt thai, Báo Trung
 y Sơn tây 1987,2:35).
@@ -151,7 +161,8 @@ y Sơn tây 1987,2:35).
 -  Bài thuốc an thai: A giao 8g, Ngãi cứu 8g, Hành trắng 8g, cho 600ml,
    sắc còn 200ml, chia 3 - 4 lần uống trong ngày.
 
-8.Giới thiệu bài thuốc đơn giản có A giao:
+8. Giới thiệu bài thuốc đơn giản có A giao
+------------------------------------------
 
 -  Trị kinh nguyệt kéo dài: A giao với Bồ hoàng (theo phép bào chế),
    tán nhỏ, ngày uống 8 - 16g, có thể uống với rượu.
@@ -162,8 +173,9 @@ y Sơn tây 1987,2:35).
    Sinh địa 5g, nước 600ml sắc còn 200ml. Nước thuốc còn nóng, thái A
    giao cho vào, chia 2 lần uống trong ngày.
 
-Ngoài ra, có người dùng A giao trong các bài thuốc viêm thận mạn, đau
-lưng và đạm niệu.
+9. Các bệnh khác
+----------------
+Có người dùng A giao trong các bài thuốc viêm thận mạn, đau lưng và đạm niệu.
 
 Liều lượng và cách dùng:
 ========================

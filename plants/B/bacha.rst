@@ -1,14 +1,14 @@
 .. _plants_bac_ha:
 
-======================
+######################
 Bạc hà (Herba Menthae)
-======================
+######################
 
 Là vị thuốc dùng toàn cây Bạc hà (Mentha Arvensis L.) thuộc họ Hoa Môi
 (Labiatae). Vị cay tính mát, qui vào kinh Phế Can.
 
 Tác dụng dược lý
-----------------
+================
 
 #. Giải cảm sơ tán phong nhiệt
 #. Trừ phong giảm đau: Tinh dầu Bạc hà bốc hơi nhanh gây cảm giác mát và
@@ -20,7 +20,7 @@ Tác dụng dược lý
    ngăn sự lên men quả bình thường trong ruột.
 
 Ứng dụng lâm sàng
------------------
+=================
 
 #. Trị ngoại cảm phong nhiệt: thời kỳ đầu như cảm mạo, cảm cúm, viêm
    đường hô hấp trên, dùng cồn Bạc hà 10%, mỗi lần 5 -10 giọt, uống
@@ -44,7 +44,7 @@ Tác dụng dược lý
    chống cúm lúc có dịch cúm.
 
 Liều thường dùng và chú ý
--------------------------
+=========================
 
 -  Liều : 3 - 8g.
 -  Chú ý: thuốc không được đun sôi lâu, nếu là nước sắc, vì Bạc hà phải
