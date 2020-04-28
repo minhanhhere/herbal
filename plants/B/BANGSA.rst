@@ -1,7 +1,7 @@
 BẰNG SA
 =======
 
-( Borax)
+(Borax)
 
 Bằng sa tức Hàn the còn gọi là Nguyệt thạch. Bằng sa dùng làm thuốc được
 ghi đầu tiên trong sách Đơn phòng giám nguyên với nguyên tên là Đại Bằng
@@ -41,9 +41,9 @@ Trích đoạn Y văn cổ:
 -  Sách Nhật hoa tử bản thảo: " tiêu đàm chỉ khái, phá trưng kết hầu
    tý".
 -  Sách Bản thảo cương mục: " trị thượng tiêu đàm nhiệt, sinh tân dịch,
-   khứ khẩu khí, tiêu chướng ế ( mộng thịt), trừ ế cách phản vị ( nấc
+   khứ khẩu khí, tiêu chướng ế (mộng thịt), trừ ế cách phản vị (nấc
    cụt, ợ), hòa khoái kết ứ nhục âm hội (loét lở vùng âm hộ), ác sang và
-   các chứng ở mồm lợi ( sắc trắng mà nhẹ cho nên trừ được nhiệt ở vùng
+   các chứng ở mồm lợi (sắc trắng mà nhẹ cho nên trừ được nhiệt ở vùng
    hung cách thượng tiêu).
 -  Sách Bản thảo hội ngôn: " Bằng sa hóa đàm kết, thông hầu tý, khử mộng
    thịt trong mắt".
@@ -68,7 +68,7 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 1.Trị bong gân lưng: Tác giả dùng Hàn the tán bột mịn hoặc chế thành 3%
 thuốc nhỏ mắt vào khóe mắt trong và ngoài đồng thời vận động lưng. Trị
 50 ca, 46 ca qua 1 lần là khỏi, sau 1/2 giờ hết đau, 2 ca chuyển biến
-tốt và 2 ca không khỏi ( Chu chí Đông Tạp chí Trung y dược Thượng hải
+tốt và 2 ca không khỏi (Chu chí Đông Tạp chí Trung y dược Thượng hải
 1986, 11:31).
 
 2.Trị động kinh:
@@ -76,17 +76,17 @@ tốt và 2 ca không khỏi ( Chu chí Đông Tạp chí Trung y dược Thư�
 -  Trường hợp ít lên cơn: dùng Bằng sa, mỗi lần uống 0,3g, ngày 3 lần.
 -  Nếu lên cơn dày: mỗi lần uống 0,5g, ngày 3 lần. Nếu cơn lâu hoặc liên
    tục, mỗi lần uống 1g, ngày uống 4 lần, đồng thời uống thuốc an thần (
-   gardenal, luminal sodium.). Trị 10 ca đều có kết quả ( Phùng Khải
+   gardenal, luminal sodium.). Trị 10 ca đều có kết quả (Phùng Khải
    Nam, Tạp chí Y Trung cấp 1966,5:299).
 
-3.Trị ban do mồ hôi: Lấy nước dưa vàng ( Hoàng qua) trộn bột Bằng sa đến
+3.Trị ban do mồ hôi: Lấy nước dưa vàng (Hoàng qua) trộn bột Bằng sa đến
 mức bảo hòa. Dùng nước sôi rửa sạch vùng ban rồi bôi nước dưa lên ngày 1
-lần. Trị 18 ca: khỏi 17 ca, không kết quả 1 ca ( Lưu Hiếu Mẫn, Tạp chí
+lần. Trị 18 ca: khỏi 17 ca, không kết quả 1 ca (Lưu Hiếu Mẫn, Tạp chí
 Trung y Hà nam 1985,4:30).
 
 4.Trị loét mồm lợi, cổ họng sưng đau, viêm tai giữa cấp mạn tính:
 
--  Bằng băng phiến ( xem bài Băng phiến): thổi thuốc vào vùng bị bệnh.
+-  Bằng băng phiến (xem bài Băng phiến): thổi thuốc vào vùng bị bệnh.
 -  Bằng sa, Sinh Thạch cao, Băng phiến, Hàn thủy thạch, móng tay người:
    lượng bằng nhau tán bột rất mịn thổi vào vùng đau. Trị cổ họng sưng
    đau.
@@ -97,7 +97,7 @@ Trung y Hà nam 1985,4:30).
 
 -  An phế ninh thấu hoàn: Bằng sa, Tang bì, Nhị trà, Tô tử, Cam thảo đều
    30g, tán bột mịn, mật làm thành viên (hoàn), mỗi hoàn 6g. Uống ngày 2
-   lần sáng và tối, mỗi lần 1 viên ( hoàn).
+   lần sáng và tối, mỗi lần 1 viên (hoàn).
 
 Liều lượng thường dùng và chú ý:
 

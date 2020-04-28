@@ -3,7 +3,7 @@
 BỒ CỐT CHỈ
 ==========
 
-( Fructus Psoraleae Corylifoliae)
+(Fructus Psoraleae Corylifoliae)
 
 Bổ cốt chỉ còn gọi là Phá cố chỉ, Hắc cố tử, Hạt đậu miêu, được ghi làm
 thuốc đầu tiên trong sách Dược tính bản thảo. Hạt chín phơi khô của cây
@@ -104,15 +104,15 @@ chỉ tán bột làm viên bằng hạt ngô, ngày uống 30 viên, chia 2 - 3
 5 - 7 ngày bôi lên vùng bệnh và chích bắp dịch tiêm Bổ cốt chi ngày 1
 lần 5 ml, gia chiếu tia tử ngoại trị bạch điến 49 ca, tỷ lệ kết quả
 75,5%. Đối với sói tóc, chỉ dùng tiêm và chiếu tia tử ngoại trị 45 ca có
-kết quả 84,4% ( Tờ thông tin Trung thảo dược 1972,1:41).
+kết quả 84,4% (Tờ thông tin Trung thảo dược 1972,1:41).
 
 5.Trị tử cung xuất huyết: Bổ cốt chi và Xích thạch chỉ lượng bằng nhau
-chế thành viên cầm máu . Trị 326 ca, có kết quả trên 90% ( Tạp chí Thiên
+chế thành viên cầm máu . Trị 326 ca, có kết quả trên 90% (Tạp chí Thiên
 tân Y dược 1973,1:36).
 
 6.Trị chứng bạch cầu giảm: dùng bột thuốc luyện mật làm hoàn, mỗi hoàn
 nặng 6g, ngày uống 3 lần, mỗi lần 1 - 3 hoàn hoặc 3g bột, một liệu trình
-4 tuần. Trị 19 ca, 14 ca khỏi, 4 ca tiến bộ ( Tân y học 1975,10:497).
+4 tuần. Trị 19 ca, 14 ca khỏi, 4 ca tiến bộ (Tân y học 1975,10:497).
 
 Liều thường dùng:
 

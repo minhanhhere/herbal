@@ -42,7 +42,7 @@ A.Theo Y học cổ truyền:
 
 Bách bộ có tác dụng nhuận phế chỉ khái, diệt rận, sát trùng.
 
-Chủ trị các chứng: thương phong khái thấu, bách nhật khái ( ho gà), phế
+Chủ trị các chứng: thương phong khái thấu, bách nhật khái (ho gà), phế
 lao, giun kim, chấy rận, chàm lở.
 
 Trích đoạn Y văn cổ:
@@ -79,7 +79,7 @@ Báo cáo của Đặng Trường Vinh: Viên Bách bộ trị 153 ca lao phổi
 con bỏ ruột và đầu chân, cứ theo tỷ lệ 1 cân gà 1 cân thuốc. Cho gà và
 nước vừa đủ nấu trong 4 gờ, đổ nước gà ra, cho thêm nước khác nấu trong
 4 ,5 lần, mỗi lần 2 giờ, các lần sắc nước trộn đều cho thuốc vào khuấy
-đều ( cứ 1 cân thuốc cần 12 lạng nước gà hầm) làm thành viên nhỏ, mỗi
+đều (cứ 1 cân thuốc cần 12 lạng nước gà hầm) làm thành viên nhỏ, mỗi
 lần uống 10g x 2 lần sáng tối, một liệu trình 20 - 30 ngày, nếu có kết
 quả tiếp tục uống thêm 2 - 3 tháng và sau đó uống 2 - 3 tháng nữa để
 cũng cố kết quả. Phần lớn bệnh nhân được tăng trọng, triệu chứng lâm

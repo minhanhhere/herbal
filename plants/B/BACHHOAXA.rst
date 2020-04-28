@@ -64,13 +64,13 @@ B.Theo kết quả nghiên cứu dược lý hiện đại:
 sắc chia 2 - 3 lần uống trong ngày. Bệnh nặng phối hợp thêm Hải kim sa
 đằng, Dã Cúc hoa hoặc thêm Đại hoàng Mẫu đơn thang, Long đởm tả can
 thang, Tiên phương hoạt mệnh ẩm gia giảm. Theo báo cáo của nhiều tác giả
-ở Trung quốc đã dùng trị trên 1000 ca kết quả tốt ( dăng trong sách "
+ở Trung quốc đã dùng trị trên 1000 ca kết quả tốt (dăng trong sách "
 Dược lý và ứng dụng trung dược do Nhà xuất bản Vệ sinh Nhân dân xuất bản
 năm 1983).
 
 2.Trị rắn cắn: Dùng thuốc 20g sắc với rượu trắng 200ml uống trong 1
 ngày, dùng 2/3 thuốc chia 2 - 3 lần uống và 1/3 đắp vào vết cắn, trị 19
-ca đều khỏi ( Tạp chí Y học Quảng đông - Bản Y học Tổ quốc 1965,2:11).
+ca đều khỏi (Tạp chí Y học Quảng đông - Bản Y học Tổ quốc 1965,2:11).
 
 3.Trị chứng tích nước bìu dái (biến chứng sau khi thắt ống dẫn tinh)
 dùng thuốc 30g sắc chia 3 lần uống (có thể hãm nước sôi). Trị 38 ca có
@@ -79,7 +79,7 @@ kết quả 34 ca (Báo cáo của Vạn hiếu Tài, Tạp chí Y học nông t
 
 4.Trị viêm gan: dùng bài Tam thảo thang (Bạch hoa xà thiệt thảo 31,25g,
 Hạ khô thảo 31,25g, Cam thảo 15,625g chế thành sirô trị viêm gan cấp,
-vàng da, có kết quả 100%, ngày nằm viện bình quân 25,3 ngày ( Theo Báo
+vàng da, có kết quả 100%, ngày nằm viện bình quân 25,3 ngày (Theo Báo
 cáo của Khoa nhiễm Bệnh viện trực thuộc số 2 Học viện Y học Hà nam - Bản
 thông tin Trung dược thảo 1978,7:28).
 

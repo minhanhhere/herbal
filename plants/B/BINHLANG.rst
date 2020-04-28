@@ -50,9 +50,9 @@ Trích đoạn Y văn cổ:
 -  Sách Dược tính bản thảo: " tuyên lợi ngũ tạng, lục phủ ủng trệ, phá
    kiên mãn khí, hạ thủy thũng, trị tâm thống, phong huyết tích tụ".
 -  Sách Cước khí luận: " trị cước khí ủng độc, thủy khí phù thũng".
--  Sách Bản thảo cương mục: " trị tả lî, mót rặn ( hậu trọng), tâm phúc
+-  Sách Bản thảo cương mục: " trị tả lî, mót rặn (hậu trọng), tâm phúc
    chư thống, đại tiểu tiện khí bí, đàm khí suyễn cấp, liệu chư ngược,
-   ngự chướng lệ ( trị các chứng sốt rét, phòng khí độc gây bệnh dịch).
+   ngự chướng lệ (trị các chứng sốt rét, phòng khí độc gây bệnh dịch).
 
 B.Kết quả nghiên cứu dược lý hiện đại:
 
@@ -62,7 +62,7 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    sán. Thuốc đối với lãi kim cũng có tác dụng nhất định.
 #. Tác dụng đối với hệ thần kinh: Arecolin có tác dụng như thần kinh phó
    giao cảm, kích thích các thụ thể cholinergic, làm tăng trương lực cơ
-   trơn của trường vị, tăng nhu động ruột và gây tiêu chảy ( cho nên xổ
+   trơn của trường vị, tăng nhu động ruột và gây tiêu chảy (cho nên xổ
    sán lãi không cần thuốc tẩy), làm chậm nhịp tim, hạ huyết áp, tăng
    tiết nước bọt và mồ hôi, dung dịch thuốc nhỏ mắt làm đồng tử nhỏ lại,
    tăng co thắt túi mật và cơ trơn tử cung. Arecolin cũng có tác dụng

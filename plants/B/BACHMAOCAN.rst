@@ -3,11 +3,11 @@
 BẠCH MAO CĂN
 ============
 
-( Rhizoma Imperatae Cylindricae)
+(Rhizoma Imperatae Cylindricae)
 
 Bạch mao căn là rễ cỏ tranh, còn gọi là Mao căn, Mao thảo căn là thân rễ
 phơi hay sấy khô của cây tranh hay cỏ tranh Imperata cylindrica (L)
-Beauv. var. major (Nees) c.E.Hubb. thuộc họ Lúa Poaceae ( Gramineae) mọc
+Beauv. var. major (Nees) c.E.Hubb. thuộc họ Lúa Poaceae (Gramineae) mọc
 hoang khắp noiư ở nước ta> Rễ tranh dùng làm thuốc được ghi đầu tiên
 trong sách Bản kinh.
 
@@ -101,7 +101,7 @@ vị, đã trị 60 ca xuất huyết, mỗi ngày 1 - 3 thang sắc chia nhiề
 uống. Có kết hợp dùng sinh tố C 2 - 3g/ mỗi ngày, truyền dịch và cho
 thuốc tây cầm máu lúc chảy máu nhiều, chỉ có 2 ca tử vong còn hồi phục
 tốt so với tổ đơn thuần dùng thuốc tây tốt hơn và sự khác biệt có ý
-nghĩa thông kê ( Báo cáo của Hạ viễn Lục, Tạp chí Trung tây y kết hợp
+nghĩa thông kê (Báo cáo của Hạ viễn Lục, Tạp chí Trung tây y kết hợp
 1986.6(4):212).
 
 2.Trị chảy máu cam: Chi tử 18g, Mao căn tươi 120g (hoặc Mao căn khô 36g)
@@ -111,7 +111,7 @@ thể phế vị thực nhiệt, tâm hỏa bốc, uống 1 - 3 thang có kết 
 3.Trị viêm thận cấp: Bạch mao căn khô 250g, nước 500ml sắc nước chia 2 -
 3 lần uống, trị viêm thận cấp trẻ em, có 11 ca, 9 ca khỏi, 2 ca tốt,
 trung bình mỗi bệnh nhân uống 42 thang, so với tổ đối chiếu tỷ lệ khỏi
-cao hơn 21% ( Báo cáo của Lưu Tuấn Quảng đông y học 1965, 3:28).
+cao hơn 21% (Báo cáo của Lưu Tuấn Quảng đông y học 1965, 3:28).
 
 4.Dùng thanh nhiệt giáng hỏa: Trong các trường hợp nội nhiệt phiền khát,
 phế nhiệt khó thở, vị nhiệt nôn ói.
@@ -125,14 +125,14 @@ phế nhiệt khó thở, vị nhiệt nôn ói.
 máu cam.
 
 -  Tam tiên ẩm: Tiên mao căn 40g, Tiên tiểu kế 20g, Tiên ngẫu tiết 40g,
-   sắc uống trị chứng hư lao trong đờm có máu ( có thể dùng cho bệnh
+   sắc uống trị chứng hư lao trong đờm có máu (có thể dùng cho bệnh
    lao, giãn phế quản ho ra máu).
 -  Mao căn 40g, Đại kế căn 20g sắc uống trị tiểu ra máu.
 
 6.Dùng lợi tiểu tiêu phù: Trong các trường hợp viêm cầu thận cấp, phù,
 nước tiểu ít, thấp nhiệt hoàng đản.
 
--  Bạch mao căn tươi ( cạo sạch vỏ) 80 - 160g, Bạch anh tươi 80g, Thịt
+-  Bạch mao căn tươi (cạo sạch vỏ) 80 - 160g, Bạch anh tươi 80g, Thịt
    nạc heo 160g nấu ăn. Trị viêm gan hoàng đản tiểu tiện ít.
 -  Bạch mao căn tươi, Tây qua bì đều 40g, Ngọc mễ tu 12g, Xích tiểu đậu
    16g, sắc uống . Trị viêm cầu thận cấp.

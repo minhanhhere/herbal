@@ -3,7 +3,7 @@
 BỔ HOÀNG
 ========
 
-( Pollen Typhae)
+(Pollen Typhae)
 
 Bồ hoàng là phấn hoa sấy hay phơi khô của cây Hương bồ hoặc Hương bồ
 thảo, còn gọi là Cỏ nến, có nhiều loại Typha Orientalis G.A. Stuart
@@ -39,7 +39,7 @@ Trích đoạn Y văn cổ:
    chỉ huyết, tiêu ứ huyết. Uống lâu người khỏe nhẹ, khí lực tăng".
 -  Sách Dược tính bản thảo: " Thông kinh mạch, trị phụ nữ băng huyết
    không cầm, chủ lợi huyết, cầm máu cam, trị niệu huyết, lợi thủy đạo".
--  Sách Nhật hoa tử bản thảo: " trị mụn lở ( sang tiết) tháo mủ ( bài
+-  Sách Nhật hoa tử bản thảo: " trị mụn lở (sang tiết) tháo mủ (bài
    nùng) trị phụ nữ đới hạ, kinh nguyệt không đều, huyết khí tâm phúc
    thống, đàn bà có mang trụy thai ra máu, huyết trưng, tiểu tiện không
    thông, trường phong tả huyết, du phong thũng độc, chảy máu mũi, thổ
@@ -51,7 +51,7 @@ Trích đoạn Y văn cổ:
 B.Kết quả nghiên cứu dược lý hiện đại:
 
 #. Tác dụng tăng nhanh máu đông: trên ống nghiệm, thuốc có tác dụng rút
-   ngắn thời gian máu đông ( dùng nước sắc Bồ hoàng ). Cho thỏ uống nước
+   ngắn thời gian máu đông (dùng nước sắc Bồ hoàng ). Cho thỏ uống nước
    ngâm kiệt hoặc 50% cồn Bồ hoàng đều có làm cho thời gian máu đông của
    thỏ rút ngắn. Chích dưới da dịch chiết Bồ hoàng khiến tiểu cầu của
    thỏ tăng, thời gian prothrombin rút ngắn. Trên thực nghiệm làm chảy
@@ -99,7 +99,7 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    đại cự bào, liều nhỏ không ảnh hưởng nhưng liều cao lại có khả năng
    tăng cường rõ rệt. Thuốc có xu hướng làm tăng hàm lượng cAMP của lách
    và tuyến ức chuột.
-#. Tác dụng chống lao: Nước sắc Bồ hoàng nồng độ cao ( 1:100) có tác
+#. Tác dụng chống lao: Nước sắc Bồ hoàng nồng độ cao (1:100) có tác
    dụng ức chế sự sinh trưởng của trực khuẩn lao trong ống nghiệm. Thuốc
    có tác dụng điều trị chuột Hà lan bị gây lao thực nghiệm.
 #. Những tác dụng khác của Bồ hoàng: như cồn chiết xuất Bồ hoàng chích
@@ -142,38 +142,38 @@ alpha typhasterol, tinh dầu, mỡ (10 - 30%).
 Trọng cho 31 phụ nữ sau sinh uống bột Bồ hoàng sống mỗi lần 3g, ngày 3
 lần, liền 3 ngày kết quả: đáy tử cung xuống trung bình 4,71cm; tổ đối
 chiếu 3,64cm, tốt hơn tổ dùng Cao Ích mẫu, đồng thời nước ối ra rất
-nhanh ( Tạp chí Trung y dược Thượng hải 1963, 9:1).
+nhanh (Tạp chí Trung y dược Thượng hải 1963, 9:1).
 
 4.Trị mạch vành: dùng độc vị Bồ hoàng trị 66 ca bệnh động mạch vành,
 theo dõi 2 tháng, kết quả 89% bớt, hết đau thắt ngực, 48% điện tim được
 cải thiện, 58% huyết áp hạ, 60% cholesterol huyết thanh giảm, 94%
-triglycerit giảm rất tốt ( Viện nghiên cứu Trung y dược Hồ nam,1982,
+triglycerit giảm rất tốt (Viện nghiên cứu Trung y dược Hồ nam,1982,
 9(3).6).
 
 5.Trị chứng Lipid huyết cao: dùng viên bọc đường Bồ hoàng, mỗi ngày uống
 tương đương 30g thuốc sống chia 3 lần trị 200 ca, so sánh kết quả trước
-và sau dùng thuốc, cholesterol và triglycerit giảm rất tốt ( Viện nghiên
+và sau dùng thuốc, cholesterol và triglycerit giảm rất tốt (Viện nghiên
 cứu Trung y dược Hồ nam, Tạp chí Trung tây y kết hợp 1985, 5(3), 141).
 
 6.Trị huyết áp cao: Sở nghiên cứu trung y dược tỉnh Hồ nam dùng Viên thư
 tâm (sinh Bồ hoàng, tây Đảng sâm, xuyên Hồng hoa, Khương hoàng phiến,
 Nga truật, Giáng hương) trị 400 ca, theo dõi kết quả thuốc có tác dụng
-hạ áp trên dưới 90% ( Hồ nam y dược tạp chí 1977,4:20).
+hạ áp trên dưới 90% (Hồ nam y dược tạp chí 1977,4:20).
 
 7.Trị chàm: Chúc hoa Dân dùng bột Bồ hoàng sống bôi vào vùng bị chàm trị
 30 ca, tất cả đều khỏi sau 6 - 15 ngày điều trị, trong đó có 25 ca hết
-ngứa ngay từ hôm đầu ( Tạp chí Tân y dược học 1977,9:22).
+ngứa ngay từ hôm đầu (Tạp chí Tân y dược học 1977,9:22).
 
 8.Trị viêm đại tràng mạn tính không đặc hiệu: Dương hiếu Huệ dùng nước
 chiết Bồ hoàng làm thành viên 0,3g mỗi lần uống 5 viên ngày 3 lần, đồng
 thời dùng dịch Bồ hoàng 5% - 100ml thụt lưu đại tràng, ngày 1 lần. Kết
 quả: 17 ca triệu chứng lâm sàng được cải thiện, 2 ca khỏi, 4 ca khỏi cơ
 bản, 11 ca tốt, 1 ca không khỏi, tỷ lệ kết quả 94,12%, bổ thể C3 tăng
-lên mức bình thường ( Thông báo Trung dược 1987, 12(8): 48).
+lên mức bình thường (Thông báo Trung dược 1987, 12(8): 48).
 
 Liều dùng và chú ý:
 
 -  Uống 3 - 20g, bọc lúc cho vào thuốc thang. Bồi đắp ngoài tùy theo yêu
    cầu.
--  Phụ nữ có thai không dùng ( Bồ hoàng sống có tác dụng co tử cung).
--  Không có triệu chứng ứ huyết không dùng ( Sách Bản thảo kinh sơ).
+-  Phụ nữ có thai không dùng (Bồ hoàng sống có tác dụng co tử cung).
+-  Không có triệu chứng ứ huyết không dùng (Sách Bản thảo kinh sơ).

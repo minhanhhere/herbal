@@ -7,7 +7,7 @@ BỔ CÔNG ANH
 
 Bồ công anh có 2 loại Bồ công anh Việt nam (Lactuca indica L.) và Bồ
 công anh Trung quốc (Taraxacum mongolicum Hand - Mazz) đều thuộc loại
-Hoa Cúc ( Asteraceae). Bộ phận dùng làm thuốc là toàn cây có rễ. Vị đắng
+Hoa Cúc (Asteraceae). Bộ phận dùng làm thuốc là toàn cây có rễ. Vị đắng
 ngọt, tính hàn, qui kinh Can Vị.
 
 Thành phần chủ yếu:
@@ -24,7 +24,7 @@ Tác dụng dược lý:
 A.Theo Y học cổ truyền:
 
 Bồ công anh có tác dụng thanh nhiệt giải độc, lợi thấp thông lâm, chủ
-trị các chứng ung nhọt, sang lở, nhũ ung ( viêm vú), trường ung (viêm
+trị các chứng ung nhọt, sang lở, nhũ ung (viêm vú), trường ung (viêm
 ruột), đau họng (hầu tý), mắt sưng đỏ đau, chứng thấp nhiệt hoàng đản,
 nhiệt lâm (viêm tiết niệu).
 
@@ -64,12 +64,12 @@ dùng thêm Cúc hoa, Hạ khô thảo càng tốt.
 
 7.Trị đục giác mạc: thuốc nhỏ mắt Bồ công anh (hàm lượng 10ml thuốc có
 3g Bò công anh khô) nhỏ mắt ngày 3 lần, đồng thời uống nước sắc Bồ công
-anh ( Tạp chí Thiên tân Y dược 1974,7:362).
+anh (Tạp chí Thiên tân Y dược 1974,7:362).
 
 8.Trị bỏng nhiễm trùng: Bồ công anh tươi giã nát gia cồn 75 độ, trộn đắp
 chỗ bỏng (Tạp chí Đông Tây y kết hợp 1987,5:301).
 
-9.Trị bệnh quai bị: dùng Bồ công anh tươi 30g ( khô thì 20g) gia 1 lòng
+9.Trị bệnh quai bị: dùng Bồ công anh tươi 30g (khô thì 20g) gia 1 lòng
 trắng trứng gà thêm ít đường phèn bọc vải đắp vùng đau ngày thay một lần
 (Báo Tân y học 1972,10:49).
 

@@ -111,7 +111,7 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    Trần bì 6g, Cam thảo sống 4g, sắc nước uống.
 -  Bối mẫu 8g, Cát cánh 3g, Cam thảo 2g, nước 600ml sắc còn 200ml chia 3
    lần uống trong ngày (Diệp quốc tuyền).
--  Ma hạnh thạch cam thang gia vị ( Điều trị nhi khoa Đông y - BS Trần
+-  Ma hạnh thạch cam thang gia vị (Điều trị nhi khoa Đông y - BS Trần
    văn Kỳ): Ma hoàng, Hạnh nhân đều 6 - 8g, Tiền hồ, Cát cánh đều 8 -
    10g, Thạch cao sống 12 - 20g (sắc trước), Trần bì, Bối mẫu đều 6 -
    8g, Cam thảo 3g, Xuyên bối mẫu tán bột hòa thuốc, tất cả các vị sắc

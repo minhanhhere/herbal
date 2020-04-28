@@ -6,7 +6,7 @@ BA KÍCH THIÊN
 (Radix Morindae Officinalis)
 
 Cũng gọi là Ba kích, là rễ phơi hay sấy khô (Radix Morindae) của cây Ba
-kích ( Morinda Officinalis How), thuộc họ Cà phê ( Rubiaceae), dùng làm
+kích (Morinda Officinalis How), thuộc họ Cà phê (Rubiaceae), dùng làm
 thuốc được ghi đầu tiên trong sách Bản kinh.
 
 Tính vị qui kinh:
@@ -39,7 +39,7 @@ Trích đoạn Y văn cổ:
 
 -  Sách Bản kinh: " chủ hỏa phong tà khí, âm nuy bất khởi, cường gân
    cốt, an ngũ tạng, bổ trung tăng chí ích khí".
--  Sách Danh y biệt lục: " liệu đầu diệu du phong ( một loại ban chẩn dị
+-  Sách Danh y biệt lục: " liệu đầu diệu du phong (một loại ban chẩn dị
    ứng nổi ở đầu mặt), bụng dưới và âm hộ đau, làm trung tiện, bổ ngũ
    lao, ích tinh, lợi nam tử".
 -  Sách Nhật hoa tử bản thảo: " an ngũ tạng, định tâm khí, trị các chứng

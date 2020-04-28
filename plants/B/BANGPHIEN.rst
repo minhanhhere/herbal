@@ -8,9 +8,9 @@ còn gọi là Long não hương, Phiến não, Mai hoa não, Mai phiến, Ngãi
 hương, Ngãi phiến, Từ bi. Băng phiến được chế từ 3 nguồn:
 
 #. Gỗ cây Long não hương (Dryobalanops aromatica Guaetn) thuộc họ Dầu
-   hoặc họ Dong dực quả ( Dipterocarpaceae), chưa thấy có ở nước ta.
-#. Cây Đại bi hay Từ bi hoặc Từ bi xanh ( Blumea balsamifera DC.) thuộc
-   họ Cúc ( Compositae), có mọc ở nước ta.
+   hoặc họ Dong dực quả (Dipterocarpaceae), chưa thấy có ở nước ta.
+#. Cây Đại bi hay Từ bi hoặc Từ bi xanh (Blumea balsamifera DC.) thuộc
+   họ Cúc (Compositae), có mọc ở nước ta.
 #. Chế bằng phương pháp hóa học.
 
 Bài này chủ yếu giới thiệu loại Băng phiến chế từ gỗ cây Long não hương.
@@ -31,7 +31,7 @@ Theo các sách thuốc cổ:
 
 Thành phần chủ yếu:
 
-Borneol ( có thể tổng hợp từ tinh dầu thông).
+Borneol (có thể tổng hợp từ tinh dầu thông).
 
 Tác dụng dược lý:
 
@@ -79,25 +79,25 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 2 bên huyệt Thần môn, Não, Dưới vỏ não, Tâm, Giao cảm 2 - 3 huyệt. Lấy
 Băng phiến bằng hạt gạo, bỏ giữa 1 miếng cao dán 0,5 x 0,5cm dán vào
 huyệt, 3 ngày thay 1 lần, 4 lần là một liệu trình. Tác giả đã trị 77 ca
-bệnh nhân từ 1 đến 2 liệu trình. Kết quả khỏi 53 ca ( 68,8%), tiến bộ 22
-ca (28,6%), tỷ lệ kết quả chung 97% ( Tôn Quốc Chương, Tạp chí Trung y
+bệnh nhân từ 1 đến 2 liệu trình. Kết quả khỏi 53 ca (68,8%), tiến bộ 22
+ca (28,6%), tỷ lệ kết quả chung 97% (Tôn Quốc Chương, Tạp chí Trung y
 Hà nam 1986,4:14).
 
 2.Trị nhiễm trùng ngoại khoa: Đối với trường hợp chưa thành mủ hoặc chưa
 vỡ mủ, dùng Băng phiến, Mang tiêu theo tỷ lệ 1:10 tán bột trộn đều, mỗi
 lần dùng lượng vừa đủ bôi vào giữa miếng gạc dày 0,5cm dán vào chỗ đau,
 mỗi 2 - 3 ngày thay 1 lần. Trị 230 ca, bình quân thay thuốc 3 lần đều
-khỏi ( Trương Liên Xuân, Tạp chí Trung tây y kết hợp 1984,5:272).
+khỏi (Trương Liên Xuân, Tạp chí Trung tây y kết hợp 1984,5:272).
 
 3.Trị viêm tai giữa có mủ cấp và mạn tính: Lấy Băng phiến 2,5g, Xạ hương
 0,5g, Chương đơn 10g, Long cốt 15g, Hoàng liên 10g, Mẫu lệ 10g, đều tán
 bột mịn, mỗi lần thổi ít thuốc vào tai. Trị 324 ca gồm 366 lỗ tai. Tỷ lệ
 khỏi 64,7%, tỷ lệ có kết quả 93,4% tốt hơn rõ rệt so với lô chứng dùng
-thuốc tây, trụ sinh nhỏ tai ( Tôn Việt, Học báo Trung y dược 1986,1:31).
+thuốc tây, trụ sinh nhỏ tai (Tôn Việt, Học báo Trung y dược 1986,1:31).
 
 4.Trị Zona: Băng phiến 10 - 30g tán bột, cho nước cơm lạnh làm thành hồ
 40% bôi vào vùng đau, ngày 3 - 4 lần, liên tục trong 3 - 5 ngày. Trị 30
-ca kết quả tốt ( Vương thúc Mai và cộng sự, Báo Y học Hoài nam
+ca kết quả tốt (Vương thúc Mai và cộng sự, Báo Y học Hoài nam
 1978,10:56).
 
 5.Trị bệânh nhiễm sốt cao hôn mê, co giật:
@@ -110,7 +110,7 @@ ca kết quả tốt ( Vương thúc Mai và cộng sự, Báo Y học Hoài nam
 -  An cung Ngưu hoàng hoàn (Oân bệnh điều biện) Ngưu hoàng, Uất kim, Tê
    giác, Hoàng cầm, Hùng hoàng, Băng phiến, Trân châu, Chu sa, Hoàng
    liên, Sơn chi, Xạ hương. Tất cả tán bột mịn trộn mật làm hoàn. Mỗi
-   lần uống 4g ( 1 viên)ngày 2 lần, trẻ em tùy theo tuổi giảm liều.
+   lần uống 4g (1 viên)ngày 2 lần, trẻ em tùy theo tuổi giảm liều.
 -  Tinh não đơn: Băng phiến 6g, Chu sa 10g, Hùng hoàng 30g, Tạo phàn
    60g, Hỏa tiêu 250g. Tất cả tán bột mịn trộn đều, cất vào lọ kín. Mỗi
    lần dùng 0,03g điểm vào khóe mắt trong (Nội Tinh minh), ngoài ra dùng

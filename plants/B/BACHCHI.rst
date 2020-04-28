@@ -3,9 +3,9 @@
 BẠCH CHỈ
 ========
 
-( Radix Angelicea )
+(Radix Angelicea )
 
-Bạch chỉ ( Hương bạch chỉ) là rễ của cây Bạch chỉ ( Angelica dahurica
+Bạch chỉ (Hương bạch chỉ) là rễ của cây Bạch chỉ (Angelica dahurica
 Benth et Hook ). Vị cay tính ấm, quy kinh Phế, Vị, Đại trường.
 
 Thành phần chủ yếu:
@@ -28,14 +28,14 @@ Tác dụng dược lý:
 
 Ứng dụng lâm sàng:
 
-1.Trị cảm mạo: Đau đầu ( đau trước trán nhiều) thường phối hợp với Phòng
+1.Trị cảm mạo: Đau đầu (đau trước trán nhiều) thường phối hợp với Phòng
 phong, Khương hoạt, ở phụ nữ có thai và sau đẻ bị cảm, đau đầu dùng
-thuốc kết hợp với Xuyên khung ( Khung chỉ hoàn) hoặc dùng bài: KHU PHONG
+thuốc kết hợp với Xuyên khung (Khung chỉ hoàn) hoặc dùng bài: KHU PHONG
 THANH THƯƠNG ẨM gồm: Bạch chỉ 12g, Xuyên khung 4g, Phòng phong 12g,
 Khương hoạt 8g, Hoàng cầm 8g, Sài hồ 8g, Kinh giới 8g, Cam thảo 4g: sắc
 nước uống.
 
-2.Trị các loại đau đầu khác: như đau đầu do thần kinh ( đau nửa đầu) do
+2.Trị các loại đau đầu khác: như đau đầu do thần kinh (đau nửa đầu) do
 viêm mũi, viêm xoang, đau lợi răng, đau thần kinh mặt, đau dạ dày. dùng
 bài ĐÔ LƯƠNG HOÀN (Bạc chỉ tán bột làm hoàn, mỗi lần uống 6 -12g trị đau
 đầu trước trán nhiều) dùng: Bạch chỉ, Thương nhĩ, Tân di, mỗi thứ 12g,

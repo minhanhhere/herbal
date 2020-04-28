@@ -3,12 +3,12 @@
 BẠCH THƯỢC DƯỢC
 ===============
 
-( Radix Pacomiae Lactiflorae)
+(Radix Pacomiae Lactiflorae)
 
 Bạch Thược dược cũng gọi là Thược dược, được ghi đầu tiên trong sách Bản
 kinh với tên Thược dược. Bạch thược là rễ phơi hay sấy khô của cây Thược
-dược ( Paeonilia lactiflora Pall.), (Paeonia albiflora Pall), thuộc họ
-Mao lương ( Ranunculaceae).
+dược (Paeonilia lactiflora Pall.), (Paeonia albiflora Pall), thuộc họ
+Mao lương (Ranunculaceae).
 
 Tính vị qui kinh:
 
@@ -94,7 +94,7 @@ hợp táo bón kinh niên, mỗi tuần dùng 1 thang. Trường hợp khí hư
 Bạch truật 24 - 32g, hư hàn gia Phụ tử chế 10 - 15g, huyết hư gia Đương
 qui 9 - 15g, khí trệ gia Mạch nha 10g, huyết áp cao can vượng gia Đại
 giá thạch 20 - 30g, bỏ Cam thảo, nếu huyết áp cao kiêm thấp bỏ Cam thảo
-gia Bán hạ, Trần bì. Đã trị trên 609 ca bệnh nhân, kết quả nhanh ( Vương
+gia Bán hạ, Trần bì. Đã trị trên 609 ca bệnh nhân, kết quả nhanh (Vương
 Văn Sỹ, Nghiệm chứng dùng Thược dược Cam thảo thang trị táo bón, Tạp chí
 Trung y 1983, 8:79).
 
@@ -104,32 +104,32 @@ vị hư hàn gia Đảng sâm, Hoàng kỳ mỗi thứ 12g, Phục linh 20g, Ca
 địa 15g. Khí trệ huyết ứ gia Nhũ hương, Mộc dược, mỗi thứ 10g, Đơn sâm,
 Xuyên khung mỗi thứ 10g, Phục linh 20g. Đã trị 120 ca, khỏi 83 ca, tiến
 bộ 33 ca, không có kết quả 4 ca, tỷ lệ kết quả 96,67%, kết quả tốt nhất
-đối với thể khí trệ huyết ứ ( Dư thụy Trân, Trị 120 ca lóet dạ dày bằng
+đối với thể khí trệ huyết ứ (Dư thụy Trân, Trị 120 ca lóet dạ dày bằng
 Thược dược Cam thảo thang gia giảm, Tạp chí Trung y Sơn đông 1984,2:22).
 
 3.Trị các chứng đau bụng: thường do can vị bất hòa, can khí uất trệ gây
-đau ( như: viêm lóet dạ dày tá tràng, viêm đại tràng co thắt, viêm gan.)
-dùng bài: Tứ nghịch tán ( Thương hàn luận): Sài hồ 6g, Bạch thược 12g,
+đau (như: viêm lóet dạ dày tá tràng, viêm đại tràng co thắt, viêm gan.)
+dùng bài: Tứ nghịch tán (Thương hàn luận): Sài hồ 6g, Bạch thược 12g,
 Chỉ thực 6g, Chích Cam thảo 4g, sắc nước uống. Trường hợp kiết lî, đau
 bụng có mót rặn, dùng Sinh Bạch thược phối hợp Mộc hương, Binh lang .
 dùng: Thược dược thang: Bạch thược 24g, Hoàng cầm 12g, Xuyên tiêu 6g,
-Đại hoàng 8g ( cho sau), Mộc hương 8g ( cho sau), Binh lang 8g, Đương
+Đại hoàng 8g (cho sau), Mộc hương 8g (cho sau), Binh lang 8g, Đương
 qui 12g, Nhục quế 2g, Cam thảo 4g, sắc uống.
 
-4.Trị chứng co giật cơ ( chủ yếu cơ cẳng chân co rút): dùng bài:
+4.Trị chứng co giật cơ (chủ yếu cơ cẳng chân co rút): dùng bài:
 
--  Thược dược Cam thảo thang ( Thương hàn luận): Bạch thược, Cam thảo,
+-  Thược dược Cam thảo thang (Thương hàn luận): Bạch thược, Cam thảo,
    mỗi thứ 16g, sắc uống.
 -  Hoặc dùng bài: Thược dược 30g, Quế chi, Cam thảo mỗi thứ 15g, Mộc qua
    10g, ngày 1 thang, sắc uống. Đã trị 85 ca, sau khi uống 3 - 5 thang
    hết co rút, một số ít tái phát nhẹ hơn, uống bài này vẫn có kết quả
-   tốt ( Triệu Ngọc hải, Bài Thược dược Cam thảo thang gia vị. Trị 85 ca
+   tốt (Triệu Ngọc hải, Bài Thược dược Cam thảo thang gia vị. Trị 85 ca
    co rút cơ sinh đôi cẳng chân, Tạp chí Trung y 1985,6:50).
 
 5.Trị chứng tăng sinh xương: dùng Bạch thược 30 - 60g, Mộc qua 12g, Kê
 huyết đằng 15g, Uy linh tiên 15g, Cam thảo 12g, tùy chứng gia giảm, ngày
 1 thang, sắc uống. Trị 160 ca, khỏi trước mắt 109 ca, kết quả tốt 42 ca,
-tiến bộ 1 ca, tỷ lệ khỏi 96,7% ( Vương chi Truật, Nhận xét về chứng
+tiến bộ 1 ca, tỷ lệ khỏi 96,7% (Vương chi Truật, Nhận xét về chứng
 xương tăng sinh điều trị bằng Thược dược Mộc qua thang, Báo Tân trung y
 1980,1:18).
 
@@ -146,14 +146,14 @@ giật, chân tay tê dại (người xưa cho Bạch thược là chủ dược
 âm), thường dùng phối hợp với thuốc dưỡng âm bổ khác như Mạch môn, Đương
 qui, Thục địa, dùng bài:
 
--  Bổ can thang ( Y tông kim giám): Bạch thược 20g, Đương qui, Thục địa
+-  Bổ can thang (Y tông kim giám): Bạch thược 20g, Đương qui, Thục địa
    mỗi thứ 16g, Táo nhân 20g, Mạch môn 12g, Xuyên khung, Mộc qua mỗi thứ
    8g, Cam thảo 4g, sắc nước uống.
 
 8.Trị ho gà: Bạch thược 15g, Cam thảo, tùy chứng gia vị. Ho nhiều gia
 Bách bộ, Bách hợp, khí suyễn đàm khò khè gia Đại long, Đình lịch, Ngô
 công .. . không dùng trụ sinh, ngày 1 thang sắc uống. Trị 33 ca đều khỏi
-( Trương Tường Phúc , Điều trị 33 ca ho gà bằng Thược dược Cam thảo
+(Trương Tường Phúc , Điều trị 33 ca ho gà bằng Thược dược Cam thảo
 thang gia vị, Tạp chí Trung y Hồ nam 1988,1:48).
 
 9.Trị hen suyễn: dùng Bạch thược 30g, Cam thảo 15g, tán bột mịn. Mỗi lần
@@ -166,7 +166,7 @@ trị hen suyễn, Tạp chí Trung y 1987,9:66).
 10.Trị chứng rung đùi: dùng Bạch thược, Cam thảo mỗi thứ 156g, sắc nước
 uống, gia nước 3 chén sắc còn 1 chén, chia 2 lần uống, sáng 1 lần và sau
 2 giờ uống 1 lần. Trị 54 ca, khỏi 48 ca, có kết quả rõ nhưng tái diễn 6
-ca, tỷ lệ kết quả 100% ( Đỗ Hạt Nhiên, Thược dược Cam thảo thang trị 54
+ca, tỷ lệ kết quả 100% (Đỗ Hạt Nhiên, Thược dược Cam thảo thang trị 54
 ca hội chứng rung đùi, Báo Trung y Hà bắc 1984,3:29).
 
 11.Trị tiểu đường: mỗi lần uống Cam thảo giáng đường phiến 4 - 8 viên (

@@ -4,10 +4,10 @@
 BẠC HÀ
 ======
 
-( Herba Menthae)
+(Herba Menthae)
 
-Là vị thuốc dùng toàn cây Bạc hà ( Mentha Arvensis L.) thuộc họ Hoa Môi
-( Labiatae). Vị cay tính mát, qui vào kinh Phế Can.
+Là vị thuốc dùng toàn cây Bạc hà (Mentha Arvensis L.) thuộc họ Hoa Môi
+(Labiatae). Vị cay tính mát, qui vào kinh Phế Can.
 
 Tác dụng dược lý:
 
@@ -16,7 +16,7 @@ Tác dụng dược lý:
 2.Trừ phong giảm đau: Tinh dầu Bạc hà bốc hơi nhanh gây cảm giác mát và
 tê tại chỗ, làm giảm đau giảm ngứa.
 
-3.Giải độc thúc sởi mọc nhanh ( theo y học cổ truyền)
+3.Giải độc thúc sởi mọc nhanh (theo y học cổ truyền)
 
 4.Bạc hà, tinh dầu bạc hà hay Menthol uống với liều rất nhỏ có thể gây
 hưng phấn, xúc tiến sự bài tiết của tuyến mồ hôi làm cho nhiệt độ cơ thể
@@ -37,7 +37,7 @@ ngăn sự lên men quả bình thường trong ruột.
    dùng bài: Bạc hà 4g, Ngưu bàng tử 12g, Xác ve 2g, Cam thảo 3g sắc
    uống.
 #. Trị chứng rối loạn tiêu hóa: (ăn không tiêu, đầy bụng, buồn nôn, đau
-   bụng tiêu chảy ..) dùng cồn Mộc hà thủy ( Mộc hương, Cam thảo, Bạc
+   bụng tiêu chảy ..) dùng cồn Mộc hà thủy (Mộc hương, Cam thảo, Bạc
    hà, Quế, Can khương, rượu 30 độ). Người lớn mỗi lần uống 25 - 30 giọt
    pha với 10 - 20ml nước sôi để nguội, trẻ em từ 2 -12 tuổi 2 giọt cho
    mỗi tối.
