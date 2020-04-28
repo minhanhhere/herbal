@@ -970,3 +970,12 @@ kbd, .kbd {
     /* display: none!important; */
     margin-top: 100px;
 }
+
+
+
+.section h2 {
+    border-left: solid 5px #8ec8c9;
+    padding-left: 10px;
+    background: #e5f2f2;
+    line-height: 45px;
+}

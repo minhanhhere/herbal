@@ -1,7 +1,7 @@
 .. _plants_bach_chi:
 
 ###########################
-BẠCH CHỈ (Radix Angelicea)
+Bạch chỉ (Radix Angelicea)
 ###########################
 
 Bạch chỉ (Hương bạch chỉ) là rễ của cây Bạch chỉ (Angelica dahurica

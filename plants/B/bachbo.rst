@@ -1,7 +1,7 @@
 .. _plants_bach_bo:
 
 ########################
-BÁCH BỘ (Radix Stemonae)
+Bách bộ (Radix Stemonae)
 ########################
 
 Bách bộ dùng làm thuốc được ghi đầu tiên trong sách Danh y biệt lục là
