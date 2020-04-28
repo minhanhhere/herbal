@@ -1,6 +1,6 @@
 
 
-BẠCH HOA XÀ THIỆT THẢO
+Bạch hoa xà thiệt thảo
 ======================
 
 (Herba Oldenlandiae Diffusae)

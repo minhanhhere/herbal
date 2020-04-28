@@ -1,6 +1,6 @@
 
 
-BẠCH MAO CĂN
+Bạch mao căn
 ============
 
 (Rhizoma Imperatae Cylindricae)

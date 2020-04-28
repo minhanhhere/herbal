@@ -1,6 +1,6 @@
 
 
-BỐI MẪU
+Bối mẫu
 =======
 
 (Bulbus Fritillariae)

@@ -1,6 +1,5 @@
 
-==============
-BẠCH CƯƠNG TÀM
+Bạch cương tàm
 ==============
 
 (Bombyx Botryticatus)

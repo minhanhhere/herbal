@@ -1,6 +1,6 @@
 
 
-BÁN HẠ
+Bán hạ
 ======
 
 (Rhizoma Pinelliae Ternatae)

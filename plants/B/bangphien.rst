@@ -1,4 +1,4 @@
-BĂNG PHIẾN
+Băng phiến
 ==========
 
 (Borneol)

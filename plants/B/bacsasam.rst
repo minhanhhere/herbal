@@ -1,6 +1,6 @@
 
 
-BẮC SA SÂM
+Bắc sa sâm
 ==========
 
 (Radix Glehniae Littoralis)

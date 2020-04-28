@@ -1,6 +1,6 @@
 
 
-BA KÍCH THIÊN
+Ba kích thiên
 =============
 
 (Radix Morindae Officinalis)

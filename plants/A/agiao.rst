@@ -4,7 +4,7 @@
 .. _plants_a_giao:
 
 ########################
-A GIAO (Gelatinum Asini)
+A giao (Gelatinum Asini)
 ########################
 
 A giao (Colla asini, Gelatinium Asini, Gelatina nugra) là keo chế từ da

@@ -1,6 +1,5 @@
 
-=============
-BẠCH ĐẬU KHẤU
+Bạch đậu khấu
 =============
 
 (Fructus Amomi Cardamomi)

@@ -1,6 +1,6 @@
 
 
-BÀNG ĐẠI HẢI
+Bàng đại hải
 ============
 
 (Semen Sterculiae Scaphigerae)

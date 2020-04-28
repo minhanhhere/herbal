@@ -1,6 +1,6 @@
 
 
-BỒ CỐT CHỈ
+Bồ cốt chỉ
 ==========
 
 (Fructus Psoraleae Corylifoliae)

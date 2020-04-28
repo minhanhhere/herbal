@@ -1,6 +1,6 @@
 
 
-BÁ TỬ NHÂN
+Bá tử nhân
 ==========
 
 (Semen Biotae Orientalis)

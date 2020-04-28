@@ -1,6 +1,6 @@
 
 
-BẠCH GIỚI TỬ
+Bạch giới tử
 ============
 
 (Semen sinapis Albae)

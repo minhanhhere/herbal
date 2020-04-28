@@ -1,6 +1,6 @@
 
 
-BẠCH TRUẬT
+Bạch truật
 ==========
 
 (Rhizoma atrclylodis macrocephalae)

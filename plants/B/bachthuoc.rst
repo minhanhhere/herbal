@@ -1,6 +1,6 @@
 
 
-BẠCH THƯỢC DƯỢC
+Bạch thược dược
 ===============
 
 (Radix Pacomiae Lactiflorae)

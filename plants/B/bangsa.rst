@@ -1,4 +1,4 @@
-BẰNG SA
+Bằng sa
 =======
 
 (Borax)

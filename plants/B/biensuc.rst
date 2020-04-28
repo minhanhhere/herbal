@@ -1,6 +1,6 @@
 
 
-BIỂN SÚC
+Biển súc
 ========
 
 (Herba Polygoni Avicularis)
