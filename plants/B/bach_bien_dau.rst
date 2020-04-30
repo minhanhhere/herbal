@@ -1,8 +1,11 @@
 .. _plants_bach_bien_dau:
 
-############################
-Bạch biển đậu (Semen Lablab)
-############################
+
+#############
+Bạch biển đậu
+#############
+
+**(Semen Lablab)**
 
 Hạt già phơi hay sấy khô của cây đậu ván trắng Dolichos lablab L (Lablab
 vulgaris savi). Họ đậu Fabaceae.
@@ -16,11 +19,16 @@ Tính vị qui kinh
 Ứng dụng lâm sàng
 =================
 
-#. Kiện tỳ hóa thấp: dùng trong các trường hợp tỳ hư tiết tả; hoặc vừa
-   thổ vừa tả. Phối hợp với Hương nhu, Tô diệp, Hậu phác. Để làm mạnh tỳ
-   vị bổ phế; phối hợp với Bạch truật, Đẳng sâm, Hoài sơn.
-#. Giải thử, giải độc: dùng khi bị cảm nắng (trúng thử). Trong trường
-   hợp này có thể dùng cả hoa biển đậu.
+**Kiện tỳ hóa thấp:**
+
+Dùng trong các trường hợp tỳ hư tiết tả; hoặc vừa
+thổ vừa tả. Phối hợp với Hương nhu, Tô diệp, Hậu phác. Để làm mạnh tỳ
+vị bổ phế; phối hợp với Bạch truật, Đẳng sâm, Hoài sơn.
+
+**Giải thử, giải độc:**
+
+Dùng khi bị cảm nắng (trúng thử). Trong trường
+hợp này có thể dùng cả hoa biển đậu.
 
 Liều dùng
 =========

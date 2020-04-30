@@ -1,9 +1,10 @@
+.. _plants_bach_gioi_tu:
 
-
+############
 Bạch giới tử
-============
+############
 
-(Semen sinapis Albae)
+**(Semen sinapis Albae)**
 
 Bạch giới tử (Sinapis, semen Sinapis hay Semen Brassicae Junceae), dùng
 làm thuốc được ghi đầu tiên trong sách Danh y biệt lục là hạt phơi hay
@@ -21,7 +22,8 @@ lúc làm thuốc giã vụn để dùng. Thường người ta quen gọi hạt
 Brassica Alba (L.) là Bạch giới tử, còn hạt của cây Brassica Juncea (L.)
 là Hoàng giới tử.
 
-Tác dụng qui kinh:
+Tác dụng qui kinh
+=================
 
 Bạch giới tử vị cay tính ôn, qui kinh phế.
 
@@ -33,7 +35,8 @@ Theo các sách thuốc cổ:
 -  Lôi công bào chế dược tính giải: nhập 2 kinh phế vị.
 -  Sách Bản thảo tân biên: nhập Can Tỳ Phế Vị Tâm và Tâm bào lạc.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Sinalbin, sinapine, myrosin,
 
@@ -42,9 +45,11 @@ chất men myroxin, sinapic acid, một ít alkaloid gọi là saponin, chất
 nhầy, protid và chưừng 37% chất béo, trong đó chủ yếu là este của
 sinapic acid, arachidic acid, linolenic acid.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Bạch giới tử có tác dụng: ôn phế trừ đàm, lợi khí tán kết thông lạc chỉ
 thống. Chủ trị các chứng: hàn đàm ủng phế, đàm ẩm khí nghịch, đàm thấp
@@ -67,7 +72,8 @@ nhau, tán bột mịn hồ viên nhỏ, uống sau khi ăn và trước khi đi
 lần 0,5 - 1g, có tác dụng trục đàm ẩm, trị viêm màng phổi, viêm màng
 bụng có nước, xơ gan cổ trướng kết hợp Đông tây y kết quả tốt.
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
 
 #. Men Myroxin thủy phân sinh ra dầu giới tử kích thích nhẹ niêm mạc bao
    tử gây phản xạ tăng tiết dịch khí quản mà có tác dụng hóa đàm.
@@ -75,22 +81,23 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    hơn gây phỏng nóng rát.
 #. Dung dịch nước 1:3 có tác dụng ức chế nấm ngoài da.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
 
-1.Trị viêm phế quản cấp mạn trẻ em:
+**Trị viêm phế quản cấp mạn trẻ em:**
 
 -  Bạch giới tử 100g tán bột, mỗi lần dùng 1/3 thêm bột mì trắng 90g,
    cho nước vào làm thành bánh, trước khi đi ngủ đắp vào lưng trẻ, sáng
    ngủ dậy bỏ đi, đắp 2 - 3 lần. Đã trị 50 ca kết quả tốt (Kỳ tú Hoa và
    cộng sự, Báo Trung y dược tỉnh Hắc Long giang 1988,1:29).
 
-2.Trị viêm phổi trẻ em:
+**Trị viêm phổi trẻ em:**
 
 -  Đắp Bạch giới tử ở ngực làm phương pháp hổ trợ trị viêm phổi trẻ em
    100 ca, thuốc có tác dụng tăng nhanh tiêu viêm (Trần nãi Cần, Tạp chí
    Trung tây y kết hợp 1986,2:24).
 
-3.Trị liệt thần kinh mặt ngoại biên:
+**Trị liệt thần kinh mặt ngoại biên:**
 
 -  Lấy Bạch giới tử hoặc Hoàng giới tử tán bột 5 - 10g, cho nước làm
    thành hồ, gói vào miếng gạc đắp vào chỗ liệt ơ ûmá giữa 3 huyệt: Địa
@@ -99,39 +106,41 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    137 ca trị một lần bỏ dở còn 915 ca tiếp tục theo dõi, tỷ lệ kết quả
    97,7% (Trương Chính Quảng, Tạp chí Trung Y Sơn đông,1986,5:25).
 
-4.Trị ho suyễn khó thở, đàm nhiều loãng:
+**Trị ho suyễn khó thở, đàm nhiều loãng:**
 
 -  Tam tử dưỡng thân thang (Hàn thi Y thông): Bạch giới tử 3g, Tô tử, La
    bạc tử đều 10g sắc uống.
 
-5.Trị đau các khớp do đàm trệ:
+**Trị đau các khớp do đàm trệ:**
 
 -  Bạch giới tử tán: Mộc miết tử 3g, Bạch giới tử, Một dược, Quế tăm,
    Mộc hương đều 10g, tán bột mịn làm thuốc tán, mỗi lần uống 3g, ngày 2
    lần, uống với rượu ấm càng tốt.
 
-6.Trị lao hạch lâm ba:
+**Trị lao hạch lâm ba:**
 
 -  Bạch giới tử, Hành củ lượng bằng nhau. Bạch giới tử tán bột trộn với
    Hành giã nát đắp ngày 1 lần cho đến khi lành.
 
-7.Trị nhọt sưng tấy (giai đoạn mới mắc chưa vỡ):
+**Trị nhọt sưng tấy (giai đoạn mới mắc chưa vỡ):**
 
 -  Bạch giới tử tán bột trộn giấm đắp.
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
--  Liều: 3 - 10g sắc uống, cho vào thuốc hoàn tán. Dùng ngoài lượng vừa
-   đủ, trộn dấm đắp.
--  Chú ý:
+Liều: 3 - 10g sắc uống, cho vào thuốc hoàn tán. Dùng ngoài lượng vừa
+đủ, trộn dấm đắp.
 
-+ Thuốc tính cay tán, thận trọng đối với các bệnh nhân âm hư hỏa vượng.
+.. caution::
 
-+ Thuốc không nên sắc lâu vì giảm tác dụng.
+   *  Thuốc tính cay tán, thận trọng đối với các bệnh nhân âm hư hỏa vượng.
 
-+ Không nên dùng lượng nhiều vì dễ gây tiêu chảy. Vì thuốc tiếp xúc với
-nước sinh ra Hydroxyt lưu huỳnh kích thích ruột làm tăng nhu động ruột.
+   *  Thuốc không nên sắc lâu vì giảm tác dụng.
 
-+ Thuốc đắp ngoài gây bỏng nên không dùng cho người dị ứng ngoài da.
+   *  Không nên dùng lượng nhiều vì dễ gây tiêu chảy. Vì thuốc tiếp xúc với
+      nước sinh ra Hydroxyt lưu huỳnh kích thích ruột làm tăng nhu động ruột.
+
+   *  Thuốc đắp ngoài gây bỏng nên không dùng cho người dị ứng ngoài da.
 
  

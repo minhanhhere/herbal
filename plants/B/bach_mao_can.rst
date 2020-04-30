@@ -1,3 +1,6 @@
+.. _plants_bach_mao_can:
+
+
 
 
 Bạch mao căn

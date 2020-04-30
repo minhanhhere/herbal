@@ -1,3 +1,6 @@
+.. _plants_bach_tat_le:
+
+
 Bạch tật lê
 ===========
 

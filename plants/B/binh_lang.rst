@@ -1,3 +1,6 @@
+.. _plants_binh_lang:
+
+
 
 
 Binh lang

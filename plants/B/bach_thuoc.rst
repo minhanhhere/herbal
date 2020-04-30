@@ -1,3 +1,6 @@
+.. _plants_bach_thuoc:
+
+
 
 
 Bạch thược dược

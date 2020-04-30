@@ -1,3 +1,6 @@
+.. _plants_bang_phien:
+
+
 Băng phiến
 ==========
 

@@ -1,3 +1,6 @@
+.. _plants_bo_cot_chi:
+
+
 
 
 Bồ cốt chỉ

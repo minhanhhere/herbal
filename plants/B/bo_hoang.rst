@@ -1,3 +1,6 @@
+.. _plants_bo_hoang:
+
+
 
 
 Bổ hoàng

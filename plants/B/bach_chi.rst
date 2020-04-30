@@ -1,8 +1,11 @@
 .. _plants_bach_chi:
 
-###########################
-Bạch chỉ (Radix Angelicea)
-###########################
+
+########
+Bạch chỉ
+########
+
+**(Radix Angelicea)**
 
 Bạch chỉ (Hương bạch chỉ) là rễ của cây Bạch chỉ (Angelica dahurica
 Benth et Hook ). Vị cay tính ấm, quy kinh Phế, Vị, Đại trường.
@@ -30,8 +33,7 @@ Tác dụng dược lý
 Ứng dụng lâm sàng
 =================
 
-1. Trị cảm mạo
---------------
+**Trị cảm mạo:**
 
 Đau đầu (đau trước trán nhiều) thường phối hợp với Phòng
 phong, Khương hoạt, ở phụ nữ có thai và sau đẻ bị cảm, đau đầu dùng
@@ -40,8 +42,7 @@ THANH THƯƠNG ẨM gồm: Bạch chỉ 12g, Xuyên khung 4g, Phòng phong 12g,
 Khương hoạt 8g, Hoàng cầm 8g, Sài hồ 8g, Kinh giới 8g, Cam thảo 4g: sắc
 nước uống.
 
-2. Trị các loại đau đầu khác
-----------------------------
+**Trị các loại đau đầu khác:**
 
 Đau đầu do thần kinh (đau nửa đầu), do
 viêm mũi, viêm xoang, đau lợi răng, đau thần kinh mặt, đau dạ dày. dùng
@@ -52,8 +53,7 @@ Bạc hà 6g, tán bột mịn, mỗi lần uống 4 -12g trị viêm mũi, đau
 Hoặc bài: Kinh giới, Phòng phong, Bạch chỉ mỗi thứ 12g, Thạch cao sống
 20g, sắc uống trị đau lợi răng.
 
-3. Trị ung nhọt sưng tấy; rắn cắn:
-----------------------------------
+**Trị ung nhọt sưng tấy; rắn cắn:**
 
 Có tác dụng giải độc tiêu sưng bài mủ.
 Dùng bài: Bạch chỉ, Tử hoa địa đinh, Liên kiều, Qua lâu, Bối mẫu mỗi thứ
@@ -63,8 +63,7 @@ chữa được ung nhọt và viêm tuyến vú.
 Bài BẠCH CHỈ HỘ TÂM TÁN: Bạch chỉ, Hùng hoàng, Nhũ hương, lượng bằng
 nhau uống với rượu ấm chữa rắn độc, rết cắn.
 
-4. Những công dụng khác
------------------------
+**Những công dụng khác:**
 
 Như dùng bột Bạch chỉ và Mai mực lượng bằng nhau
 mỗi lần uống 12g, trị chứng Bạch đới phụ nữ.

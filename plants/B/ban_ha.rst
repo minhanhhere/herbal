@@ -1,3 +1,6 @@
+.. _plants_ban_ha:
+
+
 
 
 Bán hạ

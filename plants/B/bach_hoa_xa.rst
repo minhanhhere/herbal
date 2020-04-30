@@ -1,3 +1,6 @@
+.. _plants_bach_hoa_xa:
+
+
 
 
 Bạch hoa xà thiệt thảo
