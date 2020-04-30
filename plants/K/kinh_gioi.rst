@@ -1,11 +1,7 @@
 .. _plants_kinh_gioi:
 
-
-
-
-KINH GIỚI
-
-(Herba seu Flos Schizoneptae Tennuifoliae)
+Kinh giới (Herba seu Flos Schizoneptae Tennuifoliae)
+####################################################
 
 Dùng cành, lá, hoa của cây Kinh giới (Elsholtzia cristata Willd họ Hoa
 môi (Lamiaceae) vị cay tính ấm qui kinh Phế Can.

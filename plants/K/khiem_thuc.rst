@@ -1,11 +1,7 @@
 .. _plants_khiem_thuc:
 
-
-
-
-KHIẾM THỰC
-
-(Semen Euryales Ferox)
+Khiếm thực (Semen Euryales Ferox)
+#################################
 
 Khiêm thực nguyên tên là Kê đầu thực, dùng làm thuốc được ghi đầu tiên
 trong sách Bản kinh là hạt chín phơi hay sấy khô của cây Khiếm thực (

@@ -1,11 +1,7 @@
 .. _plants_khien_nguu_tu:
 
-
-
-
-KHIÊN NGƯU TỬ
-
-(Semen Pharbitidis)
+Khiên ngưu tử (Semen Pharbitidis)
+#################################
 
 Khiên ngưu tử còn gọi là Hắc bạch sửu, Nhị sửu, Bìm bìm biếc, Lạt bát
 hoa tử, là hạt phơi khô của cây Khiên ngưu hay Bìm bìm biếc. Tên thực

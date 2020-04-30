@@ -1,9 +1,7 @@
 .. _plants_ke_huyet_dang:
 
-
-KÊ HUYẾT ĐẰNG
-
-Caulis Mucunae, Caulis Sargentodoxae
+Kê huyết đằng (Caulis Mucunae, Caulis Sargentodoxae)
+####################################################
 
 Là thân dây leo của cây Kê huyết đằng (Sargentodoxa cubeata) , họ Đậu
 Fabaceae.

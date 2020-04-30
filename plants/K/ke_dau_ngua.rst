@@ -1,9 +1,7 @@
 .. _plants_ke_dau_ngua:
 
-
-
-
-KÉ ĐẦU NGỰA
+Ké đầu ngựa
+###########
 
 Dùng quả toàn cây ké đầu ngựa còn gọi là Thương nhĩ tử Xanthium
 strumarium. Thường dùng quả.

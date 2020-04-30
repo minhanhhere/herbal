@@ -1,11 +1,7 @@
 .. _plants_khoan_dong_hoa:
 
-
-
-
-KHOẢN ĐÔNG HOA
-
-(Flos Tussilagi Farfarae)
+Khoản đông hoa (Flos Tussilagi Farfarae)
+########################################
 
 Khoản đông hoa dùng làm thuốc được ghi đầu tiên trong sách Bản kinh là
 hoa phơi hay sấy khô của cây Khoản đông, có tên thực vật là Tussilago

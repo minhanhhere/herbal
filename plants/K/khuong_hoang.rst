@@ -1,11 +1,7 @@
 .. _plants_khuong_hoang:
 
-
-
-
-KHƯƠNG HOÀNG
-
-(Rhizoma Curcumae )
+Khương hoàng (Rhizoma Curcumae )
+################################
 
 Khương hoàng dùng làm thuốc được ghi đầu tiên trong sách Tân tu bản thảo
 là thân rễ cây Nghệ (Rhizoma curcumae longae). Còn có tên trong sách là

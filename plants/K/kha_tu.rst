@@ -1,11 +1,7 @@
 .. _plants_kha_tu:
 
-
-
-
-KHA TỬ
-
-(Fructus Terminaliae Chebulae)
+Kha tử (Fructus Terminaliae Chebulae)
+#####################################
 
 Kha tử còn có tên là Kha lê lặc, Kha lê là quả chín phơi hay sấy khô của
 cây Kha tử (cây Chiêu liêu), tên thực vật là Terminalia chebula Retz

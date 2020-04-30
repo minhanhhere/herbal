@@ -1,11 +1,7 @@
 .. _plants_ke_noi_kim:
 
-
-
-
-KÊ NỘI KIM
-
-(Endithelium corneumgigeraiae Galli)
+Kê nội kim (Endithelium corneumgigeraiae Galli)
+###############################################
 
 Kê nội kim còn gọi là Kê hoàng bì, Kê chuân bì, Màng mào gà, Kê tố tử
 (tố là mề gà), dùng làm thuốc được ghi đầu tiên trong sách Bản kinh.

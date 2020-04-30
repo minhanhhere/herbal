@@ -1,11 +1,7 @@
 .. _plants_kim_tien_thao:
 
-
-
-
-KIM TIỀN THẢO
-
-(Herba Jinqiancao)
+Kim tiền thảo (Herba Jinqiancao)
+################################
 
 Kim tiền thảo còn có tên là Mắt trâu, Đồng tiền lông, Vảy rồng, Mắt
 rồng, dùng toàn cây làm thuốc được ghi đầu tiên trong sách Bản thảo

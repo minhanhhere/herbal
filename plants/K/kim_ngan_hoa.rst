@@ -1,11 +1,7 @@
 .. _plants_kim_ngan_hoa:
 
-
-
-
-KIM NGÂN HOA
-
-(Flos Lonicerae Japonicae)
+Kim ngân hoa (Flos Lonicerae Japonicae)
+#######################################
 
 Thuốc có nhiều tên gọi như Ngân hoa, Kim ngân hoa, Nhẫn đông, Song hoa,
 Nhị hoa là hoa của cây Kim ngân (Lonicera Japonica Thumb) thuộc họ Cơm

@@ -1,11 +1,7 @@
 .. _plants_kim_anh_tu:
 
-
-
-
-KIM ANH TỬ
-
-(Fructus Rosac Laevigatae)
+Kim anh tử (Fructus Rosac Laevigatae)
+#####################################
 
 Kim anh tử ccòn gọi là Thích Lê tử, Đường quân tử là quả gỉa hoặc đế hoa
 chín phơi hay sấy khô của cây Kim anh (Rosa Laevigata Michx) thuộc họ

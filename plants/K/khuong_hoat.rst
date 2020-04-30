@@ -1,11 +1,7 @@
 .. _plants_khuong_hoat:
 
-
-
-
-KHƯƠNG HOẠT
-
-(Rhizoma et radix Notopterygii)
+Khương hoạt (Rhizoma et radix Notopterygii)
+###########################################
 
 Khương hoạt là rễ và thân rễ (phần dưới đất) của cây Khương hoạt
 (Notopterygium incisium Ting Mss) thuộc họ Hoa tán (Umbelliferae) vị
