@@ -1,11 +1,7 @@
 .. _plants_ma_tien_tu:
 
-
-
-
-MÃ TIỀN TỬ
-
-(Semen Strychni)
+Mã tiền tử (Semen Strychni)
+###########################
 
 Mã tiền tử nguyên tên là Phan mộc miết dùng làm thuốc được ghi đầu tiên
 trong sách Bản thảo cương mục-quyển 18, là hạt chín phơi hay sấy khô của

@@ -1,11 +1,7 @@
 .. _plants_man_kinh_tu:
 
-
-
-
-MẠN KINH TỬ
-
-(Fructus Viticis)
+Mạn kinh tử (Fructus Viticis)
+#############################
 
 Mạn kinh tử là quả chín của cây Mạn kinh còn gọi là Quan âm bế (Vitex
 trifolia L, Vitex rotundifolia L. f.) phơi khô dùng sống hoặc tẩm rượu

@@ -1,9 +1,7 @@
 .. _plants_minh_phan:
 
-
-MINH PHÀN
-
-(Alunite)
+Minh phàn (Alunite)
+###################
 
 Minh phàn tức Phèn chua, còn gọi là Bạch phàn, dùng làm thuốc được ghi
 đầu tiên trong sách Bản kinh với tên là Phàn thạch được chế từ nguyên

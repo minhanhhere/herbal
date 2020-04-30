@@ -1,11 +1,7 @@
 .. _plants_mau_don_bi:
 
-
-
-
-MẪU ĐƠN BÌ
-
-(Cortes Mouton Radicis)
+Mẫu đơn bì (Cortes Mouton Radicis)
+##################################
 
 Còn gọi là Đơn bì, Phấn đơn bì, Hoa vương, Mộc thược dược, Thiên hương
 quốc sắc, Phú quí hoa là vỏ rễ của cây Mẫu đơn (Paeonia Sulfruticosa

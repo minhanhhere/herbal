@@ -1,11 +1,7 @@
 .. _plants_moc_qua:
 
-
-
-
-MỘC QUA
-
-(Fructus Chaenomelis Lagenariae)
+Mộc qua (Fructus Chaenomelis Lagenariae)
+########################################
 
 Mộc qua là quả chín phơi hay sấy khô của cây Mộc qua (Chaenomeles
 lagenaria (Loisel.) . Ở Trung quốc có khi dùng quả của cây Quang bì Mộc

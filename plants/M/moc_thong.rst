@@ -1,9 +1,7 @@
 .. _plants_moc_thong:
 
-
-MỘC THÔNG
-
-Caulis Clematidis Armandi
+Mộc thông (Caulis Clematidis Armandi)
+#####################################
 
 Dùng dây của cây Tiểu mộc thông Clematis Armandi Franch. Họ Mao lương
 Ranunculaceae phơi khô làm thuốc.

@@ -1,11 +1,7 @@
 .. _plants_moc_huong:
 
-
-
-
-MỘC HƯƠNG
-
-(Radix saussureae lappae)
+Mộc hương (Radix saussureae lappae)
+###################################
 
 Mộc hương là rễ phơi hay sấy khô của cây Mộc hương, dùng làm thuốc được
 ghi đầu tiên trong sách Bản kinh. Cây Mộc hương có nhiều loại, sách

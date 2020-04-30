@@ -1,11 +1,7 @@
 .. _plants_mach_mon:
 
-
-
-
-MẠCH MÔN ĐÔNG
-
-(Tuber Ophiopogonis)
+Mạch môn đông (Tuber Ophiopogonis)
+##################################
 
 Còn có tên là Thốn đông, Đại mạch đông, cây Lan tiên, được ghi đầu tiên
 trong sách Bản kinh với tên Mạch môn, là rễ, củ phơi hay sấy khô (Radix

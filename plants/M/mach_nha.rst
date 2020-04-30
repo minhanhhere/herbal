@@ -1,11 +1,7 @@
 .. _plants_mach_nha:
 
-
-
-
-MẠCH NHA
-
-(Fructus Hordei Vulgaris Germinantus)
+Mạch nha (Fructus Hordei Vulgaris Germinantus)
+##############################################
 
 Mạch nha dùng làm thuốc được ghi đầu tiên trong sách " Dược tính bản
 thảo" là hạt lúa mạch Hordeum Vulgare L thuộc họ Lúa (Gramineae) cho lên

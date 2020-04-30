@@ -1,11 +1,7 @@
 .. _plants_mau_le:
 
-
-
-
-MẪU LỆ
-
-(Concha Ostreae)
+Mẫu lệ (Concha Ostreae)
+#######################
 
 Mẫu lệ còn gọi là vỏ hàu, vỏ hà, tả Mẫu lệ (Trung quốc) là vỏ phơi khô
 của nhiều loại hà như Ostrea gigas Thunb O talienwhanensis Croos, O

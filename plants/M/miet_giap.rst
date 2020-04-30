@@ -1,11 +1,7 @@
 .. _plants_miet_giap:
 
-
-
-
-MIẾT GIÁP
-
-(Carapax Amydae Sinensis)
+Miết giáp (Carapax Amydae Sinensis)
+###################################
 
 Còn gọi là Mai ba ba, Thủy ngư xác, Giáp ngư, Miết xác, được ghi đầu
 tiên trong sách Bản kinh. Miết giáp là Mai con Ba ba gồm nhiều loại khác

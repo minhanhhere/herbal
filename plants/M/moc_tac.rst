@@ -1,11 +1,7 @@
 .. _plants_moc_tac:
 
-
-
-
-MỘC TẶC
-
-(Herba Equiseti Hiemalis)
+Mộc tặc (Herba Equiseti Hiemalis)
+#################################
 
 Dùng làm thuốc là toàn cây Mộc tặc (Equisetum Arvense L.) , (Equisetum
 hiemale L) còn gọi là Tiết cốt thảo, Mộc tặc thảo , Bút đầu thái, Cỏ

@@ -1,11 +1,7 @@
 .. _plants_ma_hoang:
 
-
-
-
-MA HOÀNG
-
-(Herba Ephedrae)
+Ma hoàng (Herba Ephedrae)
+#########################
 
 Ma hoàng là tên chung chỉ 3 loại thường dùng làm thuốc là Thảo ma hoàng
 (*Ephedra simica Stapt),* Mộc tặc ma hoàng *(Ephedra equisetima Bge),*

@@ -1,9 +1,7 @@
 .. _plants_mang_tieu:
 
-
-MANG TIÊU
-
-(Mirabilitum)
+Mang tiêu (Mirabilitum)
+#######################
 
 Mang tiêu còn gọi là Phác tiêu, Huyền minh phàn dùng làm thuốc được ghi
 đầu tiên trong sách Danh y biệt lục, có tên khoa học là Mirabilita

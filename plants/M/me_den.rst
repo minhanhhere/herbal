@@ -1,11 +1,7 @@
 .. _plants_me_den:
 
-
-
-
-MÈ ĐEN
-
-(Semen Sesami Indici)
+Mè đen (Semen Sesami Indici)
+############################
 
 Còn gọi là Hắc chi ma, Cự thắng tử, Hồ ma, Du tử miêu, được ghi đầu tiên
 trong sách Bản thảo với tên Hồ ma, Mè đen hay Vừng đen (Semen Sesami)

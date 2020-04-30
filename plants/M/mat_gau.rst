@@ -1,11 +1,7 @@
 .. _plants_mat_gau:
 
-
-
-
-MẬT GẤU
-
-(Fel Urisi)
+Mật gấu (Fel Urisi)
+###################
 
 Mật gấu (Hùng đởm ) là túi mật phơi khô hay sấy khô của nhiều loại gấu.
 Ở Việt nam thường dùng loại Gấu ngựa (Sélénaretos thibetanus Cuvier),

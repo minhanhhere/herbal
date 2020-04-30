@@ -1,9 +1,7 @@
 .. _plants_mot_duoc:
 
-
-MỘT DƯỢC
-
-(Myrrha)
+Một dược (Myrrha)
+#################
 
 Một dược dùng làm thuốc được ghi đầu tiên trong sách " Dược tính bản
 thảo", là chất nhựa dầu lấy ở cây Một dược (Commiphora Myrrha Engl.)
