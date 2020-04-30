@@ -1,15 +1,9 @@
 .. _plants_ngau_tiet:
 
+Ngẫu tiết (Nodus Nelumbinis Nuciferae Rhizomatis)
+#################################################
 
-
-
-NGẪU TIẾT
-
-(Ngó sen)
-
-(Nodus Nelumbinis Nuciferae Rhizomatis)
-
-Ngẫu tiết cũng gọi là Liên ngẫu là thân rễ đốt (phần trong bùn) phơi
+Ngẫu tiết (Ngó sen) cũng gọi là Liên ngẫu là thân rễ đốt (phần trong bùn) phơi
 hay sấy khô của cây sen Nelumbo nucifera Gaertn thuộc họ Sen (
 Nelumboneae), dùng làm thuốc được ghi đầu tiên trong sách " Dược tính
 bản thảo". Cây sen được trồng nhiều nơi trong nước ta để ăn, làm cảnh và

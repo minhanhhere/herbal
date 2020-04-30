@@ -1,11 +1,7 @@
 .. _plants_nhan_sam:
 
-
-
-
-NHÂN SÂM
-
-(Radix Ginseng)
+Nhân sâm (Radix Ginseng)
+########################
 
 Nhân sâm (Radix Ginseng hay Radix ginseng Sylvestris) là rễ chế phơi
 sấy khô của cây Nhân sâm (Panax ginseng C.A.Mey). Có hai loại Nhân sâm:

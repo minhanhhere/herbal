@@ -1,11 +1,7 @@
 .. _plants_nha_dam_tu:
 
-
-
-
-NHA ĐẢM TỬ
-
-(Fructus Brucae Javamiceae)
+Nha đảm tử (Fructus Brucae Javamiceae)
+######################################
 
 Còn có tên là cây Cứt dê, Khổ sâm cho hạt, Sầu đâu rừng, Sầu đâu cứt
 chuột, Xoan rừng, Cứt cò (Vĩnh linh), Hạt bỉnh (Nghệ an), Khổ luyện tử.

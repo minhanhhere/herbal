@@ -1,11 +1,7 @@
 .. _plants_ngu_linh_chi:
 
-
-
-
-NGŨ LINH CHI
-
-(Faeces Trogopterum)
+Ngũ linh chi (Faeces Trogopterum)
+#################################
 
 Ngũ linh Chi là phân khô của một loài sóc Trogopterus xanthipes Milne-
 Edwards thuộc họ Sóc bay (Petauristidae), có nhiều ở Trung quốc tại các

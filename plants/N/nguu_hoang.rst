@@ -1,11 +1,7 @@
 .. _plants_nguu_hoang:
 
-
-
-
-NGƯU HOÀNG
-
-(Calculus Bovis)
+Ngưu hoàng (Calculus Bovis)
+###########################
 
 Ngưu hoàng dùng làm thuốc được ghi đầu tiên trong sách Bản kinh là sạn ở
 túi mật (một phần nhỏ là sạn của ống mật và ống gan) của con Bò tót (

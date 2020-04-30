@@ -1,9 +1,7 @@
 .. _plants_nhuc_thung_dung:
 
-
-NHỤC THUNG DUNG
-
-(Herba Cistanches)
+Nhục thung dung (Herba Cistanches)
+##################################
 
 Nhục thung dung là toàn thân cây mang lá hình vảy (Caulis Cistanchis).
 Hiện trên thị trường có dùng nhiều loại:

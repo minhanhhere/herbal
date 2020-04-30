@@ -1,11 +1,7 @@
 .. _plants_ngu_gia_bi:
 
-
-
-
-NGŨ GIA BÌ
-
-(Cortex Acanthopanacis Radicis)
+Ngũ gia bì (Cortex Acanthopanacis Radicis)
+##########################################
 
 Ngũ gia bì làm thuốc được ghi đầu tiên trong sách Bản kinh còn có tên là
 Xuyên Gia bì, Thích gia bì, Nam gia bì là vỏ rễ phơi khô của cây Ngũ gia

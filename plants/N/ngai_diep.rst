@@ -1,11 +1,7 @@
 .. _plants_ngai_diep:
 
-
-
-
-NGÃI DIỆP
-
-(Folium Artemisiae Argyi)
+Ngãi diệp (Folium Artemisiae Argyi)
+###################################
 
 Ngãi diệp là lá phơi hay sấy khô của cây Ngãi cứu (Artemisia Argyi
 Level et Vant ) cũng có tên là Artemisia Vulgaris L thuộc họ Cúc

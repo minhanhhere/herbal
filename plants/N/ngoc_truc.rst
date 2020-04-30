@@ -1,11 +1,7 @@
 .. _plants_ngoc_truc:
 
-
-
-
-NGỌC TRÚC
-
-(Rhizoma Polygonati Odorati)
+Ngọc trúc (Rhizoma Polygonati Odorati)
+######################################
 
 Ngọc trúc dùng làm thuốc được ghi đầu tiên trong sách Bản kinh với tên
 Nữ ủy, là thân rễ phơi hay sấy khô của cây Ngọc trúc(Polygonatum

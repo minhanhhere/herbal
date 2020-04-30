@@ -1,11 +1,7 @@
 .. _plants_nga_truat:
 
-
-
-
-NGA TRUẬT
-
-(Rhizoma Zedoariae)
+Nga truật (Rhizoma Zedoariae)
+#############################
 
 Nga truật là thân rễ phơi khô của cây Ngãi tím Curcuma Zedoaria Rosc.
 Thuộc họ Gừng (Zingiberaceae), dùng làm thuốc được ghi đầu tiên trong

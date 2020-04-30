@@ -1,11 +1,7 @@
 .. _plants_nhan_tran_cao:
 
-
-
-
-NHÂN TRẦN CAO
-
-(Herba Artemesiae Capillaris)
+Nhân trần cao (Herba Artemesiae Capillaris)
+###########################################
 
 Nhân trần cao là lá và mầm non của cây Nhân trần có tên thực vật
 Artemisia capillar aris (Thnb) hoặc có tên thực vật là Artemisia

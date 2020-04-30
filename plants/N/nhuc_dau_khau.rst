@@ -1,11 +1,7 @@
 .. _plants_nhuc_dau_khau:
 
-
-
-
-NHỤC ĐẬU KHẤU
-
-(Semen Myristicae Fragranticis)
+Nhục đậu khấu (Semen Myristicae Fragranticis)
+#############################################
 
 Nhục đậu khấu còn có tên là Nhục quả, Ngọc quả dùng làm thuốc được ghi
 đầu tiên trong sách Dược tính bản thảo, là nhân phơi khô hay quả chín

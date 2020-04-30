@@ -1,11 +1,7 @@
 .. _plants_ngu_vi_tu:
 
-
-
-
-NGŨ VỊ TỬ
-
-(Fructus Schisandrae Chinensis)
+Ngũ vị tử (Fructus Schisandrae Chinensis)
+#########################################
 
 Ngũ vị tử dùng làm thuốc được ghi đầu tiên trong sách Bản kinh, có tên
 gọi là Ngũ vị tử vì thuốc có đủ 5 vị, còn có tên là Ngũ mai tử.

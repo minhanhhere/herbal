@@ -1,11 +1,7 @@
 .. _plants_ngu_tinh_thao:
 
-
-
-
-NGƯ TINH THẢO
-
-(Herba Houttuyniae Cordatae)
+Ngư tinh thảo (Herba Houttuyniae Cordatae)
+##########################################
 
 Còn gọi là cây Lá giáp, cây Diếp cá. Bộ phận dùng làm thuốc là toàn cây
 Ngư tinh thảo (Houttuynia cordata Thumb), thuộc họ Lá giáp

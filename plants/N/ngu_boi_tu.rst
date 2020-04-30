@@ -1,11 +1,7 @@
 .. _plants_ngu_boi_tu:
 
-
-
-
-NGŨ BỘI TỬ
-
-(Galla Rhi Chinesis)
+Ngũ bội tử (Galla Rhi Chinesis)
+###############################
 
 Ngũ bội tử là những túi đặc biệt do nhộng của con sâu Ngũ bội tử (
 Melaphis chinensis (Bell) Baker), ký sinh trên những cuống lá và cành

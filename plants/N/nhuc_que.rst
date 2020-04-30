@@ -1,11 +1,7 @@
 .. _plants_nhuc_que:
 
-
-
-
-NHỤC QUẾ
-
-(Cortex Cinnamomi Cassiae)
+Nhục quế (Cortex Cinnamomi Cassiae)
+###################################
 
 Nhục quế dùng làm thuốc được ghi đầu tiên trong sách Bản kinh " còn gọi
 là Ngọc Thụ, Quế đơn, Quế bì", là vỏ khô của cành to cây Quế, tên thực

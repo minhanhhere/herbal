@@ -1,9 +1,7 @@
 .. _plants_nhu_huong:
 
-
-NHŨ HƯƠNG
-
-(Gummi Olibanum)
+Nhũ hương (Gummi Olibanum)
+##########################
 
 Nhũ hương dùng làm thuốc được ghi đầu tiên trong sách "Danh y biệt lục"
 . Tên La tinh là Mastic hay Olibanum là chất nhựa dầu lấy ở cây Nhũ

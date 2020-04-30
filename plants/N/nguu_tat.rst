@@ -1,11 +1,7 @@
 .. _plants_nguu_tat:
 
-
-
-
-XUYÊN NGƯU TẤT
-
-(Radix Achyranthis Bidentatae)
+Xuyên ngưu tất (Radix Achyranthis Bidentatae)
+#############################################
 
 Ngưu tất dùng làm thuốc được ghi đầu tiên trong sách Bản kinh là rễ phơi
 hay sấy khô của nhiều loài Ngưu tất thường gặp là Hoài Ngưu tất

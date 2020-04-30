@@ -1,11 +1,7 @@
 .. _plants_ngo_cong:
 
-
-
-
-NGÔ CÔNG
-
-(Scolopendra Subspinipes)
+Ngô công (Scolopendra Subspinipes)
+##################################
 
 Ngô công còn có tên là con Rết, Thiên long, Bách túc trùng, Bách cước,
 tiếng Anh gọi là Centipede, có tên khoa học là Scolopendra subspinipes

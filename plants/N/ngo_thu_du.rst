@@ -1,11 +1,7 @@
 .. _plants_ngo_thu_du:
 
-
-
-
-NGÔ THÙ DU
-
-(Fructuc Evodiae Rutaecarpae)
+Ngô thù du (Fructuc Evodiae Rutaecarpae)
+########################################
 
 Ngô thù du còn gọi là Ngô thù, Thù du, Ngô wu là quả chín phơi khô của
 cây Ngô thù du có tên thực vật là Evodia rutaecarpa (Juss.) Benth thuộc

@@ -1,11 +1,7 @@
 .. _plants_nguu_bang_tu:
 
-
-
-
-NGƯU BÀNG TỬ
-
-(Fructus Arctii Lappae)
+Ngưu bàng tử (Fructus Arctii Lappae)
+####################################
 
 Ngưu bàng tử là quả chín của cây Ngưu bàng (Arctium lappa L ) thuộc họ
 Cúc (Compositiae). Vị cay đắng tính hàn, qui kinh Phế Vị.
