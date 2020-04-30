@@ -1,11 +1,7 @@
 .. _plants_xa_tien_tu:
 
-
-
-
-XA TIỀN TỬ
-
-(Semen plantaginis)
+Xa tiền tử (Semen plantaginis)
+##############################
 
 Còn gọi là hạt Mã đề, là hạt phơi hay sấy khô của cây Mã đề có tên thực
 vật là Plantago asiatica L hoặc Plantago depressa Wild thuộc họ Mã đề để

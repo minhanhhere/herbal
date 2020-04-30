@@ -1,11 +1,7 @@
 .. _plants_xuyen_khung:
 
-
-
-
-XUYÊN KHUNG
-
-(Radix Ligustici Wallichii)
+Xuyên khung (Radix Ligustici Wallichii)
+#######################################
 
 Xuyên khung dùng làm thuốc được ghi đầu tiên trong sách Bản kinh, là
 thân rễ phơi hay sấy khô của cây Xuyên khung (Ligusticum Wallichi

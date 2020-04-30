@@ -1,11 +1,7 @@
 .. _plants_xuyen_tam_lien:
 
-
-
-
-XUYÊN TÂM LIÊN
-
-(Herba Andrographis paniculatae)
+Xuyên tâm liên (Herba Andrographis paniculatae)
+###############################################
 
 Còn gọi là cây Công cộng, Nhất kiến hỷ, Lãm hạch liên, Khổ đởm thảo (
 Roides amers, Green chireta). Dùng toàn cây hoặc lá phơi khô của cây

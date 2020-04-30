@@ -1,11 +1,7 @@
 .. _plants_y_di_nhan:
 
-
-
-
-Ý DĨ NHÂN
-
-(Hạt Bo bo)
+Ý dĩ nhân (Hạt Bo bo)
+#####################
 
 Coix lachayma jobi Linca thuộc họ Lúa.
 

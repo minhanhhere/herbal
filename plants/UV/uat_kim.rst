@@ -1,11 +1,7 @@
 .. _plants_uat_kim:
 
-
-
-
-UẤT KIM
-
-(Tuber Curcumae)
+Uất kim (Tuber Curcumae)
+########################
 
 Uất kim được ghi đầu tiên trong sách " Dược tính bản thảo" là củ rễ cây
 Nghệ (Curcuma Longa L., Curcuma domestica Lour), thuộc họ Gừng (

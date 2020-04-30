@@ -1,11 +1,7 @@
 .. _plants_xa_can:
 
-
-
-
-XẠ CAN
-
-(Rhizoma Belamcandar Chinensis)
+Xạ can (Rhizoma Belamcandar Chinensis)
+######################################
 
 Xạ can còn gọi là cây Rẽ quạt, Biển trúc là thân rễ phơi hay sấy khô của
 cây Rẽ quạt (Belamcanda sinensis (L) DC. ) thuộc họ Lay ơn (Iridaceae),

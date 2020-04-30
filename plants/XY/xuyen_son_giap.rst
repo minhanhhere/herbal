@@ -1,11 +1,7 @@
 .. _plants_xuyen_son_giap:
 
-
-
-
-XUYÊN SƠN GIÁP
-
-(Squama Manitis Pentadactylae)
+Xuyên sơn giáp (Squama Manitis Pentadactylae)
+#############################################
 
 Xuyên sơn giáp là vẩy phơi khô của con Tê tê (con Trút) Manis
 Pentadactyla L. thuộc họ Tê tê (Manidae), dùng làm thuốc được ghi đầu

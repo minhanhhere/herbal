@@ -1,11 +1,7 @@
 .. _plants_xa_huong:
 
-
-
-
-XẠ HƯƠNG
-
-(Secretio Moschus Moschiferi)
+Xạ hương (Secretio Moschus Moschiferi)
+######################################
 
 Xạ hương dùng làm thuốc được ghi đầu tiên trong sách Bản kinh, là chất
 tiết khô đựng trong túi thơm của con Chồn hương (Hươu xạ) đực đã trưởng

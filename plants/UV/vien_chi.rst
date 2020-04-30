@@ -1,11 +1,7 @@
 .. _plants_vien_chi:
 
-
-
-
-VIỄN CHÍ
-
-(Radix Polygalae Tenuifoliae)
+Viễn chí (Radix Polygalae Tenuifoliae)
+######################################
 
 Viễn chí còn gọi là Tiểu thảo, Nam Viễn chí, Viễn chí nhục, Quan Viễn
 chí, Viễn chí đồng là rễ khô của cây Viễn chí lá nhỏ (polygala

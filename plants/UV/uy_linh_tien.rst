@@ -1,11 +1,7 @@
 .. _plants_uy_linh_tien:
 
-
-
-
-UY LINH TIÊN
-
-(Radix Clematidis)
+Uy linh tiên (Radix Clematidis)
+###############################
 
 Uy linh tiên dùng làm thuốc được ghi đầu tiên trong sách Tân tu bản thảo
 là thân rễ phơi hay sấy khô của cây Uy linh tiên có tên khoa học là

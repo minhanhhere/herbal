@@ -1,11 +1,7 @@
 .. _plants_xa_thoai:
 
-
-
-
-XÀ THOÁI
-
-(Periostracum Serpentis)
+Xà thoái (Periostracum Serpentis)
+#################################
 
 Xà thoái là xác lột của rắn thường là loại rắn Elaphe taeniurus Cope, E.
 Carinata (Guenther), Dinondon rufosonatum (Cantor).

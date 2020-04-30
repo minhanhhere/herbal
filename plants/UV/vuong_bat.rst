@@ -1,11 +1,7 @@
 .. _plants_vuong_bat:
 
-
-
-
-VƯƠNG BẤT LƯU HÀNH
-
-(Semen Vaccaria segetalis)
+Vương bất lưu hành (Semen Vaccaria segetalis)
+#############################################
 
 Vương bất lưu hành là quả của một loài cây Xộp Vaccaria segetalis (Neck)
 Garcke, dùng làm thuốc được ghi đầu tiên trong sách Bản kinh. Ở nước ta

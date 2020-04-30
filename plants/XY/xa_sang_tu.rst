@@ -1,11 +1,7 @@
 .. _plants_xa_sang_tu:
 
-
-
-
-XÀ SÀNG TỬ
-
-(Semen Cnidii Monnieri)
+Xà sàng tử (Semen Cnidii Monnieri)
+##################################
 
 Xà sàng tử dùng làm thuốc được ghi đầu tiên trong sách Bản kinh, còn gọi
 là Xà sàng thực là quả chín phơi hay sấy khô của cây Xà sàng có tên thực

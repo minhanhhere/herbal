@@ -1,10 +1,7 @@
 .. _plants_xich_thuoc:
 
-
-
-
-| XÍCH THƯỢC
-| (Radix Paeonice Rubra)
+Xích thược (Radix Paeonice Rubra)
+#################################
 
 Bộ phận làm thuốc là rễ phơi hay sấy khô của 3 loài Thược dược: Xuyên
 Xích thược (Paeonia Veitchii Lynch); Noãn diệp thược dược hay Thảo thược
