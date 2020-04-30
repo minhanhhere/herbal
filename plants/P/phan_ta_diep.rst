@@ -1,8 +1,7 @@
+.. _plants_phan_ta_diep:
 
-
-PHAN TẢ DIỆP
-
-(Folium Sennae)
+Phan tả diệp (Folium Sennae)
+############################
 
 Phan tả diệp là lá phơi hay sấy khô của cây Phan tả diệp lá hẹp Cassia
 Angustifolia Vahl hay cây Phan tả diệp lá nhọn Cassia Acutifolia đều

@@ -1,8 +1,7 @@
+.. _plants_que_chi:
 
-
-QUẾ CHI (Quế chi tiêm)
-
-Ramulus Cinnamomi
+Quế chi (Quế chi tiêm, Ramulus Cinnamomi)
+#########################################
 
 Quế chi là cành quế con phơi khô làm thuốc (hoặc vỏ của cành quế con của
 cây quế (Cinamomum cassia Blume) Vị cay ngọt, tính ôn qui kinh Phế, Tâm,

@@ -1,8 +1,7 @@
+.. _plants_ran_ho_mang:
 
-
-RẮN HỒ MANG
-
-(Bạch hoa xà)
+Rắn hồ mang (Bạch hoa xà)
+#########################
 
 Rắn dùng làm thuốc có nhiều loài, thường là những loài rắn độc. Tài liệu
 này chủ yếu giới thiệu loài rắn hổ mang Ancistrodons acutus (Gunther) có

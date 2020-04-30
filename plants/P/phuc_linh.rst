@@ -1,8 +1,7 @@
+.. _plants_phuc_linh:
 
-
-PHỤC LINH
-
-(Sclerotium Poriae Cocos)
+Phục linh (Sclerotium Poriae Cocos)
+###################################
 
 Còn có tên là Bạch linh, Bạch phục linh là một loại nấm mọc ký sinh trên
 rễ cây Thông, có tên thực vật là Poria cocos (Schw). Wolf thuộc họ nấm

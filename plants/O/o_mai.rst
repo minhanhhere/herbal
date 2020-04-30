@@ -1,8 +1,7 @@
+.. _plants_o_mai:
 
-
-Ô MAI
-
-(Fructus Prunl Mume)
+Ô mai (Fructus Prunl Mume)
+##########################
 
 Ô mai còn gọi là Hạnh, Khổ hạnh nhân, Abricotier (Pháp) dùng làm thuốc
 được ghi đầu tiên trong sách Bản kinh với nguyên tên là Mai thực, là quả

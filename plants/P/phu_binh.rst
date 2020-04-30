@@ -1,8 +1,7 @@
+.. _plants_phu_binh:
 
-
-PHÙ BÌNH
-
-(Herba Lemnae seu Spirodelae)
+Phù bình (Herba Lemnae seu Spirodelae)
+######################################
 
 Là toàn cây Phù bình (Spirodela polyrhiza Schleid) khác với vị Bèo cái
 hoặc còn gọi là Đại phù bình, Bèo tía, Bèo ván. Tên khoa học là Pista

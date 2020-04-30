@@ -1,8 +1,7 @@
+.. _plants_qua_lau:
 
-
-QUA LÂU
-
-(Fructus Trichosanthis)
+Qua lâu (Fructus Trichosanthis)
+###############################
 
 Qua lâu nguyên có tên là Qua lâu thực, còn gọi là Dược qua, dùng làm
 thuốc được ghi đầu tiên trong sách Danh y biệt lục, là quả chín phơi hay

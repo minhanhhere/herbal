@@ -1,8 +1,7 @@
+.. _plants_rau_sam:
 
-
-RAU SAM
-
-(Herba portulaxae Oleracere)
+Rau sam (Herba portulaxae Oleracere)
+####################################
 
 Cong gọi là Mã xĩ hiện, Mã xĩ thái, dùng toàn cây Rau sam (Portulaca
 oleraceae L.) thuộc họ Rau Sam (Portulacaceae). Rau sam dùng làm thuốc

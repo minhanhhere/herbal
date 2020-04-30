@@ -1,8 +1,7 @@
+.. _plants_quyet_minh_tu:
 
-
-QUYẾT MINH TỬ
-
-(Semen cassiae)
+Quyết minh tử (Semen cassiae)
+#############################
 
 Quyết minh tử còn gọi là Thảo quyết minh. Hạt Muồng là hạt chín phơi khô
 hay sấy khô của cây Muồng có tên thực vật là Cassia Obtusifolia L. hoặc

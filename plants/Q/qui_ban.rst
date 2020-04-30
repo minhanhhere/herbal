@@ -1,8 +1,7 @@
+.. _plants_qui_ban:
 
-
-QUI BẢN
-
-(Plastrum Testudinis)
+Qui bản (Plastrum Testudinis)
+#############################
 
 Qui bản còn có tên Yếm rùa, Kim qui, Qui giáp, đầu tiên ghi trong sách
 Bản kinh với tên Qui giáp, Qui bản (Carapax Testudinis) là cái yếm của

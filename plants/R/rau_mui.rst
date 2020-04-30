@@ -1,8 +1,7 @@
+.. _plants_rau_mui:
 
-
-RAU MÙI
-
-(Hồ tuy, Nguyên tuy, Rau ngò)
+Rau mùi (Hồ tuy, Nguyên tuy, Rau ngò)
+#####################################
 
 (Herba Coriandri Sativi)
 

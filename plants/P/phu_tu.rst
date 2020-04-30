@@ -1,8 +1,7 @@
+.. _plants_phu_tu:
 
-
-PHỤ TỬ
-
-(Radix Aconiti Camichaeli)
+Phụ tử (Radix Aconiti Camichaeli)
+#################################
 
 Phụ tử là rễ củ con của cây Ô đầu (Aconitum Camichaeli Debx.) còn có tên
 khoa học là Aconitum sinense Paxt, thuộc họ Mao lương (Ranunculaceae).

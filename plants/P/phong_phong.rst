@@ -1,8 +1,7 @@
+.. _plants_phong_phong:
 
-
-PHÒNG PHONG
-
-(Radix Ledebouriellae Sesloidis)
+Phòng phong (Radix Ledebouriellae Sesloidis)
+############################################
 
 Dùng rễ khô của cây Phòng phong (Ledebouriellaseseloides (Hoffm) Wolff).
 Vị cay ngọt, tính ấm, qui kinh Bàng quang, Can.

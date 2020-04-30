@@ -1,8 +1,7 @@
+.. _plants_re_lau:
 
-
-RỄ LAU
-
-(Rhizoma Rhragmitis Communis)
+Rễ lau (Rhizoma Rhragmitis Communis)
+####################################
 
 Còn có tên là Rễ sậy, Lô can, Vĩ kinh, Vĩ căn.
 

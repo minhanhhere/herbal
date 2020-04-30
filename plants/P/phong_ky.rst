@@ -1,8 +1,7 @@
+.. _plants_phong_ky:
 
-
-PHÒNG KỶ
-
-(Radix Stephaniae Tetrandrae)
+Phòng kỷ (Radix Stephaniae Tetrandrae)
+######################################
 
 Phấn Phòng kỷ còn gọi là Hán Phòng kỷ, dùng làm thuốc được ghi đầu tiên
 trong sách Bản kinh, là rễ phơi hay sấy khô của cây Phấn Phòng kỷ

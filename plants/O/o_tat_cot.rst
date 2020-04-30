@@ -1,6 +1,7 @@
-Ô TẶC CỐT
+.. _plants_o_tat_cot:
 
-(Os Sepiae seu Sepiellae)
+Ô tặc cốt (Os Sepiae seu Sepiellae)
+###################################
 
 Ô tặc cốt tức Mai mực còn có Hải phiêu tiêu dùng làm thuốc được ghi đầu
 tiên trong sách Bản kinh là mai con Mực (Sepia esculenta Hoyle hay

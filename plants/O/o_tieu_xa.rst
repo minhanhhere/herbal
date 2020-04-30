@@ -1,6 +1,7 @@
-Ô TIÊU XÀ
+.. _plants_o_tieu_xa:
 
-(Zaocys dhumnades (Cantor))
+Ô tiêu xà (Zaocys dhumnades (Cantor))
+#####################################
 
 Cũng gọi là Ô hoa xà, Hắc hoa xà, Hoàng phong xà, Thanh xà. Bỏ nội tạng
 sấy hoặc phơi khô dùng làm thuốc. Tính vị ngọt bình không độc.

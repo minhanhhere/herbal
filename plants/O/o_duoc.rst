@@ -1,8 +1,7 @@
+.. _plants_o_duoc:
 
-
-Ô DƯỢC
-
-(Radix linderae strychnifoliae)
+Ô dược (Radix linderae strychnifoliae)
+######################################
 
 Ô dược hay Thiên thai ô dược dùng làm thuốc được ghi đầu tiên trong sách
 " Bản thảo thập di" là rễ phơi hay sấy khô của cây Thiên thai Ô dược
