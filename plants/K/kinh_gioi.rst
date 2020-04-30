@@ -1,4 +1,7 @@
-|image0|
+.. _plants_kinh_gioi:
+
+
+
 
 KINH GIỚI
 
@@ -53,7 +56,7 @@ Lượng thường dùng: 6-12g; dùng tươi lượng gấp 3-4 lần.
 Chú ý dùng thuốc: Kinh giới tuệ tác dụng mạnh hơn. Không dùng đối với
 nhọt lở đã chảy mủ, trẻ em sởi thời kỳ toàn phát và hồi phục.
 
-.. |image0| image:: KINHGIOI.JPG
+..  image:: KINHGIOI.JPG
    :width: 50px
    :height: 50px
    :target: KINHGIOI_.htm

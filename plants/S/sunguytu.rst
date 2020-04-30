@@ -1,4 +1,4 @@
-|image0|
+
 
 SUNG ÚY TỬ
 
@@ -29,7 +29,7 @@ Liều dùng và chú ý:
 
  
 
-.. |image0| image:: SUNGUYTU.JPG
+..  image:: SUNGUYTU.JPG
    :width: 50px
    :height: 50px
    :target: SUNGUYTU_.htm

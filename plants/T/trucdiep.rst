@@ -1,4 +1,4 @@
-|image0|
+
 
 TRÚC DIỆP
 
@@ -39,7 +39,7 @@ Liều thường dùng và chú ý:
 -  Liều thường dùng: 8 - 24g.
 -  Không dùng đối với bệnh có chứng hư hàn.
 
-.. |image0| image:: TRUCDIEP.JPG
+..  image:: TRUCDIEP.JPG
    :width: 50px
    :height: 50px
    :target: TRUCDIEP_.htm

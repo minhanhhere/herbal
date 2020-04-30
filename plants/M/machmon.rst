@@ -1,4 +1,4 @@
-|image0|
+
 
 MẠCH MÔN ĐÔNG
 
@@ -118,7 +118,7 @@ Liều lượng và chú ý lúc dùng:
    tán, dùng cường tim liều cao hơn.
 -  Thận trọng lúc dùng thuốc cho bệnh nhân tiêu chảy.
 
-.. |image0| image:: MACHMON.JPG
+..  image:: MACHMON.JPG
    :width: 50px
    :height: 50px
    :target: MACHMON_.HTM

@@ -1,4 +1,4 @@
-|image0|
+
 
 PHÒNG PHONG
 
@@ -74,7 +74,7 @@ Chú ý lúc dùng thuốc: Trường hợp huyết hư sinh phong hoặc nhiệ
 phong (co giật) không dùng. Dùng thận trọng đối với chứng âm hư hỏa
 vượng.
 
-.. |image0| image:: PHONGPHONG.JPG
+..  image:: PHONGPHONG.JPG
    :width: 50px
    :height: 50px
    :target: PHONGPHONG_.htm

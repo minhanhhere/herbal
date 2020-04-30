@@ -1,4 +1,4 @@
-|image0|
+
 
 NGŨ LINH CHI
 
@@ -99,7 +99,7 @@ Liều dùng và chú ý:
 
  
 
-.. |image0| image:: NGULINHCHI.JPG
+..  image:: NGULINHCHI.JPG
    :width: 50px
    :height: 50px
    :target: NGULINHCHI_.htm

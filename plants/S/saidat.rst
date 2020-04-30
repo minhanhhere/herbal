@@ -1,4 +1,4 @@
-|image0|
+
 
 SÀI ĐẤT
 
@@ -57,7 +57,7 @@ Chú thích chống nhầm lẫn: Hiện nay có 2 cây thường dùng nhầm v
    ta uống thay chè, dùng chữa bệnh viêm phổi và một vài bệnh đường hô
    hấp. Ở Aán độ, cây này dùng làm thuốc giúp sự tiêu hóa, thông tiểu.
 
-.. |image0| image:: SAIDAT.JPG
+..  image:: SAIDAT.JPG
    :width: 50px
    :height: 50px
    :target: SAIDAT_.htm

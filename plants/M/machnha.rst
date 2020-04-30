@@ -1,4 +1,4 @@
-|image0|
+
 
 MẠCH NHA
 
@@ -115,7 +115,7 @@ Liều thường dùng và chú ý:
 -  Chú ý: Kiện tỳ dưỡng vị: dùng sống, hành khí tiêu ích sao lên dùng.
 -  Phụ nữ cho con bú không nên dùng.
 
-.. |image0| image:: MACHNHA.JPG
+..  image:: MACHNHA.JPG
    :width: 50px
    :height: 50px
    :target: MACHNHA_.HTM

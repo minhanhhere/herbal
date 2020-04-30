@@ -1,4 +1,4 @@
-|image0|
+
 
 SÀI HỔ
 
@@ -125,7 +125,7 @@ Trường hợp lao phổi nếu có biểu chứng, can khí uất nên dùng S
 Sài hồ thường dùng chung với Bạch thược để tăng tác dụng thư can trấn
 thống vừa để làm dịu tính kích thích của sài hồ đối với cơ thể.
 
-.. |image0| image:: SAIHO.JPG
+..  image:: SAIHO.JPG
    :width: 50px
    :height: 50px
    :target: SAIHO_.htm

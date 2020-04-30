@@ -1,4 +1,4 @@
-|image0|
+
 
 TẦN GIAO
 
@@ -105,7 +105,7 @@ Liều thường dùng:
 
 -  Liều: 5 - 10g.
 
-.. |image0| image:: TANGIAO.JPG
+..  image:: TANGIAO.JPG
    :width: 50px
    :height: 50px
    :target: TANGIAO_.HTM

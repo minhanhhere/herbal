@@ -1,4 +1,4 @@
-|image0|
+
 
 TÔ TỬ
 
@@ -78,7 +78,7 @@ Liều thường dùng và chú ý:
 -  Liều: 5 - 10g.
 -  Tô tử sao dược tính hòa hoãn hơn. Chích Tô tử tác dụng nhuận phế tốt.
 
-.. |image0| image:: TOTU.JPG
+..  image:: TOTU.JPG
    :width: 50px
    :height: 50px
    :target: TOTU_.HTM

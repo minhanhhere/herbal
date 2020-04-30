@@ -1,4 +1,4 @@
-|image0|
+
 
 TOÀN YẾT
 
@@ -133,7 +133,7 @@ Cam thảo 10g, sắc chia làm 2 lần uống.
 
  
 
-.. |image0| image:: TOANYET.JPG
+..  image:: TOANYET.JPG
    :width: 50px
    :height: 50px
    :target: TOANYET_.HTM

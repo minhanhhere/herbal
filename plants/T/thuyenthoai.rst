@@ -1,4 +1,4 @@
-|image0|
+
 
 THUYỀN THOÁI
 
@@ -72,7 +72,7 @@ nghiệm.
 Dùng thận trọng đối với phụ nữ có thai vì theo sách cổ (Biệt lục) thuốc
 có tác dụng dục sản.
 
-.. |image0| image:: THUYENTHOAI.JPG
+..  image:: THUYENTHOAI.JPG
    :width: 50px
    :height: 50px
    :target: THUYENTHOAI_.htm

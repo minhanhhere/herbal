@@ -1,4 +1,7 @@
-|image0|
+.. _plants_ke_noi_kim:
+
+
+
 
 KÊ NỘI KIM
 
@@ -106,7 +109,7 @@ Liều thường dùng và chú ý:
    hoàn tán.
 -  Thuốc sao lên tán bột uống tốt hơn cho vào thang sắc.
 
-.. |image0| image:: KENOIKIM.JPG
+..  image:: KENOIKIM.JPG
    :width: 50px
    :height: 50px
    :target: KENOIKIM_.HTM

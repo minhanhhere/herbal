@@ -1,4 +1,4 @@
-|image0|
+
 
 XA TIỀN TỬ
 
@@ -117,7 +117,7 @@ trị tiểu có máu phối hợp với Hạn liên thảo mỗi thứ tươi 6
 
 Xa tiền thảo tươi giã nát đắp mụn nhọt sưng tấy có tác dụng tiêu sưng.
 
-.. |image0| image:: XATIENTU.JPG
+..  image:: XATIENTU.JPG
    :width: 50px
    :height: 50px
    :target: XATIENTU_.HTM

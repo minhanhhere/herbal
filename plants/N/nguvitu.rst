@@ -1,4 +1,4 @@
-|image0|
+
 
 NGŨ VỊ TỬ
 
@@ -179,7 +179,7 @@ Liều lượng dùng và chú ý:
 
  
 
-.. |image0| image:: NGUVI.JPG
+..  image:: NGUVI.JPG
    :width: 50px
    :height: 50px
    :target: NGUVITU_.HTM

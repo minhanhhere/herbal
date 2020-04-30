@@ -1,4 +1,4 @@
-|image0|
+
 
 NGÔ THÙ DU
 
@@ -144,7 +144,7 @@ Liều dùng và chú ý:
 
  
 
-.. |image0| image:: NGOTHUDU.JPG
+..  image:: NGOTHUDU.JPG
    :width: 50px
    :height: 50px
    :target: NGOTHUDU_.htm

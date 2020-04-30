@@ -1,4 +1,4 @@
-|image0|
+
 
 THANH CAO
 
@@ -132,7 +132,7 @@ Liều lượng thường dùng:
    hôi.
 -  Hạt Thanh hao có thể trị táo bón.
 
-.. |image0| image:: THANHCAO.JPG
+..  image:: THANHCAO.JPG
    :width: 50px
    :height: 50px
    :target: THANHCAO_.htm

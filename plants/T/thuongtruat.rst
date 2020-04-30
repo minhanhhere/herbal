@@ -1,4 +1,4 @@
-|image0|
+
 
 THƯƠNG TRUẬT
 
@@ -145,7 +145,7 @@ Liều lượng thường dùng và chú ý:
    thiểu tinh bất túc, nội nhiệt cốt chưng, mồm khô môi táo, ho có đờm,
    thổ huyết, chảy máu mũi, họng tắc, đại tiện táo thì không dùng".
 
-.. |image0| image:: THUONGTRUAT.JPG
+..  image:: THUONGTRUAT.JPG
    :width: 50px
    :height: 50px
    :target: THUONGTRUAT_.HTM

@@ -1,4 +1,4 @@
-|image0|
+
 
 TRẠCH TẢ
 
@@ -113,7 +113,7 @@ uống. Theo dõi 55 ca, uống từ 1 - 9 thang có tùy chứng gia vị kết
 
 Liều thường dùng: 10 - 20g.
 
-.. |image0| image:: TRACHTA.JPG
+..  image:: TRACHTA.JPG
    :width: 50px
    :height: 50px
    :target: TRACHTA_.HTM

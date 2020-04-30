@@ -1,4 +1,4 @@
-|image0| |image1|
+
 
 MỘC HƯƠNG
 
@@ -93,11 +93,11 @@ Liều dùng và chú ý:
 -  Liều uống 3 -10g.
 -  Thận trọng khi dùng đối với bệnh nhân âm hư hỏa vượng.
 
-.. |image0| image:: MOCHUONG.JPG
+..  image:: MOCHUONG.JPG
    :width: 50px
    :height: 50px
    :target: MOCHUONG_.htm
-.. |image1| image:: MOCHUONGTQ.JPG
+..  image:: MOCHUONGTQ.JPG
    :width: 50px
    :height: 50px
    :target: MOCHUONGTQ_.htm

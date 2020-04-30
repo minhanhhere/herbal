@@ -1,4 +1,4 @@
-|image0|
+
 
 THẢO HÀ SA
 
@@ -114,7 +114,7 @@ Liều dùng và chú ý:
 -  Liều: 8 - 20g. Trị ung thư dùng 20 - 40g, dùng ngoài không hạn chế.
 -  Thận trọng đối với các chứng hư và phụ nữ có thai.
 
-.. |image0| image:: THAOHAXA.JPG
+..  image:: THAOHAXA.JPG
    :width: 50px
    :height: 50px
    :target: THAOHAXA_.htm

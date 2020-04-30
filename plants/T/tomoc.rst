@@ -1,4 +1,4 @@
-|image0|
+
 
 TÔ MỘC
 
@@ -114,7 +114,7 @@ Liều dùng và chú ý:
 
  
 
-.. |image0| image:: TOMOC.JPG
+..  image:: TOMOC.JPG
    :width: 50px
    :height: 50px
    :target: TOMOC_.htm

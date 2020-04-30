@@ -1,4 +1,4 @@
-|image0|
+
 
 TRẦN BÌ
 
@@ -122,7 +122,7 @@ Liều dùng và chú ý:
    nguyên khí, cần chú ý. Trong đông y, được dùng nhiều trong các chứng
    bệnh thuộc về Phế và Tỳ.
 
-.. |image0| image:: TRANBI.JPG
+..  image:: TRANBI.JPG
    :width: 50px
    :height: 50px
    :target: TRANBI_.htm

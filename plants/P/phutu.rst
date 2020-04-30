@@ -1,4 +1,4 @@
-|image0|
+
 
 PHỤ TỬ
 
@@ -176,7 +176,7 @@ Dùng đều phải được bào chế và sắc trước 30 - 60 phút.
 
  
 
-.. |image0| image:: PHUTU.JPG
+..  image:: PHUTU.JPG
    :width: 50px
    :height: 50px
    :target: PHUTU_.htm

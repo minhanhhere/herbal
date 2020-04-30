@@ -1,4 +1,4 @@
-|image0|
+
 
 XUYÊN SƠN GIÁP
 
@@ -95,7 +95,7 @@ Liều dùng và chú ý:
    con vật cuộn tròn lại rất dễ bắt, bắt đem về cho vào nước luộc chín,
    vẩy bong ra rửa sạch phơi khô cất dùng.
 
-.. |image0| image:: XUYENSONGIAP.JPG
+..  image:: XUYENSONGIAP.JPG
    :width: 50px
    :height: 50px
    :target: XUYENSONGIAP_.htm

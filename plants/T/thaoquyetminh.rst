@@ -1,4 +1,4 @@
-|image0|
+
 
 THẢO QUYẾT MINH
 
@@ -68,7 +68,7 @@ Liều thường dùng và chú ý:
 -  Liều thường dùng: 12 - 20g, dùng độc vị lượng cao hơn.
 -  Trường hợp tiêu chảy không dùng.
 
-.. |image0| image:: THAOQUYETMINH.JPG
+..  image:: THAOQUYETMINH.JPG
    :width: 50px
    :height: 50px
    :target: THAOQUYETMINH_.htm

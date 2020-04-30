@@ -1,4 +1,4 @@
-|image0|
+
 
 SÂM TAM THẤT
 
@@ -275,7 +275,7 @@ Liều và cách dùng:
 
 -  Thuốc bột: 2 - 8g/ 1 lần, cấp có thể dùng 4 - 5 lần/ngày.
 
-.. |image0| image:: SAMTAMTHAT.JPG
+..  image:: SAMTAMTHAT.JPG
    :width: 50px
    :height: 50px
    :target: SAMTAMTHAT_.HTM

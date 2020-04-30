@@ -1,4 +1,4 @@
-|image0|
+
 
 NGŨ BỘI TỬ
 
@@ -124,7 +124,7 @@ Liều thường dùng:
 
  
 
-.. |image0| image:: NGUBOITU.JPG
+..  image:: NGUBOITU.JPG
    :width: 50px
    :height: 50px
    :target: NGUBOITU_.HTM

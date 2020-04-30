@@ -1,4 +1,4 @@
-|image0|
+
 
 UY LINH TIÊN
 
@@ -119,7 +119,7 @@ Liều lượng và chú ý lúc dùng:
 -  Thuốc uống nhiều hại khí, đối với bệnh nhân suy nhược khí huyết hư
    dùng thận trọng.
 
-.. |image0| image:: UYLINHTIEN.JPG
+..  image:: UYLINHTIEN.JPG
    :width: 50px
    :height: 50px
    :target: UYLINHTIEN_.HTM

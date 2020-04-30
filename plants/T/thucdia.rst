@@ -1,4 +1,4 @@
-|image0|
+
 
 THỤC ĐỊA
 
@@ -176,7 +176,7 @@ Liều lượng thường dùng và chú ý lúc dùng:
 
  
 
-.. |image0| image:: SINHDIA.JPG
+..  image:: SINHDIA.JPG
    :width: 50px
    :height: 50px
    :target: THUCDIA_.HTM

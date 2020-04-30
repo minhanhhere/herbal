@@ -1,4 +1,4 @@
-|image0|
+
 
 LỆ CHI HẠCH
 
@@ -94,7 +94,7 @@ Liều dùng và chú ý:
 
  
 
-.. |image0| image:: LECHIHACH.JPG
+..  image:: LECHIHACH.JPG
    :width: 50px
    :height: 50px
    :target: LECHIHACH_.htm

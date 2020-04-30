@@ -1,4 +1,4 @@
-|image0|
+
 
 THÔNG THẢO
 
@@ -72,7 +72,7 @@ Liều dùng: 3 - 10g.
 
  
 
-.. |image0| image:: THONGTHAO.JPG
+..  image:: THONGTHAO.JPG
    :width: 50px
    :height: 50px
    :target: THONGTHAO_.HTM

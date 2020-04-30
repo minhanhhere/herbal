@@ -1,4 +1,4 @@
-|image0|
+
 
 THẠCH LỰU BÌ
 
@@ -103,7 +103,7 @@ Liều thường dùng và chú ý:
 
  
 
-.. |image0| image:: THACHLUUBI.JPG
+..  image:: THACHLUUBI.JPG
    :width: 50px
    :height: 50px
    :target: THACHLUUBI_.HTM

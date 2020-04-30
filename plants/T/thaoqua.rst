@@ -1,4 +1,4 @@
-|image0|
+
 
 THẢO QUẢ
 
@@ -109,7 +109,7 @@ Liều lượng thường dùng và chú ý:
 -  Dùng thận trọng đối với chứng âm huyết hư vì tính ôn táo của thuốc dễ
    làm tổn thương âm huyết.
 
-.. |image0| image:: THAOQUA.JPG
+..  image:: THAOQUA.JPG
    :width: 50px
    :height: 50px
    :target: THAOQUA_.HTM

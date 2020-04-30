@@ -1,4 +1,4 @@
-|image0|
+
 
 Ô DƯỢC
 
@@ -86,7 +86,7 @@ Liều thường dùng và chú ý:
 -  Liều 3 - 10g sắc uống hoặc cho vào thuốc thang, hoàn tán.
 -  Trường hợp khí huyết hư, nội nhiệt không nên dùng.
 
-.. |image0| image:: ODUOC.JPG
+..  image:: ODUOC.JPG
    :width: 50px
    :height: 50px
    :target: ODUOC_.htm

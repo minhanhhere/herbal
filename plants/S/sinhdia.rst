@@ -1,4 +1,4 @@
-|image0|
+
 
 SINH ĐỊA HOÀNG
 
@@ -132,7 +132,7 @@ Chú ý lúc dùng thuốc:
 
  
 
-.. |image0| image:: SINHDIA.JPG
+..  image:: SINHDIA.JPG
    :width: 50px
    :height: 50px
    :target: SINHDIA_.htm

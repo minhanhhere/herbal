@@ -1,4 +1,4 @@
-|image0|
+
 
 TIÊU MỤC
 
@@ -38,7 +38,7 @@ chức năng của phổi và có tác dụng chống dị ứng (Báo Trung y t
 
  
 
-.. |image0| image:: TIEUMUC.JPG
+..  image:: TIEUMUC.JPG
    :width: 50px
    :height: 50px
    :target: TIEUMUC_.htm

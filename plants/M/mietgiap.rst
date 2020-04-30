@@ -1,4 +1,4 @@
-|image0|
+
 
 MIẾT GIÁP
 
@@ -139,7 +139,7 @@ Liều lượng và cách dùng:
 
  
 
-.. |image0| image:: MIETGIAP.JPG
+..  image:: MIETGIAP.JPG
    :width: 50px
    :height: 50px
    :target: MIETGIAP_.HTM

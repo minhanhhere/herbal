@@ -1,4 +1,4 @@
-|image0|
+
 
 THẠCH HỘC
 
@@ -97,7 +97,7 @@ Liều lượng và cách dùng:
 -  Thuốc tươi thanh nhiệt sinh tân mạnh.
 -  Không dùng trong trường hợp thấp thịnh hư hàn.
 
-.. |image0| image:: THACHHOC.JPG
+..  image:: THACHHOC.JPG
    :width: 50px
    :height: 50px
    :target: THACHHOC_.HTM

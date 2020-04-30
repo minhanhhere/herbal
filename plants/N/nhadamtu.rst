@@ -1,4 +1,4 @@
-|image0|
+
 
 NHA ĐẢM TỬ
 
@@ -121,7 +121,7 @@ Liều lượng thường dùng và cách dùng:
    viên Nha đảm tử 20 mg, mỗi ngày 5 - 10 viên. Có thể uống 15 - 20 viên
    chia nhiều lần uống, mỗi lần 1 - 2 viên.
 
-.. |image0| image:: NHADAMTU.JPG
+..  image:: NHADAMTU.JPG
    :width: 50px
    :height: 50px
    :target: NHADAMTU_.htm

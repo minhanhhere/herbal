@@ -1,4 +1,4 @@
-|image0|
+
 
 RỄ LAU
 
@@ -48,7 +48,7 @@ Chú ý lúc dùng thuốc:
 
 -  Người tỳ vị hư hàn dùng thận trọng.
 
-.. |image0| image:: RELAU.JPG
+..  image:: RELAU.JPG
    :width: 50px
    :height: 50px
    :target: RELAU_.htm

@@ -1,4 +1,4 @@
-|image0|
+
 
 TÔ HỢP HƯƠNG
 
@@ -117,7 +117,7 @@ Liều lượng thường dùng và chú ý:
    Đối với chứng nhiệt bế và chứng thóat không nên dùng. Aâm hư hỏa
    vượng không dùng.
 
-.. |image0| image:: TOHOPHUONG.JPG
+..  image:: TOHOPHUONG.JPG
    :width: 50px
    :height: 50px
    :target: TOHOPHUONG_.HTM

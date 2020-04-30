@@ -1,4 +1,4 @@
-|image0|
+
 
 LONG NHÃN NHỤC
 
@@ -72,7 +72,7 @@ ngâm rượu hoặc thuốc cao, hoàn tán. Trường hợp có hỏa uất b�
 
  
 
-.. |image0| image:: LONGNHAN.JPG
+..  image:: LONGNHAN.JPG
    :width: 50px
    :height: 50px
    :target: LONGNHAN_.HTM

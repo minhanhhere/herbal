@@ -1,4 +1,4 @@
-|image0|
+
 
 XẠ HƯƠNG
 
@@ -167,7 +167,7 @@ Liều lượng thường dùng và chú ý:
 
  
 
-.. |image0| image:: XAHUONG.JPG
+..  image:: XAHUONG.JPG
    :width: 50px
    :height: 50px
    :target: XAHUONG_.HTM

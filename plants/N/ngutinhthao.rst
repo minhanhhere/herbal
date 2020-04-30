@@ -1,4 +1,4 @@
-|image0|
+
 
 NGƯ TINH THẢO
 
@@ -88,7 +88,7 @@ Chú ý: Có trường hợp dùng dịch Ngư tinh thảo gây choáng, dị �
 
  
 
-.. |image0| image:: NGUTINHTHAO.JPG
+..  image:: NGUTINHTHAO.JPG
    :width: 50px
    :height: 50px
    :target: NGUTINHTHAO_.htm

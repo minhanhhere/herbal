@@ -1,4 +1,4 @@
-|image0|
+
 
 TỎI
 
@@ -155,7 +155,7 @@ Liều dùng và cách dùng:
 
  
 
-.. |image0| image:: TOI.JPG
+..  image:: TOI.JPG
    :width: 50px
    :height: 50px
    :target: TOI_.HTM

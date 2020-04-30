@@ -1,4 +1,4 @@
-|image0|
+
 
 THẠCH VỸ
 
@@ -89,7 +89,7 @@ Liều thường dùng:
 
 -  Liều 5 - 10g, dùng độc vị lượng có thể gấp đôi.
 
-.. |image0| image:: THACHVY.JPG
+..  image:: THACHVY.JPG
    :width: 50px
    :height: 50px
    :target: THACHVY_.HTM

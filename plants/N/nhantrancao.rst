@@ -1,4 +1,4 @@
-|image0|
+
 
 NHÂN TRẦN CAO
 
@@ -163,7 +163,7 @@ liệu Hà nội (Lê Tùng Châu 1975) và Phân viện Dược liệu Thành p
 Như vậy dùng trị viêm gan, Bồ bồ có thể thay thế Nhân trần cao của Trung
 quốc.
 
-.. |image0| image:: NHANTRANCAO.JPG
+..  image:: NHANTRANCAO.JPG
    :width: 50px
    :height: 50px
    :target: NHANTRANCAO_.HTM

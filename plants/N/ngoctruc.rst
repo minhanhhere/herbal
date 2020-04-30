@@ -1,4 +1,4 @@
-|image0|
+
 
 NGỌC TRÚC
 
@@ -93,7 +93,7 @@ Liều lượng và cách dùng:
 
  
 
-.. |image0| image:: NGOCTRUC.JPG
+..  image:: NGOCTRUC.JPG
    :width: 50px
    :height: 50px
    :target: NGOCTRUC_.HTM

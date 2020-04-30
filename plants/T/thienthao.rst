@@ -1,4 +1,4 @@
-|image0|
+
 
 THIẾN THẢO
 
@@ -152,7 +152,7 @@ Liều dùng và chú ý:
 
  
 
-.. |image0| image:: THIENTHAO.JPG
+..  image:: THIENTHAO.JPG
    :width: 50px
    :height: 50px
    :target: THIENTHAO_.htm

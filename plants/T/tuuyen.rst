@@ -1,4 +1,4 @@
-|image0|
+
 
 TỬ UYỂN
 
@@ -95,7 +95,7 @@ Liều lượng thường dùng và chú ý:
 -  Mật chích Tử uyển có tác dụng nhuận táo ích phế tốt, dùng trị ho lâu
    ngày do phế hư.
 
-.. |image0| image:: TUUYEN.JPG
+..  image:: TUUYEN.JPG
    :width: 50px
    :height: 50px
    :target: TUUYEN_.HTM

@@ -1,4 +1,4 @@
-|image0|
+
 
 THỒ PHỤC LINH
 
@@ -59,7 +59,7 @@ Liều thường dùng và chú ý:
 
  
 
-.. |image0| image:: THOPHUCLINH.JPG
+..  image:: THOPHUCLINH.JPG
    :width: 50px
    :height: 50px
    :target: THOPHUCLINH_.htm

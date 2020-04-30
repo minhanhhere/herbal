@@ -1,4 +1,4 @@
-|image0|
+
 
 TẾ TÂN
 
@@ -61,7 +61,7 @@ chứng âm hư (hư hỏa ) không nên dùng.
 
 Tế tân không nên dùng với Lê lô.
 
-.. |image0| image:: TETAN.JPG
+..  image:: TETAN.JPG
    :width: 50px
    :height: 50px
    :target: TETAN_.htm

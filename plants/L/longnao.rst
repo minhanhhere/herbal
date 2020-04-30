@@ -1,4 +1,4 @@
-|image0|
+
 
 LONG NÃO
 
@@ -118,7 +118,7 @@ Liều thường dùng và chú ý:
 
  
 
-.. |image0| image:: LONGNAO.JPG
+..  image:: LONGNAO.JPG
    :width: 50px
    :height: 50px
    :target: LONGNAO_.HTM

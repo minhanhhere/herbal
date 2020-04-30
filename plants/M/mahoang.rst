@@ -1,4 +1,4 @@
-|image0|
+
 
 MA HOÀNG
 
@@ -93,7 +93,7 @@ sắc uống.
 Bài thuốc cầm mồ hôi gồm có: Ma hoàng căn, Mẫu lệ, Phù tiểu mạch, Nhân
 sâm, Hoàng kỳ, Bạch truật, Cam thảo, Quế chi, Đương quy sắc uống.
 
-.. |image0| image:: MAHOANG.JPG
+..  image:: MAHOANG.JPG
    :width: 50px
    :height: 50px
    :target: MAHOANG_.htm

@@ -1,4 +1,4 @@
-|image0|
+
 
 MỘC QUA
 
@@ -105,7 +105,7 @@ Liều dùng và chú ý:
    loại Mộc qua khác nhau nên cần nghiên cứu để xác định tác dụng dược
    lý của thuốc hơn.
 
-.. |image0| image:: MOCQUA.JPG
+..  image:: MOCQUA.JPG
    :width: 50px
    :height: 50px
    :target: MOCQUA_.HTM

@@ -1,4 +1,4 @@
-|image0|
+
 
 TRÂN CHÂU
 
@@ -108,7 +108,7 @@ Dùng trên lâm sàng cũng như Trân châu nhưng không quí bằng.
 
  
 
-.. |image0| image:: TRANCHAU.JPG
+..  image:: TRANCHAU.JPG
    :width: 50px
    :height: 50px
    :target: TRANCHAU_.HTM

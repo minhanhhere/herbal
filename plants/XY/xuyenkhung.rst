@@ -1,4 +1,4 @@
-|image0|
+
 
 XUYÊN KHUNG
 
@@ -209,7 +209,7 @@ Liều lượng và cách dùng:
 -  Cần thận trọng lúc dùng đối với các chứng âm hư hỏa vượng (lưỡi thon
    đỏ, mồm họng khô, mạch tế sác), trường hợp kinh nguyệt ra nhiều.
 
-.. |image0| image:: XUYENKHUNG.JPG
+..  image:: XUYENKHUNG.JPG
    :width: 50px
    :height: 50px
    :target: XUYENKHUNG_.htm

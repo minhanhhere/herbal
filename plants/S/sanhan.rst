@@ -1,4 +1,4 @@
-|image0|
+
 
 SA NHÂN
 
@@ -107,7 +107,7 @@ ghi đầu tiên trong sách Bản thảo cương mục. Tính vị và tác d�
 nhân nhưng yếu hơn. Dùng trị chứng tỳ vị khí trệ nhẹ, bụng đầy, ăn không
 tiêu, liều lượng thường dùng 3 - 5g.
 
-.. |image0| image:: SANHAN.JPG
+..  image:: SANHAN.JPG
    :width: 50px
    :height: 50px
    :target: SANHAN_.htm

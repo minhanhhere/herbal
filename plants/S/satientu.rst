@@ -1,4 +1,4 @@
-|image0|
+
 
 SA TIỀN TỬ
 
@@ -23,7 +23,7 @@ Chú thích: Sa tiền tử và Sa tiền thảo có tác dụng gần giống n
 
 Sa tiền thảo dùng trong thanh nhiệt giải độc.
 
-.. |image0| image:: XATIENTU.JPG
+..  image:: XATIENTU.JPG
    :width: 50px
    :height: 50px
    :target: XATIENTU_.HTM

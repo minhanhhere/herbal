@@ -1,4 +1,4 @@
-|image0|
+
 
 THĂNG MA
 
@@ -53,7 +53,7 @@ Chú ý lúc dùng thuốc: Không nên dùng lượng nhiều vì thuốc kích
 gây nôn, liều cao gây đau đầu chóng mặt. Không dùng đối với trẻ em sởi
 kèm suyễn tức khó thở.
 
-.. |image0| image:: THANGMA.JPG
+..  image:: THANGMA.JPG
    :width: 50px
    :height: 50px
    :target: THANGMA_.htm

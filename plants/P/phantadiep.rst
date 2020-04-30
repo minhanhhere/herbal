@@ -1,4 +1,4 @@
-|image0|
+
 
 PHAN TẢ DIỆP
 
@@ -108,7 +108,7 @@ Liều lượng thường dùng:
 
  
 
-.. |image0| image:: PHANTADIEP.JPG
+..  image:: PHANTADIEP.JPG
    :width: 50px
    :height: 50px
    :target: PHANTADIEP_.HTM

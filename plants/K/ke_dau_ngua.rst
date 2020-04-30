@@ -1,4 +1,7 @@
-|image0|
+.. _plants_ke_dau_ngua:
+
+
+
 
 KÉ ĐẦU NGỰA
 
@@ -21,7 +24,7 @@ Qui kinh: vào kinh phế
 
 Liều lượng: thường dùng 4 - 12g.
 
-.. |image0| image:: THUONGNHITU.JPG
+..  image:: THUONGNHITU.JPG
    :width: 50px
    :height: 50px
    :target: THUONGNHITU_.HTM

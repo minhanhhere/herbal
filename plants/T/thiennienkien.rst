@@ -1,4 +1,4 @@
-|image0|
+
 
 THIÊN NIÊN KIỆN
 
@@ -18,7 +18,7 @@ Qui kinh: vào 2 kinh Can Thận
 
 Liều lượng: 6 - 12g.
 
-.. |image0| image:: THIENNIENKIEN.JPG
+..  image:: THIENNIENKIEN.JPG
    :width: 50px
    :height: 50px
    :target: THIENNIENKIEN_.HTM

@@ -1,4 +1,4 @@
-|image0|
+
 
 QUI BẢN
 
@@ -108,7 +108,7 @@ Liều lượng và cách dùng:
 
  
 
-.. |image0| image:: QUIBAN.JPG
+..  image:: QUIBAN.JPG
    :width: 50px
    :height: 50px
    :target: QUIBAN_.HTM

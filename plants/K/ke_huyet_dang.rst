@@ -1,3 +1,6 @@
+.. _plants_ke_huyet_dang:
+
+
 KÊ HUYẾT ĐẰNG
 
 Caulis Mucunae, Caulis Sargentodoxae

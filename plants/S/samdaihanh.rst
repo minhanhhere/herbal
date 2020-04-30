@@ -1,4 +1,4 @@
-|image0|
+
 
 SÂM ĐẠI HÀNH
 
@@ -49,7 +49,7 @@ Liều dùng: ngày uống 4 - 12g tỏi lào khô hay 12 - 30g tỏi lào tươ
    trong ngày. Trẻ em từ 1 - 5 tuổi: ngày uống 2 - 6 viên. Trẻ em 6 - 13
    tuổi: ngày uống 6 - 8 viên.
 
-.. |image0| image:: SAMDAIHANH.JPG
+..  image:: SAMDAIHANH.JPG
    :width: 50px
    :height: 50px
    :target: SAMDAIHANH_.htm

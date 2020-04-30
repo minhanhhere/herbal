@@ -1,4 +1,4 @@
-|image0|
+
 
 THANH ĐẠI
 
@@ -80,7 +80,7 @@ Liều thường dùng và chú ý:
 
  
 
-.. |image0| image:: THANHDAI.JPG
+..  image:: THANHDAI.JPG
    :width: 50px
    :height: 50px
    :target: THANHDAI_.htm

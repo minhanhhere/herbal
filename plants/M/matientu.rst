@@ -1,4 +1,4 @@
-|image0|
+
 
 MÃ TIỀN TỬ
 
@@ -179,7 +179,7 @@ Liều thường dùng và chú ý:
    tử vong, tránh ánh sáng, tiếng động và chuyển cấp cứu kịp thời. Xử
    trí cấp cứu như cấp cứu nhiễm độc Strychnine.
 
-.. |image0| image:: MATIENTU.JPG
+..  image:: MATIENTU.JPG
    :width: 50px
    :height: 50px
    :target: MATIENTU_.HTM

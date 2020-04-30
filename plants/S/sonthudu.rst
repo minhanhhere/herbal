@@ -1,4 +1,4 @@
-|image0|
+
 
 SƠN THÙ DU
 
@@ -102,7 +102,7 @@ Liều lượng thường dùng và chú ý:
 -  Liều thường dùng: uống 6 - 12g, lúc cần có thể dùng 30g cho vào thuốc
    thang sắc uống.
 
-.. |image0| image:: SONTHUDU.JPG
+..  image:: SONTHUDU.JPG
    :width: 50px
    :height: 50px
    :target: SONTHUDU_.HTM

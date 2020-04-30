@@ -1,4 +1,4 @@
-|image0|
+
 
 MỘC TẶC
 
@@ -47,7 +47,7 @@ Chú ý lúc dùng thuốc: Mộc tặc thảo có thể dùng thay thế Ma ho�
 Không dùng đối với người bệnh âm hư hỏa vượng gây mắt đỏ và trường hợp
 chảy máu do khí hư không nhiếp được huyết.
 
-.. |image0| image:: MOCTAC.JPG
+..  image:: MOCTAC.JPG
    :width: 50px
    :height: 50px
    :target: MOCTAC_.htm

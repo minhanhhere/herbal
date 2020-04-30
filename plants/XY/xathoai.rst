@@ -1,4 +1,4 @@
-|image0|
+
 
 XÀ THOÁI
 
@@ -19,7 +19,7 @@ Liều thường dùng: 2 - 3g, tán bột mịn uống mỗi lần 0,3 - 0,6g.
 
  
 
-.. |image0| image:: XATHOAI.JPG
+..  image:: XATHOAI.JPG
    :width: 50px
    :height: 50px
    :target: XATHOAI_.HTM

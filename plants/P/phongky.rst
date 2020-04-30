@@ -1,4 +1,4 @@
-|image0|
+
 
 PHÒNG KỶ
 
@@ -139,7 +139,7 @@ Liều dùng và chú ý:
    hơn. Gần đây nhiều công trình nghiên cứu Hán phòng kỷ nhận xét thuốc
    có nhiều tác dụng dược lý.
 
-.. |image0| image:: PHONGKY.JPG
+..  image:: PHONGKY.JPG
    :width: 50px
    :height: 50px
    :target: PHONGKY_.HTM

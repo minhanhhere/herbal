@@ -1,4 +1,4 @@
-|image0|
+
 
 | LIÊN TỬ
 | (Semen Nelumbinis Nuciferae)
@@ -182,7 +182,7 @@ thuốc sắc. Liều dùng từ 6 - 12g.
 
  
 
-.. |image0| image:: LIENTU.JPG
+..  image:: LIENTU.JPG
    :width: 50px
    :height: 50px
    :target: LIENTU_.HTM

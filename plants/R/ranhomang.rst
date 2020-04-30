@@ -1,4 +1,4 @@
-|image0|
+
 
 RẮN HỒ MANG
 
@@ -99,7 +99,7 @@ Liều thường dùng và chú ý:
 -  Chú ý: dùng thận trọng đối với các trường hợp âm hư huyết táo, huyết
    hư sinh phong.
 
-.. |image0| image:: RANHOMANG.JPG
+..  image:: RANHOMANG.JPG
    :width: 50px
    :height: 50px
    :target: RANHOMANG_.HTM

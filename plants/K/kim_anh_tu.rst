@@ -1,4 +1,7 @@
-|image0|
+.. _plants_kim_anh_tu:
+
+
+
 
 KIM ANH TỬ
 
@@ -94,7 +97,7 @@ Liều lượng thường dùng và chú ý:
 
  
 
-.. |image0| image:: KIMANHTU.JPG
+..  image:: KIMANHTU.JPG
    :width: 50px
    :height: 50px
    :target: KIMANHTU_.HTM

@@ -1,4 +1,4 @@
-|image0|
+
 
 PHÙ BÌNH
 
@@ -49,7 +49,7 @@ Liều lượng thường dùng:
 Chú ý lúc dùng thuốc: Dùng thận trọng đối với người hư nhược, tự ra mồ
 hôi nhiều.
 
-.. |image0| image:: PHUBINH.JPG
+..  image:: PHUBINH.JPG
    :width: 50px
    :height: 50px
    :target: PHUBINH_.htm

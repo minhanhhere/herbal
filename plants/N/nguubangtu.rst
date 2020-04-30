@@ -1,4 +1,4 @@
-|image0|
+
 
 NGƯU BÀNG TỬ
 
@@ -56,7 +56,7 @@ trong 3 ngày.
 
 Không dùng đối với người bị tiêu chảy do tỳ hư.
 
-.. |image0| image:: NGUUBANGTU.JPG
+..  image:: NGUUBANGTU.JPG
    :width: 50px
    :height: 50px
    :target: NGUUBANGTU_.htm

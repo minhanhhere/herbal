@@ -1,4 +1,4 @@
-|image0|
+
 
 MẠN KINH TỬ
 
@@ -62,7 +62,7 @@ Chú ý lúc dùng thuốc: Dùng thận trọng đối với bệnh nhân đau 
 trộn với giấm thanh bôi vào tóc làm cho tóc đen và dài (theo sách Thanh
 Huệ Phương).
 
-.. |image0| image:: MANKINHTU.JPG
+..  image:: MANKINHTU.JPG
    :width: 50px
    :height: 50px
    :target: MANKINHTU_.htm

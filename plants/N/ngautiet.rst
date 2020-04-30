@@ -1,4 +1,4 @@
-|image0|
+
 
 NGẪU TIẾT
 
@@ -110,7 +110,7 @@ Liều dùng và chú ý:
 
  
 
-.. |image0| image:: NGAUTIET.JPG
+..  image:: NGAUTIET.JPG
    :width: 50px
    :height: 50px
    :target: NGAUTIET_.htm

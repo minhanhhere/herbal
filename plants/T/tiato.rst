@@ -1,4 +1,4 @@
-|image0|
+
 
 TÍA TÔ
 
@@ -76,7 +76,7 @@ Chú ý lúc dùng thuốc: Lá tía tô có tác dụng giải cảm phong hàn
 (Tô tử) chủ yếu là hành khí hóa đờm. Trường hợp BIỂU HƯ TỰ RA MỔ HÔI
 không dùng.
 
-.. |image0| image:: TIATO.JPG
+..  image:: TIATO.JPG
    :width: 50px
    :height: 50px
    :target: TIATO_.htm

@@ -1,4 +1,4 @@
-|image0|
+
 
 QUA LÂU
 
@@ -133,7 +133,7 @@ Liều lượng thường dùng và chú ý:
 
  
 
-.. |image0| image:: QUALAU.JPG
+..  image:: QUALAU.JPG
    :width: 50px
    :height: 50px
    :target: QUALAU_.HTM

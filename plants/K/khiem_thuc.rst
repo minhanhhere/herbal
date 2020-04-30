@@ -1,4 +1,7 @@
-|image0|
+.. _plants_khiem_thuc:
+
+
+
 
 KHIẾM THỰC
 
@@ -74,7 +77,7 @@ Liều lượng thường dùng:
 
  
 
-.. |image0| image:: KHIEMTHUC.JPG
+..  image:: KHIEMTHUC.JPG
    :width: 50px
    :height: 50px
    :target: KHIEMTHUC_.HTM

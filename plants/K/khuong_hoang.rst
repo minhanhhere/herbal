@@ -1,4 +1,7 @@
-|image0|
+.. _plants_khuong_hoang:
+
+
+
 
 KHƯƠNG HOÀNG
 
@@ -110,7 +113,7 @@ lý.
 
  
 
-.. |image0| image:: KHUONGHOANG.JPG
+..  image:: KHUONGHOANG.JPG
    :width: 50px
    :height: 50px
    :target: KHUONGHOANG_.htm

@@ -1,4 +1,7 @@
-|image0|
+.. _plants_khoan_dong_hoa:
+
+
+
 
 KHOẢN ĐÔNG HOA
 
@@ -76,7 +79,7 @@ Liều thường dùng và chú ý:
 -  Liều 5 - 10g.
 -  Chích Đông hoa dùng nhuận phế tốt.
 
-.. |image0| image:: KHOANDONGHOA.JPG
+..  image:: KHOANDONGHOA.JPG
    :width: 50px
    :height: 50px
    :target: KHOANDONGHOA_.HTM

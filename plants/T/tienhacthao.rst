@@ -1,4 +1,4 @@
-|image0|
+
 
 TIÊN HẠC THẢO
 
@@ -153,7 +153,7 @@ Liều lượng và chú ý:
 -  Dùng ngoài, lượng tùy theo yêu cầu. Giã nát đắp, dùng bột, cao bôi
    hoặc dùng nước rửa.
 
-.. |image0| image:: TIENHACTHAO.JPG
+..  image:: TIENHACTHAO.JPG
    :width: 50px
    :height: 50px
    :target: TIENHACTHAO_.htm

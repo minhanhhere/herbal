@@ -1,4 +1,4 @@
-|image0|
+
 
 LỘC NHUNG
 
@@ -161,7 +161,7 @@ Liều thường dùng và chú ý:
 -  Liều: 1 - 3g tán bột cho vào thuốc hoàn tán, thuốc tể.
 -  Aâm hư hỏa vượng không dùng độc vị.
 
-.. |image0| image:: LOCNHUNG.JPG
+..  image:: LOCNHUNG.JPG
    :width: 50px
    :height: 50px
    :target: LOCNHUNG_.HTM

@@ -1,4 +1,4 @@
-|image0|
+
 
 TANG DIỆP
 
@@ -63,7 +63,7 @@ khác nhau:
 -  Quả dâu chín (Tang thầm) có tác dụng tư âm bổ huyết lúc dùng cần chú
    ý phân biệt.
 
-.. |image0| image:: TANGDIEP.JPG
+..  image:: TANGDIEP.JPG
    :width: 50px
    :height: 50px
    :target: TANGDIEP_.htm

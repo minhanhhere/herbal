@@ -1,4 +1,4 @@
-|image0|
+
 
 THƯƠNG LỤC
 
@@ -120,7 +120,7 @@ Liều lượng thường dùng và chú ý:
 
  
 
-.. |image0| image:: THUONGLUC.JPG
+..  image:: THUONGLUC.JPG
    :width: 50px
    :height: 50px
    :target: THUONGLUC_.HTM

@@ -1,4 +1,4 @@
-|image0|
+
 
 VIỄN CHÍ
 
@@ -122,7 +122,7 @@ Liều dùng và chú ý:
 
  
 
-.. |image0| image:: VIENCHI.JPG
+..  image:: VIENCHI.JPG
    :width: 50px
    :height: 50px
    :target: VIENCHI_.HTM

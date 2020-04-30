@@ -1,4 +1,4 @@
-|image0|
+
 
 XẠ CAN
 
@@ -82,7 +82,7 @@ nước, bã đắp lên nơi rắn cắn".
 
  
 
-.. |image0| image:: XACAN.JPG
+..  image:: XACAN.JPG
    :width: 50px
    :height: 50px
    :target: XACAN_.htm

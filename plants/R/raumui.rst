@@ -1,4 +1,4 @@
-|image0|
+
 
 RAU MÙI
 
@@ -66,7 +66,7 @@ Chú ý lúc dùng thuốc: Không dùng thuốc lúc sởi đã mọc đều, t
 phát và hồi phục của bệnh sởi. Không dùng đối với bệnh nhiễm mồ hôi ra
 nhiều, cơ thể suy nhược, bệnh nhân có lóet dạ dày không dùng uống trong.
 
-.. |image0| image:: RAUMUI.JPG
+..  image:: RAUMUI.JPG
    :width: 50px
    :height: 50px
    :target: RAUMUI_.htm

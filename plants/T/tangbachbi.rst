@@ -1,4 +1,4 @@
-|image0|
+
 
 TANG BẠCH BÌ
 
@@ -83,7 +83,7 @@ Liều thường dùng và chú ý:
 -  Liều: 10 - 15g.
 -  Chích Tang bì nhuận phế.
 
-.. |image0| image:: TANGBACHBI.JPG
+..  image:: TANGBACHBI.JPG
    :width: 50px
    :height: 50px
    :target: TANGBACHBI_.HTM

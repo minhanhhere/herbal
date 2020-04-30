@@ -1,4 +1,7 @@
-|image0|
+.. _plants_khuong_hoat:
+
+
+
 
 KHƯƠNG HOẠT
 
@@ -43,7 +46,7 @@ phối hợp chữa chứng phong thấp.
 
 Đối với chứng phong thấp do huyết hư không nên dùng Khương hoạt.
 
-.. |image0| image:: KHUONGHOAT.JPG
+..  image:: KHUONGHOAT.JPG
    :width: 50px
    :height: 50px
    :target: KHUONGHOAT_.htm

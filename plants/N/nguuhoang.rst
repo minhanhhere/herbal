@@ -1,4 +1,4 @@
-|image0|
+
 
 NGƯU HOÀNG
 
@@ -139,7 +139,7 @@ Liều lượng thường dùng và chú ý:
 -  Thận trọng lúc cần dùng cho phụ nữ có thai và không phải chứng thực
    nhiệt.
 
-.. |image0| image:: NGUUHOANG.JPG
+..  image:: NGUUHOANG.JPG
    :width: 50px
    :height: 50px
    :target: NGUUHOANG_.HTM

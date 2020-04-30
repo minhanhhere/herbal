@@ -1,4 +1,4 @@
-|image0|
+
 
 THẠCH XƯƠNG BỔ
 
@@ -147,7 +147,7 @@ Liều lượng thường dùng và chú ý:
 -  Chú ý: trường hợp âm huyết hư, tinh hoạt, ra mồ hôi nhiều cần thận
    trọng.
 
-.. |image0| image:: THACHXUONGBO.JPG
+..  image:: THACHXUONGBO.JPG
    :width: 50px
    :height: 50px
    :target: THACHXUONGBO_.HTM

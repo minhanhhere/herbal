@@ -1,4 +1,4 @@
-|image0| |image1|
+
 
 NHÂN SÂM
 
@@ -382,11 +382,11 @@ Lúc dùng Sâm cần chú ý:
    ngày 1 thang (đã dùng trị 61 ca nhiễm độc Nhân sâm đều khỏi - Báo
    Trung y Giang tô 1988,9:16).
 
-.. |image0| image:: NHANSAM.JPG
+..  image:: NHANSAM.JPG
    :width: 50px
    :height: 50px
    :target: NHANSAM_.HTM
-.. |image1| image:: NHANSAM2.JPG
+..  image:: NHANSAM2.JPG
    :width: 50px
    :height: 50px
    :target: NHANSAM2_.HTM

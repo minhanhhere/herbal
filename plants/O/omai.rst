@@ -1,4 +1,4 @@
-|image0|
+
 
 Ô MAI
 
@@ -153,7 +153,7 @@ Liều lượng dùng và chú ý:
 
  
 
-.. |image0| image:: OMAI.JPG
+..  image:: OMAI.JPG
    :width: 50px
    :height: 50px
    :target: OMAI_.HTM

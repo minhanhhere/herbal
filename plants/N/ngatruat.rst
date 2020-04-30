@@ -1,4 +1,4 @@
-|image0|
+
 
 NGA TRUẬT
 
@@ -132,7 +132,7 @@ Thuốc uống dùng từ 3 - 10g. Dùng giấm chế có tác dụng tăng hi�
 
 Không nên dùng cho phụ nữ có thai và kinh nguyệt ra nhiều.
 
-.. |image0| image:: NGATRUAT.JPG
+..  image:: NGATRUAT.JPG
    :width: 50px
    :height: 50px
    :target: NGATRUAT_.htm

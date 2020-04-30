@@ -1,4 +1,4 @@
-|image0|
+
 
 THẠCH SÙNG
 
@@ -166,7 +166,7 @@ Liều lượng thường dùng và chú ý:
 
  
 
-.. |image0| image:: THACHSUNG.JPG
+..  image:: THACHSUNG.JPG
    :width: 50px
    :height: 50px
    :target: THACHSUNG_.HTM

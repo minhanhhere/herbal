@@ -1,4 +1,7 @@
-|image0|
+.. _plants_khien_nguu_tu:
+
+
+
 
 KHIÊN NGƯU TỬ
 
@@ -122,7 +125,7 @@ Liều lượng thường dùng và chú ý:
 -  Thuốc dùng xổ các loại lãi đũa, lãi kim, sán nên phối hợp với Binh
    lang tác dụng tốt hơn.
 
-.. |image0| image:: KHIENNGUUTU.JPG
+..  image:: KHIENNGUUTU.JPG
    :width: 50px
    :height: 50px
    :target: KHIENNGUUTU_.HTM

@@ -1,4 +1,4 @@
-|image0|
+
 
 LINH CHI
 
@@ -133,7 +133,7 @@ Liều dùng và các dạng thuốc thường dùng:
    nấm Linh chi), liều dùng 1 - 2 nang một ngày. Cũng có dạng thuốc tiêm
    bắp, dạng trà Nhân sâm phối hợp Linh chi.
 
-.. |image0| image:: LINHCHI.JPG
+..  image:: LINHCHI.JPG
    :width: 50px
    :height: 50px
    :target: LINHCHI_.HTM

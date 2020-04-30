@@ -1,4 +1,4 @@
-|image0|
+
 
 TỤC ĐOẠN
 
@@ -96,7 +96,7 @@ Liều lượng thường dùng:
 -  Liều: 10 - 20g, dùng ngoài tùy theo bệnh lý.
 -  Dùng trị băng lậu, kinh nguyệt kéo dài, dùng Tục đoạn sao tốt hơn.
 
-.. |image0| image:: TUCDOANNHON.JPG
+..  image:: TUCDOANNHON.JPG
    :width: 50px
    :height: 50px
    :target: TUCDOAN_.HTM

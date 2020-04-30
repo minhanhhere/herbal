@@ -1,4 +1,4 @@
-|image0|
+
 
 XÀ SÀNG TỬ
 
@@ -138,7 +138,7 @@ Liều thường dùng:
 
  
 
-.. |image0| image:: XASANGTU.JPG
+..  image:: XASANGTU.JPG
    :width: 50px
    :height: 50px
    :target: XASANGTU_.HTM

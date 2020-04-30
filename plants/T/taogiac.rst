@@ -1,4 +1,4 @@
-|image0|
+
 
 TẠO GIÁC
 
@@ -170,7 +170,7 @@ Tạp chí Tai mũi họng Trung hoa, 1959,2:159).
 
  
 
-.. |image0| image:: TAOGIAC.JPG
+..  image:: TAOGIAC.JPG
    :width: 50px
    :height: 50px
    :target: TAOGIAC_.HTM

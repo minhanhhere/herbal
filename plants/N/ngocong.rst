@@ -1,4 +1,4 @@
-|image0|
+
 
 NGÔ CÔNG
 
@@ -139,7 +139,7 @@ ngoài.
 
  
 
-.. |image0| image:: NGOCONG.JPG
+..  image:: NGOCONG.JPG
    :width: 50px
    :height: 50px
    :target: NGOCONG_.HTM

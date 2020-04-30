@@ -1,4 +1,4 @@
-|image0|
+
 
 TRẮC BÁ DIỆP
 
@@ -166,7 +166,7 @@ Liều dùng và chú ý:
 -  Thuốc uống lâu, uống nhiều có thể làm váng đầu,buồn nôn, khó chịu
    vùng bao tử, ăn kém.
 
-.. |image0| image:: TRACBADIEP.JPG
+..  image:: TRACBADIEP.JPG
    :width: 50px
    :height: 50px
    :target: TRACBADIEP_.htm

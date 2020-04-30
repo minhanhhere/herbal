@@ -1,4 +1,4 @@
-|image0|
+
 
 THỎ TY TỬ
 
@@ -101,7 +101,7 @@ Liều thường dùng:
 
  
 
-.. |image0| image:: THOTYTU.JPG
+..  image:: THOTYTU.JPG
    :width: 50px
    :height: 50px
    :target: THOTYTU_.HTM

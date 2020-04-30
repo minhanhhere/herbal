@@ -1,4 +1,4 @@
-|image0|
+
 
 Ý DĨ NHÂN
 
@@ -19,7 +19,7 @@ Cấm kî: Tân dịch thiếu gây táo, phụ nữ có thai.
 
  
 
-.. |image0| image:: YDI.JPG
+..  image:: YDI.JPG
    :width: 50px
    :height: 50px
    :target: YDINHAN_.htm

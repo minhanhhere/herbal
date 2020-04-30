@@ -1,4 +1,4 @@
-|image0|
+
 
 XUYÊN TÂM LIÊN
 
@@ -76,7 +76,7 @@ Liều thường dùng và chú ý:
    báo cáo Xuyên tâm liên có gây phản ứng dị ứng choáng (Tân y học
    1972,11:53)
 
-.. |image0| image:: XUYENTAMLIEN.JPG
+..  image:: XUYENTAMLIEN.JPG
    :width: 50px
    :height: 50px
    :target: XUYENTAMLIEN_.htm

@@ -1,4 +1,4 @@
-|image0|
+
 
 LÔ HỘI
 
@@ -122,7 +122,7 @@ Liều lượng thường dùng và chú ý:
 
  
 
-.. |image0| image:: LOHOI.JPG
+..  image:: LOHOI.JPG
    :width: 50px
    :height: 50px
    :target: LOHOI_.HTM

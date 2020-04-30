@@ -1,4 +1,4 @@
-|image0|
+
 
 | XÍCH THƯỢC
 | (Radix Paeonice Rubra)
@@ -98,7 +98,7 @@ Liều lượng thường dùng và chú ý:
 
  
 
-.. |image0| image:: XICHTHUOC.JPG
+..  image:: XICHTHUOC.JPG
    :width: 50px
    :height: 50px
    :target: XICHTHUOC_.htm

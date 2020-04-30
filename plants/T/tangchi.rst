@@ -1,4 +1,4 @@
-|image0|
+
 
 TANG CHI
 
@@ -81,7 +81,7 @@ Liều dùng và chú ý:
 -  Liều thường dùng: 10 - 30g cho vào thuốc thang.
 -  Dùng ngoài tùy theo yêu cầu.
 
-.. |image0| image:: TANGCHI.JPG
+..  image:: TANGCHI.JPG
    :width: 50px
    :height: 50px
    :target: TANGCHI_.HTM

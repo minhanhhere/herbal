@@ -1,4 +1,4 @@
-|image0|
+
 
 LẠC TIÊN
 
@@ -22,7 +22,7 @@ Chủ trị:
 
 Liều dùng: 8 -16g.
 
-.. |image0| image:: LACTIEN.JPG
+..  image:: LACTIEN.JPG
    :width: 50px
    :height: 50px
    :target: LACTIEN_.htm

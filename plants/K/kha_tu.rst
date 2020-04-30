@@ -1,4 +1,7 @@
-|image0|
+.. _plants_kha_tu:
+
+
+
 
 KHA TỬ
 
@@ -90,7 +93,7 @@ Liều lượng thường dùng và chú ý:
 
  
 
-.. |image0| image:: KHATU.JPG
+..  image:: KHATU.JPG
    :width: 50px
    :height: 50px
    :target: KHATU_.HTM

@@ -1,4 +1,4 @@
-|image0|
+
 
 NGŨ GIA BÌ
 
@@ -117,7 +117,7 @@ Liều dùng và chú ý:
 
  
 
-.. |image0| image:: NGUGIABI.JPG
+..  image:: NGUGIABI.JPG
    :width: 50px
    :height: 50px
    :target: NGUGIABI_.HTM

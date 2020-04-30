@@ -1,4 +1,4 @@
-|image0|
+
 
 RAU SAM
 
@@ -126,7 +126,7 @@ Liều thường dùng: 9 - 15g, lượng tươi 30 - 100g, dùng ngoài tùy b�
 
  
 
-.. |image0| image:: RAUSAM.JPG
+..  image:: RAUSAM.JPG
    :width: 50px
    :height: 50px
    :target: RAUSAM_.htm

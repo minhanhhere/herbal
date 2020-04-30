@@ -1,4 +1,4 @@
-|image0|
+
 
 XUYÊN NGƯU TẤT
 
@@ -128,7 +128,7 @@ Liều dùng và chú ý:
 -  Dùng Xuyên Ngưu tất: thông lâm lợi tiểu.
 -  Phụ nữ có thai và kinh nguyệt không dùng.
 
-.. |image0| image:: NGUUTAT.JPG
+..  image:: NGUUTAT.JPG
    :width: 50px
    :height: 50px
    :target: NGUUTAT_.htm

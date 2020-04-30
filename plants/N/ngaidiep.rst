@@ -1,4 +1,4 @@
-|image0|
+
 
 NGÃI DIỆP
 
@@ -198,7 +198,7 @@ thận trọng.
 Không nên dùng lượng nhiều để uống. Có báo cáo dùng lượng lớn gây viêm
 ruột cấp, Hoàng đản do nhiễm độc và viêm gan.
 
-.. |image0| image:: NGAIDIEP.JPG
+..  image:: NGAIDIEP.JPG
    :width: 50px
    :height: 50px
    :target: NGAIDIEP_.htm

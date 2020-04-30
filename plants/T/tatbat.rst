@@ -1,4 +1,4 @@
-|image0|
+
 
 TẤT BẠT
 
@@ -80,7 +80,7 @@ Liều thường dùng và chú ý:
    lượng vừa đủ.
 -  Chú ý: trường hợp âm hư nội nhiệt thận trọng lúc dùng.
 
-.. |image0| image:: TATBAT.JPG
+..  image:: TATBAT.JPG
    :width: 50px
    :height: 50px
    :target: TATBAT_.htm

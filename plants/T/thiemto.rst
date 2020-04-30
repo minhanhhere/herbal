@@ -1,4 +1,4 @@
-|image0|
+
 
 THIỀM TÔ
 
@@ -292,7 +292,7 @@ Thiềm nhục là thịt cóc. Chủ yếu dùng trị chứng cam tích trẻ 
 
  
 
-.. |image0| image:: THIEMTO.JPG
+..  image:: THIEMTO.JPG
    :width: 50px
    :height: 50px
    :target: THIEMTO_.HTM

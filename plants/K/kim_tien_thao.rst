@@ -1,4 +1,7 @@
-|image0|
+.. _plants_kim_tien_thao:
+
+
+
 
 KIM TIỀN THẢO
 
@@ -116,7 +119,7 @@ Liều dùng và chú ý lúc dùng:
    mật. Chủng loại cây khá nhiều. Trên thị trường hiện dùng nhiều là Tứ
    xuyên Đại kim tiền thảo, Liên tiền thảo và Quảng Kim tiền thảo.
 
-.. |image0| image:: KIMTIENTHAO.JPG
+..  image:: KIMTIENTHAO.JPG
    :width: 50px
    :height: 50px
    :target: KIMTIENTHAO_.HTM

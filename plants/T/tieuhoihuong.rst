@@ -1,4 +1,4 @@
-|image0|
+
 
 TIỂU HỔI HƯƠNG
 
@@ -91,7 +91,7 @@ Liều lượng và chú ý lúc dùng:
 
  
 
-.. |image0| image:: TIEUHOIHUONG.JPG
+..  image:: TIEUHOIHUONG.JPG
    :width: 50px
    :height: 50px
    :target: TIEUHOIHUONG_.htm

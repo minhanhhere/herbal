@@ -1,4 +1,4 @@
-|image0|
+
 
 QUYẾT MINH TỬ
 
@@ -109,7 +109,7 @@ Liều thường dùng và chú ý:
 
  
 
-.. |image0| image:: THAOQUYETMINH.JPG
+..  image:: THAOQUYETMINH.JPG
    :width: 50px
    :height: 50px
    :target: QUYETMINHTU_.HTM

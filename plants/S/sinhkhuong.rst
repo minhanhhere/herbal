@@ -1,4 +1,4 @@
-|image0|
+
 
 SINH KHƯƠNG
 
@@ -76,7 +76,7 @@ Gừng đốt cháy (thán khương) có tác dụng cầm máu.
 
 Dùng gừng thận trọng đối với chứng âm hư nội nhiệt.
 
-.. |image0| image:: SINHKHUONG.JPG
+..  image:: SINHKHUONG.JPG
    :width: 50px
    :height: 50px
    :target: SINHKHUONG_.htm

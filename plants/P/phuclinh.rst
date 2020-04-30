@@ -1,4 +1,4 @@
-|image0|
+
 
 PHỤC LINH
 
@@ -117,7 +117,7 @@ Liều thường dùng:
 -  Chú ý: Vỏ ngoài của Phục linh gọi là Phục linh bì có tác dụng lợi
    tiểu.
 
-.. |image0| image:: PHUCLINH.JPG
+..  image:: PHUCLINH.JPG
    :width: 50px
    :height: 50px
    :target: PHUCLINH_.HTM

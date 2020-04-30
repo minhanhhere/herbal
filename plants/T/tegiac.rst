@@ -1,4 +1,4 @@
-|image0|
+
 
 TÊ GIÁC
 
@@ -68,7 +68,7 @@ có tác dụng như sừng tê giác.
 
 Lúc dùng phải sắc trước.
 
-.. |image0| image:: TEGIAC.JPG
+..  image:: TEGIAC.JPG
    :width: 50px
    :height: 50px
    :target: TEGIAC_.htm

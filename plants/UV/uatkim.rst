@@ -1,4 +1,4 @@
-|image0|
+
 
 UẤT KIM
 
@@ -111,7 +111,7 @@ Chú ý: Không dùng chung với Đinh hương.
 
  
 
-.. |image0| image:: UATKIM.JPG
+..  image:: UATKIM.JPG
    :width: 50px
    :height: 50px
    :target: UATKIM_.htm

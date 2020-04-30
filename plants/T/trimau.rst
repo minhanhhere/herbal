@@ -1,4 +1,4 @@
-|image0|
+
 
 TRI MẪU
 
@@ -72,7 +72,7 @@ Chú ý lúc dùng thuốc:
 Tri mẫu có tác dụng hoạt trường cho nên không dùng đối với chứng tỳ hư
 tiêu chảy.
 
-.. |image0| image:: TRIMAU.JPG
+..  image:: TRIMAU.JPG
    :width: 50px
    :height: 50px
    :target: TRIMAU_.htm

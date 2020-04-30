@@ -1,4 +1,4 @@
-|image0|
+
 
 NHỤC QUẾ
 
@@ -151,7 +151,7 @@ Liều dùng và chú ý:
 
  
 
-.. |image0| image:: NHUCQUE.JPG
+..  image:: NHUCQUE.JPG
    :width: 50px
    :height: 50px
    :target: NHUCQUE_.htm

@@ -1,4 +1,7 @@
-|image0| |image1| |image2| |image3|
+.. _plants_kim_ngan_hoa:
+
+
+
 
 KIM NGÂN HOA
 
@@ -64,19 +67,19 @@ Liều thường dùng và chú ý:
 -  Trường hợp tỳ vị hư hàn dùng thận trọng, nếu dùng thuốc gây tiêu chảy
    có thể bớt liều.
 
-.. |image0| image:: KIMNGANHOA.JPG
+..  image:: KIMNGANHOA.JPG
    :width: 50px
    :height: 50px
    :target: KIMNGANHOA_.htm
-.. |image1| image:: KIMNGANDAI.JPG
+..  image:: KIMNGANDAI.JPG
    :width: 50px
    :height: 50px
    :target: KIMNGANDAI_.htm
-.. |image2| image:: KIMNGANLAMOC.JPG
+..  image:: KIMNGANLAMOC.JPG
    :width: 50px
    :height: 50px
    :target: KIMNGANLAMOC_.htm
-.. |image3| image:: KIMNGANLAN.JPG
+..  image:: KIMNGANLAN.JPG
    :width: 50px
    :height: 50px
    :target: KIMNGANLAN_.htm

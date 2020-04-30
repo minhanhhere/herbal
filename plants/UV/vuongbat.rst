@@ -1,4 +1,4 @@
-|image0|
+
 
 VƯƠNG BẤT LƯU HÀNH
 
@@ -112,7 +112,7 @@ Liều dùng và chú ý:
 
  
 
-.. |image0| image:: VUONGBATLUUHANH.JPG
+..  image:: VUONGBATLUUHANH.JPG
    :width: 50px
    :height: 50px
    :target: VUONGBATLUUHANH_.htm

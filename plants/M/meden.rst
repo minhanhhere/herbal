@@ -1,4 +1,4 @@
-|image0|
+
 
 MÈ ĐEN
 
@@ -97,7 +97,7 @@ Liều lượng và cách dùng:
 
  
 
-.. |image0| image:: MEDEN.JPG
+..  image:: MEDEN.JPG
    :width: 50px
    :height: 50px
    :target: MEDEN_.HTM

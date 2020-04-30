@@ -1,4 +1,4 @@
-|image0|
+
 
 TIỂU KẾ
 
@@ -141,7 +141,7 @@ Liều dùng và chú ý:
 
  
 
-.. |image0| image:: TIEUKE.JPG
+..  image:: TIEUKE.JPG
    :width: 50px
    :height: 50px
    :target: TIEUKE_.htm

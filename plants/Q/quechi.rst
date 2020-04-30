@@ -1,4 +1,4 @@
-|image0|
+
 
 QUẾ CHI (Quế chi tiêm)
 
@@ -81,7 +81,7 @@ thuốc chữa bệnh gia Quế chi có tác dụng giảm đau.
 Trường hợp tắt kinh, kinh nguyệt không đều do hư hàn dùng Quế chi phối
 hợp Đương qui, Bạch thược để họat huyết thông kinh có tác dụng tốt.
 
-.. |image0| image:: QUECHI.JPG
+..  image:: QUECHI.JPG
    :width: 50px
    :height: 50px
    :target: QUECHI_.htm

@@ -1,4 +1,4 @@
-|image0|
+
 
 MẪU LỆ
 
@@ -117,7 +117,7 @@ Liều thường dùng và chú ý:
 
  
 
-.. |image0| image:: MAULE.JPG
+..  image:: MAULE.JPG
    :width: 50px
    :height: 50px
    :target: MAULE_.HTM

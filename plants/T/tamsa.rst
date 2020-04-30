@@ -1,4 +1,4 @@
-|image0|
+
 
 TÀM SA
 
@@ -67,7 +67,7 @@ Liều dùng:
 -  Liều uống: 5 - 10g.
 -  Dùng ngoài tùy ý.
 
-.. |image0| image:: TAMSA.JPG
+..  image:: TAMSA.JPG
    :width: 50px
    :height: 50px
    :target: TAMSA_.HTM

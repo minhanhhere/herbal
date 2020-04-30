@@ -1,4 +1,4 @@
-|image0|
+
 
 TIỀN HỔ
 
@@ -102,7 +102,7 @@ Liều lượng thường dùng và chú ý:
 
  
 
-.. |image0| image:: TIENHO.JPG
+..  image:: TIENHO.JPG
    :width: 50px
    :height: 50px
    :target: TIENHO_.HTM

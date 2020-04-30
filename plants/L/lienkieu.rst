@@ -1,4 +1,4 @@
-|image0|
+
 
 LIÊN KIỀU
 
@@ -77,7 +77,7 @@ Liều thường dùng: 6 - 15g, có thể dùng đến 20g.
 
  
 
-.. |image0| image:: LIENKIEU.JPG
+..  image:: LIENKIEU.JPG
    :width: 50px
    :height: 50px
    :target: LIENKIEU_.htm

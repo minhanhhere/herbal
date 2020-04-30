@@ -1,4 +1,4 @@
-|image0|
+
 
 THIÊN MÔN ĐÔNG
 
@@ -130,7 +130,7 @@ Liều dùng và chú ý lúc dùng:
 
  
 
-.. |image0| image:: THIENMON.JPG
+..  image:: THIENMON.JPG
    :width: 50px
    :height: 50px
    :target: THIENMON_.HTM

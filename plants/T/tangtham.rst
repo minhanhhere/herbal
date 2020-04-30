@@ -1,4 +1,4 @@
-|image0|
+
 
 TANG THẦM
 
@@ -75,7 +75,7 @@ Liều lượng và cách dùng:
 -  Liều lượng: 12 - 20g, cho vào thuốc sắc hoặc làm hoàn tán, nấu cao
    uống 20g/lần, mỗi ngày 2 lần.
 
-.. |image0| image:: TANGTHAM.JPG
+..  image:: TANGTHAM.JPG
    :width: 50px
    :height: 50px
    :target: TANGTHAM_.HTM

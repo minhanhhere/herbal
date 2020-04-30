@@ -1,4 +1,4 @@
-|image0|
+
 
 NHỤC ĐẬU KHẤU
 
@@ -73,7 +73,7 @@ Liều thường dùng:
 
  
 
-.. |image0| image:: NHUCDAUKHAU.JPG
+..  image:: NHUCDAUKHAU.JPG
    :width: 50px
    :height: 50px
    :target: NHUCDAUKHAU_.HTM

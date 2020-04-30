@@ -1,4 +1,4 @@
-|image0|
+
 
 MẬT GẤU
 
@@ -82,7 +82,7 @@ Nếu có điều kiện thử bằng phản ứng hóa học càng tốt.
 
  
 
-.. |image0| image:: MATGAU.JPG
+..  image:: MATGAU.JPG
    :width: 50px
    :height: 50px
    :target: MATGAU_.HTM
