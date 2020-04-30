@@ -1,9 +1,7 @@
 .. _plants_long_dom_thao:
 
-
-LONG ĐỞM THẢO
-
-Radix Gentianae
+Long đởm thảo (Radix Gentianae)
+###############################
 
 Là rễ của cây Long đởm Gentiana Scabra Gbe, G- manshurica Kitag. Họ Long
 đởm Gentianaceae.

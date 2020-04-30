@@ -1,9 +1,7 @@
 .. _plants_luu_hoang:
 
-
-LƯU HOÀNG
-
-(Sulfur)
+Lưu hoàng (Sulfur)
+##################
 
 Lưu hoàng tức Diêm sinh còn gọi là Thạch Lưu hoàng, Hoàng nha, dùng làm
 thuốc được ghi đầu tiên trong sách Bản kinh, là một nguyên tố có sẳn

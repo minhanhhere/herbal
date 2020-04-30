@@ -1,11 +1,7 @@
 .. _plants_lac_tien:
 
-
-
-
-LẠC TIÊN
-
-Herba Passiflorae
+Lạc tiên (Herba Passiflorae)
+############################
 
 Là cây, lá, hoa của cây Lạc tiên Passiflora foetida L. Họ Lạc tiên
 Passifloraceae.

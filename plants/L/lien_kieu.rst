@@ -1,11 +1,7 @@
 .. _plants_lien_kieu:
 
-
-
-
-LIÊN KIỀU
-
-(Fructus Forsythiae Suspensae)
+Liên kiều (Fructus Forsythiae Suspensae)
+########################################
 
 Còn gọi là Trúc căn, Hoàng thọ đan, Hạn liên tử là quả phơi hay sấy khô
 của cây Liên kiều (Forsythia suspensa Vahl.) thuộc họ Nhài (Oleaceae).

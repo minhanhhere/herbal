@@ -1,11 +1,7 @@
 .. _plants_long_nao:
 
-
-
-
-LONG NÃO
-
-(Camphora)
+Long não (Camphora)
+###################
 
 Long não còn gọi là Chương não, Triều não, Não tử dùng làm thuốc được
 ghi đầu tiên trong sách Bản thảo phẩm hội tinh yếu, là tinh thể không

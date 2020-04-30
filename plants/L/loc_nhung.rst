@@ -1,11 +1,7 @@
 .. _plants_loc_nhung:
 
-
-
-
-LỘC NHUNG
-
-(Cornu Cervi Parvum)
+Lộc nhung (Cornu Cervi Parvum)
+##############################
 
 Lộc nhung hay Mê nhung gọi thông thường là Nhung hươu, Nhung nai (Cornu
 cervi parvum) là sừng non của con Hươu đực (Lộc) (Cerrvus nippon

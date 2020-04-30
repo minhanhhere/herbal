@@ -1,9 +1,7 @@
 .. _plants_linh_chi:
 
-
-
-
-LINH CHI
+Linh chi
+########
 
 Linh chi là vị thuốc được ghi đầu tiên trong sách Bản kinh là một loại
 nấm thực vật, có nhiều tên gọi khác nhau như Linh chi thảo, Nấm Trường

@@ -1,11 +1,7 @@
 .. _plants_long_nhan:
 
-
-
-
-LONG NHÃN NHỤC
-
-(Arillus Euphoriae Longanae)
+Long nhãn nhục (Arillus Euphoriae Longanae)
+###########################################
 
 Long nhãn nhục được ghi đầu tiên trong sách Bản kinh với tên gọi là Long
 nhãn, còn có tên gọi là Quế viên nhục, Ích trí, Lệ chi nô, Á lệ chi.

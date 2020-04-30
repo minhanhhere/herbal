@@ -1,11 +1,7 @@
 .. _plants_lo_hoi:
 
-
-
-
-LÔ HỘI
-
-(Herba Aloes)
+Lô hội (Herba Aloes)
+####################
 
 Lô hội còn gọi là Tương đảm, Du thông, Nô hội, Lưỡi hổ, Long tu (Bình
 định), dùng làm thuốc được ghi đầu tiên trong sách Dược tính bản thảo là

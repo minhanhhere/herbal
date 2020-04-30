@@ -1,9 +1,7 @@
 .. _plants_la_vong:
 
-
-
-
-LÁ VÔNG
+Lá vông
+#######
 
 Hải đồng bì, Thích đồng bì
 

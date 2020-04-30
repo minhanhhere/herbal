@@ -1,10 +1,7 @@
 .. _plants_lien_tu:
 
-
-
-
-| LIÊN TỬ
-| (Semen Nelumbinis Nuciferae)
+Liên tử (Semen Nelumbinis Nuciferae)
+####################################
 
 Liên tử tức hạt sen, dùng làm thuốc được ghi đầu tiên trong sách Bản
 kinh là hạt chín bỏ vỏ của cây sen (Nelumbo nucifera Gaertn.).

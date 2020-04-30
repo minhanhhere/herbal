@@ -1,11 +1,7 @@
 .. _plants_le_chi_hach:
 
-
-
-
-LỆ CHI HẠCH
-
-(Semen Litchi sinensis )
+Lệ chi hạch (Semen Litchi sinensis)
+###################################
 
 Lệ chi hạch tức hạt vải dùng làm thuốc được ghi đầu tiên trong sách "
 Bản thảo diễn nghĩa" là hạt của quả vải của cây vải Litchi chinensis
@@ -70,7 +66,7 @@ chỉ thống.
 Ngoài ra có kinh nghiệm dùng hạt vải đốt thành than hòa rượu uống mỗi
 ngày 4 - 6g, trị hòn dái sưng đau.
 
-3. Một số kinh nghiệm dùng trái vải:
+3.Một số kinh nghiệm dùng trái vải:
 
 -  Trị nhọt:
 
@@ -94,10 +90,3 @@ Liều dùng và chú ý:
 -  Chú ý: lúc dùng nên giã nát.
 -  Lệ chi hạch chế muối: giã nát hột vải cho nước muối trộn đều bắc lên
    bếp cho lửa nhỏ sao khô để nguội, cứ 100kg hạt vải dùng 2 kg muối.
-
- 
-
-..  image:: LECHIHACH.JPG
-   :width: 50px
-   :height: 50px
-   :target: LECHIHACH_.htm
