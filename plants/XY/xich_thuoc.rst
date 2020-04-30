@@ -1,3 +1,6 @@
+.. _plants_xich_thuoc:
+
+
 
 
 | XÍCH THƯỢC

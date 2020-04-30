@@ -1,3 +1,6 @@
+.. _plants_vuong_bat:
+
+
 
 
 VƯƠNG BẤT LƯU HÀNH

@@ -1,3 +1,6 @@
+.. _plants_xa_tien_tu:
+
+
 
 
 XA TIỀN TỬ

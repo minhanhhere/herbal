@@ -1,3 +1,6 @@
+.. _plants_xa_sang_tu:
+
+
 
 
 XÀ SÀNG TỬ
