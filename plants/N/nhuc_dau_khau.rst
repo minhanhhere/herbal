@@ -1,3 +1,6 @@
+.. _plants_nhuc_dau_khau:
+
+
 
 
 NHỤC ĐẬU KHẤU

@@ -1,3 +1,6 @@
+.. _plants_ngoc_truc:
+
+
 
 
 NGỌC TRÚC

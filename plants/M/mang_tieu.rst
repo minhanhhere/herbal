@@ -1,3 +1,6 @@
+.. _plants_mang_tieu:
+
+
 MANG TIÊU
 
 (Mirabilitum)

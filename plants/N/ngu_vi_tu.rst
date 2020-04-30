@@ -1,3 +1,6 @@
+.. _plants_ngu_vi_tu:
+
+
 
 
 NGŨ VỊ TỬ

@@ -1,3 +1,6 @@
+.. _plants_miet_giap:
+
+
 
 
 MIẾT GIÁP

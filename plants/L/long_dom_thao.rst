@@ -1,3 +1,6 @@
+.. _plants_long_dom_thao:
+
+
 LONG ĐỞM THẢO
 
 Radix Gentianae

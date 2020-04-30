@@ -1,3 +1,6 @@
+.. _plants_long_nhan:
+
+
 
 
 LONG NHÃN NHỤC

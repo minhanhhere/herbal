@@ -1,3 +1,6 @@
+.. _plants_nhan_tran_cao:
+
+
 
 
 NHÂN TRẦN CAO

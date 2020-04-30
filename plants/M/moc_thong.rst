@@ -1,3 +1,6 @@
+.. _plants_moc_thong:
+
+
 MỘC THÔNG
 
 Caulis Clematidis Armandi

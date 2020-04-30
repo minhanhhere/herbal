@@ -1,3 +1,6 @@
+.. _plants_mot_duoc:
+
+
 MỘT DƯỢC
 
 (Myrrha)

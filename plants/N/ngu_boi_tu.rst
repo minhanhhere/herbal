@@ -1,3 +1,6 @@
+.. _plants_ngu_boi_tu:
+
+
 
 
 NGŨ BỘI TỬ

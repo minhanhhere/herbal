@@ -1,3 +1,6 @@
+.. _plants_ngu_tinh_thao:
+
+
 
 
 NGƯ TINH THẢO

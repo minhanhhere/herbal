@@ -1,3 +1,6 @@
+.. _plants_luu_hoang:
+
+
 LƯU HOÀNG
 
 (Sulfur)

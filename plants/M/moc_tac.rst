@@ -1,3 +1,6 @@
+.. _plants_moc_tac:
+
+
 
 
 MỘC TẶC

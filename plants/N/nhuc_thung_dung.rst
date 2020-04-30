@@ -1,3 +1,6 @@
+.. _plants_nhuc_thung_dung:
+
+
 NHỤC THUNG DUNG
 
 (Herba Cistanches)

@@ -1,3 +1,6 @@
+.. _plants_loc_nhung:
+
+
 
 
 LỘC NHUNG

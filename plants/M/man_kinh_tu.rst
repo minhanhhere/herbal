@@ -1,3 +1,6 @@
+.. _plants_man_kinh_tu:
+
+
 
 
 MẠN KINH TỬ

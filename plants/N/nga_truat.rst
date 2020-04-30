@@ -1,3 +1,6 @@
+.. _plants_nga_truat:
+
+
 
 
 NGA TRUẬT

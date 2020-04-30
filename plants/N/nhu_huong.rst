@@ -1,3 +1,6 @@
+.. _plants_nhu_huong:
+
+
 NHŨ HƯƠNG
 
 (Gummi Olibanum)

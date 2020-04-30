@@ -1,3 +1,6 @@
+.. _plants_lac_tien:
+
+
 
 
 LẠC TIÊN

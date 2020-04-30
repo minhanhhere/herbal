@@ -1,3 +1,6 @@
+.. _plants_minh_phan:
+
+
 MINH PHÀN
 
 (Alunite)

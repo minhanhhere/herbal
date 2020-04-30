@@ -1,3 +1,6 @@
+.. _plants_linh_chi:
+
+
 
 
 LINH CHI

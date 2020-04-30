@@ -1,3 +1,6 @@
+.. _plants_ngau_tiet:
+
+
 
 
 NGẪU TIẾT

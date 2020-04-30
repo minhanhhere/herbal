@@ -1,3 +1,6 @@
+.. _plants_nhuc_que:
+
+
 
 
 NHỤC QUẾ

@@ -1,3 +1,6 @@
+.. _plants_ngu_linh_chi:
+
+
 
 
 NGŨ LINH CHI

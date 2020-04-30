@@ -1,3 +1,6 @@
+.. _plants_nguu_tat:
+
+
 
 
 XUYÊN NGƯU TẤT

@@ -1,3 +1,6 @@
+.. _plants_nguu_bang_tu:
+
+
 
 
 NGƯU BÀNG TỬ
