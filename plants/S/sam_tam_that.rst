@@ -1,8 +1,7 @@
+.. _plants_sam_tam_that:
 
-
-SÂM TAM THẤT
-
-(Panax notoginseng)
+Sâm tam thất (Panax notoginseng)
+################################
 
 Sâm tam thất dùng làm thuốc được ghi đầu tiên trong sách Bản thảo cương
 mục, tập 12 với tên Tam thất, còn có tên khác là Kim bất hoán, Điền

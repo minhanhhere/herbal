@@ -1,8 +1,7 @@
+.. _plants_sinh_khuong:
 
-
-SINH KHƯƠNG
-
-(Rhizoma zingiberis Officinalis Recens)
+Sinh khương (Rhizoma zingiberis Officinalis Recens)
+###################################################
 
 Sinh khương (Gừng tươi) là thân rễ (củ) cây gừng (Zingiber
 Officinalale Rosc). Vi cay tính ấm qui kinh Phế, Tỳ, Vị.

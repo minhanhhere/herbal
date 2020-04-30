@@ -1,8 +1,7 @@
+.. _plants_son_thu_du:
 
-
-SƠN THÙ DU
-
-(Fructus Corni Officinalis)
+Sơn thù du (Fructus Corni Officinalis)
+######################################
 
 Sơn thù du còn gọi là Sơn thù, Thù nhục, Táo bì dùng làm thuốc được ghi
 đầu tiên trong sách Bản kinh là quả bỏ hột của cây Sơn thù du (Cornus

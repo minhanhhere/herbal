@@ -1,8 +1,7 @@
+.. _plants_sai_ho:
 
-
-SÀI HỔ
-
-(Radix Bupleuri)
+Sài hổ (Radix Bupleuri)
+#######################
 
 Bộ phận làm thuốc là rễ cây Sài hồ (Bepleurum chinense DC.) thuộc họ Hoa
 tán (Umbelliferae). Cũng có cây Sài hồ tên khoa học là Bupleurum

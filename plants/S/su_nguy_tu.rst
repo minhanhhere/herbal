@@ -1,8 +1,7 @@
+.. _plants_su_nguy_tu:
 
-
-SUNG ÚY TỬ
-
-(Fructus Leonuri)
+Sung úy tử (Fructus Leonuri)
+############################
 
 Sung úy tử dùng làm thuốc được ghi đầu tiên trong cuốn Bản kinh, còn có
 tên là Tiểu hồ ma, là quả chín phơi hay sấy khô của cây Ích mẫu, dùng

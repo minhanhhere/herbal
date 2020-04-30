@@ -1,8 +1,7 @@
+.. _plants_sa_tientu:
 
-
-SA TIỀN TỬ
-
-(Cây Mã đề)
+Sa tiền tử (Cây Mã đề)
+######################
 
 Plantago asiatica họ Plantaginacea
 

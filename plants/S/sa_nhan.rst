@@ -1,8 +1,7 @@
+.. _plants_sa_nhan:
 
-
-SA NHÂN
-
-(Fructus amoni)
+Sa nhân (Fructus amoni)
+#######################
 
 Sa nhân còn gọi là Súc sa mật, Xuân sa nhân dùng làm thuốc được ghi đầu
 tiên trong sách Dược tính bản thảo là quả gần chín phơi hay sấy khô của

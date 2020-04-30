@@ -1,8 +1,7 @@
+.. _plants_sinh_dia:
 
-
-SINH ĐỊA HOÀNG
-
-(Radix Rehmanniae Glutinosae)
+Sinh địa hoàng (Radix Rehmanniae Glutinosae)
+############################################
 
 Sinh địa hoàng (Rhizoma Rhehmaniae) là thân rễ phơi hay sấy khô của cây
 Địa hoàng (Rehmaniae glutino sa(Gaertn) Libosch (Digitalis glutinosa

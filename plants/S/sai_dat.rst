@@ -1,8 +1,7 @@
+.. _plants_sai_dat:
 
-
-SÀI ĐẤT
-
-Wedelia calendalacea (L.) Less
+Sài đất (Wedelia calendalacea (L.) Less)
+########################################
 
 Họ Cúc Asteraceae.
 

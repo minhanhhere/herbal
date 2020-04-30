@@ -1,8 +1,7 @@
+.. _plants_sam_dai_hanh:
 
-
-SÂM ĐẠI HÀNH
-
-Eleutherine Subaphylla Gagnep
+Sâm đại hành (Eleutherine Subaphylla Gagnep)
+############################################
 
 Họ Lay dơn (Iridaceae)
 
