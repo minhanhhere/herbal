@@ -1,8 +1,7 @@
+.. _plants_toi:
 
-
-TỎI
-
-(Bulbus Alli Sativi)
+Tỏi (Bulbus Alli Sativi)
+########################
 
 Tỏi còn có tên là Hồ, Đại toán là củ của cây Tỏi (mà ta dùng làm gia vị)
 Allivum Sativum L thuộc họ Hành tỏi (Liliaceae), dùng làm thuốc được ghi
