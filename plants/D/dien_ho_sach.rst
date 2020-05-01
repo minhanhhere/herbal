@@ -64,7 +64,8 @@ thống như Đan sâm, Hồng hoa, Xuyên khung trị bệnh mạch vành có t
 giảm cơn đau thắt ngực, phối hợp với Đan sâm, Ngọc trúc, Sơn tra sống
 trị loạn nhịp tim có kết quả.
 
-B.Theo kết quả nghiên cứu dược lý hiện đại:
+Theo kết quả nghiên cứu dược lý hiện đại
+----------------------------------------
 
 Thuốc có tác dụng giảm đau, trấn kinh an thần, gíup ngủ tốt. Thuốc làm
 tăng lưu lượng máu động mạch vành của tim thỏ cô lập. Thuốc có tác dụng

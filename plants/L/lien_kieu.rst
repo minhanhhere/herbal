@@ -22,7 +22,8 @@ Tác dụng dược lý
 Theo Y học cổ truyền
 -------------------- thuốc có tác dụng thanh nhiệt giải độc.
 
-B.Theo kết quả nghiên cứu dược lý hiện đại:
+Theo kết quả nghiên cứu dược lý hiện đại
+----------------------------------------
 
 1.Tác dụng kháng khuẩn rộng: Phenol Liên kiều có tác dụng ức chế nhiều
 loại vi khuẩn như tụ cầu vàng, liên cầu khuẩn dung huyết, phế cầu khuẩn,

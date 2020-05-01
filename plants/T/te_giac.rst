@@ -21,7 +21,8 @@ Theo Y học cổ truyền
 
 Tê giác có tác dụng thanh nhiệt lương huyết, giải độc an thần.
 
-B.Theo kết quả nghiên cứu dược lý hiện đại:
+Theo kết quả nghiên cứu dược lý hiện đại
+----------------------------------------
 
 1.Cường tim: thực nghiệm trên súc vật chứng minh thuốc có tác dụng cường
 tim.

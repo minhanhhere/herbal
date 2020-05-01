@@ -61,7 +61,8 @@ Theo Y văn cổ:
    không đi lại được. Trị con gái kinh bế huyết khô, có tác dụng dục
    sản. Trị chứng tiểu buốt (lâm thống), thông lợi tiểu tiện".
 
-B.Theo kết quả nghiên cứu dược lý hiện đại:
+Theo kết quả nghiên cứu dược lý hiện đại
+----------------------------------------
 
 Thuốc có tác dụng thúc đẩy quá trình tổng hợp protein. Dịch chiết Cồn
 Ngưu tất có tác dụng ức chế tim ếch cô lập, làm giãm mạch hạ áp, hưng

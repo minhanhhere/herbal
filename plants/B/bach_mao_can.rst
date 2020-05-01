@@ -73,7 +73,8 @@ Trích đoạn Y văn cổ:
    thuốc hổ trợ trị các chứng đau răng, sưng nướu, nha cam, mồm lưỡi lở,
    họng đau lóet, rất hay."
 
-B.Theo kết quả nghiên cứu dược lý hiện đại:
+Theo kết quả nghiên cứu dược lý hiện đại
+----------------------------------------
 
 1.Tác dụng làm đông máu nhanh: Bột Mao căn làm rút ngắn thời gian hồi
 phục canxi của huyết tương thỏ thực nghiệm.

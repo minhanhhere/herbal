@@ -59,7 +59,8 @@ Theo các Y văn cổ:
    Miết giáp trị bệnh ở dưới sườn, Đại hoàng Mẫu đơn thang trị bệnh Đại
    tràng".
 
-B.Theo kết quả nghiên cứu dược lý hiện đại:
+Theo kết quả nghiên cứu dược lý hiện đại
+----------------------------------------
 
 1.Đào nhân có tác dụng giãn mạch, tăng lưu lượng máu, tăng mức cAMP
 trong tiểu cầu, ức chế máu ngưng tụ, có tác dụng co tử cung, cầm máu đối

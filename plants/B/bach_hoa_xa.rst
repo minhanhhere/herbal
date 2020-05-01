@@ -5,7 +5,7 @@
 Bạch hoa xà thiệt thảo
 ======================
 
-(Herba Oldenlandiae Diffusae)
+**(Herba Oldenlandiae Diffusae)**
 
 Bạch hoa xà thiệt thảo dùng làm thuốc được ghi đầu tiên trong sách "
 Quảng tây Trung dược chí" là toàn cây phơi hay sấy khô của cây Bạch hoa
@@ -38,11 +38,13 @@ Tác dụng dược lý
 ================
 
 Theo Y học cổ truyền
--------------------- Thanh nhiệt giải độc tiêu ung kháng nham, lợi
+--------------------
+
+Thanh nhiệt giải độc tiêu ung kháng nham, lợi
 thấp. Chủ trị các chứng ung nhọt, sang độc, trường ung, yết hầu, sưng
 đau, rắn độc cắn, ung thư, nhiệt lâm, tiểu tiện khó.
 
-B.Theo kết quả nghiên cứu dược lý hiện đại:
+Theo kết quả nghiên cứu dược lý hiện đại:
 
 #. Tác dụng kháng khuẩn của thuốc in vitro không mạnh. Có tác dụng yếu
    đối với tụ cầu vàng, trực khuẩn lî, dịch chích không có tác dụng ức

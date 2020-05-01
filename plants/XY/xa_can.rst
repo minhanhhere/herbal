@@ -46,7 +46,8 @@ Các sách cổ ghi:
 -  Sách Bản thảo cương mục: " giáng thực hỏa, lợi đại trường, trị ngược
    mẫu".
 
-B.Theo kết quả nghiên cứu dược lý hiện đại:
+Theo kết quả nghiên cứu dược lý hiện đại
+----------------------------------------
 
 Thuốc có tác dụng chống nấm ngoài da và chống virut đường hô hấp.
 

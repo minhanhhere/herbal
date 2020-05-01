@@ -26,7 +26,8 @@ Theo Y học cổ truyền
 -------------------- Huyền sâm có tác dụng tả hỏa giải độc, dưỡng âm
 sinh tân, tán kết, chỉ khát, lợi yết hầu, nhuận táo.
 
-B.Theo kết quả nghiên cứu dược lý hiện đại:
+Theo kết quả nghiên cứu dược lý hiện đại
+----------------------------------------
 
 Huyền sâm được chứng minh có các tác dụng sau:
 

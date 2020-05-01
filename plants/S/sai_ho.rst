@@ -34,7 +34,8 @@ lao.
 4.Kháng virut: có tác dụng ức chế mạnh virut cúm và ức chế virut bại
 liệt.
 
-B.Theo kết quả nghiên cứu dược lý hiện đại:
+Theo kết quả nghiên cứu dược lý hiện đại
+----------------------------------------
 
 -  Tác dụng hạ nhiệt, an thần, giảm đau, giảm ho rõ rệt.
 -  Tác dụng như cocticoit kháng viêm.

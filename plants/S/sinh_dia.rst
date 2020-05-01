@@ -23,7 +23,8 @@ Theo Y học cổ truyền
 
 Sinh địa có tác dụng tư âm giáng hỏa, lương huyết sinh tân nhuận táo.
 
-B.Theo kết quả nghiên cứu dược lý hiện đại:
+Theo kết quả nghiên cứu dược lý hiện đại
+----------------------------------------
 
 1.Chống viêm: Trên thực nghiệm, nước sắc Sinh địa có tác dụng chống
 viêm.

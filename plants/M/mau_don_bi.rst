@@ -26,7 +26,8 @@ Theo Y học cổ truyền
 -------------------- Đơn bì có tác dụng thanh nhiệt lương huyết, hoạt
 huyết hóa ứ.
 
-B.Theo kết quả nghiên cứu dược lý hiện đại: thuốc có tác dụng:
+Theo kết quả nghiên cứu dược lý hiện đại
+---------------------------------------- thuốc có tác dụng:
 
 #. Phenol Đơn bì có tác dụng kháng viêm, các glucozit khác của Đơn bì có
    tác dụng kháng viêm mạnh hơn, In vitro thuốc có tác dụng kháng khuẩn
