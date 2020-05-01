@@ -1,9 +1,10 @@
 .. _plants_bang_phien:
 
+##########
 Băng phiến
-==========
+##########
 
-(Borneol)
+**(Borneol)**
 
 Băng phiến dùng làm thuốc được ghi đầu tiên trong sách Tân tu bản thảo
 còn gọi là Long não hương, Phiến não, Mai hoa não, Mai phiến, Ngãi nạp
@@ -83,7 +84,9 @@ Kết quả nghiên cứu dược lý hiện đại
 Ứng dụng lâm sàng
 =================
 
-1.Trị chứng huyễn vựng(đau đầu, chóng mặt): dùng Nhĩ châm, mỗi lần chọn
+**Trị chứng huyễn vựng(đau đầu, chóng mặt):**
+
+Dùng Nhĩ châm, mỗi lần chọn
 2 bên huyệt Thần môn, Não, Dưới vỏ não, Tâm, Giao cảm 2 - 3 huyệt. Lấy
 Băng phiến bằng hạt gạo, bỏ giữa 1 miếng cao dán 0,5 x 0,5cm dán vào
 huyệt, 3 ngày thay 1 lần, 4 lần là một liệu trình. Tác giả đã trị 77 ca
@@ -91,24 +94,30 @@ bệnh nhân từ 1 đến 2 liệu trình. Kết quả khỏi 53 ca (68,8%), ti
 ca (28,6%), tỷ lệ kết quả chung 97% (Tôn Quốc Chương, Tạp chí Trung y
 Hà nam 1986,4:14).
 
-2.Trị nhiễm trùng ngoại khoa: Đối với trường hợp chưa thành mủ hoặc chưa
+**Trị nhiễm trùng ngoại khoa:**
+
+Đối với trường hợp chưa thành mủ hoặc chưa
 vỡ mủ, dùng Băng phiến, Mang tiêu theo tỷ lệ 1:10 tán bột trộn đều, mỗi
 lần dùng lượng vừa đủ bôi vào giữa miếng gạc dày 0,5cm dán vào chỗ đau,
 mỗi 2 - 3 ngày thay 1 lần. Trị 230 ca, bình quân thay thuốc 3 lần đều
 khỏi (Trương Liên Xuân, Tạp chí Trung tây y kết hợp 1984,5:272).
 
-3.Trị viêm tai giữa có mủ cấp và mạn tính: Lấy Băng phiến 2,5g, Xạ hương
+**Trị viêm tai giữa có mủ cấp và mạn tính:**
+
+Lấy Băng phiến 2,5g, Xạ hương
 0,5g, Chương đơn 10g, Long cốt 15g, Hoàng liên 10g, Mẫu lệ 10g, đều tán
 bột mịn, mỗi lần thổi ít thuốc vào tai. Trị 324 ca gồm 366 lỗ tai. Tỷ lệ
 khỏi 64,7%, tỷ lệ có kết quả 93,4% tốt hơn rõ rệt so với lô chứng dùng
 thuốc tây, trụ sinh nhỏ tai (Tôn Việt, Học báo Trung y dược 1986,1:31).
 
-4.Trị Zona: Băng phiến 10 - 30g tán bột, cho nước cơm lạnh làm thành hồ
+**Trị Zona:**
+
+Băng phiến 10 - 30g tán bột, cho nước cơm lạnh làm thành hồ
 40% bôi vào vùng đau, ngày 3 - 4 lần, liên tục trong 3 - 5 ngày. Trị 30
 ca kết quả tốt (Vương thúc Mai và cộng sự, Báo Y học Hoài nam
 1978,10:56).
 
-5.Trị bệânh nhiễm sốt cao hôn mê, co giật:
+**Trị bệnh nhiễm sốt cao hôn mê, co giật:**
 
 -  Chỉ bảo đơn (Hòa tể cục phương): Nhân sâm, Xạ hương, Thiên trúc
    hoàng, Băng phiến, Hổ phách, Đại mao, Chu sa, Chế Nam tinh, Tê giác,
@@ -125,18 +134,20 @@ ca kết quả tốt (Vương thúc Mai và cộng sự, Báo Y học Hoài nam
    1g uống với nước sôi nguội hoặc hòa tan cho uống bằng sonde. Trị các
    chứng hôn mê do trọng thương hoặc bạo bệnh.
 
-6.Trị chứng họng lợi, mồm lóet đau:
+**Trị chứng họng lợi, mồm lóet đau:**
 
 -  Băng bằng tán: Băng phiến, Bằng sa, Nguyên minh phấn (Mang tiêu), Chu
    sa phối hợp làm thuốc tán. Trị răng lợi sưng đau, lóet mồm, nga khẩu
    sang (tưa), có thể thổi thuốc vào hoặc bôi vào, chảy nước miếng thì
    sau vài phút nhổ đi.
 
-7.Trị mắt đỏ có mộng thịt:
+**Trị mắt đỏ có mộng thịt:**
 
 -  Băng phiến tán bột thật mịn điểm mắt.
 
-8.Trị viêm họng mạn tính, viêm amidale: Băng phiến 1g, Khô phàn (Phèn
+**Trị viêm họng mạn tính, viêm amidale:**
+
+Băng phiến 1g, Khô phàn (Phèn
 phi khô) 2g, Hoàng bá 2g, đốt thành than, Đăng tâm 3g đốt than, tất cả
 tán nhỏ trộn đều, mỗi lần dùng 3 - 4g thổi vào họng.
 
@@ -148,20 +159,20 @@ Liều lượng thường dùng và chú ý
 -  Dùng thận trọng đối với phụ nữ có thai, không cho vào lửa và nhiệt độ
    cao.
 
-Ghi chú:
+.. note::
 
-Băng phiến và Xạ hương đều là thuốc hương thơm chuyên về khiếu tỉnh
-thần, trên lâm sàng thường dùng chung. Về mặt khai khiếu tỉnh thần thì
-Băng phiến không bằng Xạ hương. Ngoài ra Băng phiến có tác dụng thanh
-nhiệt chỉ thống, còn Xạ hương mạnh về hoạt huyết chỉ thống.
+   Băng phiến và Xạ hương đều là thuốc hương thơm chuyên về khiếu tỉnh
+   thần, trên lâm sàng thường dùng chung. Về mặt khai khiếu tỉnh thần thì
+   Băng phiến không bằng Xạ hương. Ngoài ra Băng phiến có tác dụng thanh
+   nhiệt chỉ thống, còn Xạ hương mạnh về hoạt huyết chỉ thống.
 
-Băng phiến dùng ngoài tốt đối với các bệnh về mồm lợi răng, hầu họng,
-mắt tai. Chất lượng của Băng phiến nhân tạo kém hơn Băng phiến thiên
-nhiên, phần nhiều dùng trị các chứng nhọt lở ở trong ngoại khoa. Ngoài
-ra có một loại Ngãi phiến được chế biến từ cây Ngãi nạp hương Blumea
-Balsamifera DC. (lá tươi).
+   Băng phiến dùng ngoài tốt đối với các bệnh về mồm lợi răng, hầu họng,
+   mắt tai. Chất lượng của Băng phiến nhân tạo kém hơn Băng phiến thiên
+   nhiên, phần nhiều dùng trị các chứng nhọt lở ở trong ngoại khoa. Ngoài
+   ra có một loại Ngãi phiến được chế biến từ cây Ngãi nạp hương Blumea
+   Balsamifera DC. (lá tươi).
 
-Theo sách Những cây thuốc và vị thuốc Việt nam của Đỗ tất Lợi viết với
-tên là Đại bi mọc hoang khắp nơi ở nước ta và Trung quốc (Quảng đông,
-Quảng tây và Vân nam) thường được dùng thay Băng phiến có tác dụng mạnh
-về hoạt huyết tiêu sưng giảm đau.
+   Theo sách Những cây thuốc và vị thuốc Việt nam của Đỗ tất Lợi viết với
+   tên là Đại bi mọc hoang khắp nơi ở nước ta và Trung quốc (Quảng đông,
+   Quảng tây và Vân nam) thường được dùng thay Băng phiến có tác dụng mạnh
+   về hoạt huyết tiêu sưng giảm đau.

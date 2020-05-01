@@ -1,11 +1,10 @@
 .. _plants_bo_hoang:
 
-
-
+########
 Bổ hoàng
-========
+########
 
-(Pollen Typhae)
+**(Pollen Typhae)**
 
 Bồ hoàng là phấn hoa sấy hay phơi khô của cây Hương bồ hoặc Hương bồ
 thảo, còn gọi là Cỏ nến, có nhiều loại Typha Orientalis G.A. Stuart
@@ -126,7 +125,7 @@ alpha typhasterol, tinh dầu, mỡ (10 - 30%).
 Ứng dụng lâm sàng
 =================
 
-#. Trị kinh bế, đau bụng kinh, bụng dưới đau, các chứng đau do huyết ứ.
+**Trị kinh bế, đau bụng kinh, bụng dưới đau, các chứng đau do huyết ứ.**
 
 -  Thất tiêu tán (Hòa tễ cục phương): Bồ hoàng, Ngũ linh chi lượng bằng
    nhau tán bột mịn, mỗi lần uống 4 - 6g, ngày 2 lần, với rượu ấm.
@@ -135,7 +134,7 @@ alpha typhasterol, tinh dầu, mỡ (10 - 30%).
 -  Bồ hoàng 15g, Đơn sâm 30g, Ngũ linh chi 15g, sắc nước uống trị đau
    bụng kinh.
 
-2.Trị các chứng xuất huyết do nhiệt:
+**Trị các chứng xuất huyết do nhiệt:**
 
 -  Bồ hoàng thang: Bồ hoàng thán 10g, nước và rượu mỗi thứ một nửa sắc
    uống. Trị các chứng ho ra máu, chảy máu cam, tiêu tiểu có máu, xuất
@@ -145,40 +144,52 @@ alpha typhasterol, tinh dầu, mỡ (10 - 30%).
 -  Bồ hoàng tán: Bồ hoàng, Đông quỳ tử đều 10g, Sinh địa 15g, sắc uống
    trị tiểu ra máu.
 
-3.Phòng trị tử cung sau sinh co kém, nước ối ra không dứt: Lôi Vĩnh
-Trọng cho 31 phụ nữ sau sinh uống bột Bồ hoàng sống mỗi lần 3g, ngày 3
+**Phòng trị tử cung sau sinh co kém, nước ối ra không dứt:**
+
+Lôi Vĩnh Trọng cho 31 phụ nữ sau sinh uống bột Bồ hoàng sống mỗi lần 3g, ngày 3
 lần, liền 3 ngày kết quả: đáy tử cung xuống trung bình 4,71cm; tổ đối
 chiếu 3,64cm, tốt hơn tổ dùng Cao Ích mẫu, đồng thời nước ối ra rất
 nhanh (Tạp chí Trung y dược Thượng hải 1963, 9:1).
 
-4.Trị mạch vành: dùng độc vị Bồ hoàng trị 66 ca bệnh động mạch vành,
+**Trị mạch vành:**
+
+Dùng độc vị Bồ hoàng trị 66 ca bệnh động mạch vành,
 theo dõi 2 tháng, kết quả 89% bớt, hết đau thắt ngực, 48% điện tim được
 cải thiện, 58% huyết áp hạ, 60% cholesterol huyết thanh giảm, 94%
 triglycerit giảm rất tốt (Viện nghiên cứu Trung y dược Hồ nam,1982,
 9(3).6).
 
-5.Trị chứng Lipid huyết cao: dùng viên bọc đường Bồ hoàng, mỗi ngày uống
+**Trị chứng Lipid huyết cao:**
+
+Dùng viên bọc đường Bồ hoàng, mỗi ngày uống
 tương đương 30g thuốc sống chia 3 lần trị 200 ca, so sánh kết quả trước
 và sau dùng thuốc, cholesterol và triglycerit giảm rất tốt (Viện nghiên
 cứu Trung y dược Hồ nam, Tạp chí Trung tây y kết hợp 1985, 5(3), 141).
 
-6.Trị huyết áp cao: Sở nghiên cứu trung y dược tỉnh Hồ nam dùng Viên thư
+**Trị huyết áp cao:**
+
+Sở nghiên cứu trung y dược tỉnh Hồ nam dùng Viên thư
 tâm (sinh Bồ hoàng, tây Đảng sâm, xuyên Hồng hoa, Khương hoàng phiến,
 Nga truật, Giáng hương) trị 400 ca, theo dõi kết quả thuốc có tác dụng
 hạ áp trên dưới 90% (Hồ nam y dược tạp chí 1977,4:20).
 
-7.Trị chàm: Chúc hoa Dân dùng bột Bồ hoàng sống bôi vào vùng bị chàm trị
+**Trị chàm:**
+
+Chúc hoa Dân dùng bột Bồ hoàng sống bôi vào vùng bị chàm trị
 30 ca, tất cả đều khỏi sau 6 - 15 ngày điều trị, trong đó có 25 ca hết
 ngứa ngay từ hôm đầu (Tạp chí Tân y dược học 1977,9:22).
 
-8.Trị viêm đại tràng mạn tính không đặc hiệu: Dương hiếu Huệ dùng nước
+**Trị viêm đại tràng mạn tính không đặc hiệu:**
+
+Dương hiếu Huệ dùng nước
 chiết Bồ hoàng làm thành viên 0,3g mỗi lần uống 5 viên ngày 3 lần, đồng
 thời dùng dịch Bồ hoàng 5% - 100ml thụt lưu đại tràng, ngày 1 lần. Kết
 quả: 17 ca triệu chứng lâm sàng được cải thiện, 2 ca khỏi, 4 ca khỏi cơ
 bản, 11 ca tốt, 1 ca không khỏi, tỷ lệ kết quả 94,12%, bổ thể C3 tăng
 lên mức bình thường (Thông báo Trung dược 1987, 12(8): 48).
 
-Liều dùng và chú ý:
+Liều dùng và chú ý
+==================
 
 -  Uống 3 - 20g, bọc lúc cho vào thuốc thang. Bồi đắp ngoài tùy theo yêu
    cầu.

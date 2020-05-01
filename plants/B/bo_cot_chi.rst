@@ -1,11 +1,10 @@
 .. _plants_bo_cot_chi:
 
-
-
+##########
 Bồ cốt chỉ
-==========
+##########
 
-(Fructus Psoraleae Corylifoliae)
+**(Fructus Psoraleae Corylifoliae)**
 
 Bổ cốt chỉ còn gọi là Phá cố chỉ, Hắc cố tử, Hạt đậu miêu, được ghi làm
 thuốc đầu tiên trong sách Dược tính bản thảo. Hạt chín phơi khô của cây
@@ -83,8 +82,10 @@ Kết quả nghiên cứu dược lý hiện đại
 Theo Y học cổ truyền Bổ cốt chi là vị thuốc chính trị bệnh Tỳ thận dương
 hư. Trên lâm sàng thường dùng trị bệnh như sau:
 
-1.Trị tiêu chảy kéo dài do dương hư (thường tiêu chảy vào lúc sáng sớm
-nên gọi là Ngũ canh tả): dùng các bài:
+**Trị tiêu chảy kéo dài do dương hư (thường tiêu chảy vào lúc sáng sớm
+nên gọi là Ngũ canh tả):**
+
+Dùng các bài:
 
 -  Tứ thần hoàn (chứng trị chuẩn thằng) gồm: Bổ cốt chi 160g, Ngũ vị tử
    80g, Nhục đậu khấu (sao) 80g, Ngô thù du 40g, Sinh khương 320g, Đại
@@ -94,8 +95,9 @@ nên gọi là Ngũ canh tả): dùng các bài:
 -  Bổ cốt chi, Nhục đâïu khấu lượng bằng nhau, Khương, Táo sắc trộn hồ
    làm hoàn, uống mỗi lần 12g, ngày 2 lần.
 
-2.Trị liệt dương, đái nhiều, đái dầm: Bổ cốt chi phối hợp với Ích trí
-nhân, Thỏ ty tử, dùng bài:
+**Trị liệt dương, đái nhiều, đái dầm:**
+
+Bổ cốt chi phối hợp với Ích trí nhân, Thỏ ty tử, dùng bài:
 
 -  Bổ cốt chi hoàn: Bổ cốt chi, Thỏ ty tử, Hồ đào nhục, mỗi thứ 12g,
    ngày 2 lần với nước muối nhạt. Trị đái dầm có thể dùng độc vị Bổ cốt
@@ -104,21 +106,29 @@ nhân, Thỏ ty tử, dùng bài:
    làm thành viên, mỗi tối dùng với nước ấm uống: Từ 3 - 9 tuổi:1,5g; từ
    10 - 12 tuổi:2,5g. Trị 6 ca đều khỏi (Tân trung y 1976,1:57).
 
-3.Trị ho lao (Đỗ tất Lợi): Bổ cốt chi 400g tẩm rượu 1 đêm phơi khô, lấy
+**Trị ho lao (Đỗ tất Lợi):**
+
+Bổ cốt chi 400g tẩm rượu 1 đêm phơi khô, lấy
 một nắm vừng trộn lẫn thuốc rang lên cho đến khi vùng hết nổ, lấy Phá cố
 chỉ tán bột làm viên bằng hạt ngô, ngày uống 30 viên, chia 2 - 3 lần.
 
-4.Trị bệnh bạc đới, sói tóc: dùng Bổ cốt chi 40g ngâm với 100ml cồn 75%,
+**Trị bệnh bạc đới, sói tóc:**
+
+Dùng Bổ cốt chi 40g ngâm với 100ml cồn 75%,
 5 - 7 ngày bôi lên vùng bệnh và chích bắp dịch tiêm Bổ cốt chi ngày 1
 lần 5 ml, gia chiếu tia tử ngoại trị bạch điến 49 ca, tỷ lệ kết quả
 75,5%. Đối với sói tóc, chỉ dùng tiêm và chiếu tia tử ngoại trị 45 ca có
 kết quả 84,4% (Tờ thông tin Trung thảo dược 1972,1:41).
 
-5.Trị tử cung xuất huyết: Bổ cốt chi và Xích thạch chỉ lượng bằng nhau
+**Trị tử cung xuất huyết:**
+
+Bổ cốt chi và Xích thạch chỉ lượng bằng nhau
 chế thành viên cầm máu . Trị 326 ca, có kết quả trên 90% (Tạp chí Thiên
 tân Y dược 1973,1:36).
 
-6.Trị chứng bạch cầu giảm: dùng bột thuốc luyện mật làm hoàn, mỗi hoàn
+**Trị chứng bạch cầu giảm:**
+
+Dùng bột thuốc luyện mật làm hoàn, mỗi hoàn
 nặng 6g, ngày uống 3 lần, mỗi lần 1 - 3 hoàn hoặc 3g bột, một liệu trình
 4 tuần. Trị 19 ca, 14 ca khỏi, 4 ca tiến bộ (Tân y học 1975,10:497).
 

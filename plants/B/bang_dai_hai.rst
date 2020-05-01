@@ -1,11 +1,10 @@
 .. _plants_bang_dai_hai:
 
-
-
+############
 Bàng đại hải
-============
+############
 
-(Semen Sterculiae Scaphigerae)
+**(Semen Sterculiae Scaphigerae)**
 
 Bàng đại hải tức Lười ươi (đười ươi) còn có tên Đại hải tử, Đại hải, Đại
 đồng quả, An nam tử, Hồ đại phát, tiếng Pháp gọi là Noix de Malva,
@@ -79,12 +78,13 @@ Kết quả nghiên cứu dược lý hiện đại
 Ứng dụng lâm sàng
 =================
 
-1.Trị viêm amidale cấp: dùng 4 - 8 quả cho vào bình trà, đổ nước sôi vào
+**Trị viêm amidale cấp:** dùng 4 - 8 quả cho vào bình trà, đổ nước sôi vào
 uống hết sau khi ngâm nửa giờ, cách 4 giờ 1 lần, trong 2 - 3 ngày. Trị
 khỏi 68 ca, tốt 21 ca (Lưu phúc Bình, Tạp chí Trung y Triết giang 1966,
 5:180).
 
-Liều dùng và chú ý:
+Liều dùng và chú ý
+==================
 
 -  Liều 3 - 5 quả hãm nước sôi hoặc sắc uống.
 

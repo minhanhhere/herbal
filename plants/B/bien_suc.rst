@@ -1,11 +1,10 @@
 .. _plants_bien_suc:
 
-
-
+########
 Biển súc
-========
+########
 
-(Herba Polygoni Avicularis)
+**(Herba Polygoni Avicularis)**
 
 Biển súc còn gọi là cây Càng tôm, rau đắng, cây xương cá dùng làm thuốc
 là toàn bộ cây trên mặt đất, được ghi đầu tiên trong sách bản kinh, tên
@@ -59,14 +58,14 @@ Kết quả nghiên cứu dược lý hiện đại
 Ứng dụng lâm sàng
 =================
 
-1.Trị viêm đường niệu: tiểu buốt, tiểu khó thể thấp nhiệt dùng các bài:
+**Trị viêm đường niệu (tiểu buốt, tiểu khó thể thấp nhiệt) dùng các bài:**
 
 -  Bát trân tán: (xem vị thuốc Xa tiền tử).
 -  Độc vị Rau đắng 20g sắc uống hoặc cùng dùng với Xa tiền thảo, Thạch
    vỹ đều 12g, Cam thảo 6g sắc uống. Trường hợp tiểu có máu, phối hợp
    với Tiểu kế, Bồ hoàng, Bạch mao căn, có sạn gia thêm Kim tiền thảo.
 
-2.Trị viêm ruột, kiết lî:
+**Trị viêm ruột, kiết lî:**
 
 -  Biển súc 16g, Xa tiền tử 12g, Tiên hạc thảo 16g, sắc nước uống trị
    tiêu chảy do thấp nhiệt.
@@ -78,7 +77,7 @@ Kết quả nghiên cứu dược lý hiện đại
    thuốc không có phản ứng phụ nào (Báo cáo của Bệnh viện số 1, trực
    thuộc Viện Y học Hồ bắc, tờ Thông tin Trung thảo dược 1972,3:24).
 
-3.Trị trùng roi âm đạo, ngứa ngoài da, giun đũa, giun móc câu:
+**Trị trùng roi âm đạo, ngứa ngoài da, giun đũa, giun móc câu:**
 
 -  Biển súc tươi 250g cho vào 1500ml nước sắc rửa ngứa ngoài da, âm đạo
    trùng roi.
@@ -87,9 +86,13 @@ Kết quả nghiên cứu dược lý hiện đại
 -  Biển súc 40g, giấm lâu năm 120g, gia nước 3 chén còn 1 chén chia 2
    lần uống, trị giun chui ống mật.
 
-4.Trị đau răng: mỗi ngày dùng Biển súc 50 - 100g sắc nước chia 2 lần
+**Trị đau răng:**
+
+Mỗi ngày dùng Biển súc 50 - 100g sắc nước chia 2 lần
 uống trị 81 ca, khỏi 80 ca sau khi uống thuốc 2 - 3 ngày (Báo Trung y
 Thiểm tây 1986,1:28).
+
+**Các tác dụng khác:**
 
 Ngoài ra có tác giả báo cáo dùng Biển súc 40 - 80g tươi, gia trứng gà
 mấy cái, gừng tươi vừa đủ sắc uống trong ngày 1 lần trong 20 ngày. Trị

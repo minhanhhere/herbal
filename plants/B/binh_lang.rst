@@ -1,11 +1,10 @@
 .. _plants_binh_lang:
 
-
-
+#########
 Binh lang
-=========
+#########
 
-(Semen Arecae Catechu)
+**(Semen Arecae Catechu)**
 
 Binh lang tức hạt Cau. Dùng làm thuốc được ghi đầu tiên trong sách Danh
 y biệt lục, là hạt quả chín của cây Cau, tên thực vật là Areca catechu L
@@ -81,7 +80,7 @@ Kết quả nghiên cứu dược lý hiện đại
 Ứng dụng lâm sàng
 =================
 
-1.Trị sán (taeniasis):
+**Trị sán (taeniasis):**
 
 -  Binh lang (cắt lát), Nam qua tử mỗi thứ 30g. Nam qua tử tán nhỏ. Binh
    lang sắc nước trộn uống. Có thể ăn hết hạt bí ngô rồi uống nước sắc
@@ -92,32 +91,33 @@ Kết quả nghiên cứu dược lý hiện đại
    còn 1 chén trà nhỏ, uống hết 1 lần nằm nghỉ. Lúc buồn đi tiêu nín 15
    phút rồi đi ngâm đít vào chậu nước nóng cho ra hết sán.
 
-2.Trị giun kim (oxyuriasis):
+**Trị giun kim (oxyuriasis):**
 
 -  Binh lang 15g, Thạch lựu bì, Nam qua tử đều 10g sắc uống lúc đói
    trước khi đi ngủ.
 
-3.Trị sán lá (fasciolopsiasis):
+**Trị sán lá (fasciolopsiasis):**
 
 -  Binh lang 15g, Ô mai 10g, Cam thảo 5g, sắc uống vào lúc sáng sớm bụng
    đói.
 
-4.Trị táo bón bụng đầy, do thực tích khí trệ:
+**Trị táo bón bụng đầy, do thực tích khí trệ:**
 
 -  Mộc hương Binh lang hoàn (Đan khê tâm pháp): Mộc hương, Binh lang,
    Thanh bì, Trần bì, Nga truật, Hoàng liên đều 30g, Hoàng bá, Đại hoàng
    đều 100g, Hương phụ sao, Khiên ngưu đều 120g, tán bột mịn làm hoàn,
    mỗi lần 6 - 10g, ngày 2 - 3 lần với nước sôi ấm.
 
-5.Trị sốt rét:
+**Trị sốt rét:**
 
--  Triệt ngược thất bảo ẩm " Dương thị gia tăng phương":
+Triệt ngược thất bảo ẩm "Dương thị gia tăng phương":
 
-Thường sơn 3g, Thanh bì, Trần bì, Chích thảo, Binh lang, Thảo quả nhân
-đều 2g, sắc nước uống, có thể gia thêm tí rượu, uống trước khi lên cơn 2
-giờ.
+-  Thường sơn 3g, Thanh bì, Trần bì, Chích thảo, Binh lang, Thảo quả nhân
+   đều 2g, sắc nước uống, có thể gia thêm tí rượu, uống trước khi lên cơn 2
+   giờ.
 
-Liều lượng và chú ý:
+Liều lượng và chú ý
+===================
 
 -  Dùng uống trong và thuốc thang: 6 - 15g.
 -  Nếu dùng độc vị trị Bạch thốn trùng và sán lá, có thể dùng đến
@@ -126,15 +126,16 @@ Liều lượng và chú ý:
 -  Dùng ngoài rửa tùy yêu cầu (dùng nước sắc hạt cau trị chốc đầu ở trẻ
    em (gội).
 
-Phụ chú: ĐẠI PHÚC BÌ
+.. note::
+   ĐẠI PHÚC BÌ
 
-Đại phúc bì là vỏ quả cau còn gọi là Binh lang bì, Đại phúc bì, Binh
-lang y. Vị cay tính hơi ôn, qui kinh Tỳ Vị Đại tràng Tiểu tràng. Có tác
-dụng hạ khí khoan trung, lợi thủy tiêu thũng.
+   Đại phúc bì là vỏ quả cau còn gọi là Binh lang bì, Đại phúc bì, Binh
+   lang y. Vị cay tính hơi ôn, qui kinh Tỳ Vị Đại tràng Tiểu tràng. Có tác
+   dụng hạ khí khoan trung, lợi thủy tiêu thũng.
 
-Dùng trị các chứng thấp trở khí trệ, vùng thượng vị đầy tức, phù, cước
-khí.
+   Dùng trị các chứng thấp trở khí trệ, vùng thượng vị đầy tức, phù, cước
+   khí.
 
-Liều lượng thường dùng: 3 - 10g.
+   Liều lượng thường dùng: 3 - 10g.
 
  

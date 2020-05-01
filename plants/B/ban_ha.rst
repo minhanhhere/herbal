@@ -1,11 +1,10 @@
 .. _plants_ban_ha:
 
-
-
+######
 Bán hạ
-======
+######
 
-(Rhizoma Pinelliae Ternatae)
+**(Rhizoma Pinelliae Ternatae)**
 
 Bán hạ dùng làm thuốc được ghi đầu tiên trong sách Bản kinh là thân rễ
 phơi hay sấy khô của nhiều loại Bán hạ khác nhau đều thuộc họ Ráy
@@ -25,7 +24,8 @@ Aán độ, Campuchia, Lào, Indonexia, Malaxia, Nam Trung quốc, Nhật bản.
 Cây Bán hạ đào nhổ về, bỏ vỏ ngoài và rễ con, rửa sạch, phơi khô là Bán
 hạ sống (sinh Bán hạ), Bán hạ sống có độc phải bào chế mới dùng.
 
-Các cách bào chế:
+Các cách bào chế
+=================
 
 Bán hạ sống ngâm nước cho đến khi cắn chỉ có vị hơi tê cay rồi bỏ vào
 chỏ nấu với gừng tươi và Bạch phàn cho đến nước trong lấy ra phơi chỗ
@@ -144,7 +144,9 @@ Kết quả nghiên cứu dược lý hiện đại
 Ứng dụng lâm sàng
 =================
 
-1.Trị ung thư cổ tử cung: dùng loại Chưởng diệp Bán hạ (Rhizoma
+**Trị ung thư cổ tử cung:**
+
+Dùng loại Chưởng diệp Bán hạ (Rhizoma
 pinelliae pedatisectae) chế thành lát mỏng (ngày 3 lần tổng liều 60g Bán
 hạ sống hoặc viên đạn (mỗi viên 50g, ngày đặt vào cổ tử cung 1 lần),
 viên thỏi (mỗi thỏi có 5 - 7,5g thuốc sống, nhét vào cổ tử cung ngày 1
@@ -153,44 +155,53 @@ trước mắt 63 ca, kết quả tiến bộ tốt 84 ca, có kết quả 44 ca
 kết quả chung 77,33% (báo cáo của Bệnh viện Phụ sản trực thuộc Học viện
 Thượng hải số 1, Báo Y học Thượng hải 1978,1:13).
 
-2.Trị nôn thai nghén: dùng bột Sơn dược uống và Thanh Bán hạ mỗi thứ
+**Trị nôn thai nghén:**
+
+Dùng bột Sơn dược uống và Thanh Bán hạ mỗi thứ
 30g, dùng lửa nhỏ (văn hỏa), sắc Bán hạ 45 phút, bỏ xác cho bột Sơn dược
 vào đun sôi 3 - 4 lần rồi cho đường đủ ngọt, ngày uống 1 thang, sau đó
 tùy chứng gia thuốc. Đã trị 18 ca đều khỏi (Trần Triệu, Trung y tạp chí
 Giang tô 1987,3:16).
 
-3.Trị lóet cổ tử cung: lấy Bán hạ sống nghiền bột rây, lúc dùng lấy
+**Trị lóet cổ tử cung:**
+
+Lấy Bán hạ sống nghiền bột rây, lúc dùng lấy
 miếng bông có cột sợi chỉ tẩm thuốc đặt vào chỗ đau áp sát vào chỗ lóet,
 24 giờ sau tự lấy ra, mỗi tuần 1 - 2 lần, 8 lần là 1 liệu trình. Đã theo
 dõi 1347 ca, tỷ lệ có kết quả là 97,18%, tỷ lệ khỏi 44,77% (Hồ khanh
 Phát, Báo Trung Y Thiểm tây,1984,5:14).
 
-4.Trị viêm tuyến vú cấp: dùng Bán hạ tươi rửa sạch bỏ vỏ ngoài, mỗi lần
+**Trị viêm tuyến vú cấp:**
+
+Dùng Bán hạ tươi rửa sạch bỏ vỏ ngoài, mỗi lần
 nhét vào lỗ mũi cùng bên hoặc khác bên vú đau trong 1 - 2 giờ, ngày 1
 lần. Theo dõi 40 ca, kết quả khỏi 36 ca, tỷ lệ khỏi 90% (Ngô Thanh
 Thiện, Học báo của Học viện Trung y An huy 1984, 2: bìa 4).
 
-5.Trị viêm hạch lâm ba cổ mạn tính: dùng Bán hạ 50g sấy khô tán bột mịn
+**Trị viêm hạch lâm ba cổ mạn tính:**
+
+Dùng Bán hạ 50g sấy khô tán bột mịn
 dùng. Lấy bột Bán hạ sống 3 phần, bột mì 1 phần trộn đều, cho thêm nửa
 thìa dấm lâu năm và nước sôi trộn đều, mỗi tối một lần đắp vùng viêm
 sáng lấy ra, 5 - 7 lần là một liệu trình. Đã theo dõi 30 ca, kết quả tốt
 (Lý hóan Hoa, Báo Y học đại chúng 1984,8:43).
 
-6.Trị ho trong chứng cảm phong hàn:
+**Trị ho trong chứng cảm phong hàn:**
 
 -  Nhị trần thang (Hòa tễ cục phương): Chế Bán hạ, Phục linh, Trần bì
    đều 10g, Cam thảo 3g, sắc nước uống.
 
-7.Trị chứng rối loạn tiêu hóa: bụng đầy tức, sôi bụng, nôn tiêu chảy.
+**Trị chứng rối loạn tiêu hóa, bụng đầy tức, sôi bụng, nôn tiêu chảy:**
 
 -  Bán hạ tả tâm thang (Thương hàn luận): Bán hạ chế 10g, Can khương 5g,
    Hoàng cầm 10g, Hoàng liên 3g, Đảng sâm 10g, Chích thảo 3g, Đại táo 3
    quả sắc uống.
 
-8.Giới thiệu kinh nghiệm dùng Bán hạ sống: Nghiêm Đức Thanh cho rằng
-sách Thương hàn luận có 43 bài thuốc dùng Bán hạ trong đó 37 bài thuốc
-uống, 6 bài dùng ngoài đều dùng Bán hạ sống không nói đến bào chế. Các y
-gia đời sau thấy Bán hạ táo là có độc nên mới chế Bán hạ. Chế có giảm
+**Giới thiệu kinh nghiệm dùng Bán hạ sống:**
+
+Nghiêm Đức Thanh cho rằng sách Thương hàn luận có 43 bài thuốc dùng Bán hạ
+trong đó 37 bài thuốc uống, 6 bài dùng ngoài đều dùng Bán hạ sống không nói đến
+bào chế. Các y gia đời sau thấy Bán hạ táo là có độc nên mới chế Bán hạ. Chế có giảm
 độc nhưng hiệu lực của thuốc cũng giảm. Độc tính của Bán hạ đun nóng
 cũng mất nhiều nên chủ trương sắc Bán hạ lâu, khoảng 30 phút và thêm
 Gừng tươi, nên dùng thuốc cần chú ý phối ngũ (Vương kiến Dũng, Tạp chí
@@ -205,13 +216,13 @@ Liều lượng thường dùng và chú ý
    miên".
 -  Tùy từng loại Bán hạ chế mà chọn dùng đối với bệnh thích hợp:
 
-+ Thanh Bán hạ: bớt táo cay chuyên hóa thấp đàm nên dùng cho bệnh nhân
+**Thanh Bán hạ:** bớt táo cay chuyên hóa thấp đàm nên dùng cho bệnh nhân
 cơ thể hư nhược đàm nhiều, hoặc trẻ em thực tích đàm trệ, bệnh nhẹ.
 
-+ Pháp Bán hạ: chuyên táo thấp hòa vị, dùng tốt cho bệnh nhân tỳ hư thấp
+**Pháp Bán hạ:** chuyên táo thấp hòa vị, dùng tốt cho bệnh nhân tỳ hư thấp
 trệ, tỳ vị bất hòa.
 
-+ Trúc lịch Bán hạ: tính ôn táo giảm rất nhiều, dùng tốt cho chứng nôn
+**Trúc lịch Bán hạ:** tính ôn táo giảm rất nhiều, dùng tốt cho chứng nôn
 do vị nhiệt hoặc do phế nhiệt do đàm vàng dính hoặc chứng hóa thấp kiện
 tỳ, tiêu thực chỉ tả, nên dùng trị chứng tỳ vị hư nhược thấp trở thực
 trệ.

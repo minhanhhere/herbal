@@ -1,11 +1,10 @@
 .. _plants_bach_truat:
 
-
-
+##########
 Bạch truật
-==========
+##########
 
-(Rhizoma atrclylodis macrocephalae)
+**(Rhizoma atrclylodis macrocephalae)**
 
 Bạch truật là thân rễ phơi hay sấy khô của cây Bạch truật(Atractylodes
 macrocephal Koidz) thuộc họ Cúc (Compositae). Bạch truật được ghi đầu
@@ -96,7 +95,9 @@ Kết quả nghiên cứu dược lý hiện đại
 Ứng dụng lâm sàng
 =================
 
-1.Trị tiêu chảy do tỳ hư: Tiêu chảy kéo dài, người mệt mỏi, ăn kém:
+**Trị tiêu chảy do tỳ hư:**
+
+Tiêu chảy kéo dài, người mệt mỏi, ăn kém:
 
 -  Lý trung thang: Đảng sâm 12g, Can khương 8g, Bạch truật 12g, Cam thảo
    4g, sắc uống.
@@ -111,43 +112,54 @@ Kết quả nghiên cứu dược lý hiện đại
    chảy kéo dài, khỏi 259 ca, tốt 56 ca, không kết quả 5 ca (Tạp chí
    Trung y Sơn đông 1982,2:107).
 
-2.Trị chứng ra mồ hôi do khí hư: thuốc có tác dụng cố biểu chỉ hãn:
+**Trị chứng ra mồ hôi do khí hư:**
+
+Thuốc có tác dụng cố biểu chỉ hãn:
 
 -  Bạch truật tán: Bạch truật, Phòng phong mỗi thứ 12g, Mẫu lệ 24g, sắc
    uống hoặc tán thành bột, mỗi lần 8 - 12g.
 -  Bạch truật tiễn: Bạch truật, Hoàng kỳ mỗi thứ 12g, Phù tiểu mạch 20g,
    sắc uống.
 
-3.Trị phù do Tỳ hư: dùng Ngũ linh tán (Bạch linh, Bạch truật, Trư linh,
+**Trị phù do Tỳ hư:**
+
+Dùng Ngũ linh tán (Bạch linh, Bạch truật, Trư linh,
 Trạch tả, Quế chi) hoặc Ngũ bì ẩm gia Bạch truật, Trần bì, Tang bì, Tang
 bạch bì, Sinh khương bì, Đại phúc bì. Bài này đối với phụ nữ có thai
 dùng tốt. Trường hợp Tỳ thận hư hàn dùng bài Chân vũ thang (Chế Phụ tử,
 Bạch linh, Bạch thược, Sinh khương).
 
-4.Trị chứng bệnh về gan: Trọng dụng Bạch truật, trị xơ gan cổ trướng
+**Trị chứng bệnh về gan:**
+
+Trọng dụng Bạch truật, trị xơ gan cổ trướng
 dùng bài 30 - 60g, viêm gan mạn dùng 15 - 30g, ung thư gan 60 - 100g,
 trường hợp tỳ hư thấp dùng Tiêu Bạch truật, âm hư dùng Sinh tân Bạch
 truật, tùy bệnh gia giảm có kết quả nhất định (Học báo Trung y học viện
 An huy 1984,2:25).
 
-5.Trị trẻ em nước rãi nhiều: dùng Sinh Bạch truật 10g, xắt nhỏ, cho vào
+**Trị trẻ em nước rãi nhiều:**
+
+Dùng Sinh Bạch truật 10g, xắt nhỏ, cho vào
 chén nhỏ nước vừa đủ chưng lên, cho ít đường cho đủ ngọt cho uống. Kết
 quả tốt (Văn tế bang giới thiệu kinh nghiệm chữa nước rãi trẻ em, Báo
 Trung y Giang tô 1966,12:1), Quách Kiếm Hoa, độc vị Quế chi trị Tâm quí;
 Sinh Bạch truật trị nước rãi (Tạp chí Trung y Liêu ninh 1986,8:42).
 
-6.Trị chứng huyễn vựng nội nhĩ (Hội chứng Méniere): Bành Liên Chương
-dùng Bạch truật (mạch sao), Trạch tả, sao Ý dĩ mỗi thứ 30g, sắc nước
-uống, mỗi ngày một thang chia 3 lần, phòng trị chứng huyễn vựng nội nhĩ
+**Trị chứng huyễn vựng nội nhĩ (Hội chứng Méniere):**
+
+Bành Liên Chương dùng Bạch truật (mạch sao), Trạch tả, sao Ý dĩ mỗi thứ 30g,
+sắc nước uống, mỗi ngày một thang chia 3 lần, phòng trị chứng huyễn vựng nội nhĩ
 đạt kết quả tốt (Tạp chí Trung y Hồ bắc 1983,4:20).
 
-7.Trị đau lưng đùi mạn tính: dùng Bạch truật 30g, Chích Sơn giáp 6g, gia
+**Trị đau lưng đùi mạn tính:**
+
+Dùng Bạch truật 30g, Chích Sơn giáp 6g, gia
 rượu trắng 20 - 30 độ 100ml (đủ lượng làm ngập thuốc), đậy nắp đun sôi,
 xong nhỏ lửa độ 30 phút, đổ nước ra còn xác sắc lần hai, nước thuốc 2
 lần trộn chung chia 2 lần, uống sáng và chiều, uống liền 2 - 3 ngày. Đã
 trị 24 ca, kết quả đều tốt (Báo Trung cấp y 1982,6:57).
 
-8.Trị táo bón:
+**Trị táo bón:**
 
 -  Ngụy Long Tường dùng Bạch truật sống 40g, 80g đến 160g, 200g. Nếu
    phân khô gia Sinh địa có khi ít gia Thăng ma để thăng thanh giáng
@@ -158,25 +170,30 @@ trị 24 ca, kết quả đều tốt (Báo Trung cấp y 1982,6:57).
    ngày 1 thang sắc uống, thường dùng 1 - 4 thang. Trị 50 ca phụ nữ táo
    bón sau phẫu thuật, kết quả tốt (Tân Y dược học tạp chí 1979,6:27).
 
-9.Dùng làm thuốc an thai: chữa phụ nữ có thai, huyết hư thai động dùng
+**Dùng làm thuốc an thai:**
+
+Chữa phụ nữ có thai, huyết hư thai động dùng
 bài Đương qui tán: Bạch truật 12g, Đương qui 12g, Bạch thược 12g, Hoàng
 cầm 12g, Xuyên khung 8g, sắc uống. Liều 2 - 4 thang, mỗi ngày 1 thang.
 
-10.Trị đau nhức khớp do phong thấp: dùng Bạch truật kết hợp Uy linh
+**Trị đau nhức khớp do phong thấp:**
+
+Dùng Bạch truật kết hợp Uy linh
 tiên, Phòng kỷ, Tang chi . có tác dụng kiện tỳ trừ thấp chỉ thống.
 
-Liều thường dùng và chú ý:
+Liều thường dùng và chú ý
+=========================
 
--  Liều thường dùng
-================ 5 - 15g, để thông tiện dùng 60 - 120g.
--  Chú ý:
+-  Liều thường dùng: 5 - 15g
+-  Để thông tiện dùng 60 - 120g.
 
-a. Trường hợp táo thấp lợi thủy thì dùng sống, nếu dùng bổ khí kiện tỳ
-   chỉ hãn an thai thì dùng sao.
-b. Thuốc có tính ôn táo nên dùng thận trọng đối với bệnh nhân âm hư nội
-   nhiệt. Trường hợp có triệu chứng khí trệ như ngực bụng đầy tức nếu
-   dùng Bạch truật nên gia thêm thuốc hành khí như Trần bì, Mộc hương,
-   Sa nhân.
-c. So với Thương truật tính vị cay táo nhiều mà ít có tác dụng bổ, còn
-   Bạch truật vị ngọt đắng, tính ôn, hơi cay nên tác dụng bổ nhiều hơn,
-   tán dùng kiện tỳ tốt.
+.. caution::
+   #. Trường hợp táo thấp lợi thủy thì dùng sống, nếu dùng bổ khí kiện tỳ
+      chỉ hãn an thai thì dùng sao.
+   #. Thuốc có tính ôn táo nên dùng thận trọng đối với bệnh nhân âm hư nội
+      nhiệt. Trường hợp có triệu chứng khí trệ như ngực bụng đầy tức nếu
+      dùng Bạch truật nên gia thêm thuốc hành khí như Trần bì, Mộc hương,
+      Sa nhân.
+   #. So với Thương truật tính vị cay táo nhiều mà ít có tác dụng bổ, còn
+      Bạch truật vị ngọt đắng, tính ôn, hơi cay nên tác dụng bổ nhiều hơn,
+      tán dùng kiện tỳ tốt.

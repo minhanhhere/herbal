@@ -1,9 +1,10 @@
 .. _plants_bang_sa:
 
+#######
 Bằng sa
-=======
+#######
 
-(Borax)
+**(Borax)**
 
 Bằng sa tức Hàn the còn gọi là Nguyệt thạch. Bằng sa dùng làm thuốc được
 ghi đầu tiên trong sách Đơn phòng giám nguyên với nguyên tên là Đại Bằng
@@ -27,8 +28,7 @@ Theo các sách thuốc cổ:
 Thành phần chủ yếu
 ==================
 
-Sodium tetraborate (
-Na\ :sub:`2`\ B\ :sub:`4`\ O\ :sub:`7`\ 10H\ :sub:`2`\ O).
+Sodium tetraborate (Na\ :sub:`2`\ B\ :sub:`4`\ O\ :sub:`7`\ 10H\ :sub:`2`\ O).
 
 Tác dụng dược lý
 ================
@@ -73,13 +73,15 @@ Kết quả nghiên cứu dược lý hiện đại
 Ứng dụng lâm sàng
 =================
 
-1.Trị bong gân lưng: Tác giả dùng Hàn the tán bột mịn hoặc chế thành 3%
+**Trị bong gân lưng:**
+
+Tác giả dùng Hàn the tán bột mịn hoặc chế thành 3%
 thuốc nhỏ mắt vào khóe mắt trong và ngoài đồng thời vận động lưng. Trị
 50 ca, 46 ca qua 1 lần là khỏi, sau 1/2 giờ hết đau, 2 ca chuyển biến
 tốt và 2 ca không khỏi (Chu chí Đông Tạp chí Trung y dược Thượng hải
 1986, 11:31).
 
-2.Trị động kinh:
+**Trị động kinh:**
 
 -  Trường hợp ít lên cơn: dùng Bằng sa, mỗi lần uống 0,3g, ngày 3 lần.
 -  Nếu lên cơn dày: mỗi lần uống 0,5g, ngày 3 lần. Nếu cơn lâu hoặc liên
@@ -87,12 +89,14 @@ tốt và 2 ca không khỏi (Chu chí Đông Tạp chí Trung y dược Thượ
    gardenal, luminal sodium.). Trị 10 ca đều có kết quả (Phùng Khải
    Nam, Tạp chí Y Trung cấp 1966,5:299).
 
-3.Trị ban do mồ hôi: Lấy nước dưa vàng (Hoàng qua) trộn bột Bằng sa đến
+**Trị ban do mồ hôi:**
+
+Lấy nước dưa vàng (Hoàng qua) trộn bột Bằng sa đến
 mức bảo hòa. Dùng nước sôi rửa sạch vùng ban rồi bôi nước dưa lên ngày 1
 lần. Trị 18 ca: khỏi 17 ca, không kết quả 1 ca (Lưu Hiếu Mẫn, Tạp chí
 Trung y Hà nam 1985,4:30).
 
-4.Trị loét mồm lợi, cổ họng sưng đau, viêm tai giữa cấp mạn tính:
+**Trị loét mồm lợi, cổ họng sưng đau, viêm tai giữa cấp mạn tính:**
 
 -  Bằng băng phiến (xem bài Băng phiến): thổi thuốc vào vùng bị bệnh.
 -  Bằng sa, Sinh Thạch cao, Băng phiến, Hàn thủy thạch, móng tay người:
@@ -101,7 +105,7 @@ Trung y Hà nam 1985,4:30).
 -  Hàn the, Ô mai: bằng nhau tán nhỏ làm viên bằng hạt ngô, mỗi lần ngậm
    1 viên cho tan dần. Trị viêm họng.
 
-5.Trị ho nhiều đàm:
+**Trị ho nhiều đàm:**
 
 -  An phế ninh thấu hoàn: Bằng sa, Tang bì, Nhị trà, Tô tử, Cam thảo đều
    30g, tán bột mịn, mật làm thành viên (hoàn), mỗi hoàn 6g. Uống ngày 2

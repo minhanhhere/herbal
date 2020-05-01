@@ -1,11 +1,10 @@
 .. _plants_boi_mau:
 
-
-
+#######
 Bối mẫu
-=======
+#######
 
-(Bulbus Fritillariae)
+**(Bulbus Fritillariae)**
 
 Bối mẫu dùng làm thuốc được ghi đầu tiên trong sách Bản kinh, thường
 được chia làm 2 loại:
@@ -99,19 +98,19 @@ Kết quả nghiên cứu dược lý hiện đại
 Ứng dụng lâm sàng
 =================
 
-1.Trị lao hạch (chứng loa lịch):
+**Trị lao hạch (chứng loa lịch):**
 
 -  Tiêu loa hoàn: Huyền sâm 12g, Bối mẫu 10g, Mẫu lệ 15g, tán bột mịn
    trộn đều, luyện mật làm hoàn, mỗi lần uống 10g, ngày 2 lần, với nước
    sôi nguội.
 
-2.Trị viêm tuyến vú mới bắt đầu sưng tấy:
+**Trị viêm tuyến vú mới bắt đầu sưng tấy:**
 
 -  Bối mẫu, Thiên hoa phấn đều 10g, Bồ công anh 15g, Liên kiều, Đương
    qui, Lộc giác đều 10g, Thanh bì 6g, sắc nước uống. Ngoài đắp Bồ công
    anh.
 
-3.Trị viêm phế quản kéo dài thể âm hư phế táo:
+**Trị viêm phế quản kéo dài thể âm hư phế táo:**
 
 -  Nhị mẫu tán: Tri mẫu 10g, Xuyên Bối mẫu 8g (tán bột hòa uống) gia
    gừng tươi 3 lát sắc nước uống.
@@ -126,12 +125,13 @@ Kết quả nghiên cứu dược lý hiện đại
    uống chia 3 lần trong ngày. Trị trẻ em viêm phế quản, ho, khó thở,
    sốt.
 
-4.Trị phụ nữ có thai ho đàm:
+**Trị phụ nữ có thai ho đàm:**
 
 Bối mẫu bỏ lõi sao vàng tán nhỏ, luyện với đường phèn viên bằng hạt ngô
 ngậm ngày 5 - 10 viên.
 
-Liều thường dùng và chú ý:
+Liều thường dùng và chú ý
+=========================
 
 -  Liều: 3 - 10g tán bột hòa uống. Mỗi lần uống 1 - 2g, thường uống với
    thuốc thang hoặc cho vào thuốc hoàn tán.

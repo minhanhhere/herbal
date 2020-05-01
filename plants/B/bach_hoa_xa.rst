@@ -1,9 +1,8 @@
 .. _plants_bach_hoa_xa:
 
-
-
+######################
 Bạch hoa xà thiệt thảo
-======================
+######################
 
 **(Herba Oldenlandiae Diffusae)**
 
@@ -44,7 +43,8 @@ Thanh nhiệt giải độc tiêu ung kháng nham, lợi
 thấp. Chủ trị các chứng ung nhọt, sang độc, trường ung, yết hầu, sưng
 đau, rắn độc cắn, ung thư, nhiệt lâm, tiểu tiện khó.
 
-Theo kết quả nghiên cứu dược lý hiện đại:
+Theo kết quả nghiên cứu dược lý hiện đại
+----------------------------------------
 
 #. Tác dụng kháng khuẩn của thuốc in vitro không mạnh. Có tác dụng yếu
    đối với tụ cầu vàng, trực khuẩn lî, dịch chích không có tác dụng ức
@@ -69,24 +69,30 @@ Theo kết quả nghiên cứu dược lý hiện đại:
 Ứng dụng lâm sàng
 =================
 
-1.Trị viêm ruột thừa cấp đơn thuần và viêm phúc mạc nhẹ: Dùng 60g thuốc
-sắc chia 2 - 3 lần uống trong ngày. Bệnh nặng phối hợp thêm Hải kim sa
-đằng, Dã Cúc hoa hoặc thêm Đại hoàng Mẫu đơn thang, Long đởm tả can
+**Trị viêm ruột thừa cấp đơn thuần và viêm phúc mạc nhẹ:**
+
+Dùng 60g thuốc sắc chia 2 - 3 lần uống trong ngày. Bệnh nặng phối hợp thêm
+Hải kim sa đằng, Dã Cúc hoa hoặc thêm Đại hoàng Mẫu đơn thang, Long đởm tả can
 thang, Tiên phương hoạt mệnh ẩm gia giảm. Theo báo cáo của nhiều tác giả
 ở Trung quốc đã dùng trị trên 1000 ca kết quả tốt (dăng trong sách "
 Dược lý và ứng dụng trung dược do Nhà xuất bản Vệ sinh Nhân dân xuất bản
 năm 1983).
 
-2.Trị rắn cắn: Dùng thuốc 20g sắc với rượu trắng 200ml uống trong 1
+**Trị rắn cắn:**
+
+Dùng thuốc 20g sắc với rượu trắng 200ml uống trong 1
 ngày, dùng 2/3 thuốc chia 2 - 3 lần uống và 1/3 đắp vào vết cắn, trị 19
 ca đều khỏi (Tạp chí Y học Quảng đông - Bản Y học Tổ quốc 1965,2:11).
 
-3.Trị chứng tích nước bìu dái (biến chứng sau khi thắt ống dẫn tinh)
-dùng thuốc 30g sắc chia 3 lần uống (có thể hãm nước sôi). Trị 38 ca có
+**Trị chứng tích nước bìu dái (biến chứng sau khi thắt ống dẫn tinh):**
+
+Dùng thuốc 30g sắc chia 3 lần uống (có thể hãm nước sôi). Trị 38 ca có
 kết quả 34 ca (Báo cáo của Vạn hiếu Tài, Tạp chí Y học nông thôn
 1987,2:11).
 
-4.Trị viêm gan: dùng bài Tam thảo thang (Bạch hoa xà thiệt thảo 31,25g,
+**Trị viêm gan:**
+
+Dùng bài Tam thảo thang (Bạch hoa xà thiệt thảo 31,25g,
 Hạ khô thảo 31,25g, Cam thảo 15,625g chế thành sirô trị viêm gan cấp,
 vàng da, có kết quả 100%, ngày nằm viện bình quân 25,3 ngày (Theo Báo
 cáo của Khoa nhiễm Bệnh viện trực thuộc số 2 Học viện Y học Hà nam - Bản
@@ -96,13 +102,17 @@ Liều lượng thường dùng và chú ý
 ===============================
 
 -  Liều dùng uống: 15 - 60g, dùng ngoài tùy ý theo bệnh lý.
--  Chú ý: là một cây thuốc mới được phát hiện có tác dụng giải độc tiêu
+
+.. note::
+   Là một cây thuốc mới được phát hiện có tác dụng giải độc tiêu
    ung. Dùng trị nhọt sưng tấy phối hợp với Kim ngân hoa, Liên kiều, Hoa
    Cúc dại. Trị sưng đau họng phối hợp với Huyền sâm, Cát cánh, Cam
    thảo. Trị trường ung (bao gồm viêm ruột thừa phối hợp với Hồng đằng,
    Bại tương thảo. Trường hợp rắn độc cắn đắp ngoài phối hợp với Bán
    biên liên, Tảo hưu, Tử hoa địa đinh.
--  Gần đây ở Trung quốc đã dùng Bạch hoa xà thiệt thảo trị ung thư, phối
+
+.. note::
+   Gần đây ở Trung quốc đã dùng Bạch hoa xà thiệt thảo trị ung thư, phối
    hợp với các loại thuốc trị ung thư khác. Theo sách Quảng tây trung
    dược thảo: " thuốc có tác dụng thanh nhiệt giải độc, hoạt huyết lợi
    niệu. Trị viêm họng, viêm amidale, viêm ruột thừa, viêm gan, viêm
