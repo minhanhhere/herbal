@@ -1,7 +1,10 @@
 .. _plants_ichtrinhan:
 
-Ích trí nhân (Fructus Alpiniae Oxyphyllae)
-##########################################
+############
+Ích trí nhân
+############
+
+**(Fructus Alpiniae Oxyphyllae)**
 
 Ích trí nhân, lần đầu tiên được ghi trong sách Bản thảo thập di còn gọi
 là Ích trí tử là hạt chín phơi khô của cây Ích trí (Alppinia oxyphylla
@@ -55,7 +58,9 @@ Thuốc có tác dụng ức chế co bóp hồi tràng, cường tim, làm dãn
 Ứng dụng lâm sàng
 =================
 
-1.Trị tiểu đêm nhiều lần: (do Bàng quang Thận hư hàn) dùng các bài:
+**Trị tiểu đêm nhiều lần (do Bàng quang Thận hư hàn):**
+
+Dùng các bài:
 
 -  Ích trí nhân 20 hạt, thêm vài hạt muối sắc với 200ml nước, uống trước
    khi đi ngủ.
@@ -63,18 +68,18 @@ Thuốc có tác dụng ức chế co bóp hồi tràng, cường tim, làm dãn
    sơn (chưng rượu), lượng bằng nhau làm hoàn, mỗi lần uống 8 - 12g,
    ngày 2 - 3 lần. Trị tiểu nhiều lần và trẻ em đái dầm.
 
-2.Trị di tinh (do thận dương hư):
+**Trị di tinh (do thận dương hư):**
 
 -  Ích trí hoàn: Ích trí nhân, Phục linh, Phục thần lượng bằng nhau tán
    bột mịn, mỗi lần 8g, ngày 2 lần, uống với nước sôi ấm. Trị di tinh,
    bạch đới.
 
-3.Trị mồm chảy nước rãi nhiều (do Tỳ vị hư hàn) dùng bài;
+**Trị mồm chảy nước rãi nhiều (do Tỳ vị hư hàn):**
 
 -  Ích trí ẩm: Ích trí nhân, Đảng sâm, Bán hạ, Quất bì, Xa tiền tử, mỗi
    thứ 12g, Phục linh 16g, sắc uống.
 
-4.trị tiêu chảy do Tỳ hư:
+**Trị tiêu chảy do Tỳ hư:**
 
 -  Ích trí nhân, Hoài sơn, Kha tử nhục, mỗi thứ 12g, Mộc hương, Tiểu
    hồi, Can khương, Trần bì, Ô mai mỗi thứ 6g, tán bột mịn làm hoàn,
@@ -82,9 +87,6 @@ Thuốc có tác dụng ức chế co bóp hồi tràng, cường tim, làm dãn
    do tỳ thận dương hư.
 
 Liều thường dùng
-================ 4 - 12g.
+================
 
-..  image:: ICHTRINHAN.JPG
-   :width: 50px
-   :height: 50px
-   :target: ICHTRINHAN_.HTM
+4 - 12g.

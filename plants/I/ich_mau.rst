@@ -1,7 +1,10 @@
 .. _plants_ichmau:
 
-Ích mẫu thảo (Herba Leonuri)
-############################
+############
+Ích mẫu thảo
+############
+
+**(Herba Leonuri)**
 
 Ích mẫu thảo là toàn bộ phận trên mặt đất của cây Ích mẫu (Leonurus
 heterophyllus Sweet) phơi hay sấy khô, dùng làm thuốc được ghi đầu tiên
@@ -33,7 +36,9 @@ Tác dụng dược lý
 ================
 
 Theo Y học cổ truyền
--------------------- thuốc có tác dụng hoạt huyết khu ứ, lợi tiểu
+--------------------
+
+Thuốc có tác dụng hoạt huyết khu ứ, lợi tiểu
 tiêu phù, thanh nhiệt giải độc. Chủ trị các chứng kinh nguyệt không đều,
 kinh bế, đau bụng sau sanh, đau do chấn thương, phù, tiểu tiện không
 lợi, sang độc sưng tấy, ban chẩn ngứa.
@@ -54,7 +59,10 @@ Trích Y văn cổ:
    đàn bà cần dùng. Thuốc còn có tác dụng tiêu phù trị ứ huyết do chấn
    thương thông đại tiểu tiện".
 
-B.Theo kết quả nghiên cưú dược lý hiện đại: Ích mẫu thảo có tác dụng
+Theo kết quả nghiên cưú dược lý hiện đại
+----------------------------------------
+
+Ích mẫu thảo có tác dụng
 trực tiếp hưng phấn tử cung, làm cho tử cung co thắt nhiều hơn và mạnh
 hơn. Đối với tim cô lập chuột Hòa lan, thuốc có tác dụng tăng lưu lượng
 máu động mạch vành, làm chậm nhịp tim, cải thiện vi tuần hoàn bị rối
@@ -66,8 +74,11 @@ ngoài da.
 Cao Ích mẫu làm hạ huyết áp, nhất là đối với thời kỳ đầu của bệnh.
 
 Ứng dụng lâm sàng
+=================
 
-1.Trị rối loạn kinh nguyệt: đau kinh, vô sinh, sau sinh máu xấu ra không
+**Trị rối loạn kinh nguyệt:**
+
+Đau kinh, vô sinh, sau sinh máu xấu ra không
 dứt, dùng các bài:
 
 -  Ích mẫu hoàn: Ích mẫu thảo 15g, Đương qui, Xích thược đều 10g, Mộc
@@ -86,7 +97,7 @@ dứt, dùng các bài:
    có 14,6% tử cung co bóp tăng, sau 2 giờ tử cung tăng co bóp lên 25% (
    Tạp chí sản khoa Trung hoa 1956,2:202).
 
-2.Trị phù do viêm cầu thận cấp mạn, cao huyết áp:
+**Trị phù do viêm cầu thận cấp mạn, cao huyết áp:**
 
 -  Ích mẫu thảo 20g, Bạch mao căn, Bạch linh, Xa tiền tử đều 15g, Bạch
    truật, Tang bì đều 10g, sắc nước uống.
@@ -95,27 +106,27 @@ dứt, dùng các bài:
    tiểu, trị phù rõ, đối với viêm cầu thận cấp kết quả trước mắt là tốt
    (Tạp chí Trung y Vân nam 1984,2:48).
 
-3.Trị bệnh mạch vành: Vương triết Thân và cộng sự dùng thuốc chích Ích
+**Trị bệnh mạch vành:**
+
+Vương triết Thân và cộng sự dùng thuốc chích Ích
 mẫu cao nhỏ giọt tĩnh mạch trị 100 ca bệnh mạch vành, thiếu máu cơ tim.
 Kết quả lâm sàng tốt 45%, tiến bộ 39%, tỷ lệ có kết quả 84%, kết quả
 điện tim tốt 28%, tiến bộ 33%, tỷ lệ kết quả điện tim là 61% (Tạp chí
 Trung y 1985,26(3):29).
 
-4.Trị cao huyết áp: dùng Ích mẫu thảo phối hợp với Ngô đồng thối, Hy
+**Trị cao huyết áp:**
+
+Dùng Ích mẫu thảo phối hợp với Ngô đồng thối, Hy
 thiêm thảo, Hạ khô thảo chế thành bài thuốc trị cao huyết áp 59 ca, sau
 một ngày uống thuốc huyết áp đã hạ, tác dụng tốt nhất vào ngày thứ 10 (
 tuyển tập tư liệu nghiên cứu y học - Sở nghiên cứu Y dược Phúc kiến
 1977,3:23).
 
-Liều dùng và chú ý:
+Liều dùng và chú ý
+==================
 
 -  Liều thường dùng uống thuốc thang là 10 - 15g, có thể dùng đến 30g.
-   Lượng dùng ngoài tùy theo yêu cầu.
--  Không dùng cho người âm huyết hư.
+-  Lượng dùng ngoài tùy theo yêu cầu.
 
- 
-
-..  image:: ICHMAU.JPG
-   :width: 50px
-   :height: 50px
-   :target: ICHMAUTHAO_.htm
+.. caution::
+   Không dùng cho người âm huyết hư.
