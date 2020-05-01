@@ -1,7 +1,10 @@
 .. _plants_vien_chi:
 
-Viễn chí (Radix Polygalae Tenuifoliae)
-######################################
+########
+Viễn chí
+########
+
+**(Radix Polygalae Tenuifoliae)**
 
 Viễn chí còn gọi là Tiểu thảo, Nam Viễn chí, Viễn chí nhục, Quan Viễn
 chí, Viễn chí đồng là rễ khô của cây Viễn chí lá nhỏ (polygala
@@ -81,13 +84,17 @@ Kết quả nghiên cứu dược lý hiện đại
 Ứng dụng lâm sàng
 =================
 
-1.Trị viêm tuyến vú cấp và u xơ tuyến vú: Tác giả Hoàng Sĩ Tiêu dùng
+**Trị viêm tuyến vú cấp và u xơ tuyến vú:**
+
+Tác giả Hoàng Sĩ Tiêu dùng
 Viễn chí 12g gia rượu 60 độ 15ml ngâm 1 tí, cho nước 1 chén đun sôi 15 -
 20 phút lọc cho uống. Trị 62 ca viêm tuyến vú cấp có kết quả (Thông tin
 Tân y dược Quảng châu 1973,6:5) và u xơ tử tuyến vú 20 ca đều khỏi (Báo
 cáo của Trần Phủ, Báo Trung y dược học 1977,1:48).
 
-2.Trị viêm âm đạo do trùng roi: Viễn chí tán bột mịn gia glycerine làm
+**Trị viêm âm đạo do trùng roi:**
+
+Viễn chí tán bột mịn gia glycerine làm
 thuốc đan, mỗi viên có hàm lượng thuốc sống là 0,75g. Trước khi đặt
 thuốc, dùng bài thuốc nước rửa phụ khoa 1 (Ngãi diệp, Xà sàng tử, Khổ
 sâm, Chỉ xác đều 15g, Bạch chỉ 9g) sắc xông và rửa âm hộ, đặt thuốc vào
@@ -95,8 +102,9 @@ sâm, Chỉ xác đều 15g, Bạch chỉ 9g) sắc xông và rửa âm hộ, đ
 kiểm tra trùng roi âm tính có 193 ca khỏi, tỷ lệ 85,8% (Báo cáo của Cao
 Tuệ Phương, Tạp chí Trung y 1983,4:40).
 
-3.Trị suy nhược thần kinh do tâm huyết kém có triệu chứng mất ngủ hay
-quên, hồi hộp, mộng nhiều: dùng các bài:
+**Trị suy nhược thần kinh do tâm huyết kém có triệu chứng mất ngủ hay quên, hồi hộp, mộng nhiều:**
+
+Dùng các bài:
 
 -  Định chí hoàn: Viễn chí, Phục linh đều 10g, Xương bồ 3g, sắc nước
    uống.
@@ -106,28 +114,28 @@ quên, hồi hộp, mộng nhiều: dùng các bài:
 -  Trầm trung đơn: Qui bản, Long cốt, Viễn chí đều 10g, Xương bồ 3g, sắc
    uống.
 
-4.Trị viêm phế quản mạn, ho đờm nhiều:
+**Trị viêm phế quản mạn, ho đờm nhiều:**
 
 -  Viễn chí, Trần bì, Cam thảo đều 3g, sắc uống.
 -  Viễn chí 8g, Cam thảo, Cát cánh đều 6g sắc uống.
 
-5.Trị viêm tuyến vú sưng đau: dùng bột Viễn chí hòa rượu uống hoặc chưng
+**Trị viêm tuyến vú sưng đau:**
+
+Dùng bột Viễn chí hòa rượu uống hoặc chưng
 cách thủy uống, dùng một ít tẩm rượu đắp vùng sưng đau.
 
-6.Giải độc: Viễn chí có tác dụng giải độc Ô đầu, Phụ tử.
+**Giải độc:**
 
-Liều dùng và chú ý:
+Viễn chí có tác dụng giải độc Ô đầu, Phụ tử.
 
--  Liều: 3 - 10g, dùng ngoài da vừa đủ.
--  Chú ý: Viễn chí sống khử đàm khai khiếu mạnh. Chích Viễn chí độc tính
+Liều dùng và chú ý
+==================
+
+Liều: 3 - 10g, dùng ngoài da vừa đủ.
+
+.. caution::
+   Chú ý: Viễn chí sống khử đàm khai khiếu mạnh. Chích Viễn chí độc tính
    giảm, vị khí kém dùng được. Thuốc tẩm mật sao tính nhuận, tác dụng an
    thần tốt. Thuốc tính ôn táo, uống trong kích thích mạnh, trường hợp
    đàm nhiệt thực hỏa, lóet dạ dày tá tràng cần thận trọng. Nếu không
    dùng với Chích Cam thảo sắc uống dễ gây nôn, buồn nôn.
-
- 
-
-..  image:: VIENCHI.JPG
-   :width: 50px
-   :height: 50px
-   :target: VIENCHI_.HTM

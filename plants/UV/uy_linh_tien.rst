@@ -1,7 +1,10 @@
 .. _plants_uy_linh_tien:
 
-Uy linh tiên (Radix Clematidis)
-###############################
+############
+Uy linh tiên
+############
+
+**(Radix Clematidis)**
 
 Uy linh tiên dùng làm thuốc được ghi đầu tiên trong sách Tân tu bản thảo
 là thân rễ phơi hay sấy khô của cây Uy linh tiên có tên khoa học là
@@ -78,7 +81,7 @@ Kết quả nghiên cứu dược lý hiện đại
 Ứng dụng lâm sàng
 =================
 
-1.Trị đau khớp do phong thấp, lưng gối đau nhiều:
+**Trị đau khớp do phong thấp, lưng gối đau nhiều:**
 
 -  Bột Uy linh tiên, mỗi lần uống 3 - 6g, ngày 2 lần, uống với rượu ấm.
 -  Uy linh tiên, Quế chi, Phụ tử, Khương hoạt đều mỗi thứ 6g sắc nước
@@ -86,31 +89,36 @@ Kết quả nghiên cứu dược lý hiện đại
 -  Thần ứng hoàn (chứng trị chuẩn thằng): có Uy linh tiên, Quế tăm,
    Đương qui trị đau lưng do phong thấp hoặc ngã đau.
 
-2.Trị đau bao tử cơ năng:
+**Trị đau bao tử cơ năng:**
 
 -  Uy linh tiên 10g, sắc bỏ xác, cho vào 1 quả trứng gà trộn uống.
 
-3.Trị hóc xương cá:
+**Trị hóc xương cá:**
 
 -  Uy linh tiên 10g, Sa nhân 3g, sắc nước ngậm uống.
 -  Uy linh tiên 30g sắc đặc uống hoặc uống với giấm. Khoa Ngũ quan Bêïnh
    viện 157 thuộc Quân đội giải phóng nhân dân Trung quốc dùng trị cho
    104 ca, có kết quả 87,6% (theo báo Tân y học 1973,3:144).
 
-4.Trị viêm cột sống phì đại 65 ca và chấn thương cơ vùng lưng 32 ca:
-dùng dịch Uy linh tiên chích bắp đều có kết quả (Qui Thành và cộng sự,
+**Trị viêm cột sống phì đại 65 ca và chấn thương cơ vùng lưng 32 ca:**
+
+Dùng dịch Uy linh tiên chích bắp đều có kết quả (Qui Thành và cộng sự,
 báo Thông tin Trung thảo dược 1979,7:13).
 
-5.Trị nấc cụt: Uy linh tiên và mật ong mỗi thứ 30g, sắc uống. Lý trụ Hoa
+**Trị nấc cụt:**
+
+Uy linh tiên và mật ong mỗi thứ 30g, sắc uống. Lý trụ Hoa
 dùng trị 60 ca có kết quả trên 90% (Báo nghiên cứu Trung thành dược
 1982,2:46).
 
-6.Trị sỏi mật: mỗi ngày dùng Uy linh tiên 30 - 60g sắc uống. . Lục Hoan
+**Trị sỏi mật:**
+
+Mỗi ngày dùng Uy linh tiên 30 - 60g sắc uống. . Lục Hoan
 Thanh đã dùng trị 120 ca sỏi mật, kết quả 87%. Tác giả nghiên cứu chích
 thuốc cho thỏ phát hiện lượng mật tiết tăng nhiều, cơ vòng Oddi giãn rõ
 (Báo Trung y Hà nam 1987,6:22).
 
-7.Phản ứng độc tính:
+**Phản ứng độc tính:**
 
 Tác giả giới thiệu dùng lá nhỏ Uy linh tiên đắp ngoài (3 ca đắp lá tươi
 phản ứng mạnh, 1 ca đắp lá khô phản ứng nhẹ) da nổi mụn phỏng lớn, sưng
@@ -118,13 +126,11 @@ phản ứng mạnh, 1 ca đắp lá khô phản ứng nhẹ) da nổi mụn ph�
 dược 1978,2:43).
 
 Liều lượng và chú ý lúc dùng:
+=============================
 
 -  Liều trung bình: 5 - 10g, có thể dùng tới 30g (trường hợp hóc xương
    cá hoặc lúc cần).
--  Thuốc uống nhiều hại khí, đối với bệnh nhân suy nhược khí huyết hư
-   dùng thận trọng.
 
-..  image:: UYLINHTIEN.JPG
-   :width: 50px
-   :height: 50px
-   :target: UYLINHTIEN_.HTM
+.. caution::
+   Thuốc uống nhiều hại khí, đối với bệnh nhân suy nhược khí huyết hư
+   dùng thận trọng.

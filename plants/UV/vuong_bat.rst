@@ -1,7 +1,10 @@
 .. _plants_vuong_bat:
 
-Vương bất lưu hành (Semen Vaccaria segetalis)
-#############################################
+##################
+Vương bất lưu hành
+##################
+
+**(Semen Vaccaria segetalis)**
 
 Vương bất lưu hành là quả của một loài cây Xộp Vaccaria segetalis (Neck)
 Garcke, dùng làm thuốc được ghi đầu tiên trong sách Bản kinh. Ở nước ta
@@ -58,26 +61,26 @@ rõ mạnh. Thuốc còn có tác dụng ức chế sự phát triển của ung
 Ứng dụng lâm sàng
 =================
 
-1.Dùng làm thuốc bổ trị đau xương, nhức mình mẩy:
+**Dùng làm thuốc bổ trị đau xương, nhức mình mẩy:**
 
 -  Cao quả Xộp: Quả Xộp thái nhỏ nấu với nước bỏ bã cô đặc thành cao,
    ngày uống 5 - 10g, trị các chứng đau xương ở người già, còn có tác
    dụng điều kinh giúp tiêu hóa.
 
-2.Trị di tinh liệt dương:
+**Trị di tinh liệt dương:**
 
 -  Rượu cây Xộp: Cành lá phơi khô 100g, Đậu đen 50g, cho vào 250ml trong
    10 ngày lọc rượu uống. Khi uống có thể pha thêm đường làm thuốc bổ.
    Đối với người di tinh liệt dương uống mỗi ngày 10 - 30ml rượu.
 
-3.Dùng làm thuốc dục sản:
+**Dùng làm thuốc dục sản:**
 
 Tác giả Phương Vân Hà dùng Vương bất lưu hành và Cấp tính tử liều cao
 sắc nước uống dùng cho 4 ca đều thành công. Chú ý cho thuốc có theo dõi,
 sanh được là ngưng ngay thuốc để tránh tử cung co bóp quá nhiều ảnh
 hưởng về sau (Học báo Trung y học viện An huy 1986,5(3):33).
 
-4.Trị sỏi tiết niệu:
+**Trị sỏi tiết niệu:**
 
 Trung Học Năng dùng bài Nhị tử hóa ứ bài Thạch thang (Vương bất lưu
 hành, Cấp tính tử, Xuyên ngưu tất, Chỉ xác, Sinh Kê nội kim, Thạch vỹ,
@@ -96,11 +99,14 @@ Ngoài ra, theo cac tài liệu cổ và kinh nghiệm của nhân dân, quả X
 một vị thuốc bổ chữa được di tinh, liệt dương, đau lưng, lî lâu ngày,
 lòi dom, tắc tia sữa. Vương bất lưu hành có thể làm mức ăn được.
 
-5.Trị kinh ít, kinh bế, đau kinh: thường phối hợp với Đương qui, Hương
+**Trị kinh ít, kinh bế, đau kinh:**
+
+Thường phối hợp với Đương qui, Hương
 phụ, Hồng hoa, Xuyên khung.
 
-6.Trường hợp dùng thuốc trị tắc tia sữa, sữa ít: thường phối hợp với
-Xuyên sơn giáp như bài Dũng tuyền tán (Vệ sinh bảo giám tập 18) có
+**Trường hợp dùng thuốc trị tắc tia sữa, sữa ít:**
+
+Thường phối hợp với Xuyên sơn giáp như bài Dũng tuyền tán (Vệ sinh bảo giám tập 18) có
 Vương bất lưu hành, Bào sơn giáp, Long cốt, Cù mạch, Mạch môn.
 
 -  Nếu do sau sanh khí huyết hư mà ít sữa dùng thêm Hoàng kỳ, Đương qui.
@@ -110,14 +116,10 @@ Vương bất lưu hành, Bào sơn giáp, Long cốt, Cù mạch, Mạch môn.
 -  Trị viêm tuyến tiền liệt kết hợp Hồng hoa, Đơn sâm, Trạch lan, Bại
    tương thảo.
 
-Liều dùng và chú ý:
+Liều dùng và chú ý
+==================
 
--  Dùng uống, cho vào thuốc thang: 6 - 10g.
--  Thận trọng đối với phụ nữ có thai.
+Dùng uống, cho vào thuốc thang: 6 - 10g.
 
- 
-
-..  image:: VUONGBATLUUHANH.JPG
-   :width: 50px
-   :height: 50px
-   :target: VUONGBATLUUHANH_.htm
+.. caution::
+   Thận trọng đối với phụ nữ có thai.
