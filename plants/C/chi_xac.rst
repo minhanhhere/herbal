@@ -1,11 +1,16 @@
 .. _plants_chi_xac:
 
-################################
-Chỉ xác (Fructus Citri Aurantii)
-################################
+#######
+Chỉ xác
+#######
+
+**(Fructus Citri Aurantii)**
 
 Là quả loại bánh tẻ của cây Cam. Ngoài ra nguồn dược liệu còn được lấy
 từ cây thuộc chi Citrus. Họ Cam Rutaceae.
+
+Tính vị qui kinh
+================
 
 Tính vị: vị chua, tính hàn.
 
@@ -23,15 +28,12 @@ Qui kinh: vào kinh Phế Vị.
    tiện khó cầm; phối hợp với Ích trí nhân lượng bằng nhau, sắc lấy
    nước, thêm chút rượu, uống lúc đói.
 
-Liều dùng: 4 - 12g.
+Liều dùng
+=========
 
-Chú ý:
+4 - 12g.
 
-Tác dụng dược lý
-================nước sắc với liều 1 - 3g/kg thể trọng (chó) có tác
-dụng tăng huyết áp, dung tích thận nhỏ lại, đồng thời có tác dụng kháng
-niệu.
-
- 
-
- 
+.. caution::
+   Nước sắc với liều 1 - 3g/kg thể trọng (chó) có tác
+   dụng tăng huyết áp, dung tích thận nhỏ lại, đồng thời có tác dụng kháng
+   niệu.

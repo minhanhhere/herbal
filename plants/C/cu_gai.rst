@@ -1,8 +1,10 @@
 .. _plants_cu_gai:
 
-###################################################
-Củ gai - Boehmeria nivea (L) Gaud (Urtica nivea L.)
-###################################################
+######
+Củ gai
+######
+
+**Boehmeria nivea (L) Gaud (Urtica nivea L.)**
 
 Người ta dùng Củ gai (Radix Boehmeria) là rễ phơi hay sấy khô của Cây
 gai.
@@ -12,6 +14,9 @@ làm thuốc, vừa cho sợi cho nên gọi là Trữ.
 
 Rễ hái vào bất cứ mùa nào, nhưng tốt nhất vào thu đông. Hái về rửa sạch
 đất phơi hay sấy khô.
+
+Tính vị qui kinh
+================
 
 Tính vị: ngọt, hàn không độc.
 
@@ -30,4 +35,7 @@ dắt), chữa sang lở, thông tiểu tiện. Phàm không thực nhiệt ch�
 #. Lợi niệu: Rễ và lá còn dùng làm thuốc lợi niệu. Chữa tiểu tiện đục,
    tiểu ra máu, viêm tử cung, lòi dom không co lên được.
 
-Liều dùng: trung bình 10 - 30g sắc với nước uống.
+Liều dùng:
+==========
+
+Trung bình 10 - 30g sắc với nước uống.

@@ -1,8 +1,10 @@
 .. _plants_cao_ban:
 
-#############################################
-Cảo bản (Rhizoma et radix Ligustici Sinensís)
-#############################################
+#######
+Cảo bản
+#######
+
+**(Rhizoma et radix Ligustici Sinensís)**
 
 Cảo bản là thân rễ và rễ của cây Cảo bản (Ligusticumsinense Oliv) . Vị
 cay, tính ấm, qui kinh Bàng quang.
@@ -22,12 +24,18 @@ Chất tinh dầu có phenola Cảo bản, acid hữu cơ.
 Ứng dụng lâm sàng
 =================
 
-#. Trị đau đầu: (chủ yếu đau đỉnh đầu) do ngoại cảm phong hàn sợ lạnh,
-   không có mồ hôi, hoặc do viêm mũi, viêm xoang ản hưởng đau đầu dùng
-   Cảo bản thường phối hợp Xuyên khung, Bạch chỉ, Ké đầu ngựa.
-#. Trị đau khớp do phong thấp: dùng bài Cảo bản, Phòng phong, Bạch chỉ
-   mỗi thứ 12g, Cam thảo 6g: sắc nước uống.
-#. Ngoài ra có một số kinh nghiệm chữa một số bệnh như:
+**Trị đau đầu:**
+
+(Chủ yếu đau đỉnh đầu) do ngoại cảm phong hàn sợ lạnh,
+không có mồ hôi, hoặc do viêm mũi, viêm xoang ản hưởng đau đầu dùng
+Cảo bản thường phối hợp Xuyên khung, Bạch chỉ, Ké đầu ngựa.
+
+**Trị đau khớp do phong thấp:**
+
+Dùng bài Cảo bản, Phòng phong, Bạch chỉ
+mỗi thứ 12g, Cam thảo 6g: sắc nước uống.
+
+**Ngoài ra có một số kinh nghiệm chữa một số bệnh như:**
 
 -  Thiên đầu thống: (đau nửa đầu) dùng bài: Cảo bản 6g, Xuyên khung 3g,
    Phòng phong 5g, Bạch chỉ 3g, Tế tân 2g, Cam thảo 3g, cho nước 600ml,
@@ -37,11 +45,9 @@ Chất tinh dầu có phenola Cảo bản, acid hữu cơ.
 -  Chữa nhiều gầu: Cảo bản, Bạch chỉ lượng bằng nhau tán nhỏ xát vào
    đầu, sáng hôm sau gội đầu.
 
-Liều lượng thường dùng: 4 - 12g.
+Liều lượng thường dùng
+======================
 
-Chú ý dùng thuốc: Đau đầu do huyết hư không dùng.
+4 - 12g.
 
-..  image:: CAOBAN.JPG
-   :width: 50px
-   :height: 50px
-   :target: CAOBAN_.htm
+.. caution:: Đau đầu do huyết hư không dùng.

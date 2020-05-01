@@ -1,8 +1,10 @@
 .. _plants_cao_luong_khuong:
 
-##############################################
-Cao lương khương (Rhizoma Alpiniae Officinari)
-##############################################
+################
+Cao lương khương
+################
+
+**(Rhizoma Alpiniae Officinari)**
 
 Cao Lương khương còn gọi là Tiêu lương khương, Phong khương, Riềng,
 Galanga dùng làm thuốc được ghi đầu tiên trong sách Danh y biệt lục là
@@ -71,8 +73,9 @@ Kết quả nghiên cứu dược lý hiện đại
 Ứng dụng lâm sàng
 =================
 
-1.Trị đau bụng do hàn, nôn ra nước trong, đau bụng do sa đì (sán khí):
-dùng bài:
+**Trị đau bụng do hàn, nôn ra nước trong, đau bụng do sa đì (sán khí):**
+
+Dùng bài:
 
 -  Lương phụ hoàn (Lương phương tập dịch): Cao Lương khương, Hương phụ
    lượng bằng nhau, tán bột mịn gia nước gừng, cho tí muối làm thành
@@ -84,7 +87,7 @@ dùng bài:
    10g, Quế tâm 4g, Sinh khương 10g, sắc nước uống. Trị đau bụng ngực,
    đau bụng quặn do cảm lạnh.
 
-2.Trị nôn ói do vị hàn:
+**Trị nôn ói do vị hàn:**
 
 -  Cao lương khương 10g sao qua tán bột mịn, uống với nước ấm.
 -  Cao lương khương 8g, Đại táo 1 quả sắc với 300ml nước còn 1/3 chia
@@ -92,38 +95,31 @@ dùng bài:
 -  Lương khương, Bạch linh, Đảng sâm đều 10g, sắc uống trị chứng nôn hư
    hàn.
 
-Liều lượng dùng và chú ý:
+Liều lượng dùng và chú ý
+========================
 
--  Liều thường dùng
-================ uống 3 - 10g.
+-  Liều thường dùng: uống 3 - 10g.
 -  Không dùng đối với chứng nhiệt thịnh, âm hư.
 
-+ Sách Bản thảo kinh sơ viết: " vị hỏa sinh nôn, thương thử hoắc loạn,
-tiêu chảy hỏa nhiệt tâm hư gây đau, kî dùng".
+.. note::
+   Sách Bản thảo kinh sơ viết: " vị hỏa sinh nôn, thương thử hoắc loạn,
+   tiêu chảy hỏa nhiệt tâm hư gây đau, kî dùng".
 
--  Chú ý: Can khương, Lương khương, Sinh khương đều có tác dụng ôn trung
+.. note::
+   Can khương, Lương khương, Sinh khương đều có tác dụng ôn trung
    tán hàn. Can khương thiên về ôn tỳ chỉ tả. Lương khương ôn trung chỉ
    thống. Sinh khương mạnh về ôn vị chỉ ẩu (cầm nôn).
 
-Phụ lục: HỔNG ĐẬU KHẤU
+.. note::
 
-Hồng đậu khấu là quả của cây Cao lương khương to Alpinia galanga (L)
-Will.
+   HỔNG ĐẬU KHẤU
 
-Dùng làm thuốc được ghi đầu tiên trong sách Dược tính bản thảo đời
-Đường. Tính vị cay ôn, qui kinh Tỳ vị, có tác dụng ôn trung tán hàn,
-hành khí chỉ thống.
-
-Chủ trị chứng đau bụng lạnh do hàn thấp nôn, tiêu chảy không muốn ăn,
-cũng có thể tán bột mịn xát răng trị đau răng.
-
-Liều dùng cho vào thuốc thang: 3 - 6g, dùng tươi.
-
-Trường hợp âm hư nhiệt không dùng.
-
- 
-
-..  image:: CAOLUONGKHUONG.JPG
-   :width: 50px
-   :height: 50px
-   :target: CAOLUONGKHUONG_.htm
+   *  Hồng đậu khấu là quả của cây Cao lương khương to Alpinia galanga (L)
+      Will.
+   *  Dùng làm thuốc được ghi đầu tiên trong sách Dược tính bản thảo đời
+      Đường. Tính vị cay ôn, qui kinh Tỳ vị, có tác dụng ôn trung tán hàn,
+      hành khí chỉ thống.
+   *  Chủ trị chứng đau bụng lạnh do hàn thấp nôn, tiêu chảy không muốn ăn,
+      cũng có thể tán bột mịn xát răng trị đau răng.
+   *  Liều dùng cho vào thuốc thang: 3 - 6g, dùng tươi.
+   *  Trường hợp âm hư nhiệt không dùng.

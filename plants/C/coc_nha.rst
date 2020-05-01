@@ -1,8 +1,10 @@
 .. _plants_coc_nha:
 
-################################
-Cốc nha (Fructus Oryzae Sativae)
-################################
+#######
+Cốc nha
+#######
+
+**(Fructus Oryzae Sativae)**
 
 Cốc nha dùng làm thuốc được ghi đầu tiên trong sách " Danh y biệt lục"
 là hạt cây Lúa Oryza sativa L. ngâm cho nẩy mầm phơi khô; là Cốc nha
@@ -54,26 +56,24 @@ Cốc nha có men amylase có tác dụng trợ tiêu hóa, trị được bện
 Ứng dụng lâm sàng
 =================
 
-1.Trị chứng rối loạn tiêu hóa, ăn không tiêu, bụng đầy đau:
+**Trị chứng rối loạn tiêu hóa, ăn không tiêu, bụng đầy đau:**
 
 -  Sao Cốc nha, Sao Mạch nha, Tiêu Sơn tra, Tiêu thần khúc đều 10g, Sao
    La bạc tử 6g, sắc uống.
 -  Sao Cốc nha 10g, Thương truật, Kê nội kim, Chích thảo đều 6g, sắc
    uống.
 
-2.Trị chứng chán ăn do tỳ vị hư nhược:
+**Trị chứng chán ăn do tỳ vị hư nhược:**
 
 -  Cốc thần hoàn, Cốc nha 15g, Chích thảo 6g, Sa nhân 5g, Bạch truật
    10g, sắc nước uống.
 
-Liều thường dùng và chú ý:
+Liều thường dùng và chú ý
+=========================
 
--  Liều 10 - 15g sắc uống, liều cao có thể dùng tới 30g.
--  Chú ý: Cốc nha dùng sống có tác dụng hòa trung, sao thì tiêu thực,
+-  Liều 10 - 15g sắc uống
+-  Liều cao có thể dùng tới 30g.
+
+.. caution:: Cốc nha dùng sống có tác dụng hòa trung, sao thì tiêu thực,
    sao cháy đen thì hóa tích. Có thể dùng cùng một lúc Cốc nha sống và
    sao.
-
-..  image:: COCNHA.JPG
-   :width: 50px
-   :height: 50px
-   :target: COCNHA_.HTM

@@ -1,8 +1,10 @@
 .. _plants_chi_thuc:
 
-###########################################
-Chỉ thực (Fructus immaturus citri aurantii)
-###########################################
+########
+Chỉ thực
+########
+
+**(Fructus immaturus citri aurantii)**
 
 Chỉ thực là quả chưa chín phơi hay sấy khô của nhiều loại cây khác nhau
 thuộc chi Citrus và Poncirus như cây Hương duyên Citrus wilsonii Tanaka;
@@ -38,7 +40,7 @@ Tinh dầu, Neohespendin, Naringin, Rhoifolin, Lonicerin, Vitamin c. Năm
 Tác dụng dược lý
 ================
 
-1.Theo y học cổ truyền: Thuốc có tác dụng phá khí tiêu tích, hóa đàm trừ
+Theo y học cổ truyền: Thuốc có tác dụng phá khí tiêu tích, hóa đàm trừ
 bỉ. Chủ trị các chứng thực tích, bụng đau táo bón, tả lî, mót rặn (lý
 cấp hậu trọng), đàm trọc trở trệ, bụng ngực đầy tức.
 
@@ -52,7 +54,7 @@ Trích đoạn Y văn cổ:
    lười ăn uống do tỳ uất kết không vận hóa đều dùng chỉ thực để trị nhờ
    thuốc có tính năng tân tán khổ tả. Là khí dược của phần huyết".
 
-2.Kết quả nghiên cứu dược lý hiện đại
+Kết quả nghiên cứu dược lý hiện đại
 
 -  Chỉ thực và Chỉ xác đều có tác dụng cường tim, tăng huyết áp do thành
    phần chủ yếu Neohesperidin, nhưng không làm tăng nhịp tim. Thuốc có
@@ -84,7 +86,7 @@ thái bệnh lý là tốt.
 Ứng dụng lâm sàng
 =================
 
-1.Trị táo bón:
+**Trị táo bón:**
 
 -  Chỉ thực đạo trệ hoàn (Nội ngoại thương biện luận): Chỉ thực, Bạch
    truật, Phục linh, Thần khúc, Trạch tả, Đại hoàng đều 10g, Hoàng liên
@@ -96,7 +98,9 @@ thái bệnh lý là tốt.
 -  Chỉ kết hoàn (kinh nghiệm): Chỉ thực, Bồ kết đều 20g tán mịn viên
    bằng hạt ngô, mỗi ngày uống 10 viên, tối trước lúc ngủ.
 
-2.Trị rối loạn tiêu hóa, thực tích đầy bụng: dùng các bài:
+**Trị rối loạn tiêu hóa, thực tích đầy bụng:**
+
+Dùng các bài:
 
 -  Chỉ truật hoàn (Kim quỉ yếu lược): Chỉ thực (mạch sao) 40g, Bạch
    truật 80g tán bột làm hoàn, mỗi lần uống 4 - 8g tùy tuổi với nước
@@ -104,7 +108,9 @@ thái bệnh lý là tốt.
 -  Khúc mạch chỉ truật hoàn (y học chính truyện): tức Chỉ truật hoàn
    gia Mạch nha, Thần khúc lượng bằng Chỉ thực tăng tác dụng tiêu thực.
 
-3.Trị suy tim: Tổ nghiên cứu bệnh tim mạch nội khoa Bệnh viện trực thuộc
+**Trị suy tim:**
+
+Tổ nghiên cứu bệnh tim mạch nội khoa Bệnh viện trực thuộc
 số 1 Trường Đại học Y Hà nam dùng dịch chích (tương đương 40g thuốc,
 nặng trên 60kg dùng 60g) cho vào 250ml glucoza 10% nhỏ giọt tĩnh mạch 1
 lần. Trị 20 ca có tác dụng cường tim lợi tiểu. Có 4 ca dùng dịch chích
@@ -112,19 +118,17 @@ Chỉ thực 80g cho vào 10% dung dịch glucoza 500ml, truyền tĩnh mạch n
 1 lần, một liệu trình là 10 ngày có kết quả tốt. (Tạp chí Trung thảo
 dược 1980, 4:171)
 
-4.Trị sa tử cung: Diệp khắc Nghĩa dùng Thăng đề thang: Chỉ thực, Sung úy
+**Trị sa tử cung:**
+
+Diệp khắc Nghĩa dùng Thăng đề thang: Chỉ thực, Sung úy
 tử đều 15g sắc đặc uống 100ml trong một ngày, liệu trình một tháng. Kết
 quả trị sa tử cung độ 1 được 924 ca, tỷ lệ khỏi 83,87% (Tạp chí kết hợp
 Trung tây y 1984, 4:238).
 
 Liều dùng và chú ý:
+===================
 
--  Uống, cho vào thang: 3 - 10g, liều cao có thể 15g.
--  Thận trọng lúc dùng đối với người bệnh tỳ vị hư yếu, phụ nữ có thai.
+-  Uống, cho vào thang: 3 - 10g
+-  Liều cao có thể 15g.
 
- 
-
-..  image:: CHITHUC.JPG
-   :width: 50px
-   :height: 50px
-   :target: CHITHUC_.htm
+..  caution:: Thận trọng lúc dùng đối với người bệnh tỳ vị hư yếu, phụ nữ có thai.

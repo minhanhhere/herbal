@@ -1,8 +1,8 @@
 .. _plants_cot_toai_bo:
 
-#############################
-Cốt toái bồ (Rhizoma Gusuibu)
-#############################
+###########
+Cốt toái bồ
+###########
 
 Cốt toái bổ còn gọi là Hầu khương, Hồ tôn khương, Thân khương, cây Tổ
 phượng, cây Tổ rồng, Tổ diều, Tắc kè đá, là thân rễ phơi khô của cây Bổ
@@ -30,7 +30,9 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo tái tân: nhập Can thận.
 
 Thành phần chủ yếu
-================== Naringin.
+==================
+
+Naringin
 
 Tác dụng dược lý
 ================
@@ -68,13 +70,13 @@ B.Kết quả nghiên cứu theo dược lý hiện đại:
 Ứng dụng lâm sàng
 =================
 
-1.Trị chứng răng đau, răng long, răng chảy máu do thận hư:
+**Trị chứng răng đau, răng long, răng chảy máu do thận hư:**
 
 -  Bột Cốt toái bổ vừa đủ sao đen xát vào răng.
 -  Gia vị Địa hoàng hoàn: Thục địa 16g, Sơn dược, Sơn thù, Phục linh,
    Đơn bì, Trạch tả mỗi thứ 12g, Tế tân 2g, Cốt toái bổ 16g, sắc uống.
 
-2.Trị chấn thương phần mềm, gãy xương kín:
+**Trị chấn thương phần mềm, gãy xương kín:**
 
 -  Tẩu mã tán: Cốt toái bổ, lá sen tươi, lá Trắc bá diệp tươi, quả Bồ
    kết tươi, lượng bằng nhau, tán nhỏ, mỗi thứ 12g, ngày 2 lần, hãm nước
@@ -84,7 +86,7 @@ B.Kết quả nghiên cứu theo dược lý hiện đại:
    bằng nhau, tán bột trộn Vaselin bôi vùng đau. Bài thuốc có tác dụng
    làm liền xương nhanh.
 
-3.Phòng nhiễm độc Streptomycin:
+**Phòng nhiễm độc Streptomycin:**
 
 -  Mỗi ngày dùng Cốt toái bổ 30g, sắc nước, phân 2 lần uống, tác giả
    theo dõi 32 ca tai ù do streptomycin, kết quả tốt (Tạp chí Y trung
@@ -96,15 +98,12 @@ B.Kết quả nghiên cứu theo dược lý hiện đại:
    Cúc hoa 12g, Câu đằng 12g), kết quả dùng trong 35 ngày là 98,1% (Tân
    trung y 1986,11:30).
 
-4.Trị chai chân: Cốt toái bổ 9g, giã nát ngâm vào 100ml cồn 95%, 3 ngày
+**Trị chai chân:**
+
+Cốt toái bổ 9g, giã nát ngâm vào 100ml cồn 95%, 3 ngày
 đem xát vùng chai có kết quả (Tạp chí Trung y 1964,8:37).
 
 Liều thường dùng
 ================
 
--  Liều: 10 - 20g. Dùng ngoài theo yêu cầu.
-
-..  image:: COTTOAIBO.JPG
-   :width: 50px
-   :height: 50px
-   :target: COTTOAIBO_.HTM
+Liều: 10 - 20g. Dùng ngoài theo yêu cầu.

@@ -7,7 +7,9 @@ Cỏ nhọ nổi
 Eclipta alba họ Cúc Compositea
 
 Tính vị qui kinh
-================ ngọt chua, mát vào kinh Can Thận.
+================
+
+Ngọt chua, mát vào kinh Can Thận.
 
 Tác dụng:Bổ can thận, chỉ huyết.
 
@@ -19,9 +21,7 @@ Tác dụng:Bổ can thận, chỉ huyết.
 -  Cầm máu: chảy máu cam, đại tiện ra máu, tiểu tiện ra máu, rong kinh.
 -  Làm đen tóc, chữa mụn nhọt.
 
-Liều lượng: 6 - 12g/ ngày.
+Liều lượng
+==========
 
-..  image:: COMUC.JPG
-   :width: 50px
-   :height: 50px
-   :target: COMUC_.HTM
+6 - 12g/ ngày.

@@ -1,8 +1,10 @@
 .. _plants_cau_dang:
 
-#####################################
-Câu đằng (Ramulus Uncariae Cum Uncis)
-#####################################
+########
+Câu đằng
+########
+
+**(Ramulus Uncariae Cum Uncis)**
 
 Câu đằng là thân có gai móc câu của cây Câu đằng, phơi hay sấy khô dùng
 làm thuốc được ghi đầu tiên trong sách Danh y biệt lục.
@@ -54,7 +56,7 @@ Tác dụng dược lý
 Ứng dụng lâm sàng
 =================
 
-1.Trị huyết áp cao do can dương thịnh:
+**Trị huyết áp cao do can dương thịnh:**
 
 -  Câu đằng 12g, Kim ngân hoa 10g, Bạc hà 6g, Cúc hoa 10g, Địa long 10g,
    nước sắc uống.
@@ -70,7 +72,7 @@ Tác dụng dược lý
    kiểm nghiệm sản phẩm thuốc thị xã Thiên tân, Thông tin Trung thảo
    dược 1976,3:38).
 
-2.Trị co giật do phong nhiệt, trẻ em sốt cao co giật:
+**Trị co giật do phong nhiệt, trẻ em sốt cao co giật:**
 
 -  Câu đằng ẩm tử (Tiểu nhi dược chứng trực quyết): Câu đằng 12g, Quảng
    tê giác (sừng trâu) bột 10g, Thiên ma 10g, Toàn yết 5g, Mộc hương 3g,
@@ -78,28 +80,26 @@ Tác dụng dược lý
 -  Câu đằng 10g, Thiên ma 6g, Cúc hoa 8g, Bạc hà 6g, Thuyền thoái 2g,
    Kinh giới 6g, sắc uống trị trẻ em lên sởi sốt cao.
 
-3.Trị trẻ em uốn ván sốt:
+**Trị trẻ em uốn ván sốt:**
 
 -  Câu đằng 15g, Tang diệp 15g, Hoàng cầm 10g, Đởm nam tinh 6g, Thạch
    cao 60 - 100g, Thuyền thoái 30g, Toàn yết, Bạch phụ tử mỗi thứ 10g,
    Ngô công 2 con, sắc nước uống ngày 1 thang (Theo liều lượng mà tác
    giả dùng: Toàn yết và Bạch phụ tử có thể 15g, Ngô công 5 con).
 
-4.Trị trẻ em khóc đêm:
+**Trị trẻ em khóc đêm:**
 
 -  Câu đằng, Thuyền thoái đều 3g, Bạc hà 1g sắc uống, ngày 1 thang liên
    tục 2 - 3 ngày. Đã trị 18 ca, khỏi 17 ca (Thông tin Trung thảo dược
    1979,3:38).
 
-Liều dùng và chú ý:
+Liều dùng và chú ý
+==================
 
--  Liều thường dùng
-================ 5 - 15g. Trong thang thuốc sắc nên cho sau vì theo
+Liều thường dùng: 5 - 15g.
+
+.. note::
+   Trong thang thuốc sắc nên cho sau vì theo
    kinh nghiệm của cổ nhân thì thuốc sắc lâu ít hiệu lực và thực nghiệm
    cũng đã chứng minh, Câu đằng sắc trên 20 phút thì thành phần hạ áp
    của thuốc bị phá hủy.
-
-..  image:: CAUDANG.JPG
-   :width: 50px
-   :height: 50px
-   :target: CAUDANG_.HTM

@@ -1,8 +1,10 @@
 .. _plants_cau_tich:
 
-###################################
-Cẩu tích (Rhizoma Cibotii Barometz)
-###################################
+########
+Cẩu tích
+########
+
+**(Rhizoma Cibotii Barometz)**
 
 Còn gọi là Kim mao Cẩu tích, rễ lông Cu li là thân rễ phơi hay sấy khô
 của cây Lông Cu li (Cibotium Barometz (L) J.Sm), thuộc họ Lông Cu li. Vị
@@ -57,7 +59,9 @@ Lông Cu li có tác dụng cầm máu.
 Ứng dụng lâm sàng
 =================
 
-1.Trị chứng can thận bất túc: Đau nhức sống ngang lưng, tiểu nhiều khó
+**Trị chứng can thận bất túc:**
+
+Đau nhức sống ngang lưng, tiểu nhiều khó
 cầm, thuốc có tác dụng bổ can thận, dùng bài:
 
 -  Cẩu tích ẩm: Cẩu tích 16g, Ngưu tất, Thổ ti tử, Sơn thù du, Lộc giao
@@ -66,7 +70,9 @@ cầm, thuốc có tác dụng bổ can thận, dùng bài:
    mễ nhân 12g, Mộc qua 6g, nước 600ml, sắc còn 200ml, chia làm 3 lần
    uống trong ngày, có thể cho thêm rượu uống.
 
-2.Trị chứng phong thấp hoặc hàn thấp chân tay tê đau: dùng các bài:
+**Trị chứng phong thấp hoặc hàn thấp chân tay tê đau:**
+
+Dùng các bài:
 
 -  Huyết bảo đơn: Cẩu tích 16g, Chế Ô đầu, Tỳ giải mỗi thứ 12g, Tô mộc
    8g, tán bột làm hoàn, mỗi lần uống 6 - 8g, ngày 2 lần, có thể sắc
@@ -77,12 +83,10 @@ cầm, thuốc có tác dụng bổ can thận, dùng bài:
    dùng tốt đối với bệnh nhân phong thấp có khí huyết hư.
 
 Liều thường dùng và chú ý:
+==========================
 
--  Liều: 10 - 15g. Thuốc có tác dụng ôn bổ cố sáp.
--  Không nên dùng đối với chứng thận hư có nhiệt, tiểu tiện ít vàng, mồm
+Liều: 10 - 15g. Thuốc có tác dụng ôn bổ cố sáp.
+
+.. caution::
+   Không nên dùng đối với chứng thận hư có nhiệt, tiểu tiện ít vàng, mồm
    đắng, lưỡi khô.
-
-..  image:: CAUTICH.JPG
-   :width: 50px
-   :height: 50px
-   :target: CAUTICH_.HTM

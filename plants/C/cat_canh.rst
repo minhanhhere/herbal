@@ -1,8 +1,10 @@
 .. _plants_cat_canh:
 
-######################################
-Cát cánh (Radix Platycodi Grandiflori)
-######################################
+########
+Cát cánh
+########
+
+**(Radix Platycodi Grandiflori)**
 
 Cát cánh còn có tên là Khổ cát cánh, Bạch cát cánh, Ngọc cát cánh, dùng
 làm thuốc được ghi đầu tiên trong sách Bản kinh là rễ khô của cây Cát
@@ -82,7 +84,7 @@ Kết quả nghiên cứu dược lý hiện đại
 Ứng dụng lâm sàng
 =================
 
-1.Trị phế ung (ápxe phổi):
+**Trị phế ung (ápxe phổi):**
 
 -  Cát cánh thang: (Cát cánh bắt đầu 60g, giảm dần đến 20g, Cam thảo từ
    30g giảm đến 10g), tùy chứng gia giảm, dùng trị 10 ca kết quả tốt
@@ -94,38 +96,35 @@ Kết quả nghiên cứu dược lý hiện đại
    dĩ nhân 15g, Đông qua nhân 20g, Bối mẫu 6g, Ngân hoa đằng 10g, sắc
    uống.
 
-2.Trị ho nhiều đàm đặc:
+**Trị ho nhiều đàm đặc:**
 
 -  Cát cánh 6g, Tỳ bà diệp 10g, Tang diệp 10g, Cam thảo 3g, sắc uống,
    trị nhiệt khái.
 -  Cát cánh 6g, Hạnh nhân, Tử tô đều 10g, Bạc hà 3g, sắc uống. Uống liên
    tục 2 - 4 ngày. Trị hàn đàm lỏng.
 
-3.Trị viêm họng amidale:
+**Trị viêm họng amidale:**
 
 -  Cát cánh thang: Cát cánh 6g, Cam thảo 3g, sắc uống hoặc tán bột uống
    (liều 1 ngày).
 -  Cát cánh 6g, Kim ngân hoa, Liên kiều đều 10g, Sinh Cam thảo 3g sắc
    uống. Trị viêm amidale ngậm thuốc nuốt dần.
 
-4.Trị đau tức ngực do chấn thương lâu ngày:
+**Trị đau tức ngực do chấn thương lâu ngày:**
 
 -  Cát cánh 10g, Mộc hương 5g, Trần bì, Hương phụ đều 10g, Đương qui
    15g, sắc nước uống.
 
-5.Trị cam răng miệng hôi: Cát cánh, Hồi hương lượng bằng nhau tán nhỏ,
+**Trị cam răng miệng hôi:**
+
+Cát cánh, Hồi hương lượng bằng nhau tán nhỏ,
 trộn đều bôi vào cam răng đã rửa sạch.
 
 Liều lượng thường dùng và chú ý
 ===============================
 
--  Liều: 3 - 9g. Chích Cát cánh nhuận phế hóa đàm tốt hơn.
--  Trường hợp ho lâu ngày âm hư hoặc ho ra máu không nên dùng hoặc dùng
+Liều: 3 - 9g. Chích Cát cánh nhuận phế hóa đàm tốt hơn.
+
+.. caution::
+   Trường hợp ho lâu ngày âm hư hoặc ho ra máu không nên dùng hoặc dùng
    liều ít.
-
- 
-
-..  image:: CATCANH.JPG
-   :width: 50px
-   :height: 50px
-   :target: CATCANH_.HTM
