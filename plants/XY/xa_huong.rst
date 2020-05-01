@@ -99,7 +99,6 @@ Trích đọan Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Đối với hệ thần kinh trung ương: Liều nhỏ Xạ hương và chất muscone
    ceton Xạ hương có tác dụng hưng phấn hệ thần kinh trung ương, nhưng
    liều cao thì ức chế. Thuốc làm giảm rõ phù não, tăng sự thích nghi
@@ -125,7 +124,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị bệnh mạch vành:
 

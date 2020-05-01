@@ -71,7 +71,6 @@ làm hạ đường huyết, cải thiện chức năng gan, hạ cholesterol m�
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị bệnh phụ khoa: như rối loạn kinh nguyệt, đau kinh, kinh bế, đau
 bụng sau sanh do thuốc có tác dụng thông kinh, khu ư,ù chỉ thống.
 

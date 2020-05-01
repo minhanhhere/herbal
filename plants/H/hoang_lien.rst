@@ -13,7 +13,6 @@ Qui kinh: vào 3 kinh: Tâm Tỳ Vị
 Ứng dụng lâm sàng
 =================
 
-
 1. Thanh nhiệt táo thấp: thuốc có vị rất đắng, có khả năng ráo thấp,
 tính hàn có thể thanh nhiệt, dùng với các bệnh của vị tràng thấp nhiệt
 dẫn đến tiết tả lî, lî ra máu, kể cả lî trực khuẩn. Lî amip, viêm ruột

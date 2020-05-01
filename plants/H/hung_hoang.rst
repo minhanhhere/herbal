@@ -58,7 +58,6 @@ Trích đọan Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. In vitro, thuốc có tác dụng ức chế nhiều loại nấm ngoài da với mức độ
    khác nhau, có tác dụng ức chế sự sinh trưởng của vi trùng lao. Dùng
    bài thuốc có Ngãi diệp, Xương bồ, Hùng hoàng đốt xông khói trong 2 -
@@ -69,7 +68,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị loét của bệnh ung thư hắc sắc tố (melanoblastoma):
 

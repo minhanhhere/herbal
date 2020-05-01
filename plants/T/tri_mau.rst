@@ -34,7 +34,6 @@ Tác dụng dược lý
 Ứng dụng lâm sàng
 =================
 
-
 #. Dùng chữa chứng thực nhiệt: ở phần khí trong bệnh viêm nhiễm (bệnh
    ôn) phối hợp với Thạch cao có tác dụng giải nhiệt an thần (xem bài
    Bạch thang ở vị Thạch cao).

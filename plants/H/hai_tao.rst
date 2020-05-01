@@ -66,7 +66,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thuốc có nhiều iod nên có tác dụng điều trị đối với bướu cổ do thiếu
    iod. Đồng thời cũng có tác dụng giảm nhẹ triệu chứng đối với chứng
    cường giáp nhưng không bền.
@@ -89,7 +88,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị thiếu máu não: Trong Hải tảo có thể chiết xuất một loại PSS tác
 dụng giống như Heparin, có tác dụng chống đông máu, làm giảm độ dính của

@@ -62,7 +62,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Long não có tác dụng hưng phấn trung khu thần kinh, tăng cường hô hấp
    và tuần hoàn, nhất là trung khu thần kinh đang ở trạng thái ức chế
    thì tác dụng càng rõ. Cơ chế tác dụng là lúc chích dưới da thuốc kích
@@ -88,7 +87,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Phòng trị chứng lóet do đồ lót (tả lót) nằm lâu:
 

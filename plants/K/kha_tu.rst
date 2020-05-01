@@ -51,7 +51,6 @@ Tác dụng dược lý
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị tiêu chảy trẻ em: Tác giả Chu vĩnh Hậu dùng Kha tử, Phòng phong,
 Trần bì, Mạch nha đều 5 - 10g, Cát căn, Sơn tra đều 5 - 20g. Thương thực
 do ăn, bú cho thêm Kê nội kim 5 - 10g, Mộc hương 3 - 5g; thấp nhiệt nặng

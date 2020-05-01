@@ -21,7 +21,6 @@ Giải nhiệt lợi tiểu. Đã được chứng minh trên thực nghiệm nh
 Ứng dụng lâm sàng
 =================
 
-
 Trên lâm sàng vị Trúc diệp được sử dụng theo Y học cổ truyền chữa các
 chứng sau:
 

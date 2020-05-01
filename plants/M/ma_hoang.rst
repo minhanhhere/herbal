@@ -33,7 +33,6 @@ tiểu.
 Ứng dụng lâm sàng
 =================
 
-
 #. Trị chứng NGOẠI CẢM PHONG HÀN (như cảm mạo, cảm cúm, viêm đường hô
    hấp trong thời kỳ đầu.) : sốt gai rét, đau đầu, đau mình, nghẹt mũi,
    không ra mồ hôi, mạch phù khẩn, dùng bài **Ma hoàng thang** (Thương

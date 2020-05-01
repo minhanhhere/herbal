@@ -70,7 +70,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 1.Đan sâm có tác dụng làm giãn động mạch vành, khiến lưu lượng máu của
 động mạch vành tăng rõ, cải thiện chức năng tim, hạn chế nhồi máu cơ
 tim. Trên thực nghiệm chuột nhắt hay chuột lớn thuốc đều có tác dụng
@@ -88,7 +87,6 @@ bào ung thư trên chuột thực nghiệm.
 
 Ứng dụng lâm sàng
 =================
-
 
 Đan sâm được sử dụng rộng rãi và có hiệu quả trong điều kiện trị chứng
 huyết ứ (máu cục, bầm tím, ban ứ huyết, huyết tụ, máu lưu thông chậm.)

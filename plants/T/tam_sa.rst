@@ -41,12 +41,10 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 Chưa thấy tài liệu nghiên cứu.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị mề đay (urticaire): mỗi ngày dùng Tàm sa 60g, sắc nước chia 2 lần
 sáng tối uống. Ngoài ra dùng 120g sắc để xông rửa vùng bệnh 20 phút, mỗi

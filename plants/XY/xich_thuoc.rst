@@ -49,7 +49,6 @@ B.Theo kết quả nghiên cứu dược lý hiện đại, thuốc có tác d�
 Ứng dụng lâm sàng
 =================
 
-
 1.Đối với các chứng đau: do ứ huyết đều dùng Xích thược có kết quả tốt.
 Trường hợp bụng dưới, vùng thắt lưng đau do nhiệt huyết ứ như : phụ nữ
 tắt kinh bụng đau, phối hợp Đào nhân, Hồng hoa, Qui vĩ. Nam giới viêm

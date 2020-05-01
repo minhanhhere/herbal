@@ -63,7 +63,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Nước sắc Đại hoàng có tác dụng kháng viêm. Đối với chuột cống, thực
    nghiệm gây sưng tấy bằng Formalin vùng chân đùi, thuốc làm giảm sưng
    rõ.
@@ -79,7 +78,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 Trên lâm sàng Đông y, thường dung Thục địa trong các bài thuốc để trị
 các chứng sau:

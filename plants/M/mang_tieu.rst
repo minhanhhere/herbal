@@ -69,7 +69,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 Tác dụng tẩy xổ(laxative): sodium sulfat hòa tan vào nước nhưng gốc
 SO\ :sub:`4` có phân tử lớn khó qua màng ruột lưu lại ở ruột hút nước ở
 các tổ chức vào ruột làm lỏng phân (do SO\ :sub:`4` hình thành dung
@@ -78,7 +77,6 @@ nhu động ruột gây tiêu chảy.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị vú sữa đầy căng tức đau: dùng Mang tiêu làm thuốc giảm sữa. Tác
 giả đã trị 33 ca đều thành công, cách làm: Mang tiêu 200g, dùng 2 lớp

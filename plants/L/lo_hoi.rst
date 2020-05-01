@@ -63,7 +63,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Aloin là chất tẩy xổ mạnh, tác dụng kích thích đại tràng gây xổ
    thường kèm theo đau bụng, hố chậu sung huyết nghiêm trọng có thể gây
    viêm thận. Lô hội dùng thụt đại tràng có tác dụng cũng như uống.
@@ -78,7 +77,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị táo bón do trường vị thực nhiệt:
 

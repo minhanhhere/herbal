@@ -13,7 +13,6 @@ Tác dụng: Lợi niệu, thảm thấp chỉ tả, bổ âm chỉ khát.
 Ứng dụng lâm sàng
 =================
 
-
 -  Viêm thận, Viêm bàng quang.
 -  ỉa chảy do thấp.
 -  Bồi dưỡng cơ thể khi âm hư.

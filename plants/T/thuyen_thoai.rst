@@ -25,7 +25,6 @@ tan màng thịt ở mắt) theo dược lý Đông y.
 Ứng dụng lâm sàng
 =================
 
-
 Thường dùng nhiều trong Nhi khoa, Nội khoa, Nhãn khoa cũng có dùng:
 
 #. Chữa trẻ em cảm sốt: Viêm amidan, viêm họng, viêm thanh quản, viêm

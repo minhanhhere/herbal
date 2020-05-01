@@ -53,7 +53,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thiên ma có tác dụng an thần chống co giật.
 #. Thuốc có tác dụng làm giảm đau, tác dụng giảm đau của loại mọc hoang
    mạnh hơn loại trồng. Thuốc chích Thiên ma và loại do nhân tạo cũng có
@@ -65,7 +64,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị suy nhược thần kinh và đau đầu do mạch máu: Tác giả dùng chất
 chiết xuất Thiên ma tố trị suy nhược thần kinh 156 ca, đau đầu do mạch

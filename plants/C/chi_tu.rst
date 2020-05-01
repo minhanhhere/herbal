@@ -49,7 +49,6 @@ thư trong nước bụng.
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị chứng thấp nhiệt hoàng đản (bệnh viêm gan virus cấp): sách Y học
 cổ truyền qua các triều đại đều có ghi vị Chi tử chữa chứng Hoàng đản là
 chủ dược. Thường phối hợp với Nhân trần, Mật gấu tác dụng chữa Hoàng đản

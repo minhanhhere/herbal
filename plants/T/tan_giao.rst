@@ -63,7 +63,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Tác dụng kháng viêm rõ rệt, do thành phần Gentianine A tác động lên
    hệ thần kinh làm hưng phấn chức năng tuyến yên - vỏ thượng thận.
    Thuốc còn có tác dụng an thần, giảm đau, giải nhiệt, kháng histamin,
@@ -77,7 +76,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị thấp khớp, viêm đa khớp đau nhức hoặc chân tay co quắp:
 

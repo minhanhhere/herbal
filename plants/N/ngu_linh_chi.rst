@@ -66,13 +66,11 @@ Trích đọan Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 Thuốc có tác dụng ức chế sự sinh trưởng của vi khuẩn lao, nước thuốc có
 tác dụng ức chế nhiều loại nấm ngoài da, làm dịu co thắt của cơ trơn.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị đau do viêm lóet dạ dày hành tá tràng:
 

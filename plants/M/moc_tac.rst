@@ -28,7 +28,6 @@ Theo sách dược cổ, qui nạp có mấy tác dụng:
 Ứng dụng lâm sàng
 =================
 
-
 1.Chữa viêm kết mạc cấp (do phong nhiệt làm mắt sưng đỏ mờ.) dùng bài:
 Mộc tặc 8g, Cúc hoa 12g, Bạch tật lê 12g, Quyết minh tử 12g, Phòng phong
 8g, sắc nước uống. Bài này gia thêm Thương truật, Hạ khô thảo chữa viêm

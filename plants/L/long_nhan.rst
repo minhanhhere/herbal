@@ -55,13 +55,11 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 Ít có tài liệu nghiên cứu. Theo sách Trung dược học thuốc có tác dụng ức
 chế nha bào của nấm trên ống nghiệm với nước ngâm Long nhãn.
 
 Ứng dụng lâm sàng
 =================
-
 
 Thuốc chủ yếu dùng trị các chứng suy nhược thần kinh do tâm huyết hư có
 triệu chứng: mất ngủ, hồi hộp, hay quên dùng bài Qui tỳ thang (Tế sinh

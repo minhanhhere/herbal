@@ -55,7 +55,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Nước thuốc sắc, chiết xuất cồn liều nhỏ đối với tim cô lập ếch có tác
    dụng cường tim, dùng với Hoàng kỳ, có tác dụng cải thiện điện tâm đồ
    thiếu máu cơ tim.
@@ -68,7 +67,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị bệnh mạch vành, đau thắt ngực: phối hợp với Đảng sâm chế thành
 bài:

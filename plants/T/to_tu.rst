@@ -56,7 +56,6 @@ Chưa thấy có tài liệu nào ghi nhận gì.
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị ho kéo dài khó khỏi do viêm họng, viêm phế quản mạn, hen phế quản:
 
 -  Tô tử giáng khí thang (Hòa tễ cục phương): Tô tử, Trần bì, Tiền hồ,

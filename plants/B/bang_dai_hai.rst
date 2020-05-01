@@ -2,7 +2,6 @@
 
 
 
-
 Bàng đại hải
 ============
 
@@ -73,14 +72,12 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thuốc uống vào hút nước rất mạnh làm trương ruột kích thích gây tiêu
    chảy.
 #. Thuốc có tác dụng hạ áp, lợi tiểu, giảm đau.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị viêm amidale cấp: dùng 4 - 8 quả cho vào bình trà, đổ nước sôi vào
 uống hết sau khi ngâm nửa giờ, cách 4 giờ 1 lần, trong 2 - 3 ngày. Trị

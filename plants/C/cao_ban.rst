@@ -22,7 +22,6 @@ Chất tinh dầu có phenola Cảo bản, acid hữu cơ.
 Ứng dụng lâm sàng
 =================
 
-
 #. Trị đau đầu: (chủ yếu đau đỉnh đầu) do ngoại cảm phong hàn sợ lạnh,
    không có mồ hôi, hoặc do viêm mũi, viêm xoang ản hưởng đau đầu dùng
    Cảo bản thường phối hợp Xuyên khung, Bạch chỉ, Ké đầu ngựa.

@@ -48,7 +48,6 @@ khuẩn lî Shigella, phẩy khuẩn tả.
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị bệnh quai bị và các bệnh ung nhọt: dùng bài:
 
 -  Thanh đại tán: Thanh đại 8g, Thạch cao 16g, Hoạt thạch 16g, Hoàng bá

@@ -61,7 +61,6 @@ Trích đọan Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thuốc có nhiều chất tanin gây kết tủa albumin nên có tác dụng thu
    liễm làm lành các vết lóet ngoài da, niêm mạc. Chất tanin có thể kết
    hợp với một số kim loại, ancaloid, glucozit hình thành các hợp chất
@@ -79,7 +78,6 @@ khó thở và tử vong trong 24 giờ.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị xuất huyết đường tiêu hóa trên: Trần Vệ Tinh và cộng sự dùng: Ngũ
 bội tử 6g sắc còn 100ml, chia 3 lần uống trong ngày, nhịn ăn đối với

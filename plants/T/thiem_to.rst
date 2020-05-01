@@ -68,7 +68,6 @@ Trích đọan Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thuốc có tác dụng cường tim giống Digitalis nhưng không tích lũy.
 #. Thuốc có tác dụng tăng huyết áp và hưng phấn trung khu hô hấp. Tác
    dụng tăng áp tựa Adrenalin. Chất Bufotoxin (Cinobufotoxin) có tác
@@ -104,7 +103,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị các loại ung thư:
 

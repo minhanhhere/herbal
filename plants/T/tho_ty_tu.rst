@@ -56,13 +56,11 @@ Chủ trị các chứng: thận hư, liệt dương, tiểu tiện không tự 
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 Trên thực nghiệm, thuốc có tác dụng tăng lực co bóp của tim cóc cô lập,
 làm hạ huyết áp chó gây mê và các tác dụng hưng phấn tử cung cô lập.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chứng thận hư, liệt dương, di tinh, đau lưng, tiểu nhiều lần, các
 chứng lî lâu ngày: Thỏ ty tử vừa có tác dụng bổ âm và bổ dương nhưng

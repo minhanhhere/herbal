@@ -22,7 +22,6 @@ Tác dụng dược lý
 Ứng dụng lâm sàng
 =================
 
-
 #. Trị cảm mạo phong hàn: đầu mình đau, không ra mồ hôi, mạch phù khẩn,
    tác dụng tán phong mạnh hơn Phòng phong.
 #. Trị phong thấp: chủ yếu là hàn thấp, cơ, khớp lưng vai đau.

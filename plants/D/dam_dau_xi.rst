@@ -44,7 +44,6 @@ lương giải biểu khác. Thuốc có tác dụng làm ra mồ hôi nhẹ.
 Ứng dụng lâm sàng
 =================
 
-
 1.Chữa viêm đường hô hấp trên: sốt ho, họng đau, sốt không ra mồ hôi,
 bụng đầy, dùng bài:
 

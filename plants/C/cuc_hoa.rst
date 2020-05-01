@@ -39,7 +39,6 @@ ngoài da.
 Ứng dụng lâm sàng
 =================
 
-
 *1.Chữa chứng ngoại cảm phong nhiệt- chứng phong ôn giai đoạn đầu:* sốt
 hơi rét, đau đầu, mắt sưng đỏ thường gặp trong viêm đường hô hấp trên,
 viêm màng tiếp hợp cấp, dùng bài:

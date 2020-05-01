@@ -59,7 +59,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thuốc có Sponin cho thỏ uống làm tăng chất tiết khí quản vì thế có
    tác dụng hóa đàm".
 #. Nước sắc Tử uyển cho mèo uống không làm giảm ho nhưng chiết xuất chất
@@ -74,7 +73,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị ho do cảm mạo, viêm đường hô hấp trên:
 

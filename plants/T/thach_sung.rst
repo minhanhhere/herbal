@@ -55,7 +55,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Dung dịch của thuốc in vitro có tác dụng ức chế hô hấp tế bào ung thư
    gan.
 #. Có tác dụng ức chế trực khuẩn lao và một số nấm gây bệnh thường gặp.
@@ -63,7 +62,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị bệnh lao:
 

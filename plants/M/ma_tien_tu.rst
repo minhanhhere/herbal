@@ -43,7 +43,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Mã tiền có chất strychnine có tác dụng hưng phấn toàn bộ trung khu
    thần kinh, trước hết là hưng phấn chức năng phản xạ tủy sống, tiếp
    theo là hưng phấn trung khu hô hấp và vận mạch ở hành tủy, nâng cao
@@ -65,7 +64,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị viêm khớp và viêm đ khớp dạng thấp: thuốc có tác dụng hoạt lạc chỉ
 thống.

@@ -25,7 +25,6 @@ Tác dụng dược lý
 Ứng dụng lâm sàng
 =================
 
-
 1.Thường dùng trong các bài chữa viêm đường hô hấp: trên, viêm phế quản
 cấp, viêm phổi, áp xe phổi . chứng thực nhiệt.
 

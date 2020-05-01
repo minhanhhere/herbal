@@ -88,7 +88,6 @@ B.Kết quả nghiên cưú dược lý hiện đại:
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị đau bụng tiêu chảy kéo dài do thận dương hư, tỳ vị hư hàn hoặc tỳ
 thận dương hư:
 

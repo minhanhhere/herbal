@@ -60,7 +60,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Tác dụng kháng khuẩn: nước sắc Cao lương khương in vitro có tác dụng
    ức chế nhiều loại vi khuẩn như trực khuẩn bạch hầu, liên cầu khuẩn
    dung huyết, anthrax bacillus, song cầu khuẩn viêm phổi, tụ cầu vàng,
@@ -71,7 +70,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị đau bụng do hàn, nôn ra nước trong, đau bụng do sa đì (sán khí):
 dùng bài:

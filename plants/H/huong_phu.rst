@@ -78,7 +78,6 @@ Sonner. Chất chiết xuất thuốc có tác dụng đối với một số n�
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị đau sườn ngực và đau bao tử cơ năng:
 
 -  Tiểu ô trầm thang: Hương phụ 8g, Ô dược 10g, Cam thảo 4g sắc uống.

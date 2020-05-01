@@ -32,7 +32,6 @@ Chưa thấy báo cáo về nghiên cứu thực nghiệm.
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị chứng cảm thử: về mùa hè biểu hiện sốt sợ lạnh, không ra mồ hôi,
 đau bụng, nôn hoặc tiêu chảy thường gặp trong bệnh cúm thể tiêu hóa hoặc
 viêm ruột cấp thường dùng Hương nhu phối hợp với Hậu phác, Biển đậu sao

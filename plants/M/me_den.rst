@@ -60,7 +60,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Dầu Mè bôi lên niêm mạc có tác dụng làm giảm kích thích, chống viêm.
 #. Có tác dụng giảm lượng cholesterol máu, phòng trị xơ cứng động mạch.
 #. Dầu mè đen có tác dụng nhuận trường.
@@ -68,7 +67,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị đạm niệu: dùng 500g Mè đen, Hạch đào nhân 500g, tán bột mịn, mỗi
 lần uống 20g với nước ấm và ăn 7 quả táo, ngày 3 lần, uống hết thuốc là

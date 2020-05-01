@@ -14,7 +14,6 @@ Qui kinh: vào kinh Phế Vị.
 Ứng dụng lâm sàng
 =================
 
-
 #. Phá khí hành đàm: dùng trong chứng đàm ẩm ngưng trệ gây tức ngực, khó
    thở; phối hợp với Mạch môn, Viễn chí.
 #. Kiện vị tiêu thực: dùng trong trường hợp thực tích gây chướng bụng,

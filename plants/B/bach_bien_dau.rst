@@ -1,6 +1,5 @@
 .. _plants_bach_bien_dau:
 
-
 #############
 Bạch biển đậu
 #############

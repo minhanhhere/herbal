@@ -2,7 +2,6 @@
 
 
 
-
 Bạch hoa xà thiệt thảo
 ======================
 
@@ -67,7 +66,6 @@ B.Theo kết quả nghiên cứu dược lý hiện đại:
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị viêm ruột thừa cấp đơn thuần và viêm phúc mạc nhẹ: Dùng 60g thuốc
 sắc chia 2 - 3 lần uống trong ngày. Bệnh nặng phối hợp thêm Hải kim sa

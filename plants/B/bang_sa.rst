@@ -1,6 +1,5 @@
 .. _plants_bang_sa:
 
-
 Bằng sa
 =======
 
@@ -60,7 +59,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Bằng sa tính kiềm nhẹ, uống dung dịch Bằng sa có thể phòng nhiễm
    khuẩn đường niệu, nhất là lúc nước tiểu có tính acid thuốc có thể
    chuyển thành kiềm.
@@ -74,7 +72,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị bong gân lưng: Tác giả dùng Hàn the tán bột mịn hoặc chế thành 3%
 thuốc nhỏ mắt vào khóe mắt trong và ngoài đồng thời vận động lưng. Trị

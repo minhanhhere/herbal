@@ -47,12 +47,10 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 Chưa có tài liệu ghi chép.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chứng phù do thấp nhiệt, tiểu ít:
 

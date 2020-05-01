@@ -63,12 +63,10 @@ Theo các sách Y học cổ truyền:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 Thủy điệt có tác dụng chống đông máu.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chứng kinh bế, trưng hà: thường phối hợp với Đào nhân, Đại hoàn
 hoàng, Manh trùng, Thủy điệt (Thương hàn luận), kinh bế thuộc thể hư,

@@ -65,7 +65,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Quảng Hoắc hương có tác dụng kháng khuẩn rộng: thuốc có tác dụng ức
    chế các loại nấm gây bệnh, leptospirosis, tụ cầu khuẩn, trực khuẩn mủ
    xanh, enterocoli, trực khuẩn lî, liên cầu khuẩn tán huyết týp A, phế
@@ -74,7 +73,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chứng ngoại cảm hàn thấp: đau đầu, tức ngực, bụng đầy, tiêu chảy
 phân lỏng, hoặc nôn, buồn nôn (viêm đường ruột cấp biểu hàn nội thấp).

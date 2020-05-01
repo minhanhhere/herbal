@@ -61,7 +61,6 @@ Trích đoạn Y văn cổ:
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị bệnh can: như viêm gan mạn tính, xơ gan, gan nhiễm mỡ, nhiễm độc
 gan.
 

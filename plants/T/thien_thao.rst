@@ -110,7 +110,6 @@ con chết.
 Ứng dụng lâm sàng
 =================
 
-
 1.Dùng cầm máu: Trị các chứng chảy máu cam, nôn ra máu, tiêu ra máu,
 kinh kéo dài, huyết lî.
 

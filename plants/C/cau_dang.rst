@@ -54,7 +54,6 @@ Tác dụng dược lý
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị huyết áp cao do can dương thịnh:
 
 -  Câu đằng 12g, Kim ngân hoa 10g, Bạc hà 6g, Cúc hoa 10g, Địa long 10g,

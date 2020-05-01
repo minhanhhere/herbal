@@ -52,12 +52,10 @@ Theo các sách thuốc cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 Lông Cu li có tác dụng cầm máu.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chứng can thận bất túc: Đau nhức sống ngang lưng, tiểu nhiều khó
 cầm, thuốc có tác dụng bổ can thận, dùng bài:

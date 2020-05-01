@@ -21,7 +21,6 @@ dắt), chữa sang lở, thông tiểu tiện. Phàm không thực nhiệt ch�
 Ứng dụng lâm sàng
 =================
 
-
 #. An thai: rễ cây gai mới hái hoặc phơi khô 30g sắc với 600ml nước, cô
    làm 200ml chia làm 3 lần uống trong ngày. Chỉ 1 - 2 ngày là có kết
    quả, không nên kéo dài.

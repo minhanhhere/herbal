@@ -57,7 +57,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Trước đây có báo cáo về tác dụng lợi tiểu của Xa tiền tử và Xa tiền
    thảo nhưng gần đây có báo cáo cho rằng thuốc sắc cho người và súc vật
    thực nghiệm uống không thấy có tác dụng lợi tiểu rõ rệt.
@@ -69,7 +68,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị viêm đường tiết niệu, đái rắt đái buốt:
 

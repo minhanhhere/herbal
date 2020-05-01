@@ -55,14 +55,12 @@ Trích lược Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 Dầu Nga truật có tác dụng phá hoại và ức chế tế bào ung thư gan. Nước
 sắc Nga truật làm tăng sự hấp thu máu và huyết cục trong bụng thỏ thực
 nghiệm, có tác dụng kháng khuẩn, kiện vị và chống có thai sớm.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị tắt kinh bụng đau: dùng bài:
 

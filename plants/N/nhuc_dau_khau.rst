@@ -53,7 +53,6 @@ Tác dụng dược lý
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị rối loạn tiêu hóa, kém ăn, nôn mữa, đau bụng, ăn khó tiêu:
 
 -  Nhục đậu khấu 0,5g, Nhục quế 0,5g, Đinh hương 0,2g tán bột mịn trộn

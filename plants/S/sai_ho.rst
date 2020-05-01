@@ -50,7 +50,6 @@ B.Theo kết quả nghiên cứu dược lý hiện đại:
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị ngoại cảm: Thường dùng trong những trường hợp bệnh ngoại cảm có
 triệu chứng sốt lúc cao lúc thấp không đều hoặc lúc sốt lúc rét (hàn
 nhiệt vãng lai) như chứng sốt rét hoặc chứng bán biểu bán lý thường gặp

@@ -50,12 +50,10 @@ Theo các sách thuốc cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 Thuốc có tác dụng ức chế co bóp hồi tràng, cường tim, làm dãn mạch.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị tiểu đêm nhiều lần: (do Bàng quang Thận hư hàn) dùng các bài:
 

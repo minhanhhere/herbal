@@ -51,7 +51,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 1.Tác dụng cầm máu: Hoa hòe có tác dụng rút ngắn thời gian chảy máu, sao
 thành than tác dụng càng tăng.
 
@@ -88,7 +87,6 @@ niêm mạc ruột sinh chất tiết dịch có tác dụng làm giảm tiêu c
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Dùng làm thuốc lương huyết chỉ huyết: Trong các chứng tiêu ra máu, trĩ
 ra máu, huyết lî, băng lậu, niệu huyết, dùng bài:

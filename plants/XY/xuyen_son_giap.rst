@@ -47,12 +47,10 @@ Theo các sách Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 Thuốc có tác dụng nâng cao bạch cầu.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị phụ nữ sau sinh sữa tắc không thông:
 

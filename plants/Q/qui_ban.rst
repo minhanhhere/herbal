@@ -64,7 +64,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Qui bản có tác dụng nâng ngưỡng đau của chuột cống được gây mô hình
    âm hư thể cường giáp, độ dính của huyết tương giảm rõ, còn có tác
    dụng khu ứ chỉ thống.
@@ -73,7 +72,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị lao phổi: thường có triệu chứng cốt chưng lao nhiệt, triều nhiệt,
 ra mồ hôi trộm, thường phối hợp với Hoàng bá, Tri mẫu, Sinh địa để tăng

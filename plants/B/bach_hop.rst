@@ -2,7 +2,6 @@
 
 
 
-
 Bách hợp
 ========
 
@@ -19,7 +18,6 @@ Qui kinh: vào 3 kinh tâm, phế, tỳ.
 
 Ứng dụng lâm sàng
 =================
-
 
 - Dưỡng âm nhuận phế: dùng chữa ho, ho ra máu, nôn ra máu, trong đờm có
 máu, viêm khí quản cấp, mạn tính.

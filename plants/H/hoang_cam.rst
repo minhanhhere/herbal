@@ -13,7 +13,6 @@ Qui kinh: vào các kinh Tâm, Phế, Can, Đởm, Đại tràng, Tiểu tràng.
 Ứng dụng lâm sàng
 =================
 
-
 #. Thanh thấp nhiệt, trừ hỏa độc ở tạng phế: dùng cho các bệnh phế ung,
    phế có mủ, viêm phổi. gây sốt cao; hoặc trường hợp hàn nhiệt vãng lai
    (lúc sốt, lúc rét), trị ho do phế nhiệt.

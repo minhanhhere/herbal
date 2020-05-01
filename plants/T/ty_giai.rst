@@ -13,7 +13,6 @@ Tác dụng: Thảm thấp lợi niệu kiện tỳ.
 Ứng dụng lâm sàng
 =================
 
-
 Đái đục, đái ra dưỡng chấp, thấp khớp, trừ mụn nhọt.
 
 Liều lượng: 6 - 12g.

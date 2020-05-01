@@ -29,7 +29,6 @@ Tác dụng dược lý
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị viêm màng tiếp hợp cấp: (mắt đỏ sưng đau, chảy nước mắt) thuốc có
 tác dụng thanh can hỏa, dùng bài:
 

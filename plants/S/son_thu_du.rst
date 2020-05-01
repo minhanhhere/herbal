@@ -58,7 +58,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Nước sắc Sơn thù in vitro có tác dụng ức chế tụ cầu vàng, trực khuẩn
    lî thương hàn. Trên thực nghiệm, thuốc có tác dụng giết chết tế bào
    ung thư ở nước bụng.
@@ -67,7 +66,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 Sơn thù nhục thường dùng phối hợp với nhiều vị thuốc khác trị các chứng
 do cơ thể hư nhược như:

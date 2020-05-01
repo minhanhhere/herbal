@@ -63,7 +63,6 @@ B.Theo dược lý hiện đại: thuốc có tác dụng giảm đau.
 Ứng dụng lâm sàng
 =================
 
-
 Trên lâm sàng phạm vi ứng dụng của Nhũ hương rất rộng.
 
 1.Trị chứng kinh bế- đau kinh: phối hợp với thuốc Đương qui, Đào nhân,

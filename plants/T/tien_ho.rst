@@ -75,7 +75,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thuốc có tác dụng hóa đàm tốt nhưng chưa thấy tác dụng giảm ho.
 #. Bạch hoa tiền hồ tố C có tác dụng tăng lưu lượng máu của động mạch
    vành và các học giả cho là một loại thuốc giãn động mạch vành có chọn
@@ -85,7 +84,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị viêm phế quản thể nhiệt: ho đàm nhiều màu vàng, tức ngực khó thở.
 

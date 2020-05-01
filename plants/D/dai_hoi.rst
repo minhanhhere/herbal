@@ -59,7 +59,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Anethole làm tăng nhu động dạ dày và ruột, làm dịu cơn đau bụng, tăng
    tiết dịch đường hô hấp do kích thích các tế bào tiết dịch, có thể
    dùng làm thuốc hóa đàm.
@@ -70,7 +69,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 Nói chung, Đại hồi có tác dụng dược lý gần như Tiểu hồi nên trên lâm
 sàng thường dùng thay thế Tiểu hồi.

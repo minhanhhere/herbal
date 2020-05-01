@@ -49,12 +49,10 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 Cốc nha có men amylase có tác dụng trợ tiêu hóa, trị được bệnh cước khí.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chứng rối loạn tiêu hóa, ăn không tiêu, bụng đầy đau:
 

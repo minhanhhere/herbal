@@ -67,7 +67,6 @@ Trích đọan Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Nước sắc Phụ tử liều nhỏ làm tăng huyết áp động vật được gây mê, với
    liều lượng lớn, lúc đầu làm hạ sau làm tăng, tăng lực co bóp cơ tim ,
    tác dụng cường tim rõ, tăng lưu lượng máu của động mạch đùi và làm
@@ -89,7 +88,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 Dùng độc vị Phụ tử để trị bệnh rất ít có báo cáo, Y học thường dùng Phụ
 tử trong các bài thuốc trị các chứng bệnh như sau:

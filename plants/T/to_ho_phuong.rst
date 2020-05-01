@@ -68,7 +68,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Trên súc vật thí nghiệm chứng minh: Tô hợp hương có khả năng tăng sức
    chịu đựng thiếu oxy của súc vật, đối với chó bị nhồi máu cơ tim thực
    nghiệm, thuốc làm giảm nhịp tim, cải thiện lưu lượng máu ở mạch vành,
@@ -81,7 +80,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị bệnh mạch vành:
 

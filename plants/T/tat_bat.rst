@@ -49,7 +49,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Tác dụng kháng khuẩn: Tinh dầu Tiêu lốt có tác dụng In vitro, ức chế
    các loại Staphylococcus aureus, Bacillus subtilus, bacillus cereus,
    trực khuẩn đại tràng, trực khuẩn lî.
@@ -63,7 +62,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị đau bụng, nôn, tiêu chảy do tỳ vị hàn: cùng dùng với Cao Lương
 khương. Có thể dùng độc vị bột Tiêu lốt uống với nước cơm hoặc phối hợp

@@ -42,7 +42,6 @@ Huyền sâm được chứng minh có các tác dụng sau:
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị các chứng bệnh có sốt: (hư nhiệt hay thực nhiệt đều dùng được
 nhưng tác dụng tư âm mạnh hơn) nhiệt vào phần dinh, sốt, mồm khô, lưỡi
 đỏ thẫm, nhiệt nhập tâm bào gây hôn mê hoặc mê man, hoặc phát ban,

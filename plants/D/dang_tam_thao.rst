@@ -55,12 +55,10 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 Chưa thấy có tài liệu thông báo.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị các chứng lâm: thuốc có tác dụng lợi niệu thông lâm.
 

@@ -46,7 +46,6 @@ chứng tăng lipit huyết thực nghiệm.
 Ứng dụng lâm sàng
 =================
 
-
 1.Phòng và giải cảm nắng mùa hè:
 
 -  Nấu nước đậu xanh cả vỏ làm nước uống thay trà.

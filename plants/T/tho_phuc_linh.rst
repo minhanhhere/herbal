@@ -30,7 +30,6 @@ B.Thực nghiệm chứng minh:
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị nhọt lở cấp và mạn: thường phối hợp với Bồ công anh, Kim ngân hoa,
 Liên kiều, Hạ khô thảo.
 

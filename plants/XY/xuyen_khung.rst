@@ -68,7 +68,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 1.Tác dụng đối với tim: Trên thực nghiệm ếch hoặc cóc đối với tim cô lập
 hay chỉnh thể với nồng độ thấp có tác dụng hưng phấn, tim co bóp tăng,
 nhịp tim chậm lại. Nồng độ cao, có tác dụng ngược lại ức chế tim làm
@@ -114,7 +113,6 @@ ngoài da, còn có tác dụng trị chứng thiếu vitamin E.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị đau đầu:
 

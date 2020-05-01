@@ -1,6 +1,5 @@
 .. _plants_bang_phien:
 
-
 Băng phiến
 ==========
 
@@ -65,7 +64,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Đối với hệ thần kinh ngoại vi: thuốc có tác dụng kích thích nhẹ thần
    kinh cảm giác ngoại vi, làm giảm đau thần kinh.
 #. Thuốc được hấp thu nhanh qua màng ruột, tích tụ ở não thời gian tương
@@ -84,7 +82,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chứng huyễn vựng(đau đầu, chóng mặt): dùng Nhĩ châm, mỗi lần chọn
 2 bên huyệt Thần môn, Não, Dưới vỏ não, Tâm, Giao cảm 2 - 3 huyệt. Lấy

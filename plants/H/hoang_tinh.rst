@@ -63,7 +63,6 @@ Theo các Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thuốc có tác dụng hạ áp, tăng lưu lượng máu động mạch vành, hạ lipid
    huyết và làm giảm xơ cứng mạch vành (cũng có báo cáo nói không có
    tác dụng hạ lipid huyết).
@@ -78,7 +77,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chứng huyết áp thấp: dùng Hoàng tinh 30g, Đảng sâm 30g, Chích thảo
 10g, sắc nước uống, ngày 1 thang. Trị 10 ca đều có kết quả khỏi trước

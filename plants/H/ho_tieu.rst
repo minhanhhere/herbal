@@ -63,7 +63,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Dùng liều nhỏ tăng dịch vị, dịch tụy, kích thích tiêu hóa ăn ngon,
    nhưng liều lớn kích thích niêm mạc dạ dày gây sung huyết và viêm cục
    bộ, gây sốt viêm đường tiểu, đái ra máu.
@@ -80,7 +79,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị động kinh: Tác giả dùng Kháng giản linh trị 73 ca động kinh đã
 dùng thuốc tây không khỏi. Liều thường dùng mỗi ngày 150 - 200mg, có ca

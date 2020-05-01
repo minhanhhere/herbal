@@ -66,13 +66,11 @@ Theo các sách thuốc cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 Nước sắc 0,25 - 0,75% của Thảo quả có tác dụng hưng phấn ruột cô lập của
 súc vật thí nghiệm (guinea-pig).
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chứng ngực bụng đau đầy do hàn thấp tích trệ:
 

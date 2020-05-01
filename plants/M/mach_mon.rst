@@ -63,7 +63,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thuốc có tác dụng tăng huyết lượng động mạch vành, bảo vệ bệnh thiếu
    máu cơ tim, cải thiện lực co bóp cơ tim và chống rối loạn nhịp tim,
    trên thực nghiệm, thuốc còn có tác dụng an thần.
@@ -75,7 +74,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị lao phổi, viêm phế quản mạn tính, viêm họng mạn, có hội chứng phế
 âm hư ho kéo dài, ho khan: có thể phối hợp với Bán hạ, Đảng sâm, dùng

@@ -1,6 +1,5 @@
 .. _plants_bach_bo:
 
-
 #######
 Bách bộ
 #######

@@ -49,7 +49,6 @@ Thuốc có tác dụng kháng viêm, giãn mạch, hạ huyết áp, ức chế
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị phong thấp tê mỏi đau nhức xương:
 
 -  Cao Hy thiêm: Hy thiêm 1000g, Thiên niên kiện 50g, gia đường, cồn, tá

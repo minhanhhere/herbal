@@ -53,7 +53,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Tinh dầu tỏi, nước tỏi, dịch ngâm tỏi đều có tác dụng kháng khuẩn
    mạnh phổ rộng, kháng khuẩn và ức chế khuẩn. Tỏi vỏ tím có tác dụng
    kháng khuẩn mạnh hơn tỏi vỏ trắng. Tỏi chế làm thuốc đều có tác dụng
@@ -74,7 +73,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị lãi kim, lãi móc câu, viêm âm đạo do trùng roi, lî trực khuẩn, lî
 amip: có thể dùng tỏi như sau:

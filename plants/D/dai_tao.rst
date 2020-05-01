@@ -61,7 +61,6 @@ Theo các Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Cho chuột nhắt uống nước sắc Đại táo, thể trọng tăng rõ. Qua thử
    nghiệm bơi cho thấy có làm tăng cơ lực. Gây độc gan thỏ bằng cacbon
    tetracholoride và cho uống nước sắc Đại táo, protid toàn phần và
@@ -76,7 +75,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chứng tỳ hư nhược: sinh ra chứng người mệt mỏi, ăn kém, tiêu lỏng.
 

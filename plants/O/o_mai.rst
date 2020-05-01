@@ -56,7 +56,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Trên thực nghiệm súc vật chứng minh Ô mai làm tăng khả năng miễn dịch
    của cơ thể.
 #. Ô mai có tác dụng ức chế ruột cô lập của thỏ. Cổ phương Ô mai hoàn
@@ -72,7 +71,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị trĩ nội: Lục Đức Viêm dùng Ô mai chế thành thuốc chích (mỗi ml có
 hàm lượng 0,4g thuốc sống, mỗi lần dùng 5 - 10ml, không quá 30ml tối

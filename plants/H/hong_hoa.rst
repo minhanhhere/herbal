@@ -84,7 +84,6 @@ hoặc gây thiếu máu cơ tim trên chuột bạch lớn.
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị bệnh phụ khoa: Rối loạn kinh nguyệt, kinh bế, sau sinh máu xấu
 không ra hết, dùng các bài:
 

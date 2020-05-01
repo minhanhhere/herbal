@@ -59,7 +59,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Tác dụng long đàm: thuốc sắc, tinctura Thương lục hay nước thuốc ngâm
    đều có tác dụng long đàm, có thể do thuốc trực tiếp lích thích lên
    đường hô hấp làm cho tuyến thể của niêm mạc tăng tiết nhưng không có
@@ -76,7 +75,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị phù toàn thân, bụng nước, viêm cầu thận cấp:
 

@@ -24,7 +24,6 @@ thích hưng phấn cơ trơn. Trên lâm sàng phát hiện thuốc có tác d�
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 1.Nước chiết xuất Thăng ma có tác dụng hạ nhiệt, giảm đau, chống viêm,
 chống co giật, giải độc.
 
@@ -36,7 +35,6 @@ thai.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Chữa bệnh sởi lúc mới mọc: có tác dụng giải độc làm sởi mọc
 nhanh.Thường dùng bài:

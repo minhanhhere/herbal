@@ -68,7 +68,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Gleditschia saponin kích thích niêm mạc bao tử gây phản xạ tăng tiết
    đường hô hấp mà có tác dụng hóa đàm.
 #. Thuốc cho uống, thành phần saponin không chỉ kích thích niêm mạc bao
@@ -87,7 +86,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Hóa đàm: dùng cả quả Bồ kết (vỏ và nhân) sấy khô tán bột, mật ong
 luyện viên nặng 0,2g, ngày uống 3 lần, mỗi lần 2 - 3 viên; không dùng

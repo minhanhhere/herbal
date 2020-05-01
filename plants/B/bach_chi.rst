@@ -1,6 +1,5 @@
 .. _plants_bach_chi:
 
-
 ########
 Bạch chỉ
 ########

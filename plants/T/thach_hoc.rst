@@ -64,7 +64,6 @@ Theo các Y văn cổ:
 Ứng dụng lâm sàng
 =================
 
-
 1.Dùng chữa bệnh nhiễm thời kỳ hồi phục, thuốc có tác dụng dưỡng vị giải
 nhiệt: phối hợp với Sinh địa, Huyền sâm, Sa sâm . dùng bài:
 

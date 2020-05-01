@@ -27,7 +27,6 @@ thấp, giải kinh phong.
 Ứng dụng lâm sàng
 =================
 
-
 #. Trị chứng ngoại cảm: phong hàn, phong thấp, phong nhiệt thường kết
    hợp với các loại:
 

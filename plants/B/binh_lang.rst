@@ -2,7 +2,6 @@
 
 
 
-
 Binh lang
 =========
 
@@ -64,7 +63,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Tác dụng trục trùng chủ yếu là xổ sán (taeniasis) tác dụng đối với
    sán lợn tốt hơn sán bò, tác dụng làm tê liệt thần kinh của sán kết
    hợp với bí đỏ (hạt) có tác dụng hợp đồng tốt, nâng cao hiệu quả xổ
@@ -82,7 +80,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị sán (taeniasis):
 

@@ -54,12 +54,10 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 Chất oxoushinsunine trong hạt sen có khả năng ức chế ung thư mũi họng.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị tiêu chảy, lî mạn tính do tỳ hư:
 

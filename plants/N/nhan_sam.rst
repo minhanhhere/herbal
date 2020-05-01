@@ -76,7 +76,6 @@ Theo các sách thuốc cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Nhân sâm có tác dụng gia tăng quá trình ức chế và gia tăng vỏ não,
    làm hồi phục bình thường khi hai quá trình trên bị rối loạn, saponin
    Nhân sâm lượng nhỏ chủ yếu làm hưng phấn trung khu thần kinh với
@@ -191,7 +190,6 @@ thuốc và vị thuốc Việt nam:
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Dùng Nhân sâm điều trị cấp cứu trong trường hợp bệnh nguy kịch (Đông
 y cho là chứng Vong âm vong dương): khí thóat, chân tay lạnh, tự ra mồ

@@ -52,7 +52,6 @@ vô sinh, phong hàn thấp tý, bán thân bất toại.
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thuốc có tác dụng như kích tố nam, cho uống cao Dâm dương hoắc có
    kích thích xuất tinh (tác dụng của lá và rễ mạnh, còn quả yếu hơn,
    thân cây kém).
@@ -77,7 +76,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chứng thận hư dương nuy (bao gồm: liệt dương, di tinh, tảo tiết),
 phụ nữ vô sinh: có thể chọn các bài sau:

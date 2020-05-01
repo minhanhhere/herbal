@@ -1,6 +1,5 @@
 .. _plants_thach_quyet_minh:
 
-
 Thạch quyết minh (Concha Haliotidis)
 ####################################
 
@@ -64,7 +63,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thuốc có tác dụng an thần, dùng trị chứng mất ngủ có tác dụng nhất
    định.
 #. Thạch quyết minh nung có tác dụng thu liễm, giảm chua, giảm đau, cầm
@@ -72,7 +70,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chứng can dương thịnh, hoa mắt chóng mặt:
 

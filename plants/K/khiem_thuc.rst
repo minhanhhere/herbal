@@ -57,7 +57,6 @@ lý về Khiếm thực.
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị tiêu chảy trẻ em do tỳ hư:
 
 -  Bài Sâm linh Bạch truật tán gia giảm: Sơn dược, Khiếm thực, Đảng sâm,

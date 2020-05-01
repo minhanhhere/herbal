@@ -88,7 +88,6 @@ Theo các sách thuốc cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Tác dụng tăng cường chức năng miễn dịch của cơ thể: Hoàng kỳ làm tăng
    chức năng thực bào của hệ thống tế bào lưới, nếu cùng dùng với Linh
    chi, Đảng sâm thì tác dụng càng rõ. Người sau khi cho uống nước sắc
@@ -155,7 +154,6 @@ luận văn báo cáo tại Hội nghị học thuật của Hội Dược học
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chứng suy nhược mạn tính do tỳ khí hư nhược, mệt mỏi, kém ăn hoặc
 chứng tiêu chảy kéo dài, rong kinh, sa tử cung, sa trực tràng, dùng bài:

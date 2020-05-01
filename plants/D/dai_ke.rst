@@ -68,7 +68,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 -  Nước thuốc ngâm kiệt rượu cồn và nước đều có tác dụng hạ áp trên chó
    mèo và thỏ thực nghiệm.
 -  Rễ Đại kế sắc nước hoặc toàn cây cất lấy nước với nồng độ 1:4.000,
@@ -78,7 +77,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị các loại xuất huyết: như chảy máu cam, thổ huyết, tiểu ra máu, đàn
 bà băng lậu ...dùng các bài:

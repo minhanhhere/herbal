@@ -74,7 +74,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Triterpenoid saponin có tác dụng khu đàm.
 #. Qua lâu nhân có nhiều dầu béo nên có tác dụng gây xổ mạnh, Qua lâu bì
    tác dụng nhẹ, Qua lâu sương thì có tác dụng hòa hoãn hơn.
@@ -87,7 +86,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị động mạch vành: dùng Qua lâu nhân chế thành viên dùng, ngày 3 lần
 mỗi lần 4 viên (lượng thuốc mỗi ngày tương đương với 31,2g thuốc sống,

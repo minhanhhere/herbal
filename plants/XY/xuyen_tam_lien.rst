@@ -49,7 +49,6 @@ gây suy hô hấp. Thuốc có tác dụng làm sẩy thai ở chuột nhắt v
 Ứng dụng lâm sàng
 =================
 
-
 #. Thuốc được dùng rộng rãi chữa các bệnh viêm nhiễm bao gồm nhiễm khuẩn
    hô hấp (viêm mũi, viêm xoang mũi, viêm đường hô hấp trên, viêm
    amidale, viêm phế quản, viêm phổi .), nhiễm khuẩn tiêu hóa (viêm ruột

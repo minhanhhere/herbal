@@ -58,7 +58,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Cho chó uống nước sắc rễ Uy linh tiên, tần số nhu động thực quản
    tăng, biên độ lớn hơn. Người sau khi hóc xương cá, vùng trên của thực
    quản và họng co thắt, uống Uy linh tiên vào được thư giãn (do tác
@@ -78,7 +77,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị đau khớp do phong thấp, lưng gối đau nhiều:
 

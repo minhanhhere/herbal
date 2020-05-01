@@ -56,7 +56,6 @@ Theo các Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 1.Chất Curcumin có tinh thông mật (gây co bóp túi mật, chất curcumen có
 tác dụng phá cholesterol trong máu).
 
@@ -73,7 +72,6 @@ và cho thỏ mới có thai đều có tác dụng gây sẩy thai.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chứng kinh nguyệt không đều, đau bụng vùng rốn:
 

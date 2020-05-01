@@ -52,7 +52,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thuốc có tác dụng lợi tiểu và làm cho Natri, Kali, Clo và Ure thải ra
    nhiều hơn.
 #. Phần Trạch tả hòa tan trong mỡ, Trạch tả cồn chiết xuất và cồn Trạch
@@ -68,7 +67,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Dùng làm thuốc lợi tiểu thông lâm, trị các chứng phù, viêm đường tiết
 niệu, viêm thận:

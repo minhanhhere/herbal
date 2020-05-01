@@ -56,7 +56,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Bột Hoạt thạch hạt nhỏ tổng bề mặt lớn nên hút đưọc liều lượng lớn
    chất độc và các chất hóa học kích thích bảo vệ được niêm mạc và da.
    Dùng uống thuốc có tác dụng bảo vệ niêm mạc dạ dày ruột bị viêm nên
@@ -69,7 +68,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị viêm đường tiết niệu: thuốc có tác dụng thanh nhiệt lợi tiểu thông
 lâm.

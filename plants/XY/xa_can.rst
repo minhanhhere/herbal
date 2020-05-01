@@ -53,7 +53,6 @@ Thuốc có tác dụng chống nấm ngoài da và chống virut đường hô 
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị viêm đường hô hấp trên cổ sưng đau: có thể dùng độc vị hoặc phối
 hợp thêm các vị thuốc nhuận phế hóa đàm lợi yết như: Hoàng cầm, Cát
 cánh, Cam thảo, Khoản đông hoa.

@@ -61,7 +61,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Đối với trung khu thần kinh: Thuóc có tác dụng làm cân bằng 2 quá
    trình hưng phấn và ức chế của vỏ não, đối với các cấp thần kinh trung
    ương đều có tác dụng hưng phấn. Thuốc có tác dụng nâng cao trí lực,
@@ -100,7 +99,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị kiết lî: dùng thuốc sống 0,25 - 2g, 90% oticture Ngũ vị tử 3 - 4
 giọt, hoặc cao lỏng thuốc 0,5g. Trị kiết lî trẻ em có kết quả tốt (Báo

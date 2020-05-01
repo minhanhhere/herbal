@@ -57,12 +57,10 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 Tam lăng có tác dụng ức chế tế bào ung thư.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị phụ nữ tắt kinh do huyết ứ: bụng dưới đau tức, sau sinh ứ huyết,
 bụng đau dùng bài:

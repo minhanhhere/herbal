@@ -48,7 +48,6 @@ Trích đọan Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Tác dụng chống ký sinh trùng: chất pelletierine trong Thạch lựu bì có
    tác dụng mạnh đối với giun móc, Isopelletierine, một thành phần trong
    vỏ cây Thạch lựu tác dụng còn mạnh hơn. Tác dụng mạnh do chất tanin
@@ -66,7 +65,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị lî lâu ngày không khỏi: biến chứng sa trực tràng dùng bài:
 

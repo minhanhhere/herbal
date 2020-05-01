@@ -57,14 +57,12 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 Thuốc có tác dụng bảo vệ gan, làm hạ men SGOT, SGPT. Nước sắc Mộc qua có
 tác dụng tiêu sưng rõ trên mô hình viêm khớp chuột nhắt do chích protein
 (tác dụng kháng viêm).
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chứng tê thấp cước khí, hoặc do chấn thương đau cẳng chân:
 

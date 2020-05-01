@@ -70,7 +70,6 @@ Theo các sách thuốc cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 Ít có tài liệu nói đến. Theo Đõ tất Lợi chất Mucin hòa tan trong nước
 trong điều kiện acid và nhiệt độ thích hợp sẽ phân giải thành chất
 protid và hydrat carbon có tính chất bổ. Ở nhiệt độ 45 - 55độ C, khả
@@ -80,7 +79,6 @@ dưỡng, thuốc có giá trị giúp tiêu hóa thức ăn chất bột.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chứng tiêu chảy kéo dài do Tỳ hư, dùng bài:
 

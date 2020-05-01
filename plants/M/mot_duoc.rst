@@ -45,7 +45,6 @@ loại nấm gây bệnh ngoài da và có tác dụng hạ mỡ trong máu.
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị các chứng đau: đau sau sinh, đau kinh, đau do chấn thương ngoại,
 sưng tấy phù nề, thuốc có tác dụng khu ứ chỉ thống.
 

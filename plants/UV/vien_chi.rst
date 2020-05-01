@@ -65,7 +65,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thuốc có tác dụng hóa đàm rõ, thành phần hóa đàm chủ yếu là ở vỏ rễ.
    Cơ chế hóa đàm của thuốc có thể do thuốc kích thích lên niêm mạc bao
    tử gây phản xạ tăng tiết ở phế quản.
@@ -81,7 +80,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị viêm tuyến vú cấp và u xơ tuyến vú: Tác giả Hoàng Sĩ Tiêu dùng
 Viễn chí 12g gia rượu 60 độ 15ml ngâm 1 tí, cho nước 1 chén đun sôi 15 -

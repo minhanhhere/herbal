@@ -79,7 +79,6 @@ chế cơ trơn của tử cung.
 Ứng dụng lâm sàng
 =================
 
-
 1.\ *Trị chứng nôn do hàn:* tiêu chảy thường.
 
 -  Quất bì thang: Quất bì 12g, Sinh khương 8g: sắc uống.

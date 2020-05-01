@@ -61,7 +61,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 1.Tô mộc có tác dụng làm co mạch nhẹ đối với tim ếch cô lập gây co bóp
 mạnh hơn, có thể làm cho lực co bóp của tim giảm do nước sắc Chỉ xác
 được hồi phục.
@@ -84,7 +83,6 @@ B,.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chứng phụ nữ huyết trệ, kinh bế, bụng đau: dùng bài:
 

@@ -93,7 +93,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Magnolol (thành phần Phenol của Hậu phác) có tác dụng phòng ngừa lóet
    dạ dày trên thực nghiệm, có tác dụng ức chế histamin gây co thắt tá
    tràng, ức chế dạ dày tiết dịch.
@@ -107,7 +106,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị lî amip: trong một báo cáo lâm sàng dùng Hậu phác trị 46 ca> Kết
 quả 43 ca hồi phục, 2 ca tiến bộ, phần lớn triệu chứng lâm sàng được cải

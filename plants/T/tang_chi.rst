@@ -59,7 +59,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 Tang chi có tác dụng hạ áp. Dịch ngâm kiệt Tang chi có tác dụng dưỡng
 lông đối với thỏ và cừu.
 
@@ -73,7 +72,6 @@ khớp do chấn thương (Trung y tạp chí Hồ bắc 1988,4:37).
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị huyết áp cao: dùng Tang diệp, Tang chi, Sung úy tử đều 16g, gia
 nước 1000ml sắc còn 600ml, ngâm rửa chân 30 - 40 phút mỗi ngày trước lúc

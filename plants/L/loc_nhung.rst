@@ -116,7 +116,6 @@ tăng nhanh sự hồi phục huyết áp thấp do mất máu cấp.
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị chứng thận dương bất túc tinh khí hao tổn: gây nên các chứng như
 liệt dương, di tinh, hoạt tinh, tảo tiết, lưng đau gối mỏi, váng đầu, ù
 tai có thể phối hợp với Hoài sơn ngâm rượu uống hoặc dùng Sâm nhung vệ

@@ -41,7 +41,6 @@ Các sách cổ ghi:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 1.Tác dụng kháng khuẩn: có tác dụng ức chế với mức độ khác nhau các
 loại: trực khuẩn lî, thương hàn, trực khuẩn coli, tụ cầu khuẩn vàng, một
 số nấm, lî trực khuẩn có khi sinh kháng thuốc.
@@ -70,7 +69,6 @@ vitamin.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị lî trực khuẩn:
 

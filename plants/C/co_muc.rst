@@ -14,7 +14,6 @@ Tác dụng:Bổ can thận, chỉ huyết.
 Ứng dụng lâm sàng
 =================
 
-
 -  Bổ thận làm khoẻ mạnh gân xương chữa người già đau lưng, chân gối mềm
    yếu, răng lung lay, chóng mặt hoa mắt.
 -  Cầm máu: chảy máu cam, đại tiện ra máu, tiểu tiện ra máu, rong kinh.

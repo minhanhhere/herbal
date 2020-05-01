@@ -59,7 +59,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thuốc nước chiết xuất có tác dụng ức chế tụ cầu khuẩn, trực khuẩn lî,
    thương hàn và trực khuẩn đại tràng. Nước ngâm kiệt thuốc có tác dụng
    ức chế nhiều loại nấm gây bệnh ngoài da. Thành phần có tác dụng kháng
@@ -78,7 +77,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chứng táo bón người cao tuổi:
 

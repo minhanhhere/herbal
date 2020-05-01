@@ -2,7 +2,6 @@
 
 
 
-
 Bạch mao căn
 ============
 
@@ -102,7 +101,6 @@ dần, nếu chích với liều 25g/kg, 6 giờ sau thỏ chết.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị sốt xuất huyết: Dùng Mao căn 50 - 100g, Đơn sâm 20 - 30g, Lô căn
 30 - 40g, Hoàng bá, Đơn bì đều 10 - 15g, Bội lan 15 - 30g, tùy chứng gia

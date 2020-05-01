@@ -29,7 +29,6 @@ vị, cầm nôn, tiêu đàm giảm ho.
 Ứng dụng lâm sàng
 =================
 
-
 1.Giải cảm phong hàn: thường kết hợp với Quế chi, Tô diệp, Phòng phong
 để tăng tác dụng làm ra mồ hôi. Sau khi mắc mưa lạnh để phòng cảm lạnh
 chỉ cần sắc gừng với đường đen uống nóng.

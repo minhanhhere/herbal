@@ -50,7 +50,6 @@ thực bào của bạch cầu.
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị chứng ngoại cảm phong nhiệt: (thời kỳ đầu của ôn bệnh) thường kết
 hợp với Kinh giới, Bạc hà, Liên kiều dùng bài Ngân kiều tán.
 

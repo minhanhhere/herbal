@@ -66,7 +66,6 @@ Theo Y học cổ truyền
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thuốc có tác dụng an thần, làm giảm hưng phấn của thần kinh trung
    ương. Cồn Linh chi có tác dụng chống co giật do điện, giảm đau.
 #. Có tác dụng chỉ khái hóa đàm, bình suyễn nhưng theo báo cáo kết quả
@@ -83,7 +82,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị suy nhược thần kinh: Bệnh viện Hoa sơn thuộc Viện Y học số 1
 Thượng hải báo cáo: Dùng cả 2 loại Linh chi nhân tạo và Linh chi hoang

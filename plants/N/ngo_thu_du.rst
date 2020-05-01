@@ -69,7 +69,6 @@ Trích đọan Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Ngô thù với tinh dầu thơm có tác dụng kiện vị trừ phong và ức chế các
    loại men không bình thường ở ruột, có tác dụng cầm nôn, cùng dùng với
    Sinh khương tác dụng mạnh hơn.
@@ -97,7 +96,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị nôn do vị hàn khí nghịch:
 

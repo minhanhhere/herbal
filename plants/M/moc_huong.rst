@@ -67,7 +67,6 @@ Trích đoạn Y văn cổ:
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị rối loạn tiêu hóa: bụng đầy đau, sôi bụng (do trúng hàn khí trệ).
 
 -  Mộc hương điều khí tán:Mộc hương, Bạch đậu khấu, Đàn hương, Cam thảo

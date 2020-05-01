@@ -87,7 +87,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Chất gây tiêu chảy của Đại hoàng là Anthraquinone. Tác dụng của thuốc
    chủ yếu là ở Đại tràng, thuốc làm cho trương lực của đoạn giữa và
    cuối đại tràng tăng, nhu động ruột tăng, nhưng không trở ngại cho
@@ -117,7 +116,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị thận suy mạn tính: Bệnh viện Thủ đô Bắc kinh báo cáo: dùng Đại
 hoàng 30 - 60g (nếu cho sao dùng 20g), Mẫu lệ nung 30g, Bồ công anh 20g,

@@ -74,7 +74,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Tác dụng lợi mật: nước sắc thuốc có tác dụng làm giảm trương lực cơ
    vòng Oddi của chó gây mê. Chất 6,7-dimethoxycoumarin là chất có tác
    dụng lợi mật chủ yếu, cùng dùng với Chi tử tăng thêm tác dụng lợi
@@ -92,7 +91,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị viêm gan cấp:
 

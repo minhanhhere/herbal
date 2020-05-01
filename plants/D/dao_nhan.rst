@@ -77,7 +77,6 @@ nhuận tràng.
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị bệnh phụ khoa:
 
 -  Đào nhân, Đương qui đều 10g, Hồng hoa, Tam lăng đều 5g, sắc nước uống

@@ -65,7 +65,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Chất pharbitin vào ruột gặp mật và dịch ruột thủy phân thành Khiên
    ngưu tử tố kích thích ruột làm tăng nhu động gây tẩy xổ. Nước hoặc
    cồn chiết xuất Khiên ngưu đều có tác dụng gây tiêu chảy ở chuột nhắt,
@@ -79,7 +78,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chứng phù thũng, bụng đầy, đại tiểu tiện ít:
 

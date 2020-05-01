@@ -60,7 +60,6 @@ dụng sau:
 Ứng dụng lâm sàng
 =================
 
-
 1.Trong đông y: thường sử dụng Thanh hao phối hợp với các loại thuốc tư
 âm thanh nhiệt khác như Tri mẫu, Đơn bì, Địa cốt bì, Miết giáp trị chứng
 hư nhiệt (do âm hư, huyết hư, sốt âm ỉ sau khi mắc bệnh nhiễm, cơ thể

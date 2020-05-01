@@ -40,7 +40,6 @@ viêm làm giãn cơ co thắt của cơ.
 Ứng dụng lâm sàng
 =================
 
-
 1.Chữa cảm mạo: Sốt phiền khát cứng đau gáy, dùng bài:
 
 -  Sài cát giải cơ thang: Sài hồ 4g, Cát căn 8 - 12g, Khương hoạt, Bạch

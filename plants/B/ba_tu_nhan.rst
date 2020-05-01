@@ -93,3 +93,4 @@ Liều thường dùng và chú ý
 ================ 8 - 18g, lúc dùng đập nát. Bệnh nhân tiêu lỏng có
    thể dùng Bá tử nhân sương.
 -  Chú ý: Tiêu lỏng dùng thận trọng.
+

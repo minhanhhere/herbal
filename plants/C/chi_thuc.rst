@@ -84,7 +84,6 @@ thái bệnh lý là tốt.
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị táo bón:
 
 -  Chỉ thực đạo trệ hoàn (Nội ngoại thương biện luận): Chỉ thực, Bạch

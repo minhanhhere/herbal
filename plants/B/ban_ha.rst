@@ -2,7 +2,6 @@
 
 
 
-
 Bán hạ
 ======
 
@@ -113,7 +112,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thành phần độc của Bán hạ khó hòa tan trong nước, còn thành phần có
    tác dụng cầm nôn và giảm ho có thể hòa tan vào nước nóng. Thành phần
    có độc không bị phá hủy bởi nước gừng đơn độc mà bị Bạch phàn làm hết
@@ -145,7 +143,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị ung thư cổ tử cung: dùng loại Chưởng diệp Bán hạ (Rhizoma
 pinelliae pedatisectae) chế thành lát mỏng (ngày 3 lần tổng liều 60g Bán

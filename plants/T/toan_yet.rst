@@ -60,7 +60,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thuốc có tác dụng chống co giật, yếu hơn Ngô công.
 #. Thuốc có tác dụng hạ áp lâu dài. Nhiều học giả cho rằng chế phẩm Toàn
    yết ảnh hưởng đến chức năng vận mạch của trung khu thần kinh, làm
@@ -75,7 +74,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chứng trúng phong bán thân bất tọai, kinh phong co giật ở trẻ em:
 

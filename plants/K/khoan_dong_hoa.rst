@@ -55,7 +55,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thuốc sắc làm tăng tiết đường hô hấp, làm giảm ho rõ. Còn có tác dụng
    hưng phấn trung khu thần kinh, hưng phấn hô hấp. Thuốc có tác dụng hạ
    cơn suyễn trên súc vật thí nghiệm. Trên mô hình cô lập súc vật thí
@@ -66,7 +65,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị hen suyễn: dùng rượu thuốc, mỗi lần uống 5ml (tương đương 6g thuốc
 sống) ngày 3 lần. Theo dõi 36 ca có kết quả nhưng cơn nặng không kết quả

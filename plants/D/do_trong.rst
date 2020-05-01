@@ -48,7 +48,6 @@ Theo các sách thuốc cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 -  Theo sách Trung dược học:
 
 #. Tác dụng hạ áp: sắc nước và cồn chiết xuất thuốc đều có tác dụng hạ
@@ -87,7 +86,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị đau lưng do thận hư, dùng phối hợp với các loại thuốc bổ thận
 khác:

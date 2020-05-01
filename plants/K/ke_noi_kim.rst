@@ -56,7 +56,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thuốc có tác dụng trợ tiêu hóa, biểu hiện dịch vị tăng, độ acid tăng,
    vận động bao tử tăng (thời gian kéo dài, sóng nhu động cao, tốc độ
    tống thức ăn nhanh hơn). Khả năng tiêu hóa tăng chậm nhưng kéo dài.
@@ -68,7 +67,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chứng cam tích: bụng đầy ăn ít.
 

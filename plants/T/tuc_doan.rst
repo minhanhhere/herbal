@@ -51,7 +51,6 @@ Theo các sách thuốc cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 Thuốc có tác dụng làm thóat mủ (bài nùng) đối với ung nhọt, cầm máu,
 giảm đau, có tác dụng tăng sữa và làm tăng nhanh tổ chức tái sinh.
 
@@ -64,7 +63,6 @@ cao Dypsacus pilosus có tác dụng gây mê mạnh.
 
 Ứng dụng lâm sàng
 =================
-
 
 Chủ yếu dùng Tục đoạn trị chứng đau lưng, chân. Tác dụng gần giống với
 Ngưu tất, Đỗ trọng. So với Đỗ trọng thì Tục đoạn đắng ôn, có tác dụng

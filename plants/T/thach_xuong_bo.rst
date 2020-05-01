@@ -68,7 +68,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thuốc sắc, thuốc sắc khử dầu đều có tác dụng an thần, tinh dầu có tác
    dụng gây ngủ. Thuốc sắc còn có tác dụng chống co giật. Dầu bay hơi
    của Thạch xương bồ làm giảm vận động của chuột và làm giảm tác dụng
@@ -86,7 +85,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị động kinh: dùng chất chiết xuất của Thạch xương bồ Asrone trị 90
 ca cơn động kinh lớn, người lớn mỗi lần 50mg, ngày 3 lần, trẻ em giảm

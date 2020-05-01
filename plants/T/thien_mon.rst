@@ -64,7 +64,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Nước sắc Thiên đông có tác dụng ức chế liên cầu khuẩn A và B, phế cầu
    khuẩn, tụ cầu khuẩn vàng, trực khuẩn bạch hầu.
 #. Có tác dụng ức chế Sarcoma-180 và tế bào bạch cầu ở chuột nhắt.
@@ -72,7 +71,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị lao phổi, viêm phế quản ở người cao tuổi, khó khạc đờm, ho lâu
 ngày, phế hư nhiệt: thường phối hợp với Sinh địa, Xuyên bối mẫu, dùng

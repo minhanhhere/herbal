@@ -56,7 +56,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 1.Tác dụng cầm máu: Trên lâm sàng đã lâu Tiên hạc thảo được dùng làm
 thuốc cầm máu, nhưng trên thực nghiệm chưa thấy có tác dụng cầm máu, cần
 nghiên cứu thêm.
@@ -109,7 +108,6 @@ liều cao ngược lại có tác dụng ức chế. Thuốc hơi làm giãn đ
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Dùng làm thuốc cầm máu: Trị các chứng ra máu, như ho ra máu, chảy máu
 cam, tiêu ra máu, nôn ra máu.

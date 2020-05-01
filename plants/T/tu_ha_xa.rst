@@ -74,7 +74,6 @@ Kết quả nghiên cứu dược lý hiện đại
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị cơ thể suy nhược, khí huyết hư tổn: có các bệnh lao, thiếu máu,
 suy nhược thần kinh, viêm phế quản mãn ở người già, hen suyễn kéo dài.
 Thuốc có tác dụng làm cường tráng cơ thể, dùng độc vị hoặc phối hợp với

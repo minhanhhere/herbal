@@ -50,7 +50,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 Thành phần thuốc xổ là thuốc antraglucoside (Anthraquinone glycoside)
 mà chủ yếu là sennoside. Ngoài ra, nước ngâm kiệt của thuốc có tác dụng
 ức chế một số nấm gây bệnh ngoài da. Dùng liều cao tẩy mạn phân lỏng đau
@@ -59,7 +58,6 @@ giờ. Tác dụng kéo dài 1 - 2 ngày, sau đó không bị táo lại.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị tắt ruột: Khoa ngoại Bệnh viện trực thuộc Y học viện Quí dương
 dùng Phan tả diệp trị 106 ca tắt ruột (83 ca đơn thuần, 23 ca nghẽn

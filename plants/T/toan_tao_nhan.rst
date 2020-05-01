@@ -59,7 +59,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thực nghiệm chứng minh Táo nhân sống và sao đều có tác dụng an thần
    gây ngủ, thành phần có tác dụng là saponin Táo nhân.
 #. Thuốc có tác dụng giảm đau và hạ nhiệt. Có tác dụng đối kháng với
@@ -72,7 +71,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chứng suy nhược thần kinh: váng đầu, hoa mắt, mất ngủ, ra nhiều mồ
 hôi, bức rứt hồi hộp, thuốc có tác dụng dưỡng tâm, an thần dùng:

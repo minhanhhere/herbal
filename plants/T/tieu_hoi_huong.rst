@@ -66,7 +66,6 @@ B.Kết quả nghiên cứu theo dược lý hiện đại:
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị sán khí (hermia - sa ruôt): dùng các bài sau:
 
 -  Lệ hương tán: Tiểu hồi, Lệ chi hạch (sao đen) lượng bằng nhau, tán

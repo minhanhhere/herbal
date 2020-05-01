@@ -1,6 +1,5 @@
 .. _plants_thach_cao:
 
-
 Thạch cao (Gypsum)
 ##################
 
@@ -32,7 +31,6 @@ viêm.
 
 Ứng dụng lâm sàng
 =================
-
 
 Thạch cao là vị thuốc chủ yếu chữa các bệnh viêm nhiễm có hội chứng bệnh
 lý: Lý nhiệt.

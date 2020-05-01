@@ -70,7 +70,6 @@ Kết quả nghiên cứu dược lý hiện đại
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị ung nhọt sưng tấy: thuốc giã nát trộn dấm đắp ngoài.
 
 2.Trị rắn độc cắn: dùng Tảo hưu đắp ngoài và uống trong với Bán biên

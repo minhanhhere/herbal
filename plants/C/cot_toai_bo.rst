@@ -68,7 +68,6 @@ B.Kết quả nghiên cứu theo dược lý hiện đại:
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị chứng răng đau, răng long, răng chảy máu do thận hư:
 
 -  Bột Cốt toái bổ vừa đủ sao đen xát vào răng.

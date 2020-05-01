@@ -54,7 +54,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Dịch ngâm nước hoặc ngâm cồn của thuốc có tác dụng hạ áp và lợi tiểu
    trên súc vật thực nghiệm. Chất antraglucozid có tác dụng nhuận tràng.
    Thuốc có tác dụng co tử cung.
@@ -68,7 +67,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị đau đầu do can nhiệt, phong nhiệt:
 

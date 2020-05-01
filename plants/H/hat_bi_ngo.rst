@@ -48,7 +48,6 @@ Trích đoạn Y văn :
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Nước sắc và bột nhân hạt bí ngô in vivo và in vitro đều có tác dụng
    làm tê liệt sán dây bò và heo, nhưng chủ yếu đoạn giữa và đoạn cuối;
    do đó cùng dùng với hạt cau có tác dụng hợp đồng. Hạt Bí ngô có tác
@@ -59,7 +58,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị bệnh sán dây bò (taenia saginata): Bí ngô bỏ vỏ tán bột, người lớn
 60 - 80g, trẻ em dưới 15 tuổi 30 - 50g, uống đói lúc sáng sớm, 2 giờ sau

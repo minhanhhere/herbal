@@ -53,7 +53,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 Nọc rắn xử lý hết độc có tác dụng:
 
 #. Chống đông, chống hình thành huyết khối, giảm fibrinogene, độ dính
@@ -66,7 +65,6 @@ Nọc rắn xử lý hết độc có tác dụng:
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chứng phong thấp, gân cơ co rút, chân tay tê dại, đau nhức lâu
 ngày, hoặc liệt chân tay dùng:

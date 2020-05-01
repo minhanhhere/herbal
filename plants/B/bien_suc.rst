@@ -2,7 +2,6 @@
 
 
 
-
 Biển súc
 ========
 
@@ -54,13 +53,11 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thuốc có tác dụng lợi tiểu, lợi mật, hạ áp.
 #. Thuốc có tác dụng ức chế trực khuẩn kî và một số nấm ngoài da.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị viêm đường niệu: tiểu buốt, tiểu khó thể thấp nhiệt dùng các bài:
 

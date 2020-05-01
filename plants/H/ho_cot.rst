@@ -46,7 +46,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 Thành phần có tác dụng là chất keo xương, tựa như amino acid. Cao xương
 chó có nhiều tyrosin hơn xương hổ.
 
@@ -60,7 +59,6 @@ chó có nhiều tyrosin hơn xương hổ.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị viêm khớp mạn tính:
 

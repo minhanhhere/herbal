@@ -2,7 +2,6 @@
 
 
 
-
 Bổ hoàng
 ========
 
@@ -55,7 +54,6 @@ Trích đoạn Y văn cổ:
 
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
-
 
 #. Tác dụng tăng nhanh máu đông: trên ống nghiệm, thuốc có tác dụng rút
    ngắn thời gian máu đông (dùng nước sắc Bồ hoàng ). Cho thỏ uống nước
@@ -127,7 +125,6 @@ alpha typhasterol, tinh dầu, mỡ (10 - 30%).
 
 Ứng dụng lâm sàng
 =================
-
 
 #. Trị kinh bế, đau bụng kinh, bụng dưới đau, các chứng đau do huyết ứ.
 

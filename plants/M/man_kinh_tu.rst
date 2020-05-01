@@ -32,7 +32,6 @@ nhiệt.
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị đau đầu do cảm mạo: dùng bài:
 
 -  Cúc chung ẩm: Mạn kinh tử 12g, Cúc hoa 12g, Phòng phong, Toàn phúc

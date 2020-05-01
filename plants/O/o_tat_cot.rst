@@ -58,7 +58,6 @@ acid (antacid) có hiệu quả.
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị lóet nông ngoài da: Hoàng Ngọc Anh đã dùng bột thật mịn Ô tặc cốt
 bôi lên vùng lóet cho đầy, đắp gạc vô trùng cố định, mỗi cách 2 - 3 ngày
 thay 1 lần. Trị 100 ca, khỏi 83 ca, tiến bộ 11 ca, tỷ lệ kết quả 94% (

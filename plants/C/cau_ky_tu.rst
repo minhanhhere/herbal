@@ -62,7 +62,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thuốc có tác dụng tăng cường miễn dịch không đặc hiệu. Trên súc vật
    thực nghiệm có tác dụng khả năng thực bào của hệ lưới nội mô, kết quả
    nghiên cứu gần đây cho biết Kỷ tử có tác dụng nâng cao khả năng thực
@@ -88,7 +87,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 Là vị thuốc thường dùng Bổ can, thận, thuốc không hàn, không nhiệt, âm
 hư dương hư đều dùng được, nhưng phần lớn dùng cho chứng âm hư.

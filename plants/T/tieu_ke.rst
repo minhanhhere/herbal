@@ -63,7 +63,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 1.Tác dụng cầm máu: cho chuột nhắt uống thuốc, thời gian máu chảy rút
 ngắn rõ. Dùng thuốc nước bơm vào bao tử chuột, cắt đuôi đo thời gian
 xuất huyết cũng chứng minh thuốc có tác dụng cầm máu.
@@ -93,7 +92,6 @@ chuột lớn trong vòng 14 ngày liền không có phản ứng nhiễm độc
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị các chứng xuất huyết do nhiệt: như chảy máu cam, nôn ra máu, thuốc
 có tác dụng cầm máu, dùng phối hợp với Đại kế, Trắc bá diệp, Thuyên thảo

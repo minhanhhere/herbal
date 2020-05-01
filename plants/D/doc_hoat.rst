@@ -60,7 +60,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thuốc có tác dụng giảm đau, an thần và kháng viêm rõ rệt.
 #. Thuốc nước và thuốc sắc Độc hoạt đều có tác dụng hạ áp rõ rệt nhưng
    thời gian ngắn. Độc hoạt chích tĩnh mạch có tác dụng hưng phấn hô
@@ -76,7 +75,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chứng đau thấp: dùng bài:
 

@@ -53,7 +53,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 Thuốc có tác dụng cầm ho long đờm và có tác dụng kháng khuẩn phần nào.
 Chiết xuất cồn ête của thuốc hòa trong nước với nồng độ 55 làm giun đất
 chết sau 45 phút.
@@ -64,7 +63,6 @@ loại ký sinh trùng, thấy có tác dụng rõ đối với sán lá ruột
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị viêm đường tiểu: thuốc có tác dụng lợi tiểu thông lâm.
 

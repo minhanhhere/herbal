@@ -56,7 +56,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thuốc có tác dụng chống co giật: Ngô công và Toàn yết cùng dùng với
    liều lượng bằng nhau có tác dụng chống cơn co giật do strychnin trên
    chuột thực nghiệm.
@@ -67,7 +66,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị trẻ em co giật, uốn ván, động kinh, liệt dây thần kinh mặt: dùng
 các bài:

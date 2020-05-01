@@ -86,7 +86,6 @@ Theo các Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Tác dụng giải độc: thuốc có tác dụng giải độc đối với nhiều loại như:
    cloralhydrate, physostigmin, acetylcholin, pilocarpin., các loại
    barbituric, histamin. Tam hảo Anh phu báo cáo muối kali và calci của
@@ -149,7 +148,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Cam thảo được dùng rất nhiều trong các bài thuốc đông y: vì Cam thảo
 có tác dụng điều hòa tính vị của các vị thuốc khác trong bài thuốc. Ví

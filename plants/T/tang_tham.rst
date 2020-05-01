@@ -51,7 +51,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 Nước sắc Tang thầm 100% có tác dụng chuyển dạng Lympho bào mức độ trung
 bình.
 

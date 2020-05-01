@@ -2,7 +2,6 @@
 
 
 
-
 Bạch truật
 ==========
 
@@ -68,7 +67,6 @@ Trích dẫn các sách thuốc cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Tác dụng bổ ích cường tráng: Trên thực nghiệm, thuốc có tác dụng làm
    tăng trọng chuột, tăng sức bơi lội, tăng khả năng thực bào của hệ
    thống tế bào lưới, tăng cường chức năng miễn dịch tế bào, làm tăng
@@ -97,7 +95,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị tiêu chảy do tỳ hư: Tiêu chảy kéo dài, người mệt mỏi, ăn kém:
 

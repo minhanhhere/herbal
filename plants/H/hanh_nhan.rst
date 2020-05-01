@@ -69,7 +69,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Glucosid hạt mơ thủy phân cho cyanhydric acid có tác dụng ức chế nhẹ
    trung khu hô hấp vì thế giảm ho suyễn.
 #. Benzaldehyde có thể ức chế chức năng tiêu hóa của pepsin, dầu hạnh
@@ -96,7 +95,6 @@ của rễ làm chất giải độc.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị viêm phế quản mạn tính:
 

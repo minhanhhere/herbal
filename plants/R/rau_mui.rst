@@ -29,7 +29,6 @@ Tây y chưa có báo cáo về nghiên cứu rau mùi.
 Ứng dụng lâm sàng
 =================
 
-
 1.Chữa bệnh sởi trẻ em: Chủ yếu lúc sởi mới mọc, sởi mọc không đều, hoặc
 sốt kéo dài mà sởi chưa mọc hoặc mọc quá ít, dùng cây rau mùi có tác
 dụng thúc sởi mọc nhanh và đều, tăng tuần hoàn ngoại vi làm cho độc sởi

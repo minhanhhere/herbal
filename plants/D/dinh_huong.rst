@@ -54,7 +54,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Nước chiết xuất Đinh hương có tác dụng kích thích dạ dày tăng tiết
    acid dịch vị và pepsin, kích thích tiêu hóa.
 #. Dịch chiết xuất nước, cồn, ête của Đinh hương và tinh dầu Đinh hương
@@ -71,7 +70,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chàm lở: Dùng Đinh hương gia vào 100ml cồn 75% ngâm 48 giờ, bỏ
 xác, mỗi ngày bôi vào vùng chàm lở 3 lần. Tác giả đã trị 31 ca mắc bệnh

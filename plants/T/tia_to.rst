@@ -39,7 +39,6 @@ cầu khuẩn, trực khuẩn lî, trực khuẩn đại tràng.
 Ứng dụng lâm sàng
 =================
 
-
 1.Giải cảm phong hàn: Trường hợp cảm mạo phong hàn sốt gai rét, đau đầu,
 ngực đầy tức dùng bài *Hương tô tán* (lá Tía tô 8g, Hương phụ 8g, Trần
 bì 6g, Cam thảo 4g, cho thêm Gừng tươi 2 lát sắc nước uống) có thể xông

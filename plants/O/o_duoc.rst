@@ -62,7 +62,6 @@ Trích đoạn Y văn cổ:
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị đau bụng do trúng hàn khí trệ, đau bụng kinh:
 
 -  Ô trầm thang: Ô dược, Đảng sâm đều 10g, Trầm hương 2g, Cam thảo 6g,

@@ -45,7 +45,6 @@ tim) hoặc hết tác dụng giãn mạch.
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị các chứng bệnh viêm nhiễm cấp: sốt cao mê man, co giật hoặc có
 phát ban, tùy chứng dùng các bài:
 

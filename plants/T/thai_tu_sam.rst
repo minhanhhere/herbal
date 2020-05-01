@@ -53,7 +53,6 @@ về dược lý hiện đại.
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị chứng tỳ vị hư yếu sau khi mắc bệnh: có triệu chứng mệt mỏi, tự ra
 mồ hôi, ăn ít, thường kết hợp với các vị Hoài sơn, Bạch biển đậu, Mạch
 nha. Trường hợp hư nhược nặng, ra mồ hôi nhiều phối hợp với Mạch môn,

@@ -77,7 +77,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Hà thủ ô có tác dụng hạ Cholesterol huyết thanh, được chứng minh rõ
    trên mô hình gây cholesterol cao ở thỏ nhà, thuốc còn có tác dụng làm
    giảm hấp thu cholesterol của ruột thỏ, theo tác giả, thuốc có thành
@@ -103,7 +102,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chứng huyết hư, cơ thể suy nhược: có triệu chứng lưng gối mỏi
 nhức, váng đầu, hoa mắt, tóc bạc sớm, di tinh, huyết trắng nhiều, dùng

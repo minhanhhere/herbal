@@ -73,7 +73,6 @@ B.Kết quả nghiên cứu dưọc lý hiện đại:
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị sạn đường mật:
 
 -  Sao Chỉ xác 10 - 15g, Xuyên luyện tử 10g, Hoàng tinh 10g, Kim tiền

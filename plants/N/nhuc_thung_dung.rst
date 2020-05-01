@@ -59,7 +59,6 @@ Trích Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Tác dụng hạ áp (theo tài liệu: Trích yếu báo cáo luận văn năm 1956,
    tập 2, Viện khoa học Y học Trung quốc xuất bản 70,1956).
 #. Làm tăng nước dãi (nước miếng) của chuột nhắt (theo tài liệu: Trích
@@ -68,7 +67,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chứng liệt dương do thận hư, lưng gối lạnh đau, phụ nữ vô sinh:
 dùng bài:

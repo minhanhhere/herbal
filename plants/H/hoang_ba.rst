@@ -12,7 +12,6 @@ Qui kinh: vào 3 kinh Thận, Bàng quang, Tỳ.
 Ứng dụng lâm sàng
 =================
 
-
 - Tư âm giáng hỏa: dùng khi âm hư phát sốt, xương đau âm ỉ, ra mồ hôi
 trộm (đạo hãn), di tinh do thận hỏa, có thể phối hợp với Sinh địa, Tri
 mẫu, Kim anh.

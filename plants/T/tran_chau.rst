@@ -56,7 +56,6 @@ Trích đoạn y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Tác dụng đối với cơ trơn: thuốc có tác dụng ức chế ruột thỏ (tiêu
    bản).
 #. Gây vết thương thực nghiệm ở lưng tai thỏ, chế phẩm của thuốc có tác
@@ -65,7 +64,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị trẻ em kinh phong, sốt co giật, người lơn hồi hộp mất ngủ:
 

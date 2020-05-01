@@ -13,7 +13,6 @@ Qui kinh: vào kinh phế
 Ứng dụng lâm sàng
 =================
 
-
 -  Chữa đau khớp và đau dây thần kinh hay phối hợp với Uy linh tiên,
    Xuyên khung.
 -  Giải biểu tán hàn chữa các chứng cảm mạo do lạnh.

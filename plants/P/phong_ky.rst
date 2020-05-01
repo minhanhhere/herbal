@@ -59,7 +59,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Nhiều loại alkaloit của Hán phòng kỷ có tác dụng hạ áp nhanh. Thuốc
    có tác dụng giãn mạch vành, tăng lưu lượng máu ở mạch vành, làm giảm
    lượng tiêu hao oxy của cơ tim. Thuốc có tác dụng chống rối loạn nhịp
@@ -75,7 +74,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị viêm khớp sưng đau:
 

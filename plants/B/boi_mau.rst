@@ -2,7 +2,6 @@
 
 
 
-
 Bối mẫu
 =======
 
@@ -83,7 +82,6 @@ Trích đọan Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Bối mẫu có tác dụng giảm ho khu đàm. Saponin trong Xuyên bối mẫu có
    tác dụng trên mạnh còn alkaloid của Bối mẫu chỉ có tác dụng khu đàm.
    Xuyên bối còn có tác dụng hạ áp, chống co giật, hưng phấn tử cung cô
@@ -100,7 +98,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị lao hạch (chứng loa lịch):
 

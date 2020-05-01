@@ -29,7 +29,6 @@ giãn cơ trơn phế quản của chuột lang, chống dị ứng.
 Ứng dụng lâm sàng
 =================
 
-
 1.Tán hàn giải cảm: trị chứng cảm mạo phong hàn đầu mình đau, sợ lạnh,
 không ra mồ hôi dùng: Kinh giới, Phòng phong, Tô diệp mỗi thứ 12g, sắc
 uống. Trường hợp cảm mạo, cảm cúm, đau đầu, sốt, nhức mình dùng bài

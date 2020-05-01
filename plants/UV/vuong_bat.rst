@@ -51,14 +51,12 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 Thực nghiệm trên súc vật chứng minh: Nước sắc của Vương bất lưu hành bỏ
 kali có tác dụng hưng phấn cổ tử cung rõ rệt, cồn ngâm kiệt tác dụng còn
 rõ mạnh. Thuốc còn có tác dụng ức chế sự phát triển của ung thư phổi".
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Dùng làm thuốc bổ trị đau xương, nhức mình mẩy:
 

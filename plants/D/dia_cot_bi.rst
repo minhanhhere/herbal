@@ -46,7 +46,6 @@ Các sách cổ ghi:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thuốc có tác dụng giải nhiệt hạ áp, hạ đường huyết, hạ cholesterol
    máu và hưng phấn tử cung. Thuốc hạ áp do tác dụng trực tiếp làm giãn
    mạch mà có tác dụng hạ áp trung bình.
@@ -56,7 +55,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chứng hư nhiệt, lao nhiệt: thường gặp trong các bệnh lao phổi,
 bệnh nhiễm thời kỳ hồi phục sốt dai dẳng, đêm ra mồ hôi trộm, chứng cam

@@ -45,7 +45,6 @@ B.Theo kết quả nghiên cứu dược lý hiện đại: thuốc có tác d�
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị chứng sốt do can hỏa uất: (sốt chiều nặng hơn) ra mồ hôi trộm,
 hoặc ra mồ hôi bất kỳ lúc nào, đau đầu, má đỏ mồm khô, kinh nguyệt không
 đều, viêm gan mạn tính. thường phối hợp với Chi tử, Sài hồ., dùng bài:

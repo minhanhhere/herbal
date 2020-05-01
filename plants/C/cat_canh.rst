@@ -63,7 +63,6 @@ Trích đoạn y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Saponin Cát cánh kích thích niêm mạc bao tử gây phản xạ niêm mạc khí
    quản tiết dịch nên long đàm. Trên thực nghiệm cho chó và mèo đã gây
    mê uống nước sắc Cát cánh, sự tiết dịch tăng rõ rệt, chứng minh tác
@@ -82,7 +81,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị phế ung (ápxe phổi):
 

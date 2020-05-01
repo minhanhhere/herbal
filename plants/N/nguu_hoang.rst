@@ -77,7 +77,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thuốc có tác dụng an thần, chống co giật và hạ sốt. Ngưu hoàng có tác
    dụng đối kháng với thuốc hưng phấn trung khu thần kinh. Thuốc có thể
    phòng cơn co giật cho chuột gây bởi camphor hay cafein nhưng không có
@@ -110,7 +109,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Dùng độc vị Ngưu hoàng và các bài thuốc có Ngưu hoàng: trị các bệnh
 viêm đường hô hấp trên, cúm, viêm phế quản, viêm phổi 146 ca, trị có kết

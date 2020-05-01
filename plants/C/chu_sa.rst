@@ -65,7 +65,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Muối HgSe dưới dạng keo có trong Chu sa hây Thần sa hoặc tổng hợp
    được ít độc và có tác dụng:
 #. Theo các tạp chí nước ngoài, một số hợp chất selen được dùng với
@@ -81,7 +80,6 @@ HgS + O2 (lửa) Þ SO2­ + Hg
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chứng suy nhược thần kinh, tnh thần bứt rứt, khó ngủ, tim hồi hộp:
 

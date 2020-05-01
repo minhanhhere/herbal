@@ -81,14 +81,12 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 Thuốc có tác dụng ức chế sự tăng sinh của tổ chức liên kết, vì thế mà
 tiêu khối u, làm tăng protid huyết tương, kéo dài thời gian tồn tại của
 kháng thể, có tác dụng an thần.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị lao phổi có triệu chứng hư nhiệt, triều nhiệt, mồ hôi trộm:
 

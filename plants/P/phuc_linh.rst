@@ -53,7 +53,6 @@ Trích đoạn y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thuốc có tác dụng lợi tiểu, cũng có báo cáo cho là tác dụng lợi tiểu
    không rõ, có thể do điều kiện nghiên cứu khác nhau.
 #. Thuốc có tác dụng tăng miễn dịch, tăng chỉ số thực bào của phagocyte
@@ -68,7 +67,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Lợi tiểu tiêu phù:
 

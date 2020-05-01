@@ -34,7 +34,6 @@ B.Kết quả nghiên cứu dược lý hiện đại chứng minh:
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị các chứng viêm ở phổi : (áp xe phổi phế ung), viêm phổi thùy, viêm
 phổi đốm.
 

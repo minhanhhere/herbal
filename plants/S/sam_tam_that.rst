@@ -69,7 +69,6 @@ Theo các Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Tác dụng cầm máu: nước sắc uống của rễ Tam thất, bột Tam thất và dịch
    chiết Tam thất đều có tác dụng rút ngắn thời gian đông máu và thời
    gian prothrombin có tác dụng ức chế ngưng tập tiểu cầu (theo Đoàn
@@ -155,7 +154,6 @@ với rễ củ Tam thất 5 năm.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị các chứng xuất huyết:
 

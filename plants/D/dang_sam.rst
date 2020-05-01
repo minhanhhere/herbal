@@ -60,7 +60,6 @@ Theo ghi chép của một số tài liệu cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thuốc có tác dụng tăng sức: chống mệt mỏi và tăng sự thích nghi của
    súc vật trong môi trường nhiệt độ cao. Thực nghiệm trên súc vật cũng
    chứng minh Đảng sâm có tác dụng tren cả hai mặt hưng phấn và ức chế
@@ -120,7 +119,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trong điều trị bằng Đông y: Đảng sâm thường được dùng thay Nhân sâm
 trong những bài thuốc bổ khí (nhưng lượng phải gấp 2 - 3 lần), nhất là

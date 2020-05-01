@@ -2,7 +2,6 @@
 
 
 
-
 Bổ công anh
 ===========
 
@@ -37,7 +36,6 @@ nhiệt lâm (viêm tiết niệu).
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 1.Thuốc có tác dụng kháng khuẩn: Thuốc sắc Bồ công anh ức chế các loại
 vi khuẩn như tụ cầu vàng, liên cầu khuẩn dung huyết, phế cầu, não mô
 cầu, trực khuẩn bạch hầu, trực khuẩn lî Flexener, trực khuẩn mủ xanh,
@@ -49,7 +47,6 @@ leptospira hebdomadia.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị viêm tuyến vú: sưng nóng đỏ, chưa vỡ mủ (uống trong và đắp ngoài).
 

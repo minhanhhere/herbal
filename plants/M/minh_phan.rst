@@ -64,7 +64,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Dùng uống, thuốc kích thích niêm mạc dạ dày, gây nôn phản xạ, trong
    ruột thuốc không hấp thu ức chế niêm mạc ruột tiết dịch mà có tác
    dụng cầm tiêu chảy.
@@ -84,7 +83,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị trĩ nội giai đoạn 3:
 

@@ -40,7 +40,6 @@ gan B.
 Ứng dụng lâm sàng
 =================
 
-
 1.Chữa bệnh do virút: như bệnh Quai bị, viêm não B, viêm phổi do virút,
 và những bệnh do vi khuẩn như: viêm amidale, bại liệt trẻ em. Dùng độc
 vị hoặc phối hợp với các vị thuốc thanh nhiệt lương huyết giải độc, tả

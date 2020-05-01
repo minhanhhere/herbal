@@ -23,7 +23,6 @@ Phù bình có tác dụng hạ nhiệt yếu.
 Ứng dụng lâm sàng
 =================
 
-
 1.Giải độc thúc sởi mọc: Trường hợp sởi khó mọc, mọc không đều, dùng:
 
 -  Phù bình 8g, Thán liễu 8g, sắc nước uống, ngoài dùng Phù bình 40 -

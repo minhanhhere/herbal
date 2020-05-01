@@ -73,7 +73,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Đương qui có tác dụng 2 chiều đối với tử cung. Chất tan vào nước hoặc
    cồn không phải tinh dầu có tác dụng hưng phấn tử cung cô lập; còn
    chất bốc hơi sôi ở nhiệt độ cao và dầu Đương qui có tác dụng ức chế
@@ -122,7 +121,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 Đương qui là vị thuốc dùng nhiều nhất trên lâm sàng Đông y. Trường hợp
 cần dưỡng huyết thông mạch thì dù là huyết chứng, hư chứng, biểu chứng

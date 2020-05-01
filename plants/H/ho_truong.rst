@@ -65,7 +65,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 1.Hổ trượng có tác dụng kháng khuẩn, ức chế các loại vi khuẩn sau: tụ
 cầu vàng, trắng, liên cầu khuẩn tan máu, trực khuẩn đại tràng, trực
 khuẩn lî Flexner, virút, leptospira.
@@ -79,7 +78,6 @@ viêm.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị các chứng đau do huyết ứ:
 

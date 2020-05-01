@@ -66,7 +66,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Tác dụng đối với đường ruột: khi uống sulfur vào, sulfur kết hợp với
    các chất trong ruột thành sulfide bao gồm cả hydrogen sulfide, các
    chất này kích thích lên thành ruột làm tăng nhu động và gây tiêu
@@ -78,7 +77,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị mụn nhọt, ghẻ: Lưu hoàng, Đại phong tử, Xà sàng tử lượng bằng nhau
 giã nhỏ trộn đều thêm dầu vừng bôi lên mụn nhọt, hoặc dùng vaselin Lưu

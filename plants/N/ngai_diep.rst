@@ -117,7 +117,6 @@ eucalyptol).
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị kinh nguyệt không đều: kinh kéo dài, đau bụng lúc hành kinh dùng
 bài:
 

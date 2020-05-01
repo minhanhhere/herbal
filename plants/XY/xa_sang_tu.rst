@@ -66,7 +66,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Có tác dụng như testosteron, có tác dụng làm tăng trọng lượng tử cung
    và buồng trứng.
 #. Thuốc ức chế nấm ngoài da, có tác dụng diệt trùng roi âm đạo. Xà sàng
@@ -74,7 +73,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị trùng roi âm đạo:
 

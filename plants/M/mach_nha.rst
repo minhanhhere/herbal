@@ -60,7 +60,6 @@ Trích đọan Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Mạch nha có Amylase và vitamin B nên có tác dụng trợ tiêu hóa. Do
    Amylase không chịu nóng nên cho vào sắc hoặc sao cháy thì hoạt lực
    giảm sút. Mạch nha có tác dụng hạ đường huyết.
@@ -73,7 +72,6 @@ sinh ở mầm sinh ra nên trong lúc thu hoạch hay mua cần lưu ý.
 
 Ứng dụng lâm sàng
 =================
-
 
 #. Trị viêm gan cấp - mạn tính: Dùng rễ non Mạch nha lên mầm ở nhiệt độ
    thấp sấy khô tán bột chế thành sirô, mỗi lần uống 10ml, ngày 3 lần,

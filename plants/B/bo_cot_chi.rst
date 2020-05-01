@@ -2,7 +2,6 @@
 
 
 
-
 Bồ cốt chỉ
 ==========
 
@@ -51,7 +50,6 @@ tiết tả.
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Tác dụng đối với hệ tim mạch: thuốc có tác dụng làm dãn động mạch
    vành rõ rệt, có tác dụng đối kháng với kích tố làm co động mạch vành
    của thùy sau tuyến yên, trên thực nghiệm tim cô lập chuột Hà lan và
@@ -81,7 +79,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 Theo Y học cổ truyền Bổ cốt chi là vị thuốc chính trị bệnh Tỳ thận dương
 hư. Trên lâm sàng thường dùng trị bệnh như sau:

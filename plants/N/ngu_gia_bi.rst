@@ -77,7 +77,6 @@ B.Kết quả nghiên cứu theo dược lý hiện đại (vị Thích Ngũ gia
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị chứng đau thấp, đau nhức cơ khớp mình mẩy, mỏi mệt:
 
 -  Rượu Ngũ gia bì: Ngũ gia bì sao vàng 100g, rượu trắng 30 độ 1 lít

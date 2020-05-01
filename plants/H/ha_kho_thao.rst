@@ -35,7 +35,6 @@ nghiệm trên ung thư cổ tử cung của chuột nhắt).
 Ứng dụng lâm sàng
 =================
 
-
 1.Thanh nhiệt tán kết: dùng chữa chứng tràng nhạc (loa dịch tức lao hạch
 lâm ba cổ) và anh lựu (như bướu cổ đơn thuần) thường lấy vị Hạ khô thảo
 làm chủ dược. Những bài thuốc kinh nghiệm có:

@@ -104,7 +104,6 @@ chuột thì LD50 là 30,5g/kg nói lên độc tính giảm.
 Ứng dụng lâm sàng
 =================
 
-
 1.Dùng trị các chứng xuất huyết (huyết nhiệt vong hành) như: thổ huyết,
 nục huyết, băng lậu, niệu huyết.
 

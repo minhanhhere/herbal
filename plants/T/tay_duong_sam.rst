@@ -1,6 +1,5 @@
 .. _plants_tay_duong_sam:
 
-
 Tây dương sâm (Radix Panacis Quinguefollii)
 ###########################################
 
@@ -56,7 +55,6 @@ Theo các Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Saponin Nhân sâm Rb\ :sub:`1` có tác dụng làm giảm lực cơ, làm giảm
    vận động tự phát của súc vật thực nghiệm, kéo dài thời gian gây ngủ
    của Barbituric, làm giảm nhẹ cơn co giật do kích thích điện và hóa
@@ -71,7 +69,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị lao phổi thuộc chứng phế thận âm hư: có triệu chứng ho khó thở,
 đờm có ít máu, dùng Tây dương sâm gia Mạch môn, A giao, Tri mẫu, Bối mẫu

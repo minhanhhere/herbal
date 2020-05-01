@@ -58,7 +58,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Tác dụng giảm xơ mỡ động mạch: trên thực nghiệm gây xơ mỡ mạch thỏ
    bằng chế độ ăn nhiều cholesterol được điều trị bằng Kim anh tử trong
    2 - 3 tuần. Trong tất cả các ca đều có gỉam cholesterol máu và
@@ -70,7 +69,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị hoạt tinh, di tinh, khí hư bạch đới:
 

@@ -2,7 +2,6 @@
 
 
 
-
 Bạch thược dược
 ===============
 
@@ -95,7 +94,6 @@ dịch của cơ thể.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chứng táo bón kinh niên: dùng Sinh Bạch thược 24 - 40g, Sinh Cam
 thảo 10 - 15g, sắc nước uống. Thường dùng 2 - 4 thang là khỏi. Trường

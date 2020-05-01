@@ -66,7 +66,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Lượng ít Tinh dầu Thương truật có tác dụng an thần đối với ếch thực
    nghiệm, đồng thời khiến cho phản xạ tủy sống tăng mạnh, lượng cao có
    tác dụng ức chế, làm tê liệt hô hấp và tử vong.
@@ -89,7 +88,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chứng còi xương trẻ em:
 

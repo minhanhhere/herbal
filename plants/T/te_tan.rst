@@ -29,7 +29,6 @@ chỉ khái.
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị chứng ngoại cảm phong hàn: Đau đầu, nghẹt mũi, thường phối hợp với
 Phòng phong, Kinh giới hoặc Quế chi, Sinh khương .hoặc dùng bài: MA
 HOÀNG PHỤ TỬ TẾ TÂN THANG gồm: Ma hoàng 4g, Phụ tử 8g, Tế tân 4g, sắc

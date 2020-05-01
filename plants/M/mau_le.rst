@@ -65,7 +65,6 @@ Kết quả nghiên cứu dược lý hiện đại
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị mồ hôi trộm thường gặp trong bệnh lao, suy nhược cơ thể:
 
 -  Nhất giáp tiễn: Mẫu lệ 40g sắc uống.

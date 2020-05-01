@@ -58,7 +58,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thuốc có tác dụng hạ nhiệt an thần, thuốc làm giãn phế quản nên có
    tác dụng hạ cơn suyễn.
 #. Thuốc có tác dụng hạ huyết áp chậm mà lâu dài, có thể do làm giãn
@@ -71,7 +70,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị chứng viêm khớp cấp sưng nóng đau:
 

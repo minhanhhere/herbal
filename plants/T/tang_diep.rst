@@ -27,7 +27,6 @@ Về dược lý hiện đại chưa có tài liệu nghiên cứu.
 Ứng dụng lâm sàng
 =================
 
-
 1.Chữa chứng ho sốt: do viêm đường hô hấp trên, viêm phế quản nhẹ lúc
 mới bắt đầu, dùng bài Tang cúc ẩm (ôn bệnh điều bệnh) gồm: Tang diệp
 12g, Cúc hoa 12g, Khổ hạnh nhân 12g, Liên kiều 16g, Bạc hà 4g, (cho

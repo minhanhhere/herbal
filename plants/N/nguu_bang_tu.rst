@@ -22,7 +22,6 @@ cầu khuẩn.
 Ứng dụng lâm sàng
 =================
 
-
 Trị chứng ngoại cảm phong nhiệt: sốt ho, đờm vàng (trường hợp viêm
 amidan, viêm họng, viêm đường hô hấp cấp tính) dùng bài:
 

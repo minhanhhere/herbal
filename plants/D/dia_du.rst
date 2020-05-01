@@ -68,7 +68,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 1.Tác dụng cầm máu: dùng bột Địa du hoặc bột Địa du sao cháy bơm vào bao
 tử chuột nhắt, thời gian chảy máu của chuột ở 2 lô thí nghiệm đều được
 rút ngắn là 21,9% và 45,5%, không có khác biệt rõ rệt. Bơm thuốc sinh
@@ -102,7 +101,6 @@ tăng sinh và có hiện tượng gan nhiễm mỡ.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị các chứng xuất huyết: thuốc có tác dụng lương huyết chỉ huyết.
 

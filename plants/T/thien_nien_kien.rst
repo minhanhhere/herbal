@@ -13,7 +13,6 @@ Qui kinh: vào 2 kinh Can Thận
 Ứng dụng lâm sàng
 =================
 
-
 #. Chữa đau khớp và đau dây thần kinh.
 #. Làm mạnh khoẻ gân xương, nhất là trẻ em chậm biết đi.
 #. Dùng khói Thiên niên kiện và Thương truật xông chữa chàm dị ứng, viêm

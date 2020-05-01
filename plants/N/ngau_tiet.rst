@@ -56,14 +56,12 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 Thực nghiệm chứng minh thuốc có tác dụng rút ngắn thời gian chảy máu.
 Sau khi đốt thành than, chất tannin và chất canxi trong thuốc tăng nên
 tác dụng cầm máu mạnh hơn.
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị các chứng chảy máu: thuốc có tác dụng liễm huyết, cầm máu, dùng
 các bài:

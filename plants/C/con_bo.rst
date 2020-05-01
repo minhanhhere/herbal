@@ -62,7 +62,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thuốc giàu chất iod nên phòng trị được bướu giáp do thiếu Iod.
 #. Thuốc có tác dụng hạ áp và hạ lipid huyết.
 #. Chế phẩm của Côn bố tươi có tác dụng chống ho suyễn trên nhiều súc
@@ -72,7 +71,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị cao huyết áp: dùng bột Côn bố điều trị Cao huyết áp 110 ca, tỷ lệ
 kết quả 76,4% (Nông trường nuôi trồng Hải đới huyện Bình dương tỉnh

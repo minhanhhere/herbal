@@ -64,7 +64,6 @@ giảm đau của thuốc.
 Ứng dụng lâm sàng
 =================
 
-
 1.Trị bụng đầy đau do khí trệ: Thuốc có tác dụng hành khí chỉ thống.
 
 -  Hương sa nhị trần thang: Sa nhân 6g, Mộc hương 4g, Đảng sâm 10g, Trần

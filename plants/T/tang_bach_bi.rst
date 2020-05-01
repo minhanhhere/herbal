@@ -56,7 +56,6 @@ Trích đoạn Y văn cổ:
 Kết quả nghiên cứu dược lý hiện đại
 -----------------------------------
 
-
 #. Thuốc có tác dụng giảm ho nhẹ, lợi niệu và gây tiêu chảy.
 #. Thuốc sắc và chiết xuất của thuốc trong nhiều loại dung môi khác nhau
    đều có tác dụng hạ áp.
@@ -67,7 +66,6 @@ Kết quả nghiên cứu dược lý hiện đại
 
 Ứng dụng lâm sàng
 =================
-
 
 1.Trị ung thư thực quản và bao tử: dùng Tang bạch bì tươi không bỏ vỏ
 ngoài 30g gia giấm ăn 100g, nấu 1 giờ uống hết 1 hoặc nhiều lần, nếu

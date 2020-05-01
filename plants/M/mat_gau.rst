@@ -31,7 +31,6 @@ mắt, xoa bóp chữa đau sưng do chấn thương.
 Ứng dụng lâm sàng
 =================
 
-
 1.Dùng để thanh nhiệt, an thần, chống co giật: trong các bệnh nhiễm sốt
 cao, co giật, hôn mê, dùng Mật gấu 2 - 3 phân uống. Đối với trẻ sốt cao
 co giật uống mật gấu 5 li cũng có tác dụng.
