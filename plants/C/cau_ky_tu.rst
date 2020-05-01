@@ -9,7 +9,8 @@ trong sách Danh y biệt lục với tên Câu kỷ thực, là quả chín ph�
 khô của cây Khởi tử (Lycium sinensis Mill) hoặc cây Ninh hạ kỷ tử (
 Lycium barbarum L.) thuộc họ Cà (Solanaceae).
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt tính bình, qui kinh Can, Thận, Phế.
 
@@ -25,13 +26,16 @@ Về qui kinh:
 -  Sách Bản thảo kinh giải: nhập túc thiếu âm thận kinh, thủ thiếu âm
    tâm kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Carotene, thiamene, riboflavin, vitamin C, b-sitosterol, linoleic acid.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Kỷ tử có tác dụng tư bổ can thận, sinh tinh huyết, minh mục, nhuận phế.
 
@@ -55,7 +59,9 @@ Trích đoạn Y văn cổ:
    dùng thuốc nào hơn (chuyên bổ dĩ huyết, phi tha dược sở năng cập
    dã)".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thuốc có tác dụng tăng cường miễn dịch không đặc hiệu. Trên súc vật
    thực nghiệm có tác dụng khả năng thực bào của hệ lưới nội mô, kết quả
@@ -80,7 +86,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    Kỷ tử Ninh hạ) có tác dụng ức chế ở mức độ khác nhau hai loại tế bào
    ung thư ở người.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 Là vị thuốc thường dùng Bổ can, thận, thuốc không hàn, không nhiệt, âm
 hư dương hư đều dùng được, nhưng phần lớn dùng cho chứng âm hư.
@@ -124,7 +132,8 @@ mạn tính điều trị bằng Câu kỷ tử, Tạp chí Trung y 1987,2:92).
 
 Liều lượng và chú ý lúc dùng:
 
--  Liều thường dùng: 8 - 24g, ngoài thuốc thang còn có thể dùng ngâm
+-  Liều thường dùng
+================ 8 - 24g, ngoài thuốc thang còn có thể dùng ngâm
    rượu, dùng độc vị.
 -  Chú ý: Thuốc có tính chất nê trệ nên thận trọng đối với những người
    tỳ vị hư yếu, tiêu chảy kéo dài.

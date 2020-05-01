@@ -6,10 +6,12 @@ Ngưu bàng tử (Fructus Arctii Lappae)
 Ngưu bàng tử là quả chín của cây Ngưu bàng (Arctium lappa L ) thuộc họ
 Cúc (Compositiae). Vị cay đắng tính hàn, qui kinh Phế Vị.
 
-Thành phần chủ yếu: trong quả Ngưu bàng có 23 - 30% chất béo, một glycoz
+Thành phần chủ yếu
+================== trong quả Ngưu bàng có 23 - 30% chất béo, một glycoz
 gọi là Actiin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 1.Giải cảm sốt (sơ tán phong nhiệt) thuốc có tác dụng lợi tiểu, hạ sốt
 kháng khuẩn, nước sắc thuốc có tác dụng kháng khuẩn rõ rệt đối với phế
@@ -17,7 +19,9 @@ cầu khuẩn.
 
 2.Giải độc thúc sởi mọc, lợi yết tán kết theo dược lý cổ truyền.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 Trị chứng ngoại cảm phong nhiệt: sốt ho, đờm vàng (trường hợp viêm
 amidan, viêm họng, viêm đường hô hấp cấp tính) dùng bài:
@@ -44,7 +48,8 @@ Chữa phù: (do dị ứng hoặc viêm cầu thận cấp):
    nhỏ trộn đều, mỗi lần 5g, ngày 3 lần với nước nóng. (theo tác giả bài
    này chữa cả viêm họng sưng đau).
 
-Liều thường dùng: 4 - 12g.
+Liều thường dùng
+================ 4 - 12g.
 
 Chú ý lúc dùng thuốc: Ngưu bàng tử còn có tên Đại đao tử, Á thực, Hắc
 phong tử, thử niêm tử. Tây y dùng rễ Ngưu bàng làm thuốc thông tiểu, ra

@@ -8,19 +8,23 @@ Thuyền thoái là xác lột (Periostracum Cicadae) của con ve sầu
 ngọt, tính hàn qui kinh Phế, Can. Còn có tên khác là Thiền thuế, Thuyền
 thoái, Thiền y.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Hoạt chất chưa rõ, chỉ biết trong xác ve ở Thượng hải thấy có 7,86%
 nitơ, 14,57% tro.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 1.Tán phong nhiệt, thấu chẩn, giải kinh (chống co giật), thối ế (làm
 tan màng thịt ở mắt) theo dược lý Đông y.
 
 2.Có tác dụng chống co giật trên động vật thực nghiệm.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 Thường dùng nhiều trong Nhi khoa, Nội khoa, Nhãn khoa cũng có dùng:
 
@@ -62,7 +66,8 @@ Thường dùng nhiều trong Nhi khoa, Nội khoa, Nhãn khoa cũng có dùng:
 #. Chữa viêm cầu thận mạn: Thuyền thoái 20g, Bố tra diệp 40g, Ích mẫu
    thảo 40g, Tô diệp 20g, Tiêm bình lang 20g, sắc nước uống.
 
-Liều thường dùng: 2 - 20g.
+Liều thường dùng
+================ 2 - 20g.
 
 Chú ý lúc dùng thuốc: thuốc nhẹ thường dùng lượng ít nhưng đối với
 trường hợp trị viêm cầu thận mạn, uốn ván cần dùng liều cao mới có hiệu

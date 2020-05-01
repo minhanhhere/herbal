@@ -8,15 +8,19 @@ Còn gọi là Đạm trúc diệp, là thân lá phơi khô của cây Đạm t
 
 Vị cay, nhạt, ngọt, tính hàn qui kinh Tâm Phế.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Có chất Tanin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 Giải nhiệt lợi tiểu. Đã được chứng minh trên thực nghiệm nhưng yếu.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 Trên lâm sàng vị Trúc diệp được sử dụng theo Y học cổ truyền chữa các
 chứng sau:
@@ -35,7 +39,8 @@ mỗi tuần uống 1 - 2 lần (kinh nghiệm của Trung quốc).
 
 Liều thường dùng và chú ý:
 
--  Liều thường dùng: 8 - 24g.
+-  Liều thường dùng
+================ 8 - 24g.
 -  Không dùng đối với bệnh có chứng hư hàn.
 
 ..  image:: TRUCDIEP.JPG

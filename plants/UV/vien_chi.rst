@@ -18,7 +18,8 @@ phần rễ nhỏ rạch bỏ tim gọi là Viễn chí nhục. Viễn chí sả
 tỉnh Sơn tây, Thiễm tây là nơi gốc thì gọi là Quan Viễn chí (theo thói
 quen).
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Viễn chí vị cay đắng, tính hơi ôn, qui kinh Phế Tâm.
 
@@ -29,7 +30,8 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo kinh sơ: đắng hơi cay, ôn.
 -  Sách Trấn nam bản thảo: nhập 3 kinh Tâm Can Tỳ.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 #. Theo sách Chinese Herbal medicine thành phần chủ yếu có: tenuigenin
    A, tenuigenin B, polygalitol, tenuidine.
@@ -39,9 +41,11 @@ Thành phần chủ yếu:
 #. Theo sách Dược liệu Việt nam (Bộ Y tế) thành phần hóa học có
    saponozit là senegin và tinh dầu.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Viễn chí có tác dụng: ninh tâm an thần, khử đàm khai khiếu, tiêu ung
 thũng. Chủ trị chứng hồi hộp mất ngủ, tâm thận bất giao, đàm trở tâm
@@ -58,7 +62,9 @@ Trích đoạn Y văn cổ:
 -  Sách Bản thảo tùng tân: " trị các chứng ung thư (nhọt lóet), đắp
    uống đều có kết quả, có tác dụng hóa đàm".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thuốc có tác dụng hóa đàm rõ, thành phần hóa đàm chủ yếu là ở vỏ rễ.
    Cơ chế hóa đàm của thuốc có thể do thuốc kích thích lên niêm mạc bao
@@ -73,7 +79,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 #. Trên súc vật thực nghiệm, thuốc cho uống hoặc chích tĩnh mạch đều có
    tác dụng kích thích tử cung có thai hay không đều như nhau.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị viêm tuyến vú cấp và u xơ tuyến vú: Tác giả Hoàng Sĩ Tiêu dùng
 Viễn chí 12g gia rượu 60 độ 15ml ngâm 1 tí, cho nước 1 chén đun sôi 15 -

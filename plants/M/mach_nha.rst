@@ -11,7 +11,8 @@ lúa) thay thế hoặc nhập Mạch nha Trung quốc.
 Tùy theo cách bào chế mà có các tên như: Sinh mạch nha, Sao mạch nha,
 Tiêu mạch nha (Mạch nha sao cháy).
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Mạch nha vị ngọt tính bình, qui kinh Tỳ vị can.
 
@@ -25,14 +26,17 @@ Theo các sách cổ:
    kinh.
 -  Sách Bản thảo cầu chân: chuyên nhập vị.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Amylase, invertase, dextrin, phospholipid, maltose, glucose,
 saccharrose, chất béo, lecithin, vitamin B,C.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Mạch nha có tác dụng: tiêu thực hòa trung, cắt giảm sữa (hồi nhũ). Chủ
 trị các chứng: thực tích đình trệ, rối loạn tiêu hóa, phụ nữ cắt sữa, vú
@@ -53,7 +57,9 @@ Trích đọan Y văn cổ:
    hao người mà hại nguyên khí, không thể không biết. Nếu cần uống lâu
    dài nên cùng dùng với Bạch truật thì không có hại".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Mạch nha có Amylase và vitamin B nên có tác dụng trợ tiêu hóa. Do
    Amylase không chịu nóng nên cho vào sắc hoặc sao cháy thì hoạt lực
@@ -65,7 +71,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 Còn một số bị nhiễm độc là do mầm nha bị biến chất, một số nấm độc ký
 sinh ở mầm sinh ra nên trong lúc thu hoạch hay mua cần lưu ý.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 #. Trị viêm gan cấp - mạn tính: Dùng rễ non Mạch nha lên mầm ở nhiệt độ
    thấp sấy khô tán bột chế thành sirô, mỗi lần uống 10ml, ngày 3 lần,
@@ -109,7 +117,8 @@ sinh ở mầm sinh ra nên trong lúc thu hoạch hay mua cần lưu ý.
 
 Liều thường dùng và chú ý:
 
--  Liều thường dùng: 10 - 15g, sắc uống, liều cao có thể dùng đến 30 -
+-  Liều thường dùng
+================ 10 - 15g, sắc uống, liều cao có thể dùng đến 30 -
    120g. Cắt giảm sữa cần dùng liều cao.
 -  Chú ý: Kiện tỳ dưỡng vị: dùng sống, hành khí tiêu ích sao lên dùng.
 -  Phụ nữ cho con bú không nên dùng.

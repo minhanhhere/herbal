@@ -22,13 +22,15 @@ nước ủ như trên. Làm như vậy đủ 5 lần, sau đem chưng, rồi ph
 ở nhiệt độ 50 - 60 độ C. Đóng lọ kín. Bảo quản nơi khô ráo. Chú ý phơi
 sấy để tránh mối mọt.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Trong đạm đậu xị có các thành phần của đậu đen như lipit, protit, gluxit
 và các chất màu loại antoxianozit, ngoài ra còn có thêm một số men nhưng
 chưa có tài liệu nghiên cứu sâu.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 Theo dược lý cổ truyền, đậu xị có tác dụng:
 
@@ -39,7 +41,9 @@ lương giải biểu khác. Thuốc có tác dụng làm ra mồ hôi nhẹ.
 
 3.Trừ phiền giải bứt rứt trong người.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Chữa viêm đường hô hấp trên: sốt ho, họng đau, sốt không ra mồ hôi,
 bụng đầy, dùng bài:
@@ -66,7 +70,8 @@ lấy ra tán nhỏ trộn với dầu vừng hoặc mỡ lợn bôi lên nơi l
 chữa mụn nhọt đinh độc, nấu đậu xị cho nhừ nát đắp vào nơi sưng đau
 chừng 3 - 4 lần sẽ đỡ (kinh nghiệm nhân dân do GS Đỗ tất Lợi sưu tầm).
 
-Liều thường dùng: 8 - 16g.
+Liều thường dùng
+================ 8 - 16g.
 
 Chú ý lúc dùng thuốc: Đậu xị do các cách chế khác nhau mà tính vị khác
 nhau, nếu theo cách chế trên, thuốc có tính hàn, ứng dụng lâm sàng như

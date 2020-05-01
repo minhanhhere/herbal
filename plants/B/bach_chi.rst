@@ -74,7 +74,8 @@ viên lại bằng hạt ngô, mỗi ngày ngậm 2 - 3 viên.
 Cách dùng
 =========
 
-Liều thường dùng: 4 -12g.
+Liều thường dùng
+================ 4 -12g.
 
 .. caution::   Không dùng đối với chứng đau đầu do huyết hư, ung nhọt
                đã vỡ mủ.

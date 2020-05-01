@@ -17,7 +17,8 @@ gọi là Cửu khổng). Bào ngư sống hải đảo hay ven biển có rạn
 được khai thác nhiều ở miền Bắc nước ta như vùng các đảo Bạch long vỹ,
 Cô tô, Cát bà và chân núi Đèo ngang (Quảng bình).
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị mặn tính hàn, qui kinh Can.
 
@@ -29,14 +30,17 @@ Theo các sách cổ:
 -  Sách Lôi công bào chế dược tính giải: nhập Can kinh.
 -  Sách Bản thảo thông huyền: nhập túc quyết âm, thiếu âm kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Calcium carbonat (trên 90%), nhiều loại Amino acid, ít Magnesium, sắt,
 silicat, phosphat, chlorid.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thuốc có tác dụng: bình can tiềm dương, thanh can minh mục.
 
@@ -57,14 +61,18 @@ Trích đoạn Y văn cổ:
    chướng. Vì thuốc có tác dụng lương can, trấn can nên trị được đau do
    hãm sung huyết, chứng huyễn vựng do can khí can hỏa thượng xung".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thuốc có tác dụng an thần, dùng trị chứng mất ngủ có tác dụng nhất
    định.
 #. Thạch quyết minh nung có tác dụng thu liễm, giảm chua, giảm đau, cầm
    máu.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng can dương thịnh, hoa mắt chóng mặt:
 
@@ -87,7 +95,8 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 
 Liều dùng và chú ý:
 
--  Liều thường dùng: 15 - 30g. Cho vào thang thuốc nên đập vụn và sắc
+-  Liều thường dùng
+================ 15 - 30g. Cho vào thang thuốc nên đập vụn và sắc
    trước 30 phút. Dùng sống, thuốc có tác dụng bình can tiềm dương,
    thanh nhiệt minh mục. Thạch quyết minh nung tác dụng thu liễm tốt
    dùng trị đau bao tử có tác dụng giảm toan, giảm đau, cầm máu.

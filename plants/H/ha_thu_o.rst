@@ -9,7 +9,8 @@ thuộc họ Rau răm (Polygonaceae). Chế Hà thủ ô là Hà thủ ô là H�
 chế với Đậu đen (9 lần đồ, 9 lần phơi) cho Hà thủ ô thành màu đen có
 tác dụng bổ huyết tốt.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 #. Về tính vị:
 
@@ -29,13 +30,16 @@ Theo các sách thuốc cổ:
    dương tam tiêu kinh, thủ thiếu âm tâm kinh, túc thiếu âm thận kinh.
 -  Sách Bản thảo tái tân: nhập 3 kinh Tỳ Phế Thận.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Chrysophanic acid, emodin, rhein, chrysophanic acid, anthrone, lecithin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Bổ ích tinh huyết (Chế thủ ô), dùng sống có tác dụng giải độc, triệt
 ngược, nhuận tràng, thông tiện, tư âm cường tráng. Chủ trị tinh huyết
@@ -70,7 +74,9 @@ Trích đoạn Y văn cổ:
    Nếu đã khỏi nên thêm Sâm, Truật, Kỳ, Qui cho thêm 1, 2 thang".
 -  Sách Bản thảo tái tân: " bổ phế hư chỉ thổ huyết".
 
-B.Kết quả nghiên cứu Dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Hà thủ ô có tác dụng hạ Cholesterol huyết thanh, được chứng minh rõ
    trên mô hình gây cholesterol cao ở thỏ nhà, thuốc còn có tác dụng làm
@@ -95,7 +101,9 @@ B.Kết quả nghiên cứu Dược lý hiện đại:
    virus cúm (Học báo Vi sinh vật 8,164, 1960).
 #. Glucozit Hà thủ ô trắng có tác dụng ức chế tế bào ung thư.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng huyết hư, cơ thể suy nhược: có triệu chứng lưng gối mỏi
 nhức, váng đầu, hoa mắt, tóc bạc sớm, di tinh, huyết trắng nhiều, dùng
@@ -229,7 +237,8 @@ Là một vị thuốc khác, là rễ cây Hà thủ ô trắng, còn gọi là
 Juventas (Lour) Merr, Apocynum Juventas Lour, Tylophora Juventas Woodf,
 thuộc họ Hoa Thiên lý (Asclepiadaceae).
 
-Tác dụng dược lý: chưa được nghiên cứu, thuốc có nhiều tinh bột và một
+Tác dụng dược lý
+================ chưa được nghiên cứu, thuốc có nhiều tinh bột và một
 chất phản ứng alcaloit có tinh thể chưa xác định.
 
 Các Thầy thuốc Việt nam coi Hà thủ ô trắng có cùng công dụng như Hà thủ

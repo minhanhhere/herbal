@@ -8,7 +8,8 @@ sách Bản kinh là rễ phơi khô hay sấy khô của cây Đương qui (Ang
 Sinensis (Oliv) Diels; Angelica Polymorpha Maxim var sinensis Oliv.)
 thuộc họ Hoa tán Apiaceae (Umbelliferae).
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt cay ôn, qui kinh Can Tâm Tỳ.
 
@@ -20,15 +21,18 @@ Theo Y văn cổ:
 -  Sách Thang dịch Bản thảo: nhập thủ thiếu âm, quyết âm kinh.
 -  Sách Lôi công bào chế dược tính giải: nhập Tâm can phế.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Butylidene phthalide, n-valerophenone-o-carboxylic acid,
 dihydrophthalic, sucrose, vitamine B\ :sub:`12`, carotene,
 beta-sitosterol.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Đương qui có tác dụng bổ huyết, hoạt huyết, chỉ huyết. Chủ trị chứng tâm
 can huyết hư, kinh nguyệt không đều, đau kinh, tắt kinh, các bệnh thai
@@ -66,7 +70,9 @@ Trích đoạn Y văn cổ:
    sinh lî thì nên dùng. Tiểu nhi đậu chẩn kinh giản thuộc chứng dinh hư
    không thể thiếu được Đương qui".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Đương qui có tác dụng 2 chiều đối với tử cung. Chất tan vào nước hoặc
    cồn không phải tinh dầu có tác dụng hưng phấn tử cung cô lập; còn
@@ -114,7 +120,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    tăng cao.
 #. Đương qui có tác dụng nhuận tràng thông tiện.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 Đương qui là vị thuốc dùng nhiều nhất trên lâm sàng Đông y. Trường hợp
 cần dưỡng huyết thông mạch thì dù là huyết chứng, hư chứng, biểu chứng
@@ -393,9 +401,11 @@ trị khỏi 2 ca viêm xơ tổ chức xốp Ngọc hành, Báo Y học Bắc k
    ong viên thành viên nặng 4g. Ngày uống 2 lần, mỗi lần 1 viên, uống
    liền 15 ngày.
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
--  Liều thường dùng: 5 - 15g. Dùng ngoài tùy theo bệnh lý.
+-  Liều thường dùng
+================ 5 - 15g. Dùng ngoài tùy theo bệnh lý.
 -  Trường hợp bổ huyết, cải thiện tuần hoàn, táo bón dùng liều cao, có
    thể dùng đến 40 - 80g.
 -  Theo Y học cổ truyền bổ huyết dùng Đương qui thân, Hoạt huyết hóa ứ

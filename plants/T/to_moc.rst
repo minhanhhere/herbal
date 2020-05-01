@@ -10,7 +10,8 @@ thuốc được ghi đầu tiên trong sách Tân tu bản thảo.
 Cây Tô mộc mọc hoang và được trồng nhiều nơi ở nước ta làm thuốc nhuộm
 gỗ và làm thuốc uống.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt, mặn, hơi cay, tính bình. Qui kinh Tâm, Can, Tỳ.
 
@@ -21,14 +22,17 @@ Vị ngọt, mặn, hơi cay, tính bình. Qui kinh Tâm, Can, Tỳ.
    minh kinh".
 -  Sách Dược phẩm hóa nghĩa: " nhập Can, Vị, Đại tràng".
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Trong Tô mộc có Brasilin, brasilein, sappanin, D-alpha-phellandrene,
 ocimene, tanin, acid galic, tinh dầu.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Tô mộc có tác dụng: " Hoạt huyết thông kinh, khu ứ chỉ thống. Chủ trị
 chứng kinh bế, đau bụng sau sinh, đau do ngã chấn thương".
@@ -54,7 +58,9 @@ Trích đoạn Y văn cổ:
    tác dụng hòa huyết, dùng nhiều thì phá huyết nhưng Hồng hoa tính hơi
    ôn hòa, còn Tô mộc tính hơi hàn lương".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 1.Tô mộc có tác dụng làm co mạch nhẹ đối với tim ếch cô lập gây co bóp
 mạnh hơn, có thể làm cho lực co bóp của tim giảm do nước sắc Chỉ xác
@@ -76,7 +82,9 @@ Bạch hầu, Cúm, Phó thương hàn C, Trực khuẩn Flexner, Tụ cầu và
 cầu khuẩn tan huyết, Phế cầu khuẩn, Ho gà, Thương hàn, Phó thương hàn A,
 B,.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng phụ nữ huyết trệ, kinh bế, bụng đau: dùng bài:
 

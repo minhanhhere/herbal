@@ -20,7 +20,8 @@ xuân, rửa sạch bỏ rễ con phơi hay sấy khô làm thuốc hoặc luy�
 Tiền hồ hoa trắng, người Trung quốc quen gọi là Nham phong. Tiền hồ mọc
 ở Tứ xuyên gọi là Tín Tiền hồ.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Tiền hồ vị đắng cay tính hơi hàn, qui kinh phế.
 
@@ -33,7 +34,8 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo kinh sơ: nhập thủ thái âm, thiếu dương.
 -  Sách Lôi công bào chế dược tính giải: nhập Phế Can Tỳ Bàng quang.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Trong sách Trung dược học thành phần chủ yếu của:
 
@@ -49,9 +51,11 @@ Radix peucedani Decursivi: decusin, nodakenin, spongesterol, tinh dầu
 Theo sách của Đỗ tất Lợi trong Tiền hồ có: chất glucosid là nodakenin,
 tinh dầu, tanin, spongosterola.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Tiền hồ có tác dụng: giáng khí trừ đàm, tuyên tán phong nhiệt. Chủ trị
 các chứng đàm trọc ủng tắc ở phế gây nên chứng ho suyễn, ngoại cảm phong
@@ -68,7 +72,9 @@ Trích đoạn Y văn cổ:
 -  Sách Bản kinh phùng nguyên: " thuốc sở trường hạ khí nên trị được đàm
    nhiệt ho suyễn, khí hạ thì đàm hỏa đều giáng".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thuốc có tác dụng hóa đàm tốt nhưng chưa thấy tác dụng giảm ho.
 #. Bạch hoa tiền hồ tố C có tác dụng tăng lưu lượng máu của động mạch
@@ -77,7 +83,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 #. Thuốc có tác dụng kháng virus cúm và hoạt tính của nấm. Có tác dụng
    an thần.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị viêm phế quản thể nhiệt: ho đàm nhiều màu vàng, tức ngực khó thở.
 
@@ -93,7 +101,8 @@ nhiệt:
 -  Tiền hồ, Kinh giới, Bạch chỉ đều 10g sắc uống trị cảm mạo đau đầu.
    Ngoài ra có người dùng Tiền hồ tươi giã đắp, trị nhọt đang sưng.
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
 -  Liều: 6 - 10g, chích mật Tiền hồ giảm bớt tính hàn mà tác dụng nhuận
    phế tốt.

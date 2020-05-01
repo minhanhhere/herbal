@@ -13,7 +13,8 @@ S.sphenưnthera Rehd. Et Will.
 Bắc Ngũ vị tử là loại chính phẩm thuộc họ Ngũ vị (Schizandraceae). Ngũ
 vị tử hiện còn phải nhập của Trung quốc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ôn chua, qui kinh Phế, Thận, Tâm.
 
@@ -33,9 +34,11 @@ schizandrin (Ngũ vị tử tố), pseudo-gamma-schizandrin, desoxyschysandrin,
 schizandrol, citral, stigmasterol, tinh dầu, acid hữu cơ, vitamin C,
 vitamin E.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Ngũ vị tử có tác dụng: liễm phế tư thận, sinh tân liễm hãn, sáp tinh chỉ
 tả, định tâm an thần. Chủ trị các chứng hư suyễn cửu khái, tân dịch tổn
@@ -55,7 +58,9 @@ Trích đoạn Y văn cổ:
    bổ hư minh mục, cường âm sáp tinh, thối nhiệt liễm hãn, cầm nôn tiêu
    chảy, cầm ho định suyễn, trừ phiền khát".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Đối với trung khu thần kinh: Thuóc có tác dụng làm cân bằng 2 quá
    trình hưng phấn và ức chế của vỏ não, đối với các cấp thần kinh trung
@@ -93,7 +98,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    người bình thường tình nguyện và ở những người đau mắt. Thuốc có tác
    dụng tăng xúc giác.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị kiết lî: dùng thuốc sống 0,25 - 2g, 90% oticture Ngũ vị tử 3 - 4
 giọt, hoặc cao lỏng thuốc 0,5g. Trị kiết lî trẻ em có kết quả tốt (Báo

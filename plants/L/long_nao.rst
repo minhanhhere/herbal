@@ -19,7 +19,8 @@ nữa sẽ được bột Long não tinh chế, cho vào khuôn để có nhữn
 não. Long não dễ bay hơi nên phải bảo quản trong lọ kín. Những cây Long
 não sống trên 50 năm cho nhiều Long não, cây non thì lượng ít.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Long não vị cay, tính nóng, có độc, qui kinh Tâm Tỳ.
 
@@ -29,7 +30,8 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo tái tân: nhập 2 kinh Tâm tỳ.
 -  Sách Bản thảo tối yếu: nhập túc quyết âm kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Tinh dầu và Long não tinh thể d-camphora.
 
@@ -37,9 +39,11 @@ Tinh dầu Long não cất phân đoạn sẽ được tinh dầu Long não tr�
 chế cineola), tinh dầu long não đỏ (chứa safrola, carvacrola), tinh dầu
 Long não xanh (chứa cadinen, camphoren, azulen).
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Long não có tác dụng: trừ thấp sát trùng, ôn tán hàn chỉ thống, khai
 khiếu trừ uế. Chủ trị các chứng: ghẻ lở, cưóc khí sưng đau, đau răng, té
@@ -55,7 +59,9 @@ Trích đoạn Y văn cổ:
    phong tao (ngứa), khu xĩ (sâu răng). trừ thấp sát trùng, do đó dùng
    thuốc đốt khói xông áo quần, thúng mủng có thể trừ sâu mọt".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Long não có tác dụng hưng phấn trung khu thần kinh, tăng cường hô hấp
    và tuần hoàn, nhất là trung khu thần kinh đang ở trạng thái ức chế
@@ -80,7 +86,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    gây chết. Cấp cứu chủ yếu là điều trị triệu chứng, vì thuốc được cơ
    thể giải độc nhanh và thường được cứu sống.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Phòng trị chứng lóet do đồ lót (tả lót) nằm lâu:
 

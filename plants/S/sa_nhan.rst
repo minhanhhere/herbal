@@ -11,7 +11,8 @@ Trung quốc. Súc sa mọc nhiều ở Việt nam, Indonesia, Cambuchia và nhi
 nước Đông nam á. Sa nhân thuộc họ Gừng (Zingiberaceae), vì hạt giống
 hạt sỏi nên có tên là Sa nhân.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị cay tính ôn. Qui kinh Tỳ vị.
 
@@ -21,12 +22,14 @@ Theo các sách cổ:
 -  Sách Thang dịch bản thảo: nhập thủ túc thái âm, dương minh, thái
    dương túc thiếu âm kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Có Saponin và tinh dầu 2 - 3% gồm: Camphor, Borneol Bomyl Acetate,
 Linalool, Nerolidol, Limonene.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 1.Theo Y học cổ truyền:
 
@@ -58,7 +61,9 @@ sa và Hoa sơn khương đều có tác dụng làm giảm tính hưng phấn c
 ruột, cũng giải thích được tác dụng hành khí tiêu đầy, chống co thắt làm
 giảm đau của thuốc.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị bụng đầy đau do khí trệ: Thuốc có tác dụng hành khí chỉ thống.
 

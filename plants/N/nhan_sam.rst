@@ -13,7 +13,8 @@ sấy khô của cây Nhân sâm (Panax ginseng C.A.Mey). Có hai loại Nhân s
 
 Nhân sâm dùng làm thuốc được ghi đầu tiên trong sách Bản kinh.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt hơi đắng, hơi ôn, qui kinh Tỳ Phế.
 
@@ -30,16 +31,19 @@ Về qui kinh:
 -  Sách Bản thảo hội ngôn: nhập phế tỳ.
 -  Sách Dược phẩm hóa nghĩa: nhập tỳ vị phế kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Panaxatriol, panaxadiol, other panoxisdes, panaquilon, panaxin,
 gensenin, a-panaxin, proto-panaxadiol, protopanaxtriol, panacene,
 panaxynol, panaenic acid, panose, glucose, fructose, maltose, sucrose,
 nicotinic acid, riboflavin, thiamine.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Nhân sâm có tác dụng: đại bổ nguyên khí, bổ tỳ ích phế, chỉ khát, an
 thần, tăng trí. Chủ trị các chứng khí hư dục thóat, mạch vi dục tuyệt,
@@ -69,7 +73,9 @@ Theo các sách thuốc cổ:
    khương; bài độc gia Cầm liên, Chi tử; hạ thực gia Đại hoàng, Chỉ
    thực".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Nhân sâm có tác dụng gia tăng quá trình ức chế và gia tăng vỏ não,
    làm hồi phục bình thường khi hai quá trình trên bị rối loạn, saponin
@@ -183,7 +189,9 @@ thuốc và vị thuốc Việt nam:
    Tập san Dược học học báo 12,477-484,1965.cho biết Nhân sâm có tác
    dụng phòng chữa bệnh lóet dạ dày và viêm cơ tim trên thực nghiệm.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Dùng Nhân sâm điều trị cấp cứu trong trường hợp bệnh nguy kịch (Đông
 y cho là chứng Vong âm vong dương): khí thóat, chân tay lạnh, tự ra mồ

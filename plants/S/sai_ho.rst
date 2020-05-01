@@ -9,13 +9,15 @@ scorzoneraefolium Willd) dùng rễ hoặc toàn cây làm thuốc như nhau.
 
 Vị đắng tính hơi hàn, qui kinh Can Đởm.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Trong Sài hồ có chừng 0,50% chất saponin, một chất rượu gọi là
 Bupleurumola, phytosterola và một ít tinh dầu. Trong thân và lá có chất
 rutin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 A.Theo dược lý cổ truyền thuốc có tác dụng: hóa giải thoái nhiệt, sơ can
 chỉ thống, thăng dưỡng khí triệt ngược tà (trị sốt rét).
@@ -45,7 +47,9 @@ B.Theo kết quả nghiên cứu dược lý hiện đại:
    có tác dụng kháng virut viêm gan, virut viêm tủy týp I, vi trùng sốt
    rét.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị ngoại cảm: Thường dùng trong những trường hợp bệnh ngoại cảm có
 triệu chứng sốt lúc cao lúc thấp không đều hoặc lúc sốt lúc rét (hàn

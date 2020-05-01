@@ -12,7 +12,8 @@ Tên thực vật là Cucurbita moschata Duch, thuộc họ Bí (Cucurbitaceae).
 Cây Bí ngô được trồng khắp nơi ở nước ta để làm thức ăn. Lấy hạt quả Bí
 ngô chín phơi khô bóc lấy nhân làm thuốc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Hạt Bí ngô vị ngọt tính bình, qui kinh Vị Đại tràng.
 
@@ -23,13 +24,16 @@ Theo các sách thuốc cổ:
 -  Sách Hiện đại thực dụng trung dược: vị ngọt tính ôn, qui kinh Vị Đại
    tràng.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Cucurbitine, Caroten, Vitamin A, B1, B2, C, dầu béo, protid.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Bí ngô có tác dụng: sát trùng, trị sán, lãi đũa.
 
@@ -41,7 +45,9 @@ Trích đoạn Y văn :
 -  Sách Trung quốc dược thực đồ giám: " sao rồi sắc uống, trị chân tay
    phù sau sanh, bệnh tiểu đường".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Nước sắc và bột nhân hạt bí ngô in vivo và in vitro đều có tác dụng
    làm tê liệt sán dây bò và heo, nhưng chủ yếu đoạn giữa và đoạn cuối;
@@ -51,7 +57,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 #. Nước sắc Bí ngô cho chuột uống với liều 4g/kg có tác dụng xấu đối với
    chức năng gan.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị bệnh sán dây bò (taenia saginata): Bí ngô bỏ vỏ tán bột, người lớn
 60 - 80g, trẻ em dưới 15 tuổi 30 - 50g, uống đói lúc sáng sớm, 2 giờ sau
@@ -70,7 +78,8 @@ Thịt quả Bí ngô trị nhức đầu ngày 100 - 200g, nấu canh ăn. Cu�
 nhỏ mỗi lần uống 1 - 2g gây nôn, trị cổ họng nhiều đờm, giải độc thịt
 cá.
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
 -  Liều 60 - 120g, cả vỏ hoặc bỏ vỏ giã nát hòa uống với nước sôi nguội.
 -  Chú ý: Hạt Bí ngô luộc chín không có tác dụng.

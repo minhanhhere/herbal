@@ -48,7 +48,8 @@ Lấy Pháp Bán hạ tẩm Trúc lịch âm can gọi là Trúc lịch Bán h�
 Lấy Bán hạ sống đã ngâm và phơi khô tán thành bột mịn trộn với nước gừng
 và bột mì cho đều để lên men chế thành Bán hạ khúc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Bán hạ vị cay ấm có độc, qui kinh Tỳ Vị Phế.
 
@@ -62,7 +63,8 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo kinh sơ: nhập túc thái âm, dương minh, thiếu dương, thủ
    thiếu âm kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Coniine, protoanemonin, homogentisic acid, nicotine, aspartic acid,
 glutamic acid, arginine, beta-sitosterol, cholesterol.
@@ -73,9 +75,11 @@ hạ Trung quốc, theo Lý Thừa Cố(1960, Trung quốc dược dụng thực
 giám) có ít tinh dầu 0,003 - 0,013%, một chất alkaloid, ancol, chất cay,
 phytosterol, dầu béo, tinh bột, chất nhày.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Bán hạ có tác dụng: táo thấp hóa đàm, giáng nghịch cầm nôn (chỉ ẩu),
 tiêu bỉ tán kết.
@@ -106,7 +110,9 @@ Trích đoạn Y văn cổ:
    (nước gừng) trị hàn đàm, chỉ có táo đàm nên dùng Qua lâu, Bối mẫu chứ
    không dùng Bán hạ để trị".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thành phần độc của Bán hạ khó hòa tan trong nước, còn thành phần có
    tác dụng cầm nôn và giảm ho có thể hòa tan vào nước nóng. Thành phần
@@ -137,7 +143,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    giọng, há mồm khó, trường hợp nặng sẽ ngạt thở, khó thở dẫn tới tử
    vong.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị ung thư cổ tử cung: dùng loại Chưởng diệp Bán hạ (Rhizoma
 pinelliae pedatisectae) chế thành lát mỏng (ngày 3 lần tổng liều 60g Bán
@@ -191,7 +199,8 @@ cũng mất nhiều nên chủ trương sắc Bán hạ lâu, khoảng 30 phút 
 Gừng tươi, nên dùng thuốc cần chú ý phối ngũ (Vương kiến Dũng, Tạp chí
 Trung y Triết giang 1985,5:196).
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
 -  Liều: 5 - 10g sắc uống hoặc cho vào thuốc hoàn, tán. Dùng ngoài lượng
    vừa đủ, nhưng cũng có học giả lúc cần dùng đến 60g. Thầy thuốc ôn

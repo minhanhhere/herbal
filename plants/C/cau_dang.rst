@@ -15,7 +15,8 @@ U.sinensis (Oliv) Havil, U.sessifructus Roxb thuộc họ Cà phê
 Ở nước ta, cây Câu đằng mọc hoang nhiều ở vùng thượng du Cao bằng, Hoàng
 liên sơn, chưa được trồng.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt hơi hàn, qui kinh Can, Tâm bào.
 
@@ -27,12 +28,14 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo cương mục: nhập thủ túc quyết âm kinh.
 -  Sách Bản thảo kinh sơ: nhập thủ thiếu âm, túc quyết âm kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Rhynchophylline, Isỏhynchophylline, corynoxeine, Isocorynoxeine,
 corynantheine, nicotinic acid, hirsutine, hirsuteine.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 #. Tác dụng hạ áp: các loại chế phẩm và chiết xuất của Câu đằng đều có
    tác dụng hạ áp hòa hoãn và kéo dài. Thành phần chủ yếu có tác dụng hạ
@@ -48,7 +51,9 @@ Tác dụng dược lý:
 #. Câu đằng còn có tác dụng ức chế cơ trơn của ruột, làm dịu cơn co thắt
    cơ trơn của phế quản.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị huyết áp cao do can dương thịnh:
 
@@ -89,7 +94,8 @@ Tác dụng dược lý:
 
 Liều dùng và chú ý:
 
--  Liều thường dùng: 5 - 15g. Trong thang thuốc sắc nên cho sau vì theo
+-  Liều thường dùng
+================ 5 - 15g. Trong thang thuốc sắc nên cho sau vì theo
    kinh nghiệm của cổ nhân thì thuốc sắc lâu ít hiệu lực và thực nghiệm
    cũng đã chứng minh, Câu đằng sắc trên 20 phút thì thành phần hạ áp
    của thuốc bị phá hủy.

@@ -9,7 +9,8 @@ sâm, Quảng đông Nhân sâm, đầu tiên được ghi trong sách Bản th�
 là rễ của cây Tây dương sâm (Panax quinque folium L.) . Cây Tây dương
 sâm mọc nhiều ở Mỹ, Canada và Pháp, Trung quốc có di thực làm thuốc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị đắng, hơi ngọt, hàn, qui kinh: Tâm, Phế, Thận.
 
@@ -20,13 +21,16 @@ Theo Y văn cổ:
    Phế, Thận.
 -  Sách Bản thảo tiện độc: vị đắng mà ngọt, tính hàn.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Panaquilon. Saponins.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Tây dương sâm có tác dụng bổ khí dưỡng âm, thanh nhiệt, sinh tân. Chủ
 trị chứng phế thận, âm hư, chứng khí hư, tân dịch hao tổn.
@@ -49,7 +53,9 @@ Theo các Y văn cổ:
    thay bằng Tây dương sâm vì nó không có tác dụng thăng phát như Đảng
    sâm để trợ Thạch cao trục tà khí ra ngoài".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Saponin Nhân sâm Rb\ :sub:`1` có tác dụng làm giảm lực cơ, làm giảm
    vận động tự phát của súc vật thực nghiệm, kéo dài thời gian gây ngủ
@@ -63,7 +69,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    chuyển hóa mỡ và protid nhưng yếu hơn Nhân sâm. Thuốc Tây dương sâm
    còn có tác dụng chống rối loạn nhịp tim.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị lao phổi thuộc chứng phế thận âm hư: có triệu chứng ho khó thở,
 đờm có ít máu, dùng Tây dương sâm gia Mạch môn, A giao, Tri mẫu, Bối mẫu

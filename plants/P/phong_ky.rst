@@ -18,7 +18,8 @@ cũng gọi là Mộc phòng kỷ có nhiều ở 2 tỉnh Quảng đông, Quả
 có thể lưu ý khai thác tại các vùng biên giới giữa ta và Trung quốc. Tài
 liệu này chỉ giới thiệu về Hán phòng kỷ.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị đắng cay, hàn; qui kinh Bàng quang, Thận, Tỳ.
 
@@ -28,14 +29,17 @@ Theo các sách dược cổ truyền:
 -  Sách Y học khởi nguyên: khí hàn, vị đại khổ.
 -  Sách Bản thảo tái tân: nhập can tỳ thận.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Tetrandrine, fangchinoline, menisine, menisidine, cyclanoline,
 fanchinine, demethyltetradrine.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Phòng kỷ có tác dụng khu phong, trừ thấp, chỉ thống, lợi thủy.
 
@@ -52,7 +56,9 @@ Trích đoạn Y văn cổ:
    trị con trai chân tay khớp trúng độc phong, không nói được, chủ tán
    kết khí, ung thũng, ôn ngược, phong thủy thũng, trị bệnh bàng quang".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Nhiều loại alkaloit của Hán phòng kỷ có tác dụng hạ áp nhanh. Thuốc
    có tác dụng giãn mạch vành, tăng lưu lượng máu ở mạch vành, làm giảm
@@ -67,7 +73,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    tố A, B, đều có tác dụng kháng amíp. Phòng kỷ tố A có tác dụng ức chế
    trực khuẩn lî Shigella.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị viêm khớp sưng đau:
 
@@ -120,7 +128,8 @@ tỷ lệ kết quả 93,3% (Tạp chí Sơn đông Trung y 1980,6:21).
 
 Liều dùng và chú ý:
 
--  Liều thường dùng: 5 - 10g.
+-  Liều thường dùng
+================ 5 - 10g.
 -  Chú ý lúc dùng:
 
 #. Vị thuốc đắng hàn dễ gây tổn thương tỳ vị cho nên tỳ vị vốn hư, âm

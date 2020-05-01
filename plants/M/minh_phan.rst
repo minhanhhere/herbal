@@ -17,7 +17,8 @@ lửa đun cho khô vụn ra rồi chế thành miếng dùng, gọi là Khô ph
 Phèn chua có tinh thể to nhỏ không đều, không màu bay hơi vàng, trong
 hay đục, rất dễ vỡ, tan trong nước, trong glycerin, không tan trong cồn.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Minh phàn vị chua, tính hàn, qui kinh Phế Can Tỳ Vị Đại tràng.
 
@@ -30,14 +31,17 @@ Theo các sách thuốc cổ:
    quang kinh.
 -  Sách Bản thảo tối yếu: nhập thủ túc thái âm, dương minh kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Potassium aluminum kiềm tính (Kal(SO\ :sub:`4`)\ :sub:`2`
 12H\ :sub:`2`\ O)
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Phèn chua có tác dụng giải độc sát trùng, táo thấp chỉ đường (giảm
 ngứa), chỉ huyết chỉ tả, thanh nhiệt tiêu đàm.
@@ -57,7 +61,9 @@ Trích đoạn Y văn cổ:
 -  Sách Bản thảo mông toàn: "cầm tiêu chảy, giảm lợi răng đau, rửa lòi
    dom, sáp tràng, đắp nhọt làm khô nước".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Dùng uống, thuốc kích thích niêm mạc dạ dày, gây nôn phản xạ, trong
    ruột thuốc không hấp thu ức chế niêm mạc ruột tiết dịch mà có tác
@@ -76,7 +82,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    thể cho nên phần lớn dùng ngoài. Thuốc dùng quá liều có thể gây loét
    nôn, tiêu chảy và choáng.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị trĩ nội giai đoạn 3:
 

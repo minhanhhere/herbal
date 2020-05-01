@@ -11,7 +11,8 @@ hoang khắp vùng đồng bằng và miền núi. Do tên khoa học có khác 
 cần nghiên cứu thêm. Trong tài liệu này chủ yếu giới thiệu quả của cây
 Vaccaria segetalis (Neck) Garcke.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị đắng, tính bình. Qui kinh Can Vị.
 
@@ -21,14 +22,17 @@ Vị đắng, tính bình. Qui kinh Can Vị.
 -  Sách Bản thảo cương mục: " dương minh, xung nhâm".
 -  Sách Lôi công bào chế dược tính giải: "nhập 2 kinh tâm can".
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Vacsegoside, gypsogenin, glucironic acid, glucose, arabinose, xylose,
 fucose, rhamnose, Isosaponarin, saponaretin, vitexin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Hoạt huyết thông kinh, làm tăng sữa. Chủ trị chứng đau kinh, kinh bế, áp
 xe vú (nhũ ung) không có sữa hoặc ít sữa.
@@ -44,13 +48,17 @@ Trích đoạn Y văn cổ:
    sơn giáp, Vương bất lưu hành phụ nhân uống sữa chảy nhiều, lợi tiểu
    tiện".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 Thực nghiệm trên súc vật chứng minh: Nước sắc của Vương bất lưu hành bỏ
 kali có tác dụng hưng phấn cổ tử cung rõ rệt, cồn ngâm kiệt tác dụng còn
 rõ mạnh. Thuốc còn có tác dụng ức chế sự phát triển của ung thư phổi".
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Dùng làm thuốc bổ trị đau xương, nhức mình mẩy:
 

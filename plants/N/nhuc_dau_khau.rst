@@ -11,7 +11,8 @@ khấu (Myristicaeae).
 Cây Nhục đậu khấu được trồng ở miền Nam nước ta, Campuchia, Trung quốc (
 Quảng đông), Indonesia, Malasia, Tây Aán độ v..v..
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Nhục đậu khấu vị cay tính ôn, qui kinh Tỳ Vị Đại tràng.
 
@@ -25,7 +26,8 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo kinh sơ: nhập túc thái âm, dương minh, thủ dương minh
    kinh đại tràng.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Nhục đậu khấu có chứa tinh bột, chất protid chừng 40% chất béo gọi là bơ
 Nhục đậu khấu (beurre de muscade) 8 - 15% tinh dầu, 3 - 4% chất nhựa.
@@ -34,7 +36,8 @@ Tinh dầu Nhục đậu khấu gồm 1 hỗn hợp các chất pinene, camphene
 geraniol (6%) một ít eugenol và safrol, chất myristicin (4%). Bơ Nhục
 đậu khấu có chừng 70 - 75% myristin, 2 - 3% tinh dầu.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 #. Tinh dầu có mùi thơm dùng ít tăng bài tiết dịch vị, kích thích nhu
    động ruột giúp ăn ngon (liều rất ít 0,03 - 2ml).
@@ -47,7 +50,9 @@ Tác dụng dược lý:
    thuốc 7,5g gây độc có triệu chứng kích thích thần kinh, nói sảng.
    Chất gây độc chủ yếu là thành phần Myristicin.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị rối loạn tiêu hóa, kém ăn, nôn mữa, đau bụng, ăn khó tiêu:
 
@@ -66,7 +71,8 @@ thận dương hư: dùng bài:
    5g (sao), Ngũ vị tử 5g, Ngô thù du 4g, Đại táo 3 quả, Gừng tươi 3
    lát sắc uống với nước muối nhạt trước lúc ngủ.
 
-Liều thường dùng:
+Liều thường dùng
+================
 
 -  Liều uống 3 - 8g, trị tiêu chảy nên nướng.
 

@@ -15,7 +15,8 @@ kiến, Hà nam, Giang tô, Triết giang , Hồ nam , Hồ bắc, Tứ xuyên.
 Quả thu hái vào mùa thu. Cạo sạch,bổ đôi, nạo hết hạt và lông trắng ở
 trong, phơi hoặc sấy khô để làm thuốc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Kim anh tử vị chua sáp, tính bình. Qui kinh Thận, Bàng quang, Đại tràng.
 
@@ -28,14 +29,17 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo kinh sơ: nhập túc thái dương, thủ dương minh kiêm nhập
    túc thiếu âm kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Quả có saponin, citric acid, malic acid, frutose, sucrose, tanin, resin,
 vitamin C, glucosid.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Kim anh tử có tác dụng: cố tinh súc niệu, sáp trường chỉ tả. Chủ trị các
 chứng: hoạt tinh, tiểu nhiều lần (niệu lần), bạch đới quá nhiều, cửu tả
@@ -51,7 +55,9 @@ Trích đoạn Y văn cổ:
    chính xung kinh quí, chỉ tỳ tả huyết lî cấp tiểu thủy bất cầm (tiểu
    nhiều lần)".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Tác dụng giảm xơ mỡ động mạch: trên thực nghiệm gây xơ mỡ mạch thỏ
    bằng chế độ ăn nhiều cholesterol được điều trị bằng Kim anh tử trong
@@ -62,7 +68,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    vitro đối với tụ cầu vàng (Staphylococcus aureus) và E.Coli. Nước
    của thuốc cũng có tác dụng ức chế virus cúm.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị hoạt tinh, di tinh, khí hư bạch đới:
 
@@ -87,7 +95,8 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 4.Trị trẻ em đái dầm, đái nhiều lần do thận hư: Kim anh tử lượng vừa đủ
 nấu thành cao cho uống.
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
 -  Liều 6 - 20g sắc uống, nấu cao hoặc chế thành viên.
 

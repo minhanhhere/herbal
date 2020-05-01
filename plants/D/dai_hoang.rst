@@ -15,7 +15,8 @@ nhanh như dẹp loạn.
 Thanh hải, Cam túc nên gọi là Bắc Đại hoàng, cây Dược dụng Đại hoàng chủ
 yếu mọc ở Tứ xuyên nên gọi là Nam Đại hoàng.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Đại hoàng vị đắng, tính hàn, qui kinh Tỳ, Vị, Đại tràng, Can, Tâm.
 
@@ -26,7 +27,8 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo cương mục: nhập Túc thái âm, thủ túc dương minh, thủ
    túc quyết âm, ngũ kinh huyết phần.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Trong Đại hoàng có 2 loại hoạt chất có tác dụng ngược nhau. Loại có tác
 dụng tẩy là các dẫn chất của anthraquinone glycoside tổng lượng chiếm
@@ -37,9 +39,11 @@ acid, gallic acid, catechin, tetrarin, cinnamic acid, rheosmin. Ngoài ra
 còn có acid béo, calcium axalate, glucose, fructose, sennoside
 A,B,C,D,E, các acid hữu cơ và các chất giống oestrogene.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Đại hoàng có tác dụng: tả hạ công tích, tả hỏa, thanh nhiệt giải độc,
 hoạt huyết hóa ứ, lợi thủy thanh nhiệt hóa thấp. Chủ trị các chứng: tích
@@ -80,7 +84,9 @@ Trích đoạn Y văn cổ:
    hợp với Hoàng bá, Chi tử trị chứng vàng da; hợp với Cam thảo trị
    chứng cấp thông; hợp với Mang tiêu trị hòn cứng".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Chất gây tiêu chảy của Đại hoàng là Anthraquinone. Tác dụng của thuốc
    chủ yếu là ở Đại tràng, thuốc làm cho trương lực của đoạn giữa và
@@ -109,7 +115,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    với thỏ gây cao cholesterol và cho uống thuốc. Nhưng với thỏ bình
    thường thì không có tác dụng.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị thận suy mạn tính: Bệnh viện Thủ đô Bắc kinh báo cáo: dùng Đại
 hoàng 30 - 60g (nếu cho sao dùng 20g), Mẫu lệ nung 30g, Bồ công anh 20g,
@@ -210,7 +218,8 @@ lợi sưng đau, mắt đỏ xung huyết.:
    uống với rượu. Trị bong gân, ứ huyết đau do té ngã, trong uống ngoài
    xoa.
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
 -  Liều: 5 -20g uống cho vào thuốc thang, thuốc tán giảm liều, dùng
    ngoài lượng vừa đủ.

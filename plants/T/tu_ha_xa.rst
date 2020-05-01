@@ -8,7 +8,8 @@ học Placenta Hominis, dùng làm thuốc lần đầu tiên được ghi trong
 Bản thảo thập di với tên Nhân bào là Thai bàn của người sản phụ không
 bệnh tật.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt, mặn, ôn. Qui kinh Phế Can Thận.
 
@@ -22,7 +23,8 @@ Theo các sách thuốc cổ:
    kinh, túc thiếu âm thận kinh.
 -  Sách Bản thảo tái tân: nhập 3 kinh Can phế thận.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 #. Theo sách Những cây thuốc và vị thuốc Việt nam: Trong nhau sản phụ có
    một chất protid đặc biệt cấu tạo bởi 8 phân tử N-acetyl d-glucozamin
@@ -34,9 +36,11 @@ Thành phần chủ yếu:
    tiết sữa prolactin, hocmon thúc kích tố tuyến gíap, hocmon dục sản .,
    nhiều loại enzym, tiết tố sinh hồng cầu và polysaccharid.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Bổ tinh, dưỡng huyết, ích khí. Chủ trị chứng tinh hư vô sinh, hư lao,
 suyễn, thiếu sữa.
@@ -52,7 +56,9 @@ suyễn, thiếu sữa.
 -  Sách Hiện đại thực dụng trung dược của Diệp Quất Tuyền: dùng trị thần
    kinh suy nhược, liệt dương, vô sinh, có tác dụng tăng tiết sữa.
 
-B.Kết quả nghiên cứu dược lý hiện đại: Nhau thai có tác dụng sau:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+ Nhau thai có tác dụng sau:
 
 #. Tăng sức đề kháng của cơ thể, có tác dụng phòng chống lóet dạ dày
    trên thực nghiệm.
@@ -65,7 +71,9 @@ B.Kết quả nghiên cứu dược lý hiện đại: Nhau thai có tác dụng
 #. Dịch chiết Thai bàn có tác dụng kích thích tử cung co bóp, bột Thai
    bàn có tác dụng chữa bệnh lao thực nghiệm.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị cơ thể suy nhược, khí huyết hư tổn: có các bệnh lao, thiếu máu,
 suy nhược thần kinh, viêm phế quản mãn ở người già, hen suyễn kéo dài.

@@ -10,7 +10,8 @@ Andr (Paeonia Arborea Donn, Paeonia Moutan Sims.) thuộc họ Mao lương
 cay, tính hàn (Chấn nam bản thảo) hoặc vị cay ngọt hơi hàn (Bản thảo bị
 yếu) qui kinh Tâm Can Thận.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Trong Mẫu đơn bì tươi có một chất glucozit khi tiếp xúc với chất men có
 trong vỏ cây sẽ cho glucoza và paeonola là một chất phenola C9H10O3.
@@ -18,9 +19,11 @@ Ngoài ra còn có acid benzoic, phytosterol. Theo kết quả phân tích của
 Viện Y học Bắc kinh năm 1958 trong Mẫu đơn bì Tứ xuyên có 5,66%
 glucozit, 0,4% ancaloit, 12,54% saponin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền: Đơn bì có tác dụng thanh nhiệt lương huyết, hoạt
+Theo Y học cổ truyền
+-------------------- Đơn bì có tác dụng thanh nhiệt lương huyết, hoạt
 huyết hóa ứ.
 
 B.Theo kết quả nghiên cứu dược lý hiện đại: thuốc có tác dụng:
@@ -39,7 +42,9 @@ B.Theo kết quả nghiên cứu dược lý hiện đại: thuốc có tác d�
 #. Nước sắc Đơn bì, Phenol Đơn bì đều có tác dụng hạ áp và nhận thấy
    nước sắc không có Phenol Đơn bì có tác dụng hạ áp kéo dài hơn.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng sốt do can hỏa uất: (sốt chiều nặng hơn) ra mồ hôi trộm,
 hoặc ra mồ hôi bất kỳ lúc nào, đau đầu, má đỏ mồm khô, kinh nguyệt không

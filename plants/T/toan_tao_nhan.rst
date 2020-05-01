@@ -12,7 +12,8 @@ họ Táo ta (Rhamnaceae).
 Cây Táo được trồng khắp nơi ở nước ta để lấy quả ăn. Táo nhân thường
 được sao làm thuốc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Táo nhân vị ngọt tính bình. Qui kinh Tâm can.
 
@@ -24,15 +25,18 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo cương mục: nhập Túc quyết âm, thiếu dương.
 -  Sách Lôi công bào chế dược tính giải: nhập 4 kinh: Tâm tỳ can đởm.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Betulin, betulic acid, Jujuboside, Jujubogenin, ebelin lactone, một số
 saponin khác, vitamin C và nhiều loại vitamin khác. Trong lá táo có
 rutin và quexetin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Nhân Táo chua có tác dụng dưỡng tâm an thần, liễm hãn. Chủ trị các chứng
 huyết hư tâm phiền, mất ngủ, ra mồ hôi (tự hãn và đạo hãn).
@@ -52,7 +56,9 @@ Trích đoạn Y văn cổ:
    Táo ngọt mà nhuận, dùng chín trị được chứng đởm hư không ngủ được,
    phiền khát mồ hôi trộm".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thực nghiệm chứng minh Táo nhân sống và sao đều có tác dụng an thần
    gây ngủ, thành phần có tác dụng là saponin Táo nhân.
@@ -64,7 +70,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 #. Trên thực nghiệm súc vật, Táo nhân phối hợp dùng với Ngũ vị tử có tác
    dụng chống choáng do bỏng và giảm phù nề vùng bỏng.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng suy nhược thần kinh: váng đầu, hoa mắt, mất ngủ, ra nhiều mồ
 hôi, bức rứt hồi hộp, thuốc có tác dụng dưỡng tâm, an thần dùng:
@@ -99,7 +107,8 @@ kết hợp 1982,2:97).
 
 Liều dùng và chú ý:
 
--  Liều thường dùng: 10 -18g. Có thể dùng bột tán, hòa bột uống trước
+-  Liều thường dùng
+================ 10 -18g. Có thể dùng bột tán, hòa bột uống trước
    lúc ngủ, mỗi lần 1,5 - 3g. Cho vào thuốc thang sắc nên đập vụn.
 -  Thuốc dùng sống tính mát, thích hợp cho bệnh nhân mất ngủ do âm hư.
    Táo nhân sao tính ôn hợp với chứng tỳ vị lưỡng hư, mất ngủ, ăn ít

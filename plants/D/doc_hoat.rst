@@ -14,7 +14,8 @@ Xuyên Độc hoạt (?) (Radix angelicae tuhuo), Ngưu vĩ độc hoạt (Radix
 Heraclei Hemsleyani), Cửu nhởn độc hoạt, không phải là vị thuốc Độc hoạt
 trong bài này.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị cay, đắng, ôn. Qui kinh Can, Thận, Bàng quang.
 
@@ -26,15 +27,18 @@ Theo các sách thuốc cổ:
 -  Sách Trân châu nang: nhập túc thiếu âm thận, thủ thiếu âm tâm kinh.
 -  Sách Dược phẩm hóa nghĩa: nhập Tâm can thận bàng quang.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Angelol, angelicone, bergaptenostholumbelliferone, scopoletin, angelic
 acid, tigic acid, palmitic acid, linoleic acid, oleic acid, dầu thực
 vật.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Trừ phong thấp chỉ thống, giải biểu. Chủ trị chứng phong thấp tý thống,
 thiếu âm đầu thống, ngứa ngoài da do thấp, phong hàn biểu chứng kiêm
@@ -53,7 +57,9 @@ Trích đoạn Y văn cổ:
    khí dùng Độc hoạt có thể khỏi ngay, chứng nhọt phát ở phần âm chưa vỡ
    miệng thì tiêu, đã vỡ miệng thì chóng lành."
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thuốc có tác dụng giảm đau, an thần và kháng viêm rõ rệt.
 #. Thuốc nước và thuốc sắc Độc hoạt đều có tác dụng hạ áp rõ rệt nhưng
@@ -68,7 +74,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    lao, trực khuẩn đại tràng lî, thương hàn, trực khuẩn mủ xanh và phẩy
    khuẩn tả).
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng đau thấp: dùng bài:
 
@@ -110,7 +118,8 @@ Trung quốc 1983,3:144).
 
 Liều dùng và chú ý:
 
--  Liều thường dùng: 3 - 10g uống, cho vào thuốc thang.
+-  Liều thường dùng
+================ 3 - 10g uống, cho vào thuốc thang.
 -  Chú ý: thận trọng lúc dùng với bệnh nhân âm hư huyết táo, không dùng
    cho chứng nội phong.
 -  Độc hoạt thường phối hợp với Khương hoạt vì 2 vị đều trị chứng phong

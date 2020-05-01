@@ -10,7 +10,8 @@ calami) là thân rễ phơi khô của cây Thủy xương bồ Acorus Calamus 
 Thạch xương bồ cũng như Thủy xương bồ mọc khắp nơi ở miền Trung và Bắc
 nước ta. Cây Xương bồ thuộc họ Ráy (Araceae).
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Thạch xương bồ vị cay tính ôn, qui kinh Tâm Vị
 
@@ -22,15 +23,18 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo cương mục: qui kinh Thủ thiếu âm, túc quyết âm.
 -  Sách Lôi công bào chế dược tính giải: nhập 3 kinh Tâm tỳ bàng quang.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 #. Theo sách Những cây thuốc và vị thuốc Việt nam:
 #. Theo sách Chinese herbal medicine: thành phần chủ yếu của Thạch xương
    bồ có Beta-asaron, asaron, caryophyllene, ahumulene, sekishone.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thạch xương bồ có tác dụng khai khiếu ninh thần, hóa thấp hòa vị. Chủ
 trị các chứng thần khí hôn mê, hoảng loạn do đàm trọc bế tắc (đàm trọc
@@ -61,7 +65,9 @@ Trích đoạn Y văn cổ:
 -  Sách Bản thảo tùng tân: " khử thấp trừ phong, trục ứ tiêu tích, khai
    vị khoan trung, trị chứng độc lî cấm khẩu".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thuốc sắc, thuốc sắc khử dầu đều có tác dụng an thần, tinh dầu có tác
    dụng gây ngủ. Thuốc sắc còn có tác dụng chống co giật. Dầu bay hơi
@@ -78,7 +84,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 #. Độc tính: liều lượng lớn của thuốc gây co giật ở chuột và dẫn đến
    chết.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị động kinh: dùng chất chiết xuất của Thạch xương bồ Asrone trị 90
 ca cơn động kinh lớn, người lớn mỗi lần 50mg, ngày 3 lần, trẻ em giảm
@@ -138,7 +146,8 @@ Thiện Hoa và cộng sự. Kỷ yếu nghiên cứu Trung thành dược 1982,
    Thạch liên tử 12g, Đơn sâm 12g, Phục linh, Trần bì, Trần mễ, Hà diệp
    đế (cuống lá sen) đều 12g, Đông qua nhân 15g, sắc uống.
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
 -  Liều thường dùng uống: 5 - 10g cho vào thuốc thang hoặc hoàn tán.
    Dùng ngoài lượng vừa đủ, tán bột đắp hoặc sắc rửa. Lượng tươi liều

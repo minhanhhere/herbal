@@ -18,7 +18,8 @@ Chế biến: Vào 2 mùa Xuân Thu đào về, bỏ đoạn thân rễ (thườ
 mẹ) có đốt và bùn cát, phơi khô. Các miếng Tử uyển cho mật và ít nước
 trộn đều cho lửa nhỏ sao cho đến khi không dính tay là được.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Tử uyển vị đắng ngọt hơi ôn, qui kinh phế.
 
@@ -30,14 +31,17 @@ Theo các sách thuốc cổ:
 -  Sách Lôi công bào chế dược tính giải: nhập 2 kinh tâm phế.
 -  Sách Bản thảo kinh sơ: nhập thủ thái âm, kiêm thủ dương minh".
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Astersaponin, quercetin, epifriedelinol, friedelin, shionone, anethole,
 lachnophyllol, lachnophyllol acetate, aleic acid, aromatic acid.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Tử uyển có tác dụng hóa đàm khí chỉ khái.
 
@@ -52,7 +56,9 @@ Trích đoạn Y văn cổ:
    mà ấm, không táo liệt, chuyên khai tiết phế uất, định suyễn giáng
    nghịch, tuyên thông thất trệ".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thuốc có Sponin cho thỏ uống làm tăng chất tiết khí quản vì thế có
    tác dụng hóa đàm".
@@ -66,7 +72,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 #. Saponin Tử uyển có tác dụng tán huyết mạnh, không nên chích tĩnh
    mạch.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị ho do cảm mạo, viêm đường hô hấp trên:
 
@@ -88,7 +96,8 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    mẫu 80g trộn với cao luyện với mật ong thành cao. Mỗi lần uống 1
    muỗng đến 2 muỗng canh (10 - 20ml).
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
 -  Liều : 5 - 10g.
 -  Mật chích Tử uyển có tác dụng nhuận táo ích phế tốt, dùng trị ho lâu

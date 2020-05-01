@@ -13,7 +13,8 @@ trúc, họ Hành tỏi (Liliaceae).
 Cây này mọc nhiều ở các tỉnh Quảng đông, Quảng tây, Vân nam Trung quốc
 nên tại các tỉnh biên giới của ta có thể có, nhưng ta chưa khai thác.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt, tính bình, qui kinh Phế vị.
 
@@ -23,13 +24,16 @@ Theo Y văn cổ:
 -  Sách Trấn nam bản thảo: vị ngọt, hơi đắng, tính bình, hơi ôn, nhập
    Tỳ.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Conballamarin, convallarin, quercitol, vitamin A.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Tư âm nhuận phế, sinh tân dưỡng vị. Chủ trị chứng ho lao phế táo, vị âm
 hư, âm hư ngoại cảm, chứng tiêu khát.
@@ -48,7 +52,9 @@ Trích đoạn Y văn cổ:
    thiêm ngược (sốt rét) và tất cả các chứng bất túc, dùng thây Sâm Kỳ,
    thuốc không hàn, không táo, rất có công hiệu".
 
-B.Kết quả nghiên cứu Dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Nước thuốc sắc, chiết xuất cồn liều nhỏ đối với tim cô lập ếch có tác
    dụng cường tim, dùng với Hoàng kỳ, có tác dụng cải thiện điện tâm đồ
@@ -60,7 +66,9 @@ B.Kết quả nghiên cứu Dược lý hiện đại:
    nghiệm.
 #. Thuốc có tác dụng nhuận tràng.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị bệnh mạch vành, đau thắt ngực: phối hợp với Đảng sâm chế thành
 bài:

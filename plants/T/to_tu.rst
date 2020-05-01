@@ -11,7 +11,8 @@ Cây Tía tô được trồng khắp nơi ở nước ta để lấy lá ăn, l
 làm thuốc. Đến mùa thu quả chín hái về rửa sạch bỏ tạp chất phơi khô.
 Làm thuốc dùng Tô tử sống hoặc sao Tô tử, chích Tô tử.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Tô tử vị cay tính ôn, qui kinh Phế, Đại tràng.
 
@@ -22,14 +23,17 @@ Theo các sách thuốc cổ:
 -  Sách Dược phẩm hóa nghĩa: nhập phế kinh.
 -  Sách Bản thảo tái tân: nhập 2 kinh Can thận.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Hạt Tía tô có dầu lỏng 45 - 50% (gọi là dầu Tô tử), vitamin B1, amino
 acid.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Tô tử có tác dụng chỉ khái bình suyễn, lợi tiểu tiêu phù.
 
@@ -49,7 +53,9 @@ B.Kết quả nghiên cưú dược lý hiện đại:
 
 Chưa thấy có tài liệu nào ghi nhận gì.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị ho kéo dài khó khỏi do viêm họng, viêm phế quản mạn, hen phế quản:
 

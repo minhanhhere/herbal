@@ -8,7 +8,8 @@ trong sách Bản kinh với tên Mạch môn, là rễ, củ phơi hay sấy kh
 Ophiopogoni) của cây Mạch môn đông (Ophiopogon Japonicus Ker - Gawl)
 thuộc họ Hành tỏi (Liliaceae).
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt, hơi đắng, hơi hàn, qui kinh Tỳ vị tâm.
 
@@ -25,13 +26,16 @@ Về qui kinh:
 -  Sách Bản thảo kinh sơ: nhập túc dương minh kiêm nhập thủ thiếu âm,
    thái âm.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Ophiopogonin, ruscogennin, ­ - sitostorol, stigmastrol.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Mạch môn có tác dụng nhuận phế, dưỡng âm, ích vị, sinh tân, thanh tâm
 trừ phiền, nhuận tràng.
@@ -56,7 +60,9 @@ Trích đoạn Y văn cổ:
 -  Sách Bản thảo chính nghĩa: " chuyên bổ vị âm, tư tân dịch, thuốc có
    tác dụng bổ âm giải khát."
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thuốc có tác dụng tăng huyết lượng động mạch vành, bảo vệ bệnh thiếu
    máu cơ tim, cải thiện lực co bóp cơ tim và chống rối loạn nhịp tim,
@@ -67,7 +73,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    trực khuẩn thương hàn . (trích yếu văn kiện nghiên cứu Trung dược,
    nhà xuất bản Khoa học Trung quốc 9165, trang 301).
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị lao phổi, viêm phế quản mạn tính, viêm họng mạn, có hội chứng phế
 âm hư ho kéo dài, ho khan: có thể phối hợp với Bán hạ, Đảng sâm, dùng
@@ -113,7 +121,8 @@ thực nghiệm, Tạp chí Tân y dược học 1977,5:39).
 
 Liều lượng và chú ý lúc dùng:
 
--  Liều thường dùng: 8 - 30g, dùng cho thuốc thang hoặc cao đơn hoàn
+-  Liều thường dùng
+================ 8 - 30g, dùng cho thuốc thang hoặc cao đơn hoàn
    tán, dùng cường tim liều cao hơn.
 -  Thận trọng lúc dùng thuốc cho bệnh nhân tiêu chảy.
 

@@ -15,7 +15,8 @@ có tên Hoàng tinh. Cây này khác với cây Củ Dong cũng gọi là Hoàn
 mà người ta thường nấu củ để ăn. Cây mọc hoang nhiều ở các tỉnh miền Bắc
 nước ta, chưa được chú ý trồng làm thuốc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt tính bình, qui kinh Tỳ Phế.
 
@@ -30,14 +31,17 @@ Về qui kinh:
 -  Sách Ngọc thu dược giải: nhập túc thái âm tỳ, túc dương minh vị.
 -  Sách Bản thảo tái tân: nhập Tâm Tỳ Phế Thận.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Chất nhày, tinh bột, đường, nhiều loại acid amin, ancaloit, nhiều loại
 hợp chất anthraquinone.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Tư âm nhuận phế, bổ tỳ ích khí. Chủ trị chứng ho do phế táo âm hư, thận
 hư tinh tổn, chứng tiêu khát, tỳ vị hư nhược.
@@ -56,7 +60,9 @@ Theo các Y văn cổ:
 -  Sách Bản thảo tùng tân: " bình bổ khí huyết mà nhuận".
 -  Sách Tứ xuyên Trung dược chí: " bổ thận nhuận phế, ích khí tư âm".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thuốc có tác dụng hạ áp, tăng lưu lượng máu động mạch vành, hạ lipid
    huyết và làm giảm xơ cứng mạch vành (cũng có báo cáo nói không có
@@ -70,7 +76,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    thương hàn, tụ cầu khuẩn vàng, trực khuẩn lao. Thuốc có hiệu quả rõ
    rệt đối với bệnh lao, trên thực nghiệm.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng huyết áp thấp: dùng Hoàng tinh 30g, Đảng sâm 30g, Chích thảo
 10g, sắc nước uống, ngày 1 thang. Trị 10 ca đều có kết quả khỏi trước

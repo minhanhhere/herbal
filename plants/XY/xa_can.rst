@@ -7,7 +7,8 @@ Xạ can còn gọi là cây Rẽ quạt, Biển trúc là thân rễ phơi hay 
 cây Rẽ quạt (Belamcanda sinensis (L) DC. ) thuộc họ Lay ơn (Iridaceae),
 có mọc khắp nơi ở nước ta.
 
-Tính vị qui kinh: Vị đắng, tính hàn. Qui kinh Phế.
+Tính vị qui kinh
+================ Vị đắng, tính hàn. Qui kinh Phế.
 
 Theo các sách cổ:
 
@@ -16,14 +17,17 @@ Theo các sách cổ:
 -  Sách Lôi công bào chế dược tính giải: nhập Phế, Can, Tỳ.
 -  Sách Bản thảo kinh thư: nhập thủ thiếu dương, thiếu âm, quyết âm.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Trong Xạ can có Glucozit: Belacandin (C24H24O12), tectoridin
 (C22H22O11), Iridin (C24H28O4), Magiferin và Shekanin (Xạ can tố).
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Xạ can có tác dụng: thanh nhiệt giải độc, khu đờm lợi yết, trị các chứng
 hầu họng sưng đau, đàm thịnh ho suyễn.
@@ -46,7 +50,9 @@ B.Theo kết quả nghiên cứu dược lý hiện đại:
 
 Thuốc có tác dụng chống nấm ngoài da và chống virut đường hô hấp.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị viêm đường hô hấp trên cổ sưng đau: có thể dùng độc vị hoặc phối
 hợp thêm các vị thuốc nhuận phế hóa đàm lợi yết như: Hoàng cầm, Cát
@@ -72,7 +78,8 @@ nước tiểu có máu gia Sinh địa, Tiên hạc thảo mỗi thứ 15g. Tá
 Tống kiến Hoa dùng Xạ can mỗi ngày 12, 15, 20, 25g, sắc nước chia 3 lần
 uống. Trị 87 ca, kết quả khỏi 85,1% (Tạp chí Trung y 1986,11:66).
 
-Liều thường dùng: 6 - 10g.
+Liều thường dùng
+================ 6 - 10g.
 
 Ghi chú: Theo tài liệu của Giáo sư Đỗ tất Lợi: " Xạ can được coi là vị
 thuốc chữa sốt, đại tiểu tiện không thông, sưng vú, tắt tia sữa, chữa

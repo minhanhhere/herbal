@@ -12,7 +12,8 @@ turschaninovii Bess f.yanhusuo Y.H.Chou et C.C. Hsu.
 Cây Diên hồ sách mọc nhiều ở tỉnh Triết giang, Trung quốc. Thường được
 bào chế với giấm để tăng tác dụng giảm đau.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Tính ôn vị cay đắng. Qui kinh Tâm Can Tỳ.
 
@@ -24,14 +25,17 @@ Theo Y văn cổ:
 -  Sách Lôi công bào chế dược tính giải: " Nhập Tâm, Tỳ, Phế, Vị bốn
    kinh".
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Theo sách Trung dược học, Diên hồ sách có ancaloit, Diên hồ sách tố A,
 B, C,.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Diên hồ sách có tác dụng hoạt huyết, hành khí, chỉ thống. Chủ trị các
 chứng đau ngực và tay chân.

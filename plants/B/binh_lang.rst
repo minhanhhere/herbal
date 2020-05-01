@@ -17,7 +17,8 @@ khô, khi dùng thái phiến dùng sống. Nếu lấy miếng hạt cau bỏ v
 dùng lửa nhỏ sao cháy vàng lấy ra để nguội dùng. Hạt cau còn gọi là Đại
 phúc tử.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Hạt cau vị cay đắng tính ôn, qui kinh Vị Đại tràng.
 
@@ -31,14 +32,17 @@ Theo các sách thuốc cổ:
    kinh.
 -  Sách Bản thảo tân biên: nhập Tỳ vị đại tràng phế.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Arecolin, areca red, arecaidine, guvacine, guvacolin, arecolidine,
 homoarecolin, catechin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Binh lang có tác dụng: sát trùng, tiêu tích hành khí, lợi thủy.
 
@@ -57,7 +61,9 @@ Trích đoạn Y văn cổ:
    chư thống, đại tiểu tiện khí bí, đàm khí suyễn cấp, liệu chư ngược,
    ngự chướng lệ (trị các chứng sốt rét, phòng khí độc gây bệnh dịch).
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Tác dụng trục trùng chủ yếu là xổ sán (taeniasis) tác dụng đối với
    sán lợn tốt hơn sán bò, tác dụng làm tê liệt thần kinh của sán kết
@@ -74,7 +80,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    dụng như cholin.
 #. Binh lang có tác dụng kháng virus và nấm ngoài da.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị sán (taeniasis):
 

@@ -8,7 +8,8 @@ dùng làm thuốc được ghi đầu tiên trong sách Bản thảo thập di.
 đào củ rễ về bỏ hết lá và tua rễ phơi hay sấy khô là Tam lăng sống, nếu
 đem Tam lăng trộn giấm sao lên màu thâm là Tam lăng chế giấm.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị đắng tính bình. Qui kinh Can Tỳ.
 
@@ -18,13 +19,16 @@ Vị đắng tính bình. Qui kinh Can Tỳ.
 -  Sách Lôi công bào chế dược tính giải: " nhập phế tỳ".
 -  Sách Bản thảo kinh sơ: " Nhập túc quyết âm, thái âm".
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Tinh dầu, chất bột. Chưa có tài liệu nghiên cứu.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Phá huyết khu ứ, hành khí chỉ thống. Chủ trị các chứng kinh bế, đau
 bụng, trưng hà tích tụ, thực tích, bụng trên đầy đau.
@@ -50,11 +54,15 @@ Trích đoạn Y văn cổ:
    điều hòa huyết, phân biệt kỹ hơn giữa 2 vị thì Tam lăng hóa huyết tốt
    hơn Nga truật, Nga truật lý khí tốt hơn Tam lăng".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 Tam lăng có tác dụng ức chế tế bào ung thư.
 
-Ứng dụng Lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị phụ nữ tắt kinh do huyết ứ: bụng dưới đau tức, sau sinh ứ huyết,
 bụng đau dùng bài:

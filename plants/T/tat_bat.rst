@@ -11,7 +11,8 @@ longum L thuộc họ Hồ tiêu (Piperaceae). Tất bạt dùng làm thuốc đ
 Cây mọc hoang hoặc trồng nhiều ở cả 2 miền Nam Bắc nước ta, được trồng ở
 Ấn độ, Philippin, Indonexia và Trung quốc tại Quảng đông, Vân nam.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Thuốc vị cay, tính nhiệt, qui kinh Vị, Đại tràng.
 
@@ -20,15 +21,18 @@ Theo các sách cổ:
 -  Sách Hải dược bản thảo: Vị cay ôn.
 -  Sách Bản thảo cương mục: nhập thủ túc dương minh kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Tất bạt có tinh dầu, thành phần chủ yếu có Pipenne, palmitic acid,
 tetrahydropiperic, N-Isobutyl-deca-trans-2-trans-4-dienamide, sesamin,
 trong rễ có pipeartin, piperlogumin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền: thuốc có tác dụng ôn trung, chỉ thống. Chủ trị
+Theo Y học cổ truyền
+-------------------- thuốc có tác dụng ôn trung, chỉ thống. Chủ trị
 các chứng bụng lạnh đau, nôn, tiêu chảy.
 
 Trích đoạn Y văn cổ:
@@ -42,7 +46,9 @@ Trích đoạn Y văn cổ:
    thuốc ngọt ôn để bổ như Sâm, truật, Qui, Địa thì hiệu lực rất tốt.
    Dùng bột thuốc thổi mũi trị đau nửa đầu do phong, trị răng đau".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Tác dụng kháng khuẩn: Tinh dầu Tiêu lốt có tác dụng In vitro, ức chế
    các loại Staphylococcus aureus, Bacillus subtilus, bacillus cereus,
@@ -55,7 +61,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    chịu đựng ở trạng thái thiếu dưỡng khí, chống rối loạn nhịp tim (chủ
    yếu là thành phần tinh dầu).
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị đau bụng, nôn, tiêu chảy do tỳ vị hàn: cùng dùng với Cao Lương
 khương. Có thể dùng độc vị bột Tiêu lốt uống với nước cơm hoặc phối hợp

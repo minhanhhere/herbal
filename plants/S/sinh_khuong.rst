@@ -6,10 +6,12 @@ Sinh khương (Rhizoma zingiberis Officinalis Recens)
 Sinh khương (Gừng tươi) là thân rễ (củ) cây gừng (Zingiber
 Officinalale Rosc). Vi cay tính ấm qui kinh Phế, Tỳ, Vị.
 
-Thành phần chủ yếu: Tinh dầu (2 - 3% ). Trong tinh dầu có camphen,
+Thành phần chủ yếu
+================== Tinh dầu (2 - 3% ). Trong tinh dầu có camphen,
 fellan-dren, xitral, bo rneod, các chất cay: gingerol, zingexen, sogaol.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 1.Làm ra mồ hôi: Do chất tinh dầu làm tăng tuần hoàn ngoại vi, uống gừng
 vào cảm thấy nóng toàn thân và ra mồ hôi.
@@ -24,7 +26,9 @@ biên độ giảm, mạch nhanh, huyết áp tăng. (theo H.M.Emig, 1930 )
 4.Theo y học cổ truyền: gừng có tác dụng giải cảm, tán hàn, làm ấm tỳ
 vị, cầm nôn, tiêu đàm giảm ho.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Giải cảm phong hàn: thường kết hợp với Quế chi, Tô diệp, Phòng phong
 để tăng tác dụng làm ra mồ hôi. Sau khi mắc mưa lạnh để phòng cảm lạnh

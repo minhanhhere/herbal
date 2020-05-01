@@ -19,7 +19,8 @@ nhưng chưa khai thác.
 Vào hai mùa hạ và thu, người ta vớt Côn bố ở biển lên, nhặt bỏ tạp chất,
 ngâm nước rửa sạch để héo, cắt nhỏ thành sợi phơi khô để dùng.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Côn bố vị mặn tính hàn, qui kinh Can, Vị, Thận.
 
@@ -30,7 +31,8 @@ Theo các sách thuốc cổ:
 -  Sách Yếu dược phân tễ: nhập vị kinh.
 -  Sách Bản thảo tái tân: nhập Tỳ kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 -  Thallus Laminariae: alginic acid, laminarin, laminine, muối vô cơ
    (muối kali, iodine, sắt, calci), manitol, caroten, protein,
@@ -40,9 +42,11 @@ Thành phần chủ yếu:
    S-oxide, kali, calci, fucosterol, saringosterol, fridelin, loliolide,
    phytol, vitamine B12, riboflavin, alloisoleucine.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Côn bố có tác dụng: tiêu đàm nhuyễn kiên, lợi thủy tiêu phù.
 
@@ -55,7 +59,9 @@ Trích đoạn Y văn cổ:
    lậu (nhọt độc lở rò)".
 -  Sách Bản thảo tùng tân: " ngoan đàm tích tụ".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thuốc giàu chất iod nên phòng trị được bướu giáp do thiếu Iod.
 #. Thuốc có tác dụng hạ áp và hạ lipid huyết.
@@ -64,7 +70,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 #. Thành phần laminine trong loại Côn bố Thallus Laminariae có tác dụng
    ức chế cơ trơn.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị cao huyết áp: dùng bột Côn bố điều trị Cao huyết áp 110 ca, tỷ lệ
 kết quả 76,4% (Nông trường nuôi trồng Hải đới huyện Bình dương tỉnh

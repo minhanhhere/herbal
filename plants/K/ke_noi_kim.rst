@@ -11,7 +11,8 @@ Kê nội kim là lớp màng màu vàng phủ mặt trong của mề hay dạ d
 nội kim vào chảo, cho lửa vừa, sao cho đến khi bề mặt chuyển màu vàng
 hoặc vàng cháy gọi là Kê nội kim sao.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Kê nội kim vị ngọt tính bình, qui kinh Tỳ, Vị, Tiểu trường, Bàng quang.
 
@@ -23,14 +24,17 @@ Theo các sách cổ:
 -  Sách Bản thảo kinh sơ: nhập 2 kinh Đại trường Bàng quang.
 -  Sách Bản thảo tái tân: nhập 2 kinh Tỳ vị.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Ventriculin, keratin, pepsin (lượng rất nhỏ), 17 loại aminoacid,
 ammonium chloratum, vitamin B1, B2.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Kê nội kim có tác dụng vận tỳ tiêu thực cố tinh. Chủ trị các chứng rối
 loạn tiêu hóa, thực tích, cam tích ở trẻ em, đái dầm, di tinh.
@@ -49,7 +53,9 @@ Trích đoạn Y văn cổ:
 -  Sách Y học trung trung tham tây lục: " trị huyền tích, trưng hà (trị
    hạch, báng, hòn cục ở bụng), thông kinh bế".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thuốc có tác dụng trợ tiêu hóa, biểu hiện dịch vị tăng, độ acid tăng,
    vận động bao tử tăng (thời gian kéo dài, sóng nhu động cao, tốc độ
@@ -60,7 +66,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 #. Thuốc có tác dụng gia tăng bài tiết chất phóng xạ do thuốc có thành
    phần ammonium chloratum có tác dụng này.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng cam tích: bụng đầy ăn ít.
 

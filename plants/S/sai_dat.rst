@@ -7,7 +7,8 @@ Họ Cúc Asteraceae.
 
 Còn gọi tên: Húng trám, Ngổ núi, Cúc nháp, Cúc giáp, Hoa múc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Tác dụng lâm sàng: giảm đau, giảm sốt kháng sinh rõ rệt, không thấy độc
 tính.

@@ -16,7 +16,8 @@ Thảo quả chín hái về (quả phải chưa nẻ) phơi hay sấy nhẹ l�
 dọc và thường được phủ một lớp phấn trắng, khi nào dùng mới bóc vỏ ngoài
 lấy hạt, vì nếu bóc ngay sẽ mất mùi thơm.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Thảo quả vị cay, tính ôn, qui kinh Tỳ vị.
 
@@ -26,17 +27,21 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo tùng tân: cay nhiệt.
 -  Sách Lôi công bào chế dược tính giải: nhập 2 kinh Tỳ vị.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Thảo quả có tinh dầu chừng 1 - 3%. Tinh dầu màu vàng nhạt, mùi thơm
 ngọt, vị nóng cay dễ chịu. Nguyễn Xuân Dũng và cộng sự (1989) đã nghiên
-cứu thấy trong tinh dầu có thành phần chủ yếu: 1-8 cineol (30,61%),
+cứu thấy trong tinh dầu có Thành phần chủ yếu
+================== 1-8 cineol (30,61%),
 trans-2 undecanal (17,33%), citral B (geranial) (10,57%), terpineol
 (4,34%).
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thảo quả có tác dụng táo thấp ôn trung, tiệt ngược.
 
@@ -58,12 +63,16 @@ Theo các sách thuốc cổ:
    làm tổn thương chân khí nên trừ khí độc phải dùng thuốc ôn táo phương
    hương để thắng âm ma thấp trọc".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 Nước sắc 0,25 - 0,75% của Thảo quả có tác dụng hưng phấn ruột cô lập của
 súc vật thí nghiệm (guinea-pig).
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng ngực bụng đau đầy do hàn thấp tích trệ:
 
@@ -101,7 +110,8 @@ thượng vị đầy đau, nôn . dùng bài:
 
 4.Trị hôi miệng: Thảo quả giã dập ngậm vào miệng nuốt nước.
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
 -  Liều: 3 - 6g, uống độc vị hoặc phối hợp với nhiều loại thuốc sắc
    uống.

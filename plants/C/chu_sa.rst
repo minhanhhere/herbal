@@ -23,7 +23,8 @@ sản xuất ở Thần châu là thứ tốt và gọi là Chu sa. Trên thị 
 loại Chu sa nhân tạo (Vemilion), nhưng người ta cho là Chu sa thiên
 nhiên tốt hơn.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Chu sa vị ngọt tính hàn, qui kinh Tâm.
 
@@ -37,14 +38,17 @@ Theo các sách thuốc cổ:
    kinh, thủ thiếu âm tâm kinh.
 -  Sách Bản thảo tái tân: nhập 2 kinh Tâm tỳ.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Thủy ngân sulfur (mercuric sulfide) chiếm khoảng 96%, oxyt sắt,
 phosphat, selen, chất hữu cơ, đất.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Chu sa có tác dụng trấn tâm an thần, thanh nhiệt giải độc. Chủ trị các
 chứng: tâm hỏa thịnh, tâm thần bất an, kinh quí, điên giản (động kinh),
@@ -58,7 +62,9 @@ Trích đoạn Y văn cổ:
 -  Sách Bản thảo cương mục: "*trị kinh giản, giải thai độc, đậu độc,
    trục tả ngược".*
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Muối HgSe dưới dạng keo có trong Chu sa hây Thần sa hoặc tổng hợp
    được ít độc và có tác dụng:
@@ -73,7 +79,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 
 HgS + O2 (lửa) Þ SO2­ + Hg
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng suy nhược thần kinh, tnh thần bứt rứt, khó ngủ, tim hồi hộp:
 
@@ -113,7 +121,8 @@ HgS + O2 (lửa) Þ SO2­ + Hg
    8g. Tất cả tán bột mịn làm hồ, mỗi lần uống 1 - 3g với nước thang
    Đăng tâm.
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
 -  Liều: 0,3 - 1g, bột mịn hòa uống.
 -  Uống trong có thể là thuốc hoàn tán có Chu sa. Chu sa uống với nước

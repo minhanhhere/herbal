@@ -10,7 +10,8 @@ Cây được trồng khắp nơi, ở nước ta mọc ở vùng ao đầm. Thu
 các tháng 7 - 9, hái gương sen về lấy quả, bỏ vỏ phơi hay sấy khô làm
 thuốc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Hạt sen vị ngọt sáp, tính bình, qui kinh Tâm, Tỳ, Thận.
 
@@ -24,14 +25,17 @@ Theo các sách thuốc cổ:
    thiếu âm.
 -  Sách Bản thảo tân biên: nhập 4 tạng: Tâm Tỳ Can Thận.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Hạt sen có các thành phần: Hydrat Carbon, protid, lipid, calci,
 phosphor, sắt, raffinose, oxoushinsunine, N-normepavine.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Liên tử có tác dụng bổ tỳ chỉ tả, ích thận, cố tinh, dưỡng tâm an thần.
 Chủ trị các chứng Tỳ hư cửu tả, thận hư, di tinh, hoạt tinh, đới hạ, bứt
@@ -47,11 +51,15 @@ Trích đoạn Y văn cổ:
    thấp, chỉ tỳ tả cửu lî, xích bạch trọc, phụ nữ băng trung đới hạ, các
    bệnh về huyết".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 Chất oxoushinsunine trong hạt sen có khả năng ức chế ung thư mũi họng.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị tiêu chảy, lî mạn tính do tỳ hư:
 
@@ -73,9 +81,11 @@ Chất oxoushinsunine trong hạt sen có khả năng ức chế ung thư mũi h
    linh, Hoàng kỳ, Đảng sâm đều 10g, Trần bì 5g, Cam thảo 4g, sắc nước
    uống.
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
--  Liều thường dùng: 6 - 15g.
+-  Liều thường dùng
+================ 6 - 15g.
 -  Trường hợp thực nhiệt và đại tiện táo bón không nên dùng.
 
 LIÊN TỬ TÂM
@@ -100,7 +110,8 @@ Sinh địa, Mao căn, Tê giác để lương huyết chỉ huyết, dùng tr�
 hư hoạt tinh, di tinh phối hợp với Tang phiêu tiêu, Sa uyển tử, Kim anh
 tử .
 
-Liều thường dùng: 1,5 - 3g sắc uống.
+Liều thường dùng
+================ 1,5 - 3g sắc uống.
 
 LIÊN TU
 
@@ -119,7 +130,8 @@ Khiếm thực, Long cốt, Mẫu lệ. như bài Kim tỏa cố tinh hoàn (Y p
 tập giải) có các vị: Sa uyển tử, Liên tu, Mẫu lệ, Khiếm thực, Long cốt (
 giấm nướng).
 
-Liều thường dùng: 1,5 - 5g.
+Liều thường dùng
+================ 1,5 - 5g.
 
 Trong Liên tu có chất Tanin và alkaloid.
 
@@ -137,7 +149,8 @@ Dùng trị các chứng băng lậu ra máu, tiểu có máu và nhiều chứn
 huyết khác. Dùng cầm máu thường đốt thành than, thường phối hợp với các
 loại thuốc khác.
 
-Liều thường dùng: 5 - 10g.
+Liều thường dùng
+================ 5 - 10g.
 
 Thành phần chủ yếu có: protid (4,9%), chất béo 0,6%, carbon hydrate 9%,
 ít carotin, nuclein, vitamin C.

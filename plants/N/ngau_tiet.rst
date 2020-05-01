@@ -9,7 +9,8 @@ Nelumboneae), dùng làm thuốc được ghi đầu tiên trong sách " Dược
 bản thảo". Cây sen được trồng nhiều nơi trong nước ta để ăn, làm cảnh và
 làm thuốc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt sáp tính bình. Qui kinh Can, Phế Vị.
 
@@ -21,14 +22,17 @@ Theo các sách cổ:
 -  Sách Bản thảo tối yếu: nhập thủ thiếu âm, túc dương minh, quyết âm
    kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Asparagin 2% acginin, trigonilin, tyrosin, ête phosphoric, glucoza,
 vitamin c, trigonelin và tannin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thu liễm chỉ huyết. Chủ trị các chứng thổ huyết, ho ra máu, niệu huyết,
 tiện huyết.
@@ -49,13 +53,17 @@ Trích đoạn Y văn cổ:
 -  Sách Bản thảo tái tân: "lương huyết dưỡng huyết, lợi thủy thông
    kinh".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 Thực nghiệm chứng minh thuốc có tác dụng rút ngắn thời gian chảy máu.
 Sau khi đốt thành than, chất tannin và chất canxi trong thuốc tăng nên
 tác dụng cầm máu mạnh hơn.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị các chứng chảy máu: thuốc có tác dụng liễm huyết, cầm máu, dùng
 các bài:

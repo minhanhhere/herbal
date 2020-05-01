@@ -89,6 +89,7 @@ Thuốc nhiều chất dầu béo nên có tác dụng nhuận tràng.
 Liều thường dùng và chú ý
 =========================
 
--  Liều thường dùng: 8 - 18g, lúc dùng đập nát. Bệnh nhân tiêu lỏng có
+-  Liều thường dùng
+================ 8 - 18g, lúc dùng đập nát. Bệnh nhân tiêu lỏng có
    thể dùng Bá tử nhân sương.
 -  Chú ý: Tiêu lỏng dùng thận trọng.

@@ -25,15 +25,18 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo cương mục: nhập Quyết âm kinh.
 -  Sách Y lâm soạn yếu thâm nguyên: nhập can tâm.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Toàn con Rết có 2 loại nọc độc như nọc độc ong tức giống histamin và
 chất protid tán huyết. Ngoài ra còn có delta-hydroxylysine taurin, acid
 amin, dầu mỡ, cholesterol.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Ngô công có tác dụng: tức phong chỉ kinh (chống co giật), giải độc tán
 kết, thông lạc chỉ thống (cầm đau).
@@ -50,7 +53,9 @@ Trích đoạn Y văn cổ:
 -  Sách Bản thảo cương mục: " trị trẻ em co giật, tề phong, cấm khẩu,
    đơn độc, loa lịch, trĩ lậu, rắn cắn.".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thuốc có tác dụng chống co giật: Ngô công và Toàn yết cùng dùng với
    liều lượng bằng nhau có tác dụng chống cơn co giật do strychnin trên
@@ -60,7 +65,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 #. Thuốc có tác dụng kháng hoạt tính ung thư.
 #. Có tác dụng tiêu sưng độc.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị trẻ em co giật, uốn ván, động kinh, liệt dây thần kinh mặt: dùng
 các bài:

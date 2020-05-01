@@ -9,7 +9,8 @@ Apiaceae Hance) và cây Hoàng hoa cao (A.annua L.), thuộc họ Cúc
 (Asteraeae) hay (Compositae). Cây mọc hoang và được trồng nhiều ở miền
 Bắc nước ta.
 
-Tính vị qui kinh: Vị đắng cay, tính hàn, qui kinh Can, Đởm, Vị.
+Tính vị qui kinh
+================ Vị đắng cay, tính hàn, qui kinh Can, Đởm, Vị.
 
 Theo các tài liệu cổ:
 
@@ -18,14 +19,17 @@ Theo các tài liệu cổ:
 -  Sách Bản thảo cương mục: thiếu dương, quyết âm, huyết phận.
 -  Sách Bản thảo tân biên: Nhập 4 kinh Vị Can Tâm Thận.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Trong cây Thanh hao có tinh dầu, chất đắng và một số ancaloit gọi là
 abrotanin tức là Thanh hao kiềm (C21H22N2O).
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền: Thanh hao có tác dụng: thanh nhiệt, triệt ngược,
+Theo Y học cổ truyền
+-------------------- Thanh hao có tác dụng: thanh nhiệt, triệt ngược,
 thối hư nhiệt, lương huyết giải thử. Trị chứng sốt rét, âm hư nội nhiệt,
 cốt chưng không ra mồ hôi, đem nóng sáng mát, ngoại cảm thử nhiệt.
 
@@ -53,7 +57,9 @@ dụng sau:
 #. Có tác dụng bảo hộ và điều tiết khả năng miễn dịch của cơ thể.
 #. Cao nước Thanh hao bôi ngoài da chống được muỗi.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trong đông y: thường sử dụng Thanh hao phối hợp với các loại thuốc tư
 âm thanh nhiệt khác như Tri mẫu, Đơn bì, Địa cốt bì, Miết giáp trị chứng

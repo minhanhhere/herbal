@@ -10,7 +10,8 @@ Hoa môi (Lamiaceae). Còn có tên là Huyết sâm, Xích sâm, Huyết căn, 
 tây, Hà bắc, Tứ xuyên, Giang tô mới được di thực vào nước ta trồng ở Tam
 đảo. Hiện ta còn dùng thuốc nhập của Trung quốc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị đắng, tính hơi hàn, qui kinh Tâm, Tâm bào, Can.
 
@@ -22,7 +23,8 @@ Theo các sách Y văn cổ:
 -  Sách Bản thảo kinh sơ: Vị đắng, bình, hơi ôn, qui kinh thủ túc thiếu
    âm, túc quyết âm.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Trong sách " Những cây thuốc và vị thuốc Việt nam" của GS Đỗ tất Lợi
 trong Đan sâm có chứa các chất xeton có tinh thể: Tansinon I, Tansinon
@@ -30,9 +32,11 @@ II, Tansinon III và chất tinh thể màu vàng criptotansinon (
 kryptotanshinon). Ngoài ra còn có acid lactic, phenol đan sâm, vitamin
 E.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Đan sâm có tác dụng: hoạt huyết hóa ứ, lương huyết tiêu ung, dưỡng huyết
 an thần, thanh nhiệt trừ phiền.
@@ -63,7 +67,9 @@ Trích đoạn Y văn cổ:
    trưng hà, mục xích, sán thống, sang giới sưng đau, do thuốc có tác
    dụng khu ứ mà bệnh khỏi".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 1.Đan sâm có tác dụng làm giãn động mạch vành, khiến lưu lượng máu của
 động mạch vành tăng rõ, cải thiện chức năng tim, hạn chế nhồi máu cơ
@@ -80,7 +86,9 @@ triglicerit của gan và máu.
 5.Thuốc có tác dụng kháng khuẩn, an thần, ức chế sự phát triển của tế
 bào ung thư trên chuột thực nghiệm.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 Đan sâm được sử dụng rộng rãi và có hiệu quả trong điều kiện trị chứng
 huyết ứ (máu cục, bầm tím, ban ứ huyết, huyết tụ, máu lưu thông chậm.)

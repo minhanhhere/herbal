@@ -17,7 +17,8 @@ Thanh hóa, Nam hà, Thái bình, Quảng ninh.
 Đến mùa hè thu hái rong biển đem về bỏ tạp chất, rửa sạch phơi cho héo
 cắt nhỏ phơi khô làm thuốc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Hải tảo vị mặn, tính hàn, qui kinh Can Vị Thận.
 
@@ -28,7 +29,8 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo tân biên: nhập Phế.
 -  Sách Bản thảo tái tân: nhập 2 kinh Phế Vị.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Alginic acid, manitol, kali, iod, laminine, sargassan.
 
@@ -40,9 +42,11 @@ Theo sách Trung dược học thành phần có iod (Dương thê thái 0,03%, 
 khao tử 0,017%), acid Hải tảo, Hải giao tố (gelatine), manitol, amino
 acid, sắt. Kali.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Hải tảo có tác dụng; tiêu đàm nhuyễn kiên, lợi thủy tiêu phù.
 
@@ -59,7 +63,9 @@ Trích đoạn Y văn cổ:
 -  Sách Dược tính bản thảo: " liệu sán khí hạ trụy đông thống, hạch
    thũng".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thuốc có nhiều iod nên có tác dụng điều trị đối với bướu cổ do thiếu
    iod. Đồng thời cũng có tác dụng giảm nhẹ triệu chứng đối với chứng
@@ -81,7 +87,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    Thần nông bản thảo đề xuất có nói đến Cam thảo phản Cam toại, Đại
    kích, Nguyên hoa, Hải tảo).
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị thiếu máu não: Trong Hải tảo có thể chiết xuất một loại PSS tác
 dụng giống như Heparin, có tác dụng chống đông máu, làm giảm độ dính của
@@ -107,7 +115,8 @@ chí Thực dụng Nội khoa 1987,11:580)
    truật đều 8g, Tam lăng 4g (hoặc thay củ Cói), Trần bì, Bán hạ đều 2g,
    nước 600ml sắc còn 300ml uống 2 lần trong ngày.
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
 -  Liều: 10 - 15g uống.
 -  Theo các sách cổ thì Hải tảo phản Cam thảo nhưng chưa có tài liệu

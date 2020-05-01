@@ -19,7 +19,8 @@ Trung quốc.
 
 Bạch hoa xà thiệt thảo còn có tên là Cây Xà thiệt thảo, Nhị diệp lục.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị hơi đắng, ngọt tính hàn.
 
@@ -28,14 +29,17 @@ Qui kinh Vị, Đại tràng, Tiểu tràng.
 Theo sách: " Quảng tây Trung dược chí": Vị đắng, ngọt tính ôn, không
 độc, qui kinh Tâm Can Tỳ".
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Hentriaconotane, Stigmastatrienol, Ursolic acid, Oleanoic acid, beta -
 sitosterol, p - coumaric, beta - sitosterol - D - glucoside.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền: Thanh nhiệt giải độc tiêu ung kháng nham, lợi
+Theo Y học cổ truyền
+-------------------- Thanh nhiệt giải độc tiêu ung kháng nham, lợi
 thấp. Chủ trị các chứng ung nhọt, sang độc, trường ung, yết hầu, sưng
 đau, rắn độc cắn, ung thư, nhiệt lâm, tiểu tiện khó.
 
@@ -61,7 +65,9 @@ B.Theo kết quả nghiên cứu dược lý hiện đại:
 #. Tam thảo thang (Bạch hoa xà thiệt thảo, Hạ khô thảo, Cam thảo theo tỷ
    lệ 2:2:1), có tác dụng bảo vệ gan, lợi mật.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị viêm ruột thừa cấp đơn thuần và viêm phúc mạc nhẹ: Dùng 60g thuốc
 sắc chia 2 - 3 lần uống trong ngày. Bệnh nặng phối hợp thêm Hải kim sa
@@ -86,7 +92,8 @@ vàng da, có kết quả 100%, ngày nằm viện bình quân 25,3 ngày (Theo 
 cáo của Khoa nhiễm Bệnh viện trực thuộc số 2 Học viện Y học Hà nam - Bản
 thông tin Trung dược thảo 1978,7:28).
 
-Liều dùng và chú ý;
+Liều lượng thường dùng và chú ý
+===============================
 
 -  Liều dùng uống: 15 - 60g, dùng ngoài tùy ý theo bệnh lý.
 -  Chú ý: là một cây thuốc mới được phát hiện có tác dụng giải độc tiêu

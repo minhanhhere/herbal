@@ -9,7 +9,8 @@ Thổ Hoàng liên (Rhizoma Thalictri) là thân rễ phơi hay sấy khô của
 Thổ Hoàng liên (Thalictrum foliolosum D.C.) và nhiều loài khác thuộc
 giống Thalictrum.
 
-Tính vị qui kinh: vị rất đắng.
+Tính vị qui kinh
+================ vị rất đắng.
 
 Thành phần hóa học: trong Thổ hoàng liên có khoảng:3% Becberin; 0,3%
 panmatin; 0,02% jatrorrhizin. Ngoài ra có một ít thalictrin.

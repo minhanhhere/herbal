@@ -8,11 +8,13 @@ Vị thuốc Cát căn là rễ của cây Sắn dây (Pueraria thomsoni Benth )
 họ Cánh bướm (Papilionaceae). Vị ngọt nhạt tính mát (có tài liệu nói vị
 ngọt cay tính bình, qui kinh Tỳ Vị.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Có tinh bột, các flavonoit puerarin, daizin, daizein.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 Tài liệu cổ ghi nhận Sắn dây có tác dụng: tán nhiệt giải cảm, tuyên độc
 thấu chẩn, giải kinh (chống co giật), sinh tân chỉ khát.
@@ -35,7 +37,9 @@ nghiệm (theo tài liệu trên đây).
 4.Ngoài ra sử dụng thuốc trên lâm sàng còn thấy tác dụng thu liễm tiêu
 viêm làm giãn cơ co thắt của cơ.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Chữa cảm mạo: Sốt phiền khát cứng đau gáy, dùng bài:
 

@@ -10,7 +10,8 @@ bì (Acanthopanax gracilistylus W. W Smith và Thích gia bì A.senticosus
 ngắn (Acanthopanax sessiliforus (Rupr et Maxim) Seem; Hồng mao ngũ gia
 A.Leucorrhizus Harms.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị cay đắng, tính ôn, qui kinh Can thận.
 
@@ -19,16 +20,19 @@ Theo các sách thuốc cổ:
 -  Sách Bản kinh: vị cay ôn.
 -  Sách Lôi công bào chế dược tính giải: nhập 2 kinh Phế Thận.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Có nhiều Glucosid. Từ rễ chiết xuất ra 5 loại glucosid Thích Ngũ gia A,
 B, C, D, E từ lá chiết xuất ra glucosid lá Ngũ gia I,K,M. Ngoài ra còn
 có 4-Methyl salicyladehyde, palmitic acid, linoleic acid, tanin,
 polysaccharid, vitamin A,B1, các nguyên tố vi lượng Zn, Cu, Mn.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Trừ phong thấp, cường gân cốt (mạnh gân xương), tiêu phù.
 
@@ -70,7 +74,9 @@ B.Kết quả nghiên cứu theo dược lý hiện đại (vị Thích Ngũ gia
 #. Thuốc có long đờm, cầm ho và làm giảm cơn ho suyễn.
 #. Thuốc có tác dụng chống ung thư.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng đau thấp, đau nhức cơ khớp mình mẩy, mỏi mệt:
 

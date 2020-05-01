@@ -20,7 +20,8 @@ Cây Bìm bìm biếc mọc hoang nhiều ở nước ta. Nhiều nước khác 
 Trung quốc, Aán độ, Indonesia, Thái lan, Nhật bản. Vào các tháng 7 - 10
 hái quả chín về đập lấy hạt phơi khô làm thuốc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Khiên ngưu tử vị đắng cay, tính hàn có độc, qui kinh Phế, Thận, Đại
 tràng.
@@ -32,15 +33,18 @@ Theo các sách thuốc cổ:
    thận phải.
 -  Sách Bản thảo thông huyền: nhập Phế, Đại, Tiểu trường kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Pharbitin (có Pharbitic acid vài purolic acid), là chất glucosid có
 khoảng 2%, nilic acid, gallic acid, lysergol, chanoclavine,
 penniclavine, Isopenniclavine, elymoclavine.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Khiên ngưu tử có tác dụng: tả hạ lợi tiểu, tả phế khí trục đàm ẩm, tiêu
 tích thông tiện, trục trùng.
@@ -58,7 +62,9 @@ Trích đoạn Y văn cổ:
    huyết, tỳ vị hư nhược gây nên bí mãn thì dùng thuốc không kết quả
    ngay mà dùng lâu thì tổn thương nguyên khí."
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Chất pharbitin vào ruột gặp mật và dịch ruột thủy phân thành Khiên
    ngưu tử tố kích thích ruột làm tăng nhu động gây tẩy xổ. Nước hoặc
@@ -71,7 +77,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    hóa, liều cao có thể ảnh hưởng đến thận dẫn đến huyết niệu cũng như
    triệu chứng thần kinh.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng phù thũng, bụng đầy, đại tiểu tiện ít:
 
@@ -107,9 +115,11 @@ viên hoặc hoàn. Trị 115 ca trong 3 tháng, tỷ lệ có kết quả 56,7%
 quả trị bệnh của viên và hoàn là như nhau, đối với tất cả các thể bệnh
 đều có hiệu quả (Tạp chí Nội khoa Trung hoa 1977,6:323).
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
--  Liều thường dùng: thuốc thang 3 - 10g, đập nát cho vào nước sắc.
+-  Liều thường dùng
+================ thuốc thang 3 - 10g, đập nát cho vào nước sắc.
    Thuốc hoàn tán mỗi lần dùng 1,5 - 3g.
 -  Chú ý: Khiên ngưu dùng liều cao, ngoài việc kích thích trực tiếp niêm
    mạc dạ dày ruột gây nôn, đau bụng tiêu chảy, tiêu ra máu mũi, thuốc

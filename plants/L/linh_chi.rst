@@ -24,14 +24,16 @@ số cơ sở đã bắt đầu trồng nấm Linh chi để dùng trong nước
 mọc hoang thường được thu hoạch về mùa thu, đem về rửa sạch, phơi khô để
 dùng.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 -  Sách Bản kinh: vị ngọt, ôn.
 
 -  Sách Dược tính bản thảo: ngọt, bình, không độc.
 -  Sách Trung dược học: ngọt, bình. Qui kinh: Tâm Can Phế.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Theo Viện nghiên cứu tỉnh Quảng đông, thành phần hóa học của nấm Linh
 chi hoang dại có: nước 12 - 13%, Lignin 13 - 14%, hợp chất có N 1,6 -
@@ -44,9 +46,11 @@ Theo công trình nghiên cứu gần đây, thành phần chủ yếu các lo�
 có: acid amin, protid, saponin, steroit, polysaccrit, germanium, (cao
 hơn lượng germanium có trong Nhân sâm 5 - 8 lần), acid ganoderic.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 -  Theo sách Thần nông bản thảo và Bản thảo cương mục: "Thanh chi tính
    bình không độc, chủ trị sáng mắt, bổ can khí, an thần, tăng trí nhớ,
@@ -59,7 +63,9 @@ A.Theo Y học cổ truyền:
    chỉ khái bình suyễn, bổ khí dưỡng huyết, chủ trị các chứng tâm thần
    bất an, khái thấu háo suyễn, khí huyết bất túc, tỳ vị hư nhược".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thuốc có tác dụng an thần, làm giảm hưng phấn của thần kinh trung
    ương. Cồn Linh chi có tác dụng chống co giật do điện, giảm đau.
@@ -75,7 +81,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 #. Germanium giúp khí huyết lưu thông, các tế bào hấp thu oxy tốt hơn.
    Acid ganoderic có tác dụng chống dị ứng và chống viêm.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị suy nhược thần kinh: Bệnh viện Hoa sơn thuộc Viện Y học số 1
 Thượng hải báo cáo: Dùng cả 2 loại Linh chi nhân tạo và Linh chi hoang
@@ -112,7 +120,9 @@ tỷ lệ kết quả 79,1%, viêm da cơ 43 ca, có kết quả 95%, Liput ban 
 ca có kết quả 90%, ban trọc 232 ca, có kết quả 78,88% (Thông tin nghiên
 cứu Y học 1984,12:22).
 
-7.Theo sách Trung dược ứng dụng lâm sàng: thuốc có tác dụng đối với bệnh
+7.Theo sách Trung dược Ứng dụng lâm sàng
+=================
+ thuốc có tác dụng đối với bệnh
 loét bao tử, rối lọan tiêu hóa kéo dài, thường dùng phối hợp với Ngũ bội
 tử, Đảng sâm, Bạch truật, Trần bì, Kê nội kim, Sa nhân, Sinh khương.
 
@@ -129,7 +139,8 @@ nấm Linh chi về nấu canh, nấu súp làm món ăn cao cấp.
 
 Liều dùng và các dạng thuốc thường dùng:
 
--  Liều thường dùng: 5 - 15g, thuốc bột mịn mỗi lần 1,5 - 3g, thuốc
+-  Liều thường dùng
+================ 5 - 15g, thuốc bột mịn mỗi lần 1,5 - 3g, thuốc
    viên, viên nang (Thuốc Trung quốc mỗi nang có 300 - 350mg đông khô
    nấm Linh chi), liều dùng 1 - 2 nang một ngày. Cũng có dạng thuốc tiêm
    bắp, dạng trà Nhân sâm phối hợp Linh chi.

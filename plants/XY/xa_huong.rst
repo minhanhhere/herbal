@@ -30,7 +30,8 @@ trạng thái bột quen gọi là Nguyên thốn hương gọi tắt là Nguyê
 Thốn hương dược lực kém hơn và rẻ hơn. Hai loại Xạ hương đó dạng dầu
 nhuận hương nồng là thứ tốt.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Xạ hương vị cay, tính ôn, qui kinh Tâm can tỳ. Thuốc có đặc tính thơm
 xuyên cho nên thuốc có thể thông suốt 12 kinh.
@@ -43,7 +44,8 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo hội ngôn: nhập túc thái âm, thủ thiếu âm kinh.
 -  Sách Bản thảo tái tân: nhập kinh Tâm can.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Xạ hương có chất cholesterine, chất béo, một chất nhựa trắng, muối calci
 và amoniac với tỷ lệ thay đổi, một tinh dầu có thành phần chủ yếu là một
@@ -53,9 +55,11 @@ hương còn có normuscone và các thành phần khác như protid, các hợp
 nitrogen (acid amine, urê), muối vô cơ (Ca, K,Na, Mg, Phosphor.). Hiện
 nay người ta có thể chế Xạ hương nhân tạo.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Xạ hương có tác dụng: khai khiếu tỉnh thần, hoạt huyết tán kết, chỉ
 thống thôi sản. Chủ trị các chứng: nhiệt nhập tâm bào lúc mắc bệnh ôn
@@ -92,7 +96,9 @@ Trích đọan Y văn cổ:
 -  Sách Cảnh nhạc toàn thư: " trừ các chứng ác sang, trĩ lậu, sưng đau,
    nước mủ thịt thối, mặt sạm ban chẩn".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Đối với hệ thần kinh trung ương: Liều nhỏ Xạ hương và chất muscone
    ceton Xạ hương có tác dụng hưng phấn hệ thần kinh trung ương, nhưng
@@ -117,7 +123,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    tràng, ung thư bàng quang, nồng độ cao tác dụng mạnh. Nhưng đối với
    ung thư tâm vị lại không có tác dụng rõ rệt.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị bệnh mạch vành:
 
@@ -157,7 +165,8 @@ lệ kết quả 83,33% (Liêu Túy Lâm và cộng sự, Học báo Viện Y h�
 -  Hương quế tán: Xạ hương 0,15g, Nhục quế 1,5g, tán bột mịn chia 2 lần
    uống với nước nóng.
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
 -  Liều uống: 0,06 - 0,1g nhiều đến 1g. Dùng ngoài lượng vừa đủ.
 -  Chỉ cho vào thuốc hoàn tán, không cho vào thuốc thang.

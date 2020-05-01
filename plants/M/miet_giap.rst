@@ -22,7 +22,8 @@ Miết giáp sạch vào rang cho đến lúc chuyển thành màu vàng nhạt,
 tẩm dấm (mỗi 100kg Miết giáp cho 20kg dấm), sao khô tức Miết giáp chích
 dấm.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị mặn, tính hàn, qui kinh Can.
 
@@ -38,13 +39,16 @@ Về qui kinh:
 -  Sách Lôi công bào chế dược tính giải: nhập can tỳ.
 -  Sách Bản thảo hội ngôn: nhập túc quyết âm, thiếu âm kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Colloid. Kertin, Iodine, vitamin D.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Tư âm tiềm dương, nhuyễn kiên tán kết. Chủ trị các chứng hư phong nội
 động, âm hư phát nhiệt, cửu ngược, ngược mẫu, kinh bế, trưng hà.
@@ -74,13 +78,17 @@ Trích đoạn Y văn cổ:
    trị chứng da thịt lóet do bỏng nước sôi, nếu khô thì trộn dầu mè bôi
    vào, nếu ướt thì rắc bột khô sẽ hết đau".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 Thuốc có tác dụng ức chế sự tăng sinh của tổ chức liên kết, vì thế mà
 tiêu khối u, làm tăng protid huyết tương, kéo dài thời gian tồn tại của
 kháng thể, có tác dụng an thần.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị lao phổi có triệu chứng hư nhiệt, triều nhiệt, mồ hôi trộm:
 

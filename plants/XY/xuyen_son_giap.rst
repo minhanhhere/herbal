@@ -7,7 +7,8 @@ Xuyên sơn giáp là vẩy phơi khô của con Tê tê (con Trút) Manis
 Pentadactyla L. thuộc họ Tê tê (Manidae), dùng làm thuốc được ghi đầu
 tiên trong sách Danh y biệt lục với tên gọi là Lăng lý.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Tính hàn, vị hơi mặn. Qui kinh Can Vị.
 
@@ -18,11 +19,14 @@ Theo sách cổ truyền:
 -  Sách Bản thảo cương mục: " nhập Quyết âm, dương minh kinh".
 -  Sách Bản thảo hội ngôn: " nhập túc thái âm, quyết âm kinh".
 
-Thành phần chủ yếu: chưa có tài liệu nghiên cứu .
+Thành phần chủ yếu
+================== chưa có tài liệu nghiên cứu .
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 1.Hoạt huyết thông kinh, chủ trị các chứng: kinh bế, trưng hà, phong
 thấp, tý thống.
@@ -40,11 +44,15 @@ Theo các sách Y văn cổ:
    phong tý cứng đau, thông kinh mạch, thông sữa, tiêu ung bài nùng
    huyết, thông khiếu sát trùng..."
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 Thuốc có tác dụng nâng cao bạch cầu.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị phụ nữ sau sinh sữa tắc không thông:
 

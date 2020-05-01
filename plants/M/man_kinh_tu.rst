@@ -9,12 +9,14 @@ sao qua.
 
 Vị đắng cay tính hơi hàn. Qui kinh Can, Phế và Bàng quang.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Quả có tinh dầu, trong tinh dầu có Cam phen, pinen, ditecpen alcool và
 tecphenilaxetat, có ancaloit, vitamin A.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 -  Theo Y học cổ truyền thuốc có tác dụng:
 
@@ -27,7 +29,9 @@ nhiệt.
 
 -  Y học hiện đại chưa thấy có tài liệu nghiên cưú.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị đau đầu do cảm mạo: dùng bài:
 

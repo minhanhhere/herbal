@@ -18,7 +18,8 @@ trong cần dùng Lưu hoàng chế tức đem Lưu hoàng nấu chung với đ�
 Lưu hoàng 100kg dùng 200kg đậu hũ, nấu đến khi đậu hũ biến thành màu đen
 lục lấy ra rửa sạch âm can đập vụn.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Lưu hoàng vị chua, tính ôn có độc, qui kinh Thận, Đại tràng.
 
@@ -32,13 +33,16 @@ Theo các sách thuốc cổ:
 -  Sách Ngọc thu dược giải: nhập túc thái âm tỳ, túc thiếu âm thận, túc
    quyết âm can.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Sulfur, tefllurium, selenium, sắt, arsenic. tạp chất.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Lưu hoàng có tác dụng sát trùng, chỉ dưỡng, tráng dương thông tiện. Chủ
 trị các chứng ghẻ lở, thấp chẩn, ngứa ngoài da, các chứng thận hỏa suy,
@@ -59,7 +63,9 @@ Trích đoạn Y văn cổ:
 -  Sách Bản thảo cương mục: " chủ hư hàn cửu lî hoạt tả, hoắc loạn, bổ
    mệnh".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Tác dụng đối với đường ruột: khi uống sulfur vào, sulfur kết hợp với
    các chất trong ruột thành sulfide bao gồm cả hydrogen sulfide, các
@@ -70,7 +76,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 #. Trên súc vật thực nghiệm chứng minh thuốc có tác dụng giảm ho hóa đàm
    và có tác dụng trị viêm khớp do formaldehydum ở chuột thí nghiệm.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị mụn nhọt, ghẻ: Lưu hoàng, Đại phong tử, Xà sàng tử lượng bằng nhau
 giã nhỏ trộn đều thêm dầu vừng bôi lên mụn nhọt, hoặc dùng vaselin Lưu

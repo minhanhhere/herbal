@@ -17,7 +17,8 @@ Lúc bào chế, lấy phiến (thỏi) Thiềm tô đập vụn cho vào rượ
 khuấy đều, sấy khô tán thành bột Thiềm tô. Cứ 10kg Thiềm tô dùng 20kg
 rượu trắng, khoảng 1 vạn con cóc cho 1 kg nhựa cóc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Thiềm tô vị cay ngọt, tính ôn, có độc, qui kinh Tâm.
 
@@ -28,7 +29,8 @@ Theo các sách thuốc cổ:
    độc.
 -  Sách Bản thảo thông huyền: nhập túc dương minh, thiếu âm.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Bufadienolide, bufotalin, cinobufagin, cinobufotalin, cinobufaginol,
 desacetylcinobufagil, bufogenin, gamabufogenin, resibufogenin,
@@ -36,9 +38,11 @@ cinobufotoxin, bufalin, telocinobufagin, desacetyl cinobufotalin,
 hellegrigenin, beta-sitosterol, campesterol, serotonine, bufotenine,
 bufotenindine, bufothionine, dehydrobufoenine, tryptamine.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Nhựa Cóc có tác dụng tiêu thũng giải độc, chỉ thống, khai khiếu tịch uế,
 tiêu tích. Chủ trị các chứng: ung thư đinh sang, yết hầu đau sưng, nham
@@ -61,7 +65,9 @@ Trích đọan Y văn cổ:
    nguyên, các khe khớp. Trị cam tích, tiêu cổ trướng, giả đinh độc.
    thuốc có tác dụng tống độc".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thuốc có tác dụng cường tim giống Digitalis nhưng không tích lũy.
 #. Thuốc có tác dụng tăng huyết áp và hưng phấn trung khu hô hấp. Tác
@@ -96,7 +102,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    bụng 26,81mg/kg. Atropin có tác dụng giải độc nhựa cóc, Adrenalin
    không có tác dụng giải độc.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị các loại ung thư:
 
@@ -218,7 +226,8 @@ nhọt sưng tấy, hoặc mùa hè trúng hàn thổ tả, đau bụng mê man:
    mịn hòa nước làm hoàn, mỗi lần uống 1 - 1,5g. Trị chứng mùa hè trúng
    hàn thổ tả, đau bụng mê man bất tỉnh.
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
 -  Liều dùng ngoài: lượng vừa đủ, tán bột mịn hòa nước bôi hoặc làm
    thuốc cao đắp tại chỗ. Uống trong: 0,015 - 0,030g, phần nhiều cho vào
@@ -254,7 +263,8 @@ tiêu trướng.
 Chủ trị các chứng: ung thư thũng độc, cam tích, phúc trướng. Gần đây có
 dùng trị ho suyễn đàm nhiều và ung thư ác tính.
 
-Liều thường dùng: uống 3 - 6g cho vào thuốc thang hoặc tán bột. Có thể
+Liều thường dùng
+================ uống 3 - 6g cho vào thuốc thang hoặc tán bột. Có thể
 chế thành thuốc chích truyền tĩnh mạch. Dùng ngoài: lượng vừa đủ, nếu da
 khô tán bột hòa nước đắp, nếu là tươi (mới lột da), đắp vào vùng đau.
 

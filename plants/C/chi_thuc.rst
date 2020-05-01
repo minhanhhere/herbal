@@ -14,7 +14,8 @@ Triết giang, Giang tô, Hồ nam.
 
 Chỉ thực dùng làm thuốc được ghi đầu tiên trong sách "Bản kinh".
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Đắng cay hơi hàn. Qui kinh Tỳ, Vị, Đại tràng.
 
@@ -27,13 +28,15 @@ Tính vị quy kinh theo sách cổ:
 -  Sách Lôi công bào chế dược tính giải: nhập Tâm tỳ.
 -  Sách Bản thảo tái tân: nhập can tỳ.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Tinh dầu, Neohespendin, Naringin, Rhoifolin, Lonicerin, Vitamin c. Năm
 1978, hệ Dược Viện Y học Bắc kinh Trung quốc tìm thấy: 0,09% Ancaloit;
 20,49% Glucozit; 5,86% Saponin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 1.Theo y học cổ truyền: Thuốc có tác dụng phá khí tiêu tích, hóa đàm trừ
 bỉ. Chủ trị các chứng thực tích, bụng đau táo bón, tả lî, mót rặn (lý
@@ -78,7 +81,9 @@ thái bệnh lý là tốt.
 -  Chỉ thực có tác dụng lợi tiểu, chống dị ứng, Glucozit của Chỉ thực có
    tác dụng như Vitamin P làm giảm tính thẩm thấu của mao mạch.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị táo bón:
 

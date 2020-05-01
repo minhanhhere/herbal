@@ -15,7 +15,8 @@ qui mô để cất lấy tinh dầu. Những nước sản xuất Hoắc hươn
 Aán độ, Malasia, Philippin, Malgat, Indonesia, Trung quốc cũng có Hoắc
 hương khắp nơi nhưng nhiều ở các tỉnh Triết giang, Giang tô.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị cay, tính hơi ôn. Qui kinh Tỳ, Vị, Phế.
 
@@ -24,7 +25,8 @@ Theo các sách thuốc cổ:
 -  Sách Danh y biệt lục: hơi ôn.
 -  Sách Lôi công bào chế dược tính giải: vào 3 kinh Phế Tỳ Vị.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Herba Agastaches, Methylchavicol, anethole, anisaldehyde, d-limonene,
 p-methoxycinnamaldehyde, a-pinene, 3-octanol, p-cymene, 1-octen-3-ol,
@@ -36,9 +38,11 @@ beta elemene, alloaromadrene, gamma-patchouleme, beta-gurujunene,
 a-guaiene balencene, a-gurjunene, gamma-cadinnene, delta-guaiene,
 a-patchoulene, calamenene.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Hoắc hương có tác dụng: hóa thấp giải biểu tiêu thử, chỉ ẩu (cầm nôn),
 trị tiên (chàm).
@@ -58,7 +62,9 @@ Trích đoạn Y văn cổ:
    thời dịch dùng thuốc Hoắc hương để không cho ngoại tà xâm nhập cơ
    thể, thuốc có tác dụng giữ chính khí".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Quảng Hoắc hương có tác dụng kháng khuẩn rộng: thuốc có tác dụng ức
    chế các loại nấm gây bệnh, leptospirosis, tụ cầu khuẩn, trực khuẩn mủ
@@ -66,7 +72,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    song cầu khuẩn, rhinovirus. Thuốc còn có tác dụng chống thối.
 #. Tinh dầu Hoắc hương tăng tiết dịch dạ dày, tăng tiêu hóa.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng ngoại cảm hàn thấp: đau đầu, tức ngực, bụng đầy, tiêu chảy
 phân lỏng, hoặc nôn, buồn nôn (viêm đường ruột cấp biểu hàn nội thấp).
@@ -115,7 +123,8 @@ Hoắc hương là vị thuốc trị nôn có hiệu nghiệm nhưng phải tù
 gia vị như thấp nhiệt gia Hoàng liên, Trúc nhự; Tỳ vị hư gia Đảng sâm,
 Cam thảo; nôn do thai nghén gia Bán hạ, Sa nhân.
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
 -  Liều uống (cho vào thuốc thang, cao, hoàn tán): 5 - 10g.
 -  Dùng tươi lượng gấp đôi, có thể hãm nước sôi uống.

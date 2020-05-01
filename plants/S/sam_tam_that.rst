@@ -9,7 +9,8 @@ thất, sơn thất, Nhân sâm tam thất, là rễ phơi khô của cây Tam t
 (Panax notoginseng (burt). F.H.Chen hoặc Panax repens Maxim) thuộc họ
 Ngũ gia bì (Araliaceae).
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt hơi đắng, ôn. Qui kinh Can, Vị.
 
@@ -22,7 +23,8 @@ Theo các sách thuốc cổ:
 -  Sách bản thảo cầu chân: nhập Can, Vị kiêm Tâm, Đại tràng.
 -  Sách bản thảo tái tân: nhập Phế Thận.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Theo sách Trung dược học, thành phần chủ yếu có: saponin Tam thất tương
 tự như saponin của Nhân sâm, chủ yếu có saponin Nhân sâm Rb\ :sub:`1,`
@@ -34,9 +36,11 @@ cầm máu trong Tam thất là chất Decichine.
 Ngoài ra còn có alkaloit, protid, saccharide, lipid, tinh dầu, các acid
 amin tự do, caroten và calci.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Hóa ứ chỉ huyết, hoạt huyết định thống. Chủ trị các chứng xuất huyết
 ngoài và bên trong nội tạng, té ngã ứ huyết sưng đau.
@@ -62,7 +66,9 @@ Theo các Y văn cổ:
    đồng lượng bột Đại hoàng trộn dấm đăép). Trường hợp sang độc trong
    xương có thể dùng Tam thất làm độc thóat ra".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Tác dụng cầm máu: nước sắc uống của rễ Tam thất, bột Tam thất và dịch
    chiết Tam thất đều có tác dụng rút ngắn thời gian đông máu và thời
@@ -147,7 +153,9 @@ với rễ củ Tam thất 5 năm.
 #. Nước ngâm kiệt Tam thất trên ống nghiệm có tác dụng ức chế nhiều loại
    nấm ngoài da (Tạp chí Bệnh ngoài da Trung hoa:286-292,1957).
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị các chứng xuất huyết:
 

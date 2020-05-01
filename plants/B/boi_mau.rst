@@ -24,7 +24,8 @@ Bối mẫu dùng làm thuốc được ghi đầu tiên trong sách Bản kinh,
    chiết trồng tại nhiều nơi như Hàng châu, Giang tô, An huy, Hồ nam.
    Cho đến nay cây Bối mẫu chưa có ở Việt nam.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Xuyên Bối mẫu vị đắng ngọt, tính hơi hàn. Qui kinh Phế Tâm.
 
@@ -39,7 +40,8 @@ Theo các sách Y cổ:
 -  Sách Bản thảo kinh giải: nhập thủ thái âm phế kinh, thủ dương minh
    đại trường kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Theo sách Chinese Herba medicine, trong:
 
@@ -54,9 +56,11 @@ Theo sách Những cây thuốc và vị thuốc Việt nam, trong:
 -  Triết Bối mẫu có những alkaloid: peimin, peiminin, peimisin,
    peimiphin, peimidin, peimitidin, propeimin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Bối mẫu có tác dụng hóa đàm chỉ khái, thanh nhiệt tán kết. Chủ trị các
 chứng: phế hư cửu khái, ngoại cảm phong nhiệt hoặc đàm hỏa uất kết, loa
@@ -76,7 +80,9 @@ Trích đọan Y văn cổ:
    dùng khí lương, Bán hạ tính tốc, Bối mẫu tính hoãn, Bán hạ tán hàn,
    Bối mẫu thanh nhiệt. Tính vị âm dương rất khác nhau".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Bối mẫu có tác dụng giảm ho khu đàm. Saponin trong Xuyên bối mẫu có
    tác dụng trên mạnh còn alkaloid của Bối mẫu chỉ có tác dụng khu đàm.
@@ -92,7 +98,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    súc vật thí nghiệm là 9mg/kg. Triệu chứng nhiễm độc là giảm hô hấp,
    giãn đồng tử, run giật và hôn mê.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị lao hạch (chứng loa lịch):
 

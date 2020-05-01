@@ -8,7 +8,8 @@ dụng thực vật chí, là rễ phơi khô của cây Thái tử sâm (Pseudo
 heterophylla (miq.) Pax ex Hoffm. Hoặc Pseudostellaria raphonorrhiza
 (hemsl.) Pax) thuộc họ Cẩm chướng (Caryphyllaceae).
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt, hơi đắng, tính bình. Qui kinh Tỳ phế.
 
@@ -17,13 +18,16 @@ Theo Y văn cổ:
 -  Sách Giang tô dược tài chí: vị ngọt, đắng tính hàn.
 -  Sách Trung dược chí (bản 1959): vị ngọt, đắng, hơi hàn.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Saponin, tinh bột, fructoza.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Bổ khí sinh tân. Chủ trị chứng Tỳ hư vị âm bất túc, phế hư khái thấu,
 khí âm bất túc, tân dịch tổn thương, mồm khát, hồi hộp, mất ngủ.
@@ -41,10 +45,14 @@ Theo các Y văn Trung dược:
    thấu, tỳ vị hư nhược, ăn ít, tiêu chảy, cửu bệnh khí hư, khí đoản tự
    hãn, tinh thần mệt mỏi".
 
-B.Kết quả nghiên cứu dược lý hiện đại: Không thấy có tài liệu nghiên cứu
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+ Không thấy có tài liệu nghiên cứu
 về dược lý hiện đại.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng tỳ vị hư yếu sau khi mắc bệnh: có triệu chứng mệt mỏi, tự ra
 mồ hôi, ăn ít, thường kết hợp với các vị Hoài sơn, Bạch biển đậu, Mạch

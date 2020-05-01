@@ -10,7 +10,9 @@ Tính vị: vị đắng, cay hơi ngọt, tính nóng.
 
 Qui kinh: vào 2 kinh Can Thận
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 #. Chữa đau khớp và đau dây thần kinh.
 #. Làm mạnh khoẻ gân xương, nhất là trẻ em chậm biết đi.

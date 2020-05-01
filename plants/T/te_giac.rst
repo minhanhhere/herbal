@@ -6,15 +6,18 @@ Tê giác (Cornu Rhinoceri)
 Tê giác là sừng của nhiều loài Tê giác. Vị đắng, chua mặn, tính hàn, qui
 kinh Tâm, Can, Vị.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Hoạt chất hiện chưa có tài liệu nghiên cứu. Thành phần hóa học của Tê
 giác có keratin, calci carbonat, calci phosphat, thủy phân sừng Tê giác
 cho các acid amin là Tyrosin, acid tiolactic, cystein.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Tê giác có tác dụng thanh nhiệt lương huyết, giải độc an thần.
 
@@ -39,7 +42,9 @@ tim) hoặc hết tác dụng giãn mạch.
 
 7.Thuốc có tác dụng an thần rõ.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị các chứng bệnh viêm nhiễm cấp: sốt cao mê man, co giật hoặc có
 phát ban, tùy chứng dùng các bài:

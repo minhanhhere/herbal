@@ -8,7 +8,8 @@ Thục địa là do Sinh địa chế biến thành, được ghi đầu tiên 
 phần rrễ của cây Địa hoàng (Rehmannia glutinóa Libosch, thuộc họ Hoa
 mõm chó (Scrophulariaceae).
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Ngọt hơi ôn, qui kinh Can thận.
 
@@ -21,14 +22,17 @@ Theo Y văn cổ:
 -  Sách Bản thảo tân biên: vị ngọt, ôn.
 -  Sách Bản thảo tùng tân: nhập túc tam âm kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 B-sitosterol, mannitol, stigmasterol, campesterol, rehmannin, catalpol,
 arginine, glucose.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Dưỡng huyết tư âm, bổ tinh ích tủy. Chủ trị các chứng huyết hư, phụ nữ
 kinh nguyệt không đều, băng lậu .can thận âm hư, chứng tiêu khát, tinh
@@ -56,7 +60,9 @@ Trích đoạn Y văn cổ:
    huyết động, tất cả chứng can thận âm hư, bách bệnh hư tổn là chủ dược
    thuốc tráng thủy".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Nước sắc Đại hoàng có tác dụng kháng viêm. Đối với chuột cống, thực
    nghiệm gây sưng tấy bằng Formalin vùng chân đùi, thuốc làm giảm sưng
@@ -71,7 +77,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    Thục địa đều có thể làm giảm tác dụng ức chế chức năng vỏ tuyến
    thượng thận của cocticoit.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 Trên lâm sàng Đông y, thường dung Thục địa trong các bài thuốc để trị
 các chứng sau:

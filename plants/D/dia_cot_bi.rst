@@ -8,7 +8,8 @@ hay sấy khô làm thuốc. Địa cốt bì được ghi đầu tiên trong s�
 Cây Kỷ tử thuộc họ Cà (Solanaceae) mọc khắp nơi ở nước ta, nhưng chưa
 được chú ý khai thác làm thuốc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt nhạt tính hàn, qui 2 kinh Phế và Thận. Theo các sách cổ:
 
@@ -17,15 +18,18 @@ Vị ngọt nhạt tính hàn, qui 2 kinh Phế và Thận. Theo các sách cổ
    kinh.
 -  Sách Bản thảo hội ngôn: nhập túc quyết âm, túc thiếu âm kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Theo hệ dược học Viện nghiên cứu Y học Bắc kinh năm 1958, trong Địa cốt
 bì có 0,08% ancaloit; 1,07% saponin không có phản ứng anthraglucozit và
 tanin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền: Thanh nhiệt (chủ yếu phế nhiệt) lương huyết thối
+Theo Y học cổ truyền
+-------------------- Thanh nhiệt (chủ yếu phế nhiệt) lương huyết thối
 chưng, chủ trị chứng âm hư phế nhiệt, huyết nhiệt, cốt chưng triều
 nhiệt, tiểu nhi can nhiệt, thổ nục huyết, tiêu khát, phế nhiệt khái
 suyễn.
@@ -39,7 +43,9 @@ Các sách cổ ghi:
    cay trị cốt chưng không mồ hôi, Địa cốt bì vị ngọt trị cốt chưng có
    mồ hôi".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thuốc có tác dụng giải nhiệt hạ áp, hạ đường huyết, hạ cholesterol
    máu và hưng phấn tử cung. Thuốc hạ áp do tác dụng trực tiếp làm giãn
@@ -48,7 +54,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    khuẩn thương hàn, phó thương hàn A, trực khuẩn lî Flexner, tác dụng
    ức chế tụ cầu khuẩn vàng và các loại virut đường hô hấp.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng hư nhiệt, lao nhiệt: thường gặp trong các bệnh lao phổi,
 bệnh nhiễm thời kỳ hồi phục sốt dai dẳng, đêm ra mồ hôi trộm, chứng cam
@@ -83,7 +91,8 @@ Trị huyết áp cao nguyên phát 50 ca, tỷ lệ có kết quả 94%, kết 
 đủ trộn đều, cắt bỏ lớp da cứng rồi đắp thuốc, 2 ngày thay một lần. Trị
 25 ca khỏi (Tân trung y 1974,4:39).
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
 -  Liều: 6 - 15g.
 -  Dùng thận trọng đối với trường hợp Tỳ hư, phân lỏng.

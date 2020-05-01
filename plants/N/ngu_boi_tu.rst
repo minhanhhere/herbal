@@ -18,7 +18,8 @@ Trung quốc (Quảng đông, Quảng tây, Vân nam, Phúc kiến.)
 Ngũ bội tử có tên gọi là Bầu bí, Mặc piết, Bơ pật (Thái), Văn cáp, Bách
 trùng thương (Trung quốc).
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị chua sáp tính hàn, qui kinh Phế, Đại trường, Thận.
 
@@ -36,9 +37,11 @@ Thành phàn chủ yếu:
 Thành phần chủ yếu là Tanin (tannic acid) còn gọi là galotanic acid,
 chiếm tỷ lệ 50 - 80%, resin 2 - 4%, chất béo, tinh bột.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Ngũ bội tử có tác dụng: liễm phế gíang hỏa, sáp tràng, cố tinh, liễm hãn
 chỉ huyết. Chủ trị các chứng: Phế hư cửu khái, cửu tả cửu lî, thóat
@@ -55,7 +58,9 @@ Trích đọan Y văn cổ:
    lở, tiêu sưng độc, trị hầu tý (đau sưng họng), làm thu miệng các
    nhọt lở lóet, trị lòi dom, sa ruột".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thuốc có nhiều chất tanin gây kết tủa albumin nên có tác dụng thu
    liễm làm lành các vết lóet ngoài da, niêm mạc. Chất tanin có thể kết
@@ -72,7 +77,9 @@ tử với liều 20g/kg không thấy có tác dụng gì biểu hiện. Nhưng
 liều cho chích dưới da, sinh ra hoại tử tại chỗ, tinh thần kích động,
 khó thở và tử vong trong 24 giờ.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị xuất huyết đường tiêu hóa trên: Trần Vệ Tinh và cộng sự dùng: Ngũ
 bội tử 6g sắc còn 100ml, chia 3 lần uống trong ngày, nhịn ăn đối với
@@ -117,7 +124,8 @@ ngày uống 15 - 20 viên với nước Bạc hà.
 
 8.Trị đái dầm: Ngũ bội tử giã nhỏ thêm nước thành hồ đắp vào rốn.
 
-Liều thường dùng:
+Liều thường dùng
+================
 
 -  Liều 1,5 - 6g, dùng ngoài tùy theo nhu cầu.
 

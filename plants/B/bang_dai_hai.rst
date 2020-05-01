@@ -24,7 +24,8 @@ lan, Indonesia.
 Thường từ tháng 4 - 6 người ta hái quả chín nứt lấy hạt phơi khô làm
 thuốc. Liều dùng 3 - 5 quả bỏ vào nước sôi uống hoặc sắc uống.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Bàng đại hải vị ngọt, tính hàn, qui kinh Phế, Đại tràng.
 
@@ -36,7 +37,8 @@ Theo các sách thuốc cổ:
 Các sách thuốc cổ không thấy ghi qui kinh vì vị thuốc dùng làm thuốc sớm
 nhất cũng từ thế kỷ 18 (sách Bản thảo thập di của Triệu học mãn).
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Bassorin, arabinose, galatose.
 
@@ -47,9 +49,11 @@ Theo sách Đỗ tất Lợi: hạt Lười ươi gồm 2 phần: phần nhân c
 35% và phần vỏ 65%. Trong nhân có chất béo (2,98%), tinh bột, chất đắng.
 Trong vỏ có khoảng 1% chất béo, 59% bassorin, chất nhày và tanin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Bàng đại hải có tác dụng: thanh tuyên phế khí, nhuận tràng thông tiện.
 
@@ -66,13 +70,17 @@ Trích đoạn Y văn cổ:
 -  Sách Bản thảo chính nghĩa: " thiên ư khai tuyên phế khí, năng thông
    tiết bì mao. khai âm trị âm (khản tiếng), trị ho hóa đàm".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thuốc uống vào hút nước rất mạnh làm trương ruột kích thích gây tiêu
    chảy.
 #. Thuốc có tác dụng hạ áp, lợi tiểu, giảm đau.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị viêm amidale cấp: dùng 4 - 8 quả cho vào bình trà, đổ nước sôi vào
 uống hết sau khi ngâm nửa giờ, cách 4 giờ 1 lần, trong 2 - 3 ngày. Trị

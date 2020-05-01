@@ -8,7 +8,8 @@ trong sách Bản thảo với tên Hồ ma, Mè đen hay Vừng đen (Semen Ses
 là hạt của cây Mè đen (Sesamum indicum L, Sesamum indicum Dc, Sesamum
 orientale L) thuộc họ Vừng (Pedaliaceae).
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt, tính bình, qui kinh Can thận.
 
@@ -25,14 +26,17 @@ Về qui kinh:
 -  Sách Ngọc thu dược giải: nhập túc quyết âm can, thủ dương minh đại
    trường kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Sesami indicin, sesamolin, sesamol, oleic acid, linoleic acid, palmitic
 acid, arachic acid, glycerol, vitamin E, calcium.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Mè đen có tác dụng bổ ích tinh huyết, nhuận táo, hoạt trường. Chủ trị
 chứng tinh huyết hư tổn, đại tiện táo bón.
@@ -53,14 +57,18 @@ Trích đoạn Y văn cổ:
 -  Sách Bản thảo bị yếu: " bổ can thận, hoạt trường, làm đen râu tóc (Ô
    tu phát)".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Dầu Mè bôi lên niêm mạc có tác dụng làm giảm kích thích, chống viêm.
 #. Có tác dụng giảm lượng cholesterol máu, phòng trị xơ cứng động mạch.
 #. Dầu mè đen có tác dụng nhuận trường.
 #. Là thức ăn nhiều chất dinh dưỡng đối với cơ thể.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị đạm niệu: dùng 500g Mè đen, Hạch đào nhân 500g, tán bột mịn, mỗi
 lần uống 20g với nước ấm và ăn 7 quả táo, ngày 3 lần, uống hết thuốc là

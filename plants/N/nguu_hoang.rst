@@ -33,7 +33,8 @@ hoàng, Sửu bảo, Đởm hoàng (cũng gọi Ô kim hoàng, Đản hoàng, Qu
 tức sạn túi mật), Quản hoàng (cũng gọi Toái phiến hoàng, Không tâm hoàng
 tức sạn ở ống gan mật).
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Ngưu hoàng vị đắng tính mát (lương), qui kinh Can, Tâm.
 
@@ -43,15 +44,18 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo mông toàn: nhập can kinh.
 -  Sách Lôi công bào chế dược tính giải: nhập Tâm kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Cholic acid, desoxycholic acid, cholesterol, bilirubine, tauroccholic
 acid, glycine, alanine, methionine, asparagine, arginine, sodium,
 magnesium, calcium, phosphate, sắt, carotene, amino acid, vitamin D.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Ngưu hoàng có tác dụng thanh nhiệt giải độc, tức phong chỉ kinh, khóat
 đàm khai khiếu. Chủ trị các chứng: hầu họng sưng đau, lở lóet, mồm lưỡi
@@ -70,7 +74,9 @@ Trích đoạn Y văn cổ:
    chẩn dư độc, đơn độc, nha cam, hầu thũng, tất cả các thực chứng nguy
    kịch"
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thuốc có tác dụng an thần, chống co giật và hạ sốt. Ngưu hoàng có tác
    dụng đối kháng với thuốc hưng phấn trung khu thần kinh. Thuốc có thể
@@ -102,7 +108,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    cao uống với liều 1g/kg trong 15 tuần, không có tác dụng phụ nào.
    Giết chuột chết, các tạng phủ không có thay đổi bệnh lý.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Dùng độc vị Ngưu hoàng và các bài thuốc có Ngưu hoàng: trị các bệnh
 viêm đường hô hấp trên, cúm, viêm phế quản, viêm phổi 146 ca, trị có kết
@@ -131,9 +139,11 @@ amidale, viêm phế quản, đau thần kinh, viêm khớp do phong thấp, nhi
    30g, Thất diệp nhất chi hoa 6g, tán bột mịn làm hoàn. Mỗi lần uống
    3g, ngày 2 - 3 lần.
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
--  Liều thường dùng: 0,2 - 0,5g cho vào thuốc hoàn tán uống. Dùng ngoài
+-  Liều thường dùng
+================ 0,2 - 0,5g cho vào thuốc hoàn tán uống. Dùng ngoài
    lượng vừa đủ bôi vào chỗ bị bệnh.
 -  Thận trọng lúc cần dùng cho phụ nữ có thai và không phải chứng thực
    nhiệt.

@@ -20,7 +20,8 @@ dùng sống hoặc sao cháy. Cây Bồ kết còn cung cấp 2 vị thuốc kh
 -  Hạt Bồ kết (Tạo giác sử: Semen Gleditschiae) lấy trong quả chín đã
    khô.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Tạo giác vị cay tính ôn, có độc, qui kinh phế và đại tràng.
 
@@ -32,14 +33,17 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo tùng tân: nhập phế, đại tràng kiêm nhập can kinh, vị
    cay mặn tính ôn có độc ít.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Saponin triterpenoid bao gồm: glenidin, gledigenin, gleditschia saponin
 ceryl alcohol, nonacosane, stigmasterol, sitosterol.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Tạo giác có tác dụng trừ đàm, khai khiếu, tán kết tiêu thũng.
 
@@ -61,7 +65,9 @@ Trích đoạn Y văn cổ:
    tắc (trị hầu họng đau tắt), đàm khí suyễn khái, phong lịch giới
    tiên".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Gleditschia saponin kích thích niêm mạc bao tử gây phản xạ tăng tiết
    đường hô hấp mà có tác dụng hóa đàm.
@@ -79,7 +85,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    nặng có thể dẫn đến tê liệt trung khu hô hấp mà tử vong. Cấp cứu theo
    các nguyên tắc chung và điều trị triệu chứng.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Hóa đàm: dùng cả quả Bồ kết (vỏ và nhân) sấy khô tán bột, mật ong
 luyện viên nặng 0,2g, ngày uống 3 lần, mỗi lần 2 - 3 viên; không dùng
@@ -137,7 +145,8 @@ vết chốc đắp Bồ kết lên.
 ngô ngày dùng 10 - 20 viên, uống với nước chè đặc (nên uống vào buổi
 sáng sớm để khỏi mất ngủ).
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
 -  Liều 1,5 - 5g, sao cháy tồn tính tán bột mịn uống, mỗi lần 0,6 - 1,5g
    thường dùng uống Tạo giác sao cháy.
@@ -152,7 +161,8 @@ kết, thái lúc còn tươi phơi khô dùng sống.
 
 Gai Bồ kết vị cay tính ôn.
 
-Tác dụng dược lý: thác độc bài nùng, hoạt huyết tiêu thũng.
+Tác dụng dược lý
+================ thác độc bài nùng, hoạt huyết tiêu thũng.
 
 Chủ trị các chứng: ung thư sang độc sơ khởi hoặc chưa vỡ mủ; uống trong
 hoặc đắp ngoài.

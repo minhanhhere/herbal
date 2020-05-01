@@ -13,14 +13,17 @@ Vị đắng mặn, tinh hàn, qui kinh Phế, Vị, Thận.
 -  Lôi công bào chế dược tính: qui kinh Tâm, Phế, Thận.
 -  Bản thảo tân biên: qui kinh Tỳ, Thận, Vị.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Có Huyền sâm tố (Scrophularin), ancaloit, asparagin, tinh dầu, acid béo
 và các chất đường.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền: Huyền sâm có tác dụng tả hỏa giải độc, dưỡng âm
+Theo Y học cổ truyền
+-------------------- Huyền sâm có tác dụng tả hỏa giải độc, dưỡng âm
 sinh tân, tán kết, chỉ khát, lợi yết hầu, nhuận táo.
 
 B.Theo kết quả nghiên cứu dược lý hiện đại:
@@ -36,7 +39,9 @@ Huyền sâm được chứng minh có các tác dụng sau:
 #. Cồn chiết xuất Huyền sâm có tác dụng làm tăng lưu lượng máu của mạch
    vành làm cho sức chịu đựng trạng thái thiếu oxy của tim tốt hơn.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị các chứng bệnh có sốt: (hư nhiệt hay thực nhiệt đều dùng được
 nhưng tác dụng tư âm mạnh hơn) nhiệt vào phần dinh, sốt, mồm khô, lưỡi
@@ -92,7 +97,8 @@ hơn 50 ca tróc da tay).
 
 Liều thường dùng và chú ý:
 
--  Liều thường dùng: 10 - 15g.
+-  Liều thường dùng
+================ 10 - 15g.
 -  Chú ý lúc dùng: Thận trọng đối với bênh nhân tỳ vị hư hàn.
 -  Không dùng chung với Lê lô.
 

@@ -10,7 +10,8 @@ thuộc họ Hành tỏi (Liliaceae). Cây mọc hoang và được trồng kh�
 nước ta, nhiều nhất là các vùng Cao bằng, Lạng sơn, Thanh hóa, Bắc thái,
 Hà nam ninh.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt, đắng, tính rất lạnh, qui kinh Phế Thận.
 
@@ -26,14 +27,17 @@ Về qui kinh:
 -  Sách Bản thảo kinh giải: nhập thủ thái âm phế kinh, thủ thiếu âm tâm
    kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Asparagi cochinchinensis, ­ -sitosterol, smila-genin,
 5-methoxy-methylfurfural, rhamnose.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thuốc có tác dụng thanh phế giáng hỏa, tư âm nhuận táo. Trị các chứng ho
 hư lao, phế táo, nhiệt bệnh thương âm, tiêu khát, hầu họng sưng đau, đại
@@ -57,14 +61,18 @@ Trích đoạn Y văn cổ:
    giáng hỏa thanh phế, trị các chứng phế thận hỏa táo, thổ huyết khái
    thấu, phiền khát, cốt chưng nhiệt lao".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Nước sắc Thiên đông có tác dụng ức chế liên cầu khuẩn A và B, phế cầu
    khuẩn, tụ cầu khuẩn vàng, trực khuẩn bạch hầu.
 #. Có tác dụng ức chế Sarcoma-180 và tế bào bạch cầu ở chuột nhắt.
 #. Thuốc có tác dụng giảm ho, lợi tiểu, thông tiện, cường tráng.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị lao phổi, viêm phế quản ở người cao tuổi, khó khạc đờm, ho lâu
 ngày, phế hư nhiệt: thường phối hợp với Sinh địa, Xuyên bối mẫu, dùng

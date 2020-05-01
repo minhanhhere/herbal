@@ -13,7 +13,8 @@ Xích phục linh.
 Có phát hiện nấm Phục linh tại vùng Đà lạt ở nước ta (1977), nhưng chưa
 khai thác mấy mà còn nhập của Trung quốc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị nhạt tính bình, qui kinh Tâm Tỳ Thận.
 
@@ -23,15 +24,18 @@ Theo các sách thuốc cổ:
 -  Sách Y học khởi nguyên: tính ôn vị nhạt.
 -  Sách Lôi công bào chế dược tính giải: nhập phế, tỳ, tiểu tràng kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Beta-pachyman, beta-pachymanase, pachymic acid, tumulosic acid,
 3-beta-hydroxylanosta-7, 9(11), 24-trien-21-oilic acid, chitin, protein,
 mỡ, gluco, sterol, histamin, lecithin, gum, lipase, choline, adenine.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thuốc có tác dụng lợi thủy thảm thấp, kiện tỳ, an thần. Chủ trị các
 chứng tiểu khó ít, phù, chứng đàm ẩm, tỳ khí hư nhược, hồi hộp, mất ngủ.
@@ -46,7 +50,9 @@ Trích đoạn y văn cổ:
 -  Sách Bản thảo cương mục: " chứng tâm hư phong huyền, thiếu Phục linh
    không trị được ."
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thuốc có tác dụng lợi tiểu, cũng có báo cáo cho là tác dụng lợi tiểu
    không rõ, có thể do điều kiện nghiên cứu khác nhau.
@@ -60,7 +66,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    đại tràng, trực khuẩn biến dạng. Cồn ngâm kiệt thuốc có tác dụng giết
    chết xoắn khuẩn.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Lợi tiểu tiêu phù:
 
@@ -110,7 +118,8 @@ năng miễn dịch, cải thiện chức năng gan thận, tăng hiệu quả c
    Long nhãn nhục, lượng bằng nhau, tán bột mịn Chu sa làm áo luyện mật
    làm hoàn, mỗi lần uống 10 - 20g vào chiều và tối trước lúc ngủ.
 
-Liều thường dùng:
+Liều thường dùng
+================
 
 -  Liều: 6 - 20g.
 -  Chú ý: Vỏ ngoài của Phục linh gọi là Phục linh bì có tác dụng lợi

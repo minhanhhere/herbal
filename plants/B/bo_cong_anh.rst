@@ -13,7 +13,8 @@ công anh Trung quốc (Taraxacum mongolicum Hand - Mazz) đều thuộc loại
 Hoa Cúc (Asteraceae). Bộ phận dùng làm thuốc là toàn cây có rễ. Vị đắng
 ngọt, tính hàn, qui kinh Can Vị.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Chưa thấy tài liệu nghiên cứu về cây Bồ công anh của Việt nam. Ở đây chủ
 yếu giới thiệu cây Bồ công anh Trung quốc. Trong rễ có một chất đắng Bồ
@@ -22,16 +23,20 @@ saponozit, men tyrosinaza. Trong hoa có Xanthophyl, trong lá có Luteolin
 - 7 - glucozit và apigenin - 7 - glucozit hay cosmoziozit và rất nhiều
 Vitamin B,C.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Bồ công anh có tác dụng thanh nhiệt giải độc, lợi thấp thông lâm, chủ
 trị các chứng ung nhọt, sang lở, nhũ ung (viêm vú), trường ung (viêm
 ruột), đau họng (hầu tý), mắt sưng đỏ đau, chứng thấp nhiệt hoàng đản,
 nhiệt lâm (viêm tiết niệu).
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 1.Thuốc có tác dụng kháng khuẩn: Thuốc sắc Bồ công anh ức chế các loại
 vi khuẩn như tụ cầu vàng, liên cầu khuẩn dung huyết, phế cầu, não mô
@@ -42,7 +47,9 @@ leptospira hebdomadia.
 
 3.Có tác dụng lợi mật, bảo vệ gan, lợi tiểu.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị viêm tuyến vú: sưng nóng đỏ, chưa vỡ mủ (uống trong và đắp ngoài).
 
@@ -83,7 +90,8 @@ Ngoài ra, còn có người dùng Bồ công anh chữa viêm tiết niệu, vi
 quang, đau đầy bao tử, rối loạn tiêu hóa dùng bài: Bồ công anh 40g, Quất
 bì 24g, Sa nhân 12g, tán bột mịn, mỗi lần uống 1 - 2g, ngày 2 - 3 lần.
 
-Liều thường dùng: 8 - 30g, thuốc tươi có thể dùng gấp 2 - 3 lần, đắp
+Liều thường dùng
+================ 8 - 30g, thuốc tươi có thể dùng gấp 2 - 3 lần, đắp
 ngoài không hạn chế.
 
  

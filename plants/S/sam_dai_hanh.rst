@@ -10,12 +10,14 @@ Tên khác Tỏi lào, Sâm cau, Tỏi đỏ, Tỏi mọi, Kiệu đỏ, Co nh�
 Người ta dùng củ tươi hay phơi hoặc sây khô của cây tỏi đỏ làm thuốc với
 tên khoa học Bulbus Eleutherinis shbaphyllae.
 
-Tính vị qui kinh: vị đắng mùi hơi hắc.
+Tính vị qui kinh
+================ vị đắng mùi hơi hắc.
 
 Thành phần hóa học: có eleutherin, eleutherola và một chất gọi Ex. Có
 tác dụng kháng sinh đối với Staphyllococcus aureus.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 #. Tác dụng kháng sinh: dịch chiết tỏi đỏ tẩm giấy có đường kính 10mm
    đặt trên thạch có cấy vi trùng, có tác dụng hạn chế sinh sản của vi

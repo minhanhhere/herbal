@@ -7,7 +7,8 @@ Khương hoàng dùng làm thuốc được ghi đầu tiên trong sách Tân tu
 là thân rễ cây Nghệ (Rhizoma curcumae longae). Còn có tên trong sách là
 Phiến khương hoàng.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị cay đắng, tính ôn. Qui kinh Can Tỳ.
 
@@ -18,7 +19,8 @@ Theo Y văn cổ:
    đắng không độc".
 -  Sách Bản thảo kinh sơ: " nhập túc thái âm, quyết âm".
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Chất Khương hoàng tố (chất màu curcumin 0,3%)
 
@@ -28,9 +30,11 @@ màu vàng gọi chung là curcumin gồm có curcumin I, II, .
 
 Ngoài ra còn có tinh bột, canxi oxalat, chất béo.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Khương hoàng có tác dụng phá huyết hành khí, thông kinh chỉ thống. Chủ
 trị chứng sườn đau, kinh bế, bụng đau, phong thấp, sang ung.
@@ -49,7 +53,9 @@ Theo các Y văn cổ:
    khí ở phần huyết, trong phần khí hành huyết, như vậy nhập Tỳ, trị
    được huyết trong khí mà cũng trị được huyết ở trong khí (?)
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 1.Chất Curcumin có tinh thông mật (gây co bóp túi mật, chất curcumen có
 tác dụng phá cholesterol trong máu).
@@ -65,7 +71,9 @@ và cho thỏ mới có thai đều có tác dụng gây sẩy thai.
 
 5.Ngoài ra thuốc còn có tác dụng hưng phấn tử cung, lợi mật.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng kinh nguyệt không đều, đau bụng vùng rốn:
 
@@ -102,7 +110,8 @@ và cho thỏ mới có thai đều có tác dụng gây sẩy thai.
 -  Sơ kinh thang: Khương hoàng 6g, Đương qui, Xích thược, Hải đồng bì,
    mỗi thứ 10g, Khương hoạt 6g, Cam thảo 3g. Sắc nước uống.
 
-Liều thường dùng:
+Liều thường dùng
+================
 
 Dùng trong thang thuốc sắc 3 - 10g, dùng ngoài liều lượng tùy theo bệnh
 lý.

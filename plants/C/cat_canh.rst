@@ -14,7 +14,8 @@ quốc. Cây trồng bằng hạt đang được di thực vào nước ta. Sau 
 về rửa sạch, bỏ tua rễ, bỏ vỏ ngoài hoặc không bỏ vỏ phơi khô, tẩm nước
 cắt lát dùng. Chích Cát cánh là Cát cánh chế mật sao vàng.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Cát cánh vị đắng cay, tính bình qui kinh Phế.
 
@@ -28,15 +29,18 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo kinh sơ: nhập túc thái âm, thiếu âm kiêm nhập túc dương
    minh vị kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Polygalain acid, platycodigenin, alpha-spinasterol, a -spinasteryl-b
 -D-glucoside, stigmasterol, betulin, platycodonin, platycogenic acid,
 A,B,C glucose.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Cát cánh có tác dụng tuyên phế khử đàm lợi yết, bài nùng, khai thông phế
 khí.
@@ -56,7 +60,9 @@ Trích đoạn y văn cổ:
 -  Sách Bản thảo thông huyền: " Cát cánh chi dụng, duy kỳ thượng nhập
    phế kinh, phế vị chủ khí chi tạng, cố năng sử chư khí hạ giáng."
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Saponin Cát cánh kích thích niêm mạc bao tử gây phản xạ niêm mạc khí
    quản tiết dịch nên long đàm. Trên thực nghiệm cho chó và mèo đã gây
@@ -74,7 +80,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 #. Trong ống nghiệm, thuốc có tác dụng ức chế nhiều loại nấm gây bệnh
    ngoài da (dermatomycose).
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị phế ung (ápxe phổi):
 
@@ -110,7 +118,8 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 5.Trị cam răng miệng hôi: Cát cánh, Hồi hương lượng bằng nhau tán nhỏ,
 trộn đều bôi vào cam răng đã rửa sạch.
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
 -  Liều: 3 - 9g. Chích Cát cánh nhuận phế hóa đàm tốt hơn.
 -  Trường hợp ho lâu ngày âm hư hoặc ho ra máu không nên dùng hoặc dùng

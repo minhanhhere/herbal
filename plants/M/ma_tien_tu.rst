@@ -12,17 +12,21 @@ Cây Mã tiền có nhiều ở nước ta và các nước Đông nam á như L
 Koktoung ka), Campuchia (gọi là Sleng thom, sleng touch), Thái lan (gọi
 là Co bên kho), Aán độ, Miến điện, Vân nam Trung quốc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị đắng hàn, có độc mạnh, qui kinh Can Tỳ.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Strychnine, brucine, cloubrine, psedostrychnine, vomicine, loganin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thuốc có tác dụng tiêu thũng tán kết, thông lạc chỉ thống. Chủ trị các
 chứng ung thư sang độc, thương tổn sưng đau, chứng phong thấp tý đau
@@ -36,7 +40,9 @@ Trích đoạn Y văn cổ:
 -  Sách Y học trung trung tham tây lục: " thuốc có độc mạnh. khai thông
    kinh lạc, có tác dụng thấm sâu vào khớp mạnh hơn các thuốc khác".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Mã tiền có chất strychnine có tác dụng hưng phấn toàn bộ trung khu
    thần kinh, trước hết là hưng phấn chức năng phản xạ tủy sống, tiếp
@@ -57,7 +63,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    30mg gây tử vong. Y văn cổ có báo cáo dùng uống 7 hạt Mã tiền gây tử
    vong.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị viêm khớp và viêm đ khớp dạng thấp: thuốc có tác dụng hoạt lạc chỉ
 thống.

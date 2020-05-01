@@ -12,7 +12,8 @@ Javanica (L) Merr) thuộc họ Thanh thất (Simarubaceae).
 Vị thuốc được ghi đầu tiên trong sách " Bản thảo cương mục thập di tập
 V." còn có tên Khổ sâm tử.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị đắng tính hàn, qui kinh Can và Đại tràng.
 
@@ -21,7 +22,8 @@ Theo tài liệu cổ:
 -  Sách Y học Trung trung tham tây lục: vị rất đắng, tính lương.
 -  Sách Bản thảo chính nghĩa: đại khổ, đại hàn.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 + Theo sách Đỗ tất Lợi, trong quả Nha đảm tử có 23% dầu (hoặc 50%, nếu
 chỉ tính đối với nhân), dầu lỏng màu trắng, có chất glucozit gọi là
@@ -61,7 +63,9 @@ Tác dụng dưọc lý:
    gian dùng thuốc kéo dài có tích lũy độc. Không nên dùng với người có
    bệnh đường ruột, chức năng gan thận giảm, phụ nữ có thai và trẻ em.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị lî amíp cấp: dùng Nha đảm tử 12 cái bọc nhựa chia 3 lần uống trong
 ngày, đồng thời dùng 20 hạt ngâm trong 200ml nước sau 2 giờ (ngâm vào

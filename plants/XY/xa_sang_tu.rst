@@ -12,7 +12,8 @@ ta. Mỗi năm từ tháng 6 đến tháng 8 là mùa quả chín, cắt cả c�
 cả cây về phơi khô lấy quả, loại cành lá và tạp chất, rửa sạch phơi thật
 khô làm thuốc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Xà sàng vị cay đắng, tính ôn, qui kinh Thận.
 
@@ -26,15 +27,18 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo hội ngôn: nhập thủ thiếu dương, túc quyết âm kinh.
 -  Sách Bản thảo tái tân: nhập Tỳ Thận kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Tinh dầu 1,3%, có mùi hắc đặc biệt 1-pinene, 1-camphene, bomyl
 Isovalerate, Isobomeol, ostole, cnidimine, Isopimpinellinie, dihydro
 oroselol, columbianadin,cnidiadin, archangelicin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Xà sàng tử có tác dụng táo thấp sát trùng, khu phong tán hàn, ôn thận
 tráng dương. Chủ trị các chứng: thấp chẩn, thấp sang (lở chảy nước),
@@ -59,14 +63,18 @@ Trích đoạn Y văn cổ:
    sinh bệnh. Hàn thấp được được trừ thì khỏi bệnh, tính năng ích dương
    có thể làm khỏi bệnh lại thêm bồi bổ cơ thể".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Có tác dụng như testosteron, có tác dụng làm tăng trọng lượng tử cung
    và buồng trứng.
 #. Thuốc ức chế nấm ngoài da, có tác dụng diệt trùng roi âm đạo. Xà sàng
    tử Nhật bản có tác dụng xổ lãi đũa.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị trùng roi âm đạo:
 
@@ -130,7 +138,8 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 -  Xà sàng tử 40g, Cam thảo 40g tán nhỏ trộn đều, mỗi lần uống 3g, ngày
    uống 3 lần.
 
-Liều thường dùng:
+Liều thường dùng
+================
 
 -  Uống 3 - 10g, sắc nước, hoàn tán.
 -  Dùng ngoài lượng vừa đủ.

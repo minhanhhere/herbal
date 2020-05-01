@@ -9,7 +9,8 @@ lục. Cây Lựu được trồng khắp nơi ở nước ta làm cảnh và l�
 quốc cũng có nhiều. Vị thuốc còn có tên là Thạch lựu xác, Toan lựu bì,
 Toan thạch lựu bì.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị chua sáp, tính ôn, qui kinh Vị Đại tràng.
 
@@ -21,14 +22,17 @@ Theo các sách thuốc cổ:
 -  Sách Lôi công bào chế dược tính giải: nhập 2 kinh Đại tràng Thận.
 -  Sách Bản thảo tóat yếu: nhập thủ thái âm, túc thiếu âm kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Thành phần có chất Tanin 10 - 21%, pelletierine,Isoquercitrin, Inulin,
 mannitol, mallic acid, calcium oxalate.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thuốc có tác dụng sáp tràng, chỉ tả, sát trùng. Chủ trị chứng tả lî lâu
 ngày, lòi dom (thóat giang). Trị lãi đũa và sán.
@@ -41,7 +45,9 @@ Trích đọan Y văn cổ:
 -  Sách Bản thảo cương mục: " chỉ tả lî, hạ huyết, thóat giang, băng
    trung đới hạ".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Tác dụng chống ký sinh trùng: chất pelletierine trong Thạch lựu bì có
    tác dụng mạnh đối với giun móc, Isopelletierine, một thành phần trong
@@ -58,7 +64,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    giác kiến bò. Liều cao dẫn đến giãn đồng tử, đau đầu, nặng gây chóng
    mặt hoa mắt, nôn, tiêu chảy, buồn ngủ.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị lî lâu ngày không khỏi: biến chứng sa trực tràng dùng bài:
 
@@ -94,7 +102,8 @@ sâu đều khỏi (Báo Trung y dược Cát lâm, 1983,4:28).
 
 Liều thường dùng và chú ý:
 
--  Liều thường dùng: uống 3 - 10g, dùng ngoài lượng vừa đủ, tán bột đắp
+-  Liều thường dùng
+================ uống 3 - 10g, dùng ngoài lượng vừa đủ, tán bột đắp
    hoặc nấu nước ngâm rửa.
 -  Chứng tả lî mới phát không dùng độc vị Thạch lựu bì.
 -  Có thể dùng vỏ thân, cành rễ Thạch lựu nhưng thuốc có độc cần thận

@@ -10,7 +10,8 @@ khoa học là Ziziphus Jujuba Mill var inermis (Bge.) Rehd. Đại táo sớm
 đã ghi trong sách Bản kinh, dùng làm thuốc. Cho đến nay, ta vẫn phải
 nhập của Trung quốc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt, ôn, qui kinh Tỳ Vị.
 
@@ -27,13 +28,16 @@ Về qui kinh:
 -  Sách Bản thảo kinh sơ: nhập túc thái âm dương minh kinh.
 -  Sách Bản thảo cầu chân: chuyên nhập Tỳ vị.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Vitamin A, vitamin B\ :sub:`2,` , vitamin C, calcium, phosphorous, iron.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Đại táo có tác dụng bổ trung ích khí, dưỡng huyết an thần, hòa hoãn dược
 tính. Chủ trị chứng trung khí bất túc, các chứng huyết hư tạng táo, dùng
@@ -54,7 +58,9 @@ Theo các Y văn cổ:
    tức phong, liệu tỳ vị suy tổn, điều kinh mạch hư khổng, kỳ vị nồng
    nhi chất hậu tắc trường ư bổ huyết, nhi đoản ư bổ khí".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Cho chuột nhắt uống nước sắc Đại táo, thể trọng tăng rõ. Qua thử
    nghiệm bơi cho thấy có làm tăng cơ lực. Gây độc gan thỏ bằng cacbon
@@ -68,7 +74,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    nếu lượng nhỏ không có kết quả.
 #. Có tác dụng an thần.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng tỳ hư nhược: sinh ra chứng người mệt mỏi, ăn kém, tiêu lỏng.
 
@@ -123,7 +131,8 @@ xát vào răng.
 
 Liều lượng và chú ý lúc dùng:
 
--  Liều thường dùng: 3 - 12 quả hoặc 10 - 30 quả.
+-  Liều thường dùng
+================ 3 - 12 quả hoặc 10 - 30 quả.
 -  Trường hợp thấp hoặc khí trệ không nên dùng nhiều. Dùng với Sinh
    khương tốt hơn. Trùng tích, thấp nhiệt, đàm thấp đều hạn chế dùng
    Táo.

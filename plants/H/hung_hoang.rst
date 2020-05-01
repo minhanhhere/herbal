@@ -9,7 +9,8 @@ asen thiên nhiên có tên là Realgar. Hiện nay ta còn phải nhập Hùng 
 của Trung quốc, Hùng hoàng được bán với dạng to nhỏ không đều, màu vàng
 cam hoặc hơi hồng.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Hùng hoàng vị cay đắng, tính ôn, có độc qui kinh Tâm Can Thận.
 
@@ -21,14 +22,17 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo kinh sơ: nhập túc dương minh can.
 -  Sách Bản thảo tái tân: nhập 2 kinh Tâm Can.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Sufur Thạch tín (Arsenic sufide) (A\ :sub:`s`\ S hay
 A\ :sub:`s2`\ S\ :sub:`2`) ngoài ra có các muối kim loại nặng.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Hùng hoàng có tác dụng: giải độc sát trùng, hóa ứ tiêu thủng, táo thấp
 khu đàm, triệt ngược định kinh. Chủ trị các chứng: ung thư, đinh nhọt
@@ -51,7 +55,9 @@ Trích đọan Y văn cổ:
    chứng Can phong, Can khí, Kinh giãn. thử ngược tả lî tích tụ, dùng
    cũng rất công hiệu).
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. In vitro, thuốc có tác dụng ức chế nhiều loại nấm ngoài da với mức độ
    khác nhau, có tác dụng ức chế sự sinh trưởng của vi trùng lao. Dùng
@@ -61,7 +67,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 #. Thuốc có tác dụng kháng hấp huyết trùng (schistosoma) và nguyên
    trùng sốt rét.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị loét của bệnh ung thư hắc sắc tố (melanoblastoma):
 
@@ -130,7 +138,8 @@ mịn thổi vào tai.
 
 12.Trị rắn rết cắn: Bôi bột Hùng hoàng vào vết cắn.
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
 -  Lượng dùng ngoài vừa đủ tán bột đắp, xông khói.
 -  Uống 0,15 - 0,30g, cho hoàn tán.

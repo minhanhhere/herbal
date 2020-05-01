@@ -25,7 +25,8 @@ Sao Hạnh nhân là bỏ Khổ Hạnh nhân vào nồi, cho lửa nhỏ sao và
 
 Hạnh nhân sương là dùng giấy thấm bọc ép cho lấy hết dầu.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Hạnh nhân vị đắng hơi ôn, có độc ít, qui kinh Phế, Đại tràng.
 
@@ -38,14 +39,17 @@ Theo các sách thuốc cổ:
 -  Sách Trấn nam bản thảo: nhập 2 kinh Tỳ phế.
 -  Sách Lôi công bào chế dược tính giải: nhập 2 kinh Phế Đại tràng.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Nhân hạt mơ chứa: 35 - 40% chất dầu (dầu Hạnh nhân), 3% amygdalin và
 men emunsin gồm 2 men amygdalase và prunase.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Hạnh nhân có tác dụng chỉ khái bình suyễn, nhuận tràng thông tiện.
 
@@ -62,7 +66,9 @@ Trích đoạn Y văn cổ:
 -  Sách Trân châu thang: " trừ phế nhiệt, trị phong nhiệt ở thượng tiêu,
    lợi hung cách khí nghịch, nhuận đại tràng khí bí".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Glucosid hạt mơ thủy phân cho cyanhydric acid có tác dụng ức chế nhẹ
    trung khu hô hấp vì thế giảm ho suyễn.
@@ -88,7 +94,9 @@ Thuốc được nấu lên và có cho đường giảm bớt độc. Trường
 thể cho uống than hoạt hoặc sirô. Trong dân gian dùng vỏ cây mơ hoặc vỏ
 của rễ làm chất giải độc.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị viêm phế quản mạn tính:
 

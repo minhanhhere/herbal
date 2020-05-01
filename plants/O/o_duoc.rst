@@ -12,7 +12,8 @@ thuộc họ Tiết dê (Menispermaceae). Ở nước ta Nam ô dược mọc nh
 tỉnh phía Bắc, nhiều nhất ở các tỉnh Thanh hóa, Nghệ an, Hà tỉnh, Hòa
 bình, Sơn tây.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị cay, tính ôn. Qui kinh Phế, ty,ø thận, bàng quang.
 
@@ -25,14 +26,16 @@ Theo các sách cổ:
 -  Sách Lôi công bào chế dược tinh giải: nhập phế tỳ 2 kinh.
 -  Sách Bản thảo tùng tân: Thượng nhập tỳ phế, hạ thông bàng quang thận.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Chủ yếu gồm tinh dầu và các ancaloit như: Bomeol, Linderane,
 Linderalactone, Isolinderalactone, Linderatrenolide, Linderene,
 Lindenene, Lindenenone, Lindestrene, Linderene acetate, Isolinderoxide,
 Linderaic acid, Linderazulene, Chamazulene, Laurolitsine.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 #. Theo Y học cổ truyền:
 
@@ -56,7 +59,9 @@ Trích đoạn Y văn cổ:
 -  Bột Ô dược khô có tác dụng rút ngắn thời gian tái canxi hóa của huyết
    tương, rút ngắn thời gian đông máu và có tác dụng cầm máu.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị đau bụng do trúng hàn khí trệ, đau bụng kinh:
 

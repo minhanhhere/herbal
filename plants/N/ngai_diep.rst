@@ -9,7 +9,8 @@ Asteraceae (Compositae), dùng làm thuốc được ghi đầu tiên trong sác
 Danh y biệt lục". Cây Ngãi cứu mọc hoang hoặc được trồng khắp nơi ở nước
 ta cũng như ở nhiều nước khác trên thế giới.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị đắng cay, tính ôn. Qui kinh Can, Tỳ, Thận.
 
@@ -25,9 +26,11 @@ Các sách thuốc cổ đã ghi như sau:
 
 -  Sách Bản thảo tái tân: nhập hai kinh Tâm thận.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thuốc có tác dụng: ôn kinh chỉ huyết, tán hàn chỉ thống, trừ thấp, chỉ
 dưỡng. Do đó thuốc có thể trị các chứng băng lậu, có thai ra máu, chảy
@@ -104,13 +107,16 @@ là 2,47ml/kg, chích ổ bụng là 1,12ml/kg của nước sắc Ngãi diệp 
 bụng là 23g/kg. Dầu Ngãi diệp phun sương, mỗi ngày 2 lần trong 30 ngày
 có thể gây viêm phổi kẽ cho thỏ.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Cineole, Terpinen-4-01, beta-caryophyllene, amisia alcohol, camphor
 borneol,linalool. trong tinh dầu của Ngãi diệp có 30% là cineol (
 eucalyptol).
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị kinh nguyệt không đều: kinh kéo dài, đau bụng lúc hành kinh dùng
 bài:

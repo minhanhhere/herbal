@@ -11,7 +11,8 @@ sấy khô.
 Khắp đất nước ta đều trồng được cải củ lấy củ và lá làm thức ăn, hạt già
 phơi hay sấy khô làm thuốc (dùng sống hoặc sao lên có mùi thơm).
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Hạt củ cải vị cay ngọt, tính bình, qui kinh Tỳ Vị Phế.
 
@@ -21,14 +22,17 @@ Theo các sách thuốc cổ:
 -  Sách Ngọc thư dược giải: cay, nhiệt.
 -  Sách Dược phẩm hóa nghĩa: nhập 2 kinh Tỳ Vị.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Erucid acid, oleic acid, linolenic acid, linoleic acid, glycerol
 sinapate, raphanin, alkaloid, hợp chất phenol.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 La bạc tử có tác dụng: tiêu thực trừ trướng đầy, giáng khí hóa đàm. Chủ
 trị các chứng: thực tích, khí trệ ở trung tiêu, đàm suyễn khái thấu (ho
@@ -52,7 +56,9 @@ Trích đoạn Y văn cổ:
    ăn uống một ít để tiêu thực thuận khí thì không tổn thương khí vì
    thuốc giúp ăn nhiều hơn, phần khí được bổ dưỡng".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thuốc nước chiết xuất có tác dụng ức chế tụ cầu khuẩn, trực khuẩn lî,
    thương hàn và trực khuẩn đại tràng. Nước ngâm kiệt thuốc có tác dụng
@@ -70,7 +76,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    thung dung, La bạc tử. Bài thuốc có tác dụng hưng phấn hệ tuyến yên,
    vỏ thượng thận; đó là cơ sở của tác dụng kháng viêm.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng táo bón người cao tuổi:
 
@@ -113,9 +121,11 @@ Ngoài ra còn dùng La bạc tử phối hợp với Tiểu hồi hương, Đ�
 uống. Trị tắt ruột đơn thuần. Củ cải phơi hay sấy khô 10 - 15g mỗi ngày,
 lá củ cải khô 10 - 15g/ ngày sắc uống, trị phù, thông tiểu tiện.
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
--  Liều thường dùng: 6 - 10g sắc nước hoặc sao tán bột uống, hoặc cho
+-  Liều thường dùng
+================ 6 - 10g sắc nước hoặc sao tán bột uống, hoặc cho
    vào thuốc hoàn tán.
 -  Thuốc nên sao lên để cho vào thuốc thang vì dùng sống dễ gây buồn
    nôn. Đối với người khí huyết suy nhược, nên thận trọng lúc dùng.

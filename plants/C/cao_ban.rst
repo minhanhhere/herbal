@@ -7,17 +7,21 @@ Cảo bản (Rhizoma et radix Ligustici Sinensís)
 Cảo bản là thân rễ và rễ của cây Cảo bản (Ligusticumsinense Oliv) . Vị
 cay, tính ấm, qui kinh Bàng quang.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 -  Tán hàn giải cảm.
 -  Trừ phong thấp giảm đau.
 -  Ức chế vi rút cúm (trên thực nghiệm)
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Chất tinh dầu có phenola Cảo bản, acid hữu cơ.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 #. Trị đau đầu: (chủ yếu đau đỉnh đầu) do ngoại cảm phong hàn sợ lạnh,
    không có mồ hôi, hoặc do viêm mũi, viêm xoang ản hưởng đau đầu dùng

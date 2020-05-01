@@ -110,7 +110,8 @@ Kiến Gia, Báo Giang tô Y dược 1976,2:33).
 Liều dùng và chú ý
 ==================
 
--  Liều thường dùng: 3 - 10g. Thuốc tán mỗi lần uống 1 - 1,5g. Tán phong
+-  Liều thường dùng
+================ 3 - 10g. Thuốc tán mỗi lần uống 1 - 1,5g. Tán phong
    nhiệt thường dùng sống, còn thường thuốc được sao chế để dùng.
 -  Bạch cương tàm, Toàn yết, Ngô công đều là thuốc trị phong thường dùng
    nhưng Cương tàm tức phong kém hơn. Cho nên trên lâm sàng gặp trường

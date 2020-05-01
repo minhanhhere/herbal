@@ -9,12 +9,14 @@ Hoa Môi (Labiatae).
 
 Vị đắng cay tính hàn qui kinh Can Đởm.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Cành mang hoa quả và quả có chứa chừng 3,50% muối vô cơ tan trong nước,
 trong đó 68% là Kali clorua, ngoài ra còn có một số ancaloit.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 1.Tác dụng lợi tiểu: rõ.
 
@@ -30,7 +32,9 @@ chứng.
 thấy có tác dụng chống sự tăng trưởng của tế bào ung thư di căn (thử
 nghiệm trên ung thư cổ tử cung của chuột nhắt).
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Thanh nhiệt tán kết: dùng chữa chứng tràng nhạc (loa dịch tức lao hạch
 lâm ba cổ) và anh lựu (như bướu cổ đơn thuần) thường lấy vị Hạ khô thảo
@@ -69,7 +73,8 @@ họng mạn, viêm lưỡi mạn. Mùa hè dùng Hạ khô thảo độc vị h
 Trường hợp bị chấn thương phần mềm bị xát thương có thể dùng Hạ khô thảo
 giã nát đắp ngoài.
 
-Liều thường dùng: 8 - 12g, thuốc tươi dùng nhiều hơn.
+Liều thường dùng
+================ 8 - 12g, thuốc tươi dùng nhiều hơn.
 
 Chú ý lúc dùng:
 

@@ -9,7 +9,8 @@ Bản thảo thập di thuộc họ Ngũ gia bì (Araliaceae). Ở nước ta đ
 hiện cây Thông thảo mọc hoang ở một số vùng ẩm tại Cao bằng, Lạng sơn,
 Hà giang.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt nhạt, tính hơi hàn, qui kinh Phế vị.
 
@@ -18,13 +19,16 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo cương mục: vị ngọt nhạt, tính hàn, không độc, nhập thái
    âm phế, dương minh vị kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Uronic acid, galacturonic acid, glucose, xylxylose.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thuốc có tác dụng: lợi thủy thảm thấp, thông nhũ (kích thích ra sữa).
 
@@ -40,11 +44,15 @@ Trích đoạn Y văn cổ:
    lợi mà không thương âm, dùng hợp đối với chứng thấp nhiệt nhẹ, đối
    với chứng nhiệt thâm bễ kết, tác dụng kém Mộc thông".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 Chưa có tài liệu ghi chép.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng phù do thấp nhiệt, tiểu ít:
 

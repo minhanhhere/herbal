@@ -9,7 +9,8 @@ Mật gấu (Hùng đởm ) là túi mật phơi khô hay sấy khô của nhi�
 
 Vị đắng tính hàn, qui kinh Can, Đởm, Tâm.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Đã phân tích được chất sau:
 
@@ -18,7 +19,8 @@ bilirubin. Các acid cholic trong mật gấu có acid cholic, acid cheno
 desoxycholic, acid urso desoxycholic là một acid đặc biệt chỉ có trong
 mật gấu. Nhờ những đặc điểm này ta có thể phân biệt mật gấu thật và giả.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 Theo Y học cổ tuyền, mật gấu có tác dụng thanh nhiệt chỉ kinh, minh mục,
 giải độc đinh sang, tiêu viêm, giảm đau an thần.
@@ -26,7 +28,9 @@ giải độc đinh sang, tiêu viêm, giảm đau an thần.
 Dùng ngoài, mật gấu có tác dụng làm hết xung huyết, nhỏ mắt chữa đau
 mắt, xoa bóp chữa đau sưng do chấn thương.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Dùng để thanh nhiệt, an thần, chống co giật: trong các bệnh nhiễm sốt
 cao, co giật, hôn mê, dùng Mật gấu 2 - 3 phân uống. Đối với trẻ sốt cao

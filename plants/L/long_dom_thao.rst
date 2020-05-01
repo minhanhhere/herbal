@@ -36,7 +36,8 @@ Kiêng kî: người tỳ vị hư nhược, âm hư phát sốt không nên dù
 
 Chú ý:
 
-#. Tác dụng dược lý: với lượng nhỏ (liều 0,1g) có thể xúc tiến sự phân
+#. Tác dụng dược lý
+================ với lượng nhỏ (liều 0,1g) có thể xúc tiến sự phân
    tiết dịch vị làm tăng lượng acid trong dịch vị, do đó mà dùng nó làm
    thuốc kiện vị. Tuy nhiên, dùng liều lớn sẽ kích thích niêm mạc dạ
    dày, dẫn đến nôn. Do thuốc có tác dụng hạ thấp men chuyển hóa amin,

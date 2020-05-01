@@ -13,7 +13,8 @@ Lợi có giới thiệu thêm cây Thổ mộc hương Inula helenium L. đều
 Cúc. Theo Đỗ tất Lợi, hiện ta đã di thực được 2 loại Quảng mộc hương và
 Thổ mộc hương.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị đắng , cay, tính ôn. Qui kinh Tỳ, Vị, Đại tràng, Đởm.
 
@@ -27,7 +28,8 @@ Theo các sách cổ:
    bàng quang.
 -  Sách Bản thảo cầu chân: nhập Can, Tỳ.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Vân mộc hương và Quảng mộc hương có chừng 1 - 2,8% tinh dầu, 6% chất
 nhựa Saussurin (Ancaloit) và chừng 18% chất Inulin. Thành phần chủ yếu
@@ -36,7 +38,8 @@ Saussurea-lactone, Costunolide, Costic acid, Anpha-costene,
 Costuslactone, Camphene, Phellandrene, Dehydrocostuslactone,
 Stigmasterol, Betulin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 1.Theo Y học cổ truyền:
 
@@ -61,7 +64,9 @@ Trích đoạn Y văn cổ:
 -  Nồng độ tinh dầu 1:3.000 có tác dụng ức chế liên cầu khuẩn, tụ cầu
    vàng và trắng sinh trưởng.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị rối loạn tiêu hóa: bụng đầy đau, sôi bụng (do trúng hàn khí trệ).
 

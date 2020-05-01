@@ -15,7 +15,8 @@ thực vật là Polygonum aviculare L thuộc họ rau răm (Polygonaceae).
 Cây rau đắng mọc nhiều ở nhiều tỉnh như Cao bằng, Lạng sơn, Hà bắc, Hà
 nội, trồng bằng hạt và cây con, thu hái vào mùa xuân và hạ.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị đắng, hơi hàn, qui kinh Bàng quang.
 
@@ -24,15 +25,18 @@ Theo các sách thuốc cổ:
 -  Sách Bản kinh: vị khổ bình.
 -  Sách Bản thảo hội ngôn: nhập túc thái dương bàng quang kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Avicularin, quercitrin, d-catechol, galic acid, caffeci acid, oxalic
 acid, silicic acid, chlorogenic acid, p-coumaric acid, glucose,
 fructose.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Biển súc có tác dụng lợi thủy thông lâm, sát trùng, chỉ dưỡng (chống
 ngứa).
@@ -47,12 +51,16 @@ Trích đoạn Y văn cổ:
    nhiệt, bạch đới".
 -  Sách Bản thảo cương mục: " trị hoắc loạn, hoàng đản, lợi tiểu tiện".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thuốc có tác dụng lợi tiểu, lợi mật, hạ áp.
 #. Thuốc có tác dụng ức chế trực khuẩn kî và một số nấm ngoài da.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị viêm đường niệu: tiểu buốt, tiểu khó thể thấp nhiệt dùng các bài:
 
@@ -90,7 +98,8 @@ Ngoài ra có tác giả báo cáo dùng Biển súc 40 - 80g tươi, gia trứn
 mấy cái, gừng tươi vừa đủ sắc uống trong ngày 1 lần trong 20 ngày. Trị
 tiểu đục khỏi.
 
-Liều thường dùng:
+Liều thường dùng
+================
 
 -  Liều 10 - 15 g.
 -  Dùng tươi nhiều hơn, dùng ngoài tùy yêu cầu.

@@ -12,7 +12,8 @@ Dendrobium nobile Lindi), v..v.
 Cây thuốc trên nhỏ dưới to, giống như cái hộc, mọc ở núi đá nên có tên
 Thạch hộc. Ở nước ta, cây Thạch hộc mọc nhiều ở miền Bắc và miền Trung.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt tính hàn, qui kinh Vị và Thận.
 
@@ -28,12 +29,14 @@ Về qui kinh:
 -  Sách Bản thảo kinh sơ: nhập túc dương minh, thiếu âm, thủ thiếu âm.
 -  Sách Dược phẩm hóa nghĩa: nhập 3 kinh Phế Thận Vị.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Herba Dendrobii - dendrobine, dendranine, nobilonine, dendroxine,
 dendrin, 6-hydroxy-dendroxine.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 #. Có tác dụng hạ nhiệt, giảm đau nhẹ (trích yếu văn kiện nghiên cứu
    Trung dược, nhà xuất bản Khoa học 1965, trang 129).
@@ -58,7 +61,9 @@ Theo các Y văn cổ:
 -  Sách Bản thảo tái tân: " thanh vị nhiệt, trừ tâm trung phiền khát,
    trị thận kinh hư nhiệt, an thần định kinh".
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Dùng chữa bệnh nhiễm thời kỳ hồi phục, thuốc có tác dụng dưỡng vị giải
 nhiệt: phối hợp với Sinh địa, Huyền sâm, Sa sâm . dùng bài:

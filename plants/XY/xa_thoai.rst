@@ -14,7 +14,8 @@ Thường dùng phối hợp với Thuyền thoái, Bạch tật lê. Trị mộ
 (sắc nước uống), phối hợp với Thuyền thoái, Sinh địa hoàng. Trị phong
 chẩn.
 
-Liều thường dùng: 2 - 3g, tán bột mịn uống mỗi lần 0,3 - 0,6g.
+Liều thường dùng
+================ 2 - 3g, tán bột mịn uống mỗi lần 0,3 - 0,6g.
 
  
 

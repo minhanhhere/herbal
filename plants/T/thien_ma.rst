@@ -7,7 +7,8 @@ Thiên ma còn gọi là Minh thiên ma, Xích tiễn, Định phong thảo là 
 phơi hay sấy khô của cây Thiên ma Gastrodia Elata Blume họ Lan
 Orchidaceae, dùng làm thuốc được ghi đầu tiên trong sách Bản kinh.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Thiêm ma vị ngọt tính bình, qui kinh Can.
 
@@ -20,7 +21,8 @@ Theo các sách thuốc cổ:
 -  Sách Lôi công bào chế dược tính giải: nhập 2 kinh Can, Bàng quang.
 -  Sách Bản thảo tân biên: nhập tỳ thận can đởm tâm kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Gastrodin, gastrodioside, vannillyl, alcohol, vanillin, alkaloid,
 vitamin A.
@@ -28,9 +30,11 @@ vitamin A.
 Gần đây chứng minh: Thiên ma tố (Gastrodin) là thành phần có hiệu lực
 chủ yếu và đã chế nhân tạo được.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thuốc có tác dụng tức phong chỉ kinh, bình can tiềm dương.
 
@@ -46,7 +50,9 @@ Trích đoạn Y văn cổ:
    co giật, trẻ em kinh phong, làm khỏe lưng gối, tăng lực gân cơ".
 -  Sách Trân châu nang: " trị phong hư huyễn vựng đầu thống".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thiên ma có tác dụng an thần chống co giật.
 #. Thuốc có tác dụng làm giảm đau, tác dụng giảm đau của loại mọc hoang
@@ -57,7 +63,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    nhịp tim, nâng cao sức chịu đựng thiếu oxy của động vật thí nghiệm.
 #. Polysaccharide của Thiên ma có hoạt tính miễn dịch.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị suy nhược thần kinh và đau đầu do mạch máu: Tác giả dùng chất
 chiết xuất Thiên ma tố trị suy nhược thần kinh 156 ca, đau đầu do mạch
@@ -101,7 +109,8 @@ uống 3 - 6g, ngày 3 lần.
 
 Liều dùng và chú ý:
 
--  Liều thường dùng: 3 - 10g. Tán bột uống 1 - 1,5g/lần.
+-  Liều thường dùng
+================ 3 - 10g. Tán bột uống 1 - 1,5g/lần.
 -  Thiên ma là loại thuốc quí trên thị trường nên có nhiều loại giả, lúc
    mua cần chú ý: Thiên ma loại chất đặc bóng, hơi trong là thứ tốt (cho
    nên gọi là Minh Thiên ma). Chú ý nhận mặt thuốc thật thường là: chất

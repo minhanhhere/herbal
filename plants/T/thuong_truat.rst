@@ -16,7 +16,8 @@ Thương truật dùng làm thuốc được ghi đầu tiên trong sách Kinh s
 loại bị cấp bản thảo, quyển 6. Còn sách Bản kinh chỉ ghi Truật mà không
 viết rõ Thương truật hay Bạch truật.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Thương truật vị cay đắng tính ôn, qui kinh Tỳ vị.
 
@@ -26,7 +27,8 @@ Theo các sách thuốc cổ:
    táo, nhập túc thái âm, dương minh, thủ thái âm dương minh, thái dương
    kinh".
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Tùy loại mà thành phần có khác:
 
@@ -37,9 +39,11 @@ Tùy loại mà thành phần có khác:
 #. Trong loại Rhizoma Atractylodis Japonica có: atractylol, hinesol,
    beta-eudesmol, atractylone.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thương truật có tác dụng: táo thấp kiện tỳ, phát hãn, trừ phong thấp,
 minh mục.
@@ -59,7 +63,9 @@ Trích đoạn Y văn cổ:
    nhức mõi, hung cách đầy tức, lưỡi dày bẩn, không có Mao truật hương
    thơm mãnh liệt thì không khai tiết được".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Lượng ít Tinh dầu Thương truật có tác dụng an thần đối với ếch thực
    nghiệm, đồng thời khiến cho phản xạ tủy sống tăng mạnh, lượng cao có
@@ -81,7 +87,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 #. Nước sắc Mao Thương truật bơm vào dạ dày chuột đồng, không có tác
    dụng lợi niệu, nhưng lượng bài tiết Natri vcà Kali lại tăng rõ.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng còi xương trẻ em:
 
@@ -135,7 +143,8 @@ bị, tinh hồng nhiệt (fever scarfat) được theo dõi, kết quả:
 
 Ngoài ra, Thương truật còn dùng trị chứng quáng gà, nấu với gan lợn ăn.
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
 -  Liều: 5 - 10g, dùng sống tính táo của thuốc mạnh, sao lên bớt táo.
 -  Chú ý: không dùng trong các trường hợp âm hư nội nhiệt, biểu hư,

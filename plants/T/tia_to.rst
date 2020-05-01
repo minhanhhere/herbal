@@ -7,10 +7,12 @@ Dùng lá (Tô diệp), cành (Tô ngạnh), hạt (Tô tử) của cây Tía t�
 (*Perillafrutescens L. Britton) họ Hoa môi (Lamiacae)* Vị cay tính ấm
 qui kinh Phế, Tỳ.
 
-Thành phần chủ yếu: chứa tinh dầu, trong đó chủ yếu là Perilla Andehit
+Thành phần chủ yếu
+================== chứa tinh dầu, trong đó chủ yếu là Perilla Andehit
 limonen.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 #. Làm ra mồ hôi, giải cảm.
 #. Lợi tiểu.
@@ -34,7 +36,9 @@ chế trung khu thần kinh.
 + Nước ngâm kiệt lá tía tô có tác dụng ức chế các loại vi trùng như: Tụ
 cầu khuẩn, trực khuẩn lî, trực khuẩn đại tràng.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Giải cảm phong hàn: Trường hợp cảm mạo phong hàn sốt gai rét, đau đầu,
 ngực đầy tức dùng bài *Hương tô tán* (lá Tía tô 8g, Hương phụ 8g, Trần

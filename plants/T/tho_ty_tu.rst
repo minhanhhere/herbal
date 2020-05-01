@@ -12,7 +12,8 @@ sách Bản kinh.
 Ở nước ta, khắp nơi đều có mọc cây Tơ hồng nhưng còn ít chú ý khai thác
 để làm thuốc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị cay ngọt, tính bình. Qui kinh Can thận.
 
@@ -27,13 +28,16 @@ Về qui kinh:
 -  Sách Bản thảo kinh: nhập Tỳ thận can tam kinh.
 -  Sách Bản thảo tân biên: nhập Tâm can thận tam kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Vitamin A, glycosides.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thỏ ty tử có tác dụng: bổ dương, ích âm, cố tinh, súc niệu, minh mục,
 chỉ tả.
@@ -49,12 +53,16 @@ Chủ trị các chứng: thận hư, liệt dương, tiểu tiện không tự 
    tinh tủy trị lưng đau gối lạnh. Uống lâu tăng tuổi, trị chứng tiêu
    khát".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 Trên thực nghiệm, thuốc có tác dụng tăng lực co bóp của tim cóc cô lập,
 làm hạ huyết áp chó gây mê và các tác dụng hưng phấn tử cung cô lập.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng thận hư, liệt dương, di tinh, đau lưng, tiểu nhiều lần, các
 chứng lî lâu ngày: Thỏ ty tử vừa có tác dụng bổ âm và bổ dương nhưng
@@ -94,7 +102,8 @@ Thỏ ty tử tán mịn làm hoàn uống.
 trị 10 ca có kết quả 8 ca (Báo cáo của khoa Da liễu Y học viện Tây an
 đăng báo Y học viện Tây an 1959,6:88).
 
-Liều thường dùng:
+Liều thường dùng
+================
 
 -  Liều: 8 - 24g.
 

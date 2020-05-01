@@ -23,14 +23,17 @@ Theo các Y văn cổ:
 -  Sách Bản thảo kinh giải: " nhập thủ thái âm phế kinh, thủ thiếu âm
    tâm kinh, túc thái âm tỳ kinh".
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Đào nhân có glucozit khổ hạnh nhân, men đường lactate, vitamin B1, tinh
 dầu và dầu lipit, cholin và acetylcholin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thuốc có tác dụng hoạt huyết khu ứ, nhuận tràng thông tiện. Chủ trị các
 chứng đau kinh, kinh bế, đau bụng sau sanh, trưng hà tích tụ, chấn
@@ -71,7 +74,9 @@ nhuận tràng.
 
 5.Glucoxit khổ hạnh nhân có tác dụng ức chế tế bào ung thư có chọn lọc.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị bệnh phụ khoa:
 

@@ -27,7 +27,9 @@ Bàng quang.
 5.Tác dụng chống vi rút và nấm: trong ống nghiệm, nước sắc quế chi có
 tác dụng ức chế mạnh vi rút cúm và nấm gây bệnh.
 
--  Ứng dụng lâm sàng:
+-  Ứng dụng lâm sàng
+=================
+
 
 1.\ *Tán hàn giải cảm:* chữa chứng cảm mạo phong hàn, đau đầu, đau mình,
 sợ lạnh: Quế chi thang (Thương hàn luận) gồm: Quế chi 12g, Bạch thuợc

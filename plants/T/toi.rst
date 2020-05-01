@@ -8,7 +8,8 @@ Allivum Sativum L thuộc họ Hành tỏi (Liliaceae), dùng làm thuốc đư�
 đầu tiên trong sách Danh y biệt lục. Cây tỏi được trồng khắp nơi ở nước
 ta.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Tính vị cay ôn, qui kinh Tỳ Vị Phế.
 
@@ -19,14 +20,17 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo cương mục: nhập thái dương, dương minh.
 -  Sách Bản thảo kinh sơ: nhập túc dương minh, thái âm, quyết âm kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Allicin, Citral, geraniol, linaloolphelandrene, 5-methyl-1-cysteine,
 sulfoxide.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Tiêu sưng phù, giải độc sát trùng. Chủ trị các chứng ung tiết, sang
 thũng, nấm ngứa ngoài da, phế lao, đôn khái, kiết lî, tiết tả, giun móc,
@@ -46,7 +50,9 @@ Trích đoạn Y văn cổ:
 -  Sách Bản thảo cương mục: " năng thông ngũ tạng, đến các khiếu trừ hàn
    thấp, đuổi tà ác, tiêu ung thũng, hóa trung tích nhục thực".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Tinh dầu tỏi, nước tỏi, dịch ngâm tỏi đều có tác dụng kháng khuẩn
    mạnh phổ rộng, kháng khuẩn và ức chế khuẩn. Tỏi vỏ tím có tác dụng
@@ -66,7 +72,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 #. Tỏi còn có tác dụng tốt như chống viêm, hưng phấn tử cung, hạ đường
    huyết và cải thiện tình trạng nhiễm độc chì mạn tính.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị lãi kim, lãi móc câu, viêm âm đạo do trùng roi, lî trực khuẩn, lî
 amip: có thể dùng tỏi như sau:

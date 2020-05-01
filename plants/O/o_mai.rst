@@ -12,7 +12,8 @@ Cây Mơ mọc hoang hay được trồng nhiều tại các tỉnh miền Bắc
 Sơn tây, Hà nam, Ninh bình, Thanh hóa, Nghệ an, Hà tĩnh. Các nước như
 Nhật bản, Trung quốc, Acmenia cũng có cây Mơ.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Ô mai vị chua, tính bình, qui kinh Can Tỳ Phế Đại tràng.
 
@@ -25,13 +26,16 @@ Theo các sách cổ:
 -  Sách Bản thảo kinh sơ: nhập Can.
 -  Sách Dược phẩm hóa nghĩa: nhập 3 kinh Phế, Vị, Đại tràng.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Citric acid, malic acid, succinic acid, sitosterol.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Ô mai có tác dụng liễm phế, sáp tràng, sinh tân, an hồi.
 
@@ -49,7 +53,9 @@ Trích đoạn Y văn cổ:
 -  Sách Bản thảo cương mục: " liễm phế sáp tràng, chỉ cửu thâu tả lî,
    phản vị ế cách, tiêu thũng sưng đàm".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Trên thực nghiệm súc vật chứng minh Ô mai làm tăng khả năng miễn dịch
    của cơ thể.
@@ -64,7 +70,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 #. Tác dụng chống ung thư: in vitro Ô mai có tác dụng ức chế trên 90%
    ung thư cổ tử cung (ở người) loại JTC26.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị trĩ nội: Lục Đức Viêm dùng Ô mai chế thành thuốc chích (mỗi ml có
 hàm lượng 0,4g thuốc sống, mỗi lần dùng 5 - 10ml, không quá 30ml tối
@@ -144,7 +152,8 @@ lên, gạn lấy rượu, thêm vào bã còn lại 1 lít rượu 50 độ m�
 
 Liều lượng dùng và chú ý:
 
--  Liều thường dùng: 10 - 30g cho vào thuốc sắc. Dùng ngoài theo yêu
+-  Liều thường dùng
+================ 10 - 30g cho vào thuốc sắc. Dùng ngoài theo yêu
    cầu, tán nhỏ đắp ngoài. Trường hợp dùng cầm máu, trị tiêu chảy, nên
    sao cháy.
 -  Chú ý: thuốc có tác dụng thu liễm nên không dùng độc vị trong trường

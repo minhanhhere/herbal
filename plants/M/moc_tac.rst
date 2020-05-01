@@ -7,13 +7,15 @@ Dùng làm thuốc là toàn cây Mộc tặc (Equisetum Arvense L.) , (Equisetu
 hiemale L) còn gọi là Tiết cốt thảo, Mộc tặc thảo , Bút đầu thái, Cỏ
 tháp bút. Vị ngọt đắng, tính bình qui kinh Phế Can Đởm.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Trong Mộc tặc có các Acid Silixic, chất béo, phytosterol, acid
 equisetic, chất saponin gọi là equisetonin, các chất ancaloit equisetin
 và nicotin, ngoài ra còn có equisetrin (glucozit) và Isoquevitnin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 Theo sách dược cổ, qui nạp có mấy tác dụng:
 
@@ -23,7 +25,9 @@ Theo sách dược cổ, qui nạp có mấy tác dụng:
 
 3.Tiêu viêm.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Chữa viêm kết mạc cấp (do phong nhiệt làm mắt sưng đỏ mờ.) dùng bài:
 Mộc tặc 8g, Cúc hoa 12g, Bạch tật lê 12g, Quyết minh tử 12g, Phòng phong

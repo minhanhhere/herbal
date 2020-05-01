@@ -16,7 +16,9 @@ Tính vị: lá và vỏ cây vị đắng chát, tính bình.
 
 Qui kinh: vào kinh Tâm.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 #. An thần thông huyết: dùng để trị mất ngủ, có thể hợp với Lá sen (Xi
    rô Lạc tiên); hoặc lấy lá non nấu canh ăn

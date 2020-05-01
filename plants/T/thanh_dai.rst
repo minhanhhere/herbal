@@ -21,16 +21,19 @@ Vị mặn, tính hàn. Có sách ghi vị ngọt tính bình (Dược tính b�
 vị đắng tính hàn, không độc (Bản thảo tái tân). Qui kinh Can, Phế, Vị,
 Tỳ.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền: thuốc có tác dụng thanh nhiệt giải độc, tán phù,
+Theo Y học cổ truyền
+-------------------- thuốc có tác dụng thanh nhiệt giải độc, tán phù,
 lương huyết. Chủ trị các chứng: Can nhiệt kinh giật, nhiệt khái đờm đặc,
 thấp chẩn, lở mồm, huyết nhiệt phát ban, chảy máu cam, quai bị, ung
 nhọt.
 
 B.Kết quả nghiên cứu dược lý hiện đại cho thấy:
 
-1-Thành phần chủ yếu: glucozit gọi là Indican. Khi thủy phân Indican sẽ
+1-Thành phần chủ yếu
+================== glucozit gọi là Indican. Khi thủy phân Indican sẽ
 cho glucoza và Indoxyl, chất này oxy hóa sẽ cho indigotin. Indigotin bị
 khử trong môi trường kiềm sẽ cho Leucoindigo không có màu. Theo sách
 Dược lý học của Trung quốc: Thanh đại có 2 chất chính là: Điện lam 5 -
@@ -42,7 +45,9 @@ khuẩn lî Shigella, phẩy khuẩn tả.
 
 3-Điện lam có tác dụng bảo vệ gan.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị bệnh quai bị và các bệnh ung nhọt: dùng bài:
 

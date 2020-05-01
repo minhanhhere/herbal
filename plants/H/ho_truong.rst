@@ -13,7 +13,8 @@ nhiều ở Sapa. Trồng bằng củ rất dễ mọc. Cần chú ý Cốt khí
 dùng chỉ hạt và lá của nhiều cây khác thuộc họ Đậu. Củ Cốt khí thuộc họ
 Rau răm (Polygonaceae).
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị đắng tính hàn. Qui kinh Can, Đởm và Phế.
 
@@ -22,16 +23,19 @@ Theo Y văn cổ:
 -  Sách Bản thảo diễn nghĩa tập 12: " hơi đắng".
 -  Sách Trấn nam bản thảo: " đắng, hơi sáp, hơi hàn".
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Trong rễ cây có antraglucozit, chủ yếu là emodin hay rheumemodin
 C15H10O5, emodin monometyl ête C16H12O5 dưới dạng tự do và kết hợp.
 Ngoài ra còn có chất polygonin C21H20O10, tanin, đại hoàng tố, phenol
 đại hoàng, vitamin C.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thuốc có tác dụng hoạt huyết giảm đau, thanh nhiệt lợi thấp, giải độc,
 hóa đàm chỉ khái. Chủ trị các chứng: kinh bế, đau phong thấp, do chấn
@@ -58,7 +62,9 @@ Trích đoạn Y văn cổ:
    lậu, trừ phong thấp, giải cảm tán hàn, tán ứ huyết, dùng ngoài trị
    bỏng lửa".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 1.Hổ trượng có tác dụng kháng khuẩn, ức chế các loại vi khuẩn sau: tụ
 cầu vàng, trắng, liên cầu khuẩn tan máu, trực khuẩn đại tràng, trực
@@ -71,7 +77,9 @@ khuẩn lî Flexner, virút, leptospira.
 4.Thuốc có tác dụng an thần, lợi tiểu, hạ đường huyết, cầm máu và tiêu
 viêm.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị các chứng đau do huyết ứ:
 

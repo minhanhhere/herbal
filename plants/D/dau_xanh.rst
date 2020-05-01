@@ -9,12 +9,14 @@ Roxb thuộc họ Cánh bướm (Pabaceae ) hay (Papilionaceae). Dùng làm thu�
 được ghi đầu tiên trong sách " Khai bảo bản thảo" của Trung quốc. Cây
 đậu xanh mọc khắp nơi, ở nước ta dùng làm thực phẩm.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt tính hàn, qui kinh Tâm và Vị. Theo sách " Bổn kinh phùng
 nguyên": vị ngọt tính mát.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Có Protein, Lipid, nhiều loại sinh tố và khoáng chất. Theo tài liệu của
 GS Đỗ tất Lợi, hạt đậu xanh có trung bình 13,7% nước, 23% protit, 2,4%
@@ -22,9 +24,11 @@ lipit, 52% glucit, 4,6% celluloza. Mỗi 100g đậu xanh cung cấp cho cơ th�
 329 calo; 62,7mg calci; 369,5mgP; 4,7mg Fe; 0,06mg caroten; 0,71mg
 vitamin B1; 0,15mg Vitamin B2; 2,4mg vitamin PP; 4mg Vitamin C.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền: Đậu xanh có tác dụng thanh nhiệt giải độc, thanh
+Theo Y học cổ truyền
+-------------------- Đậu xanh có tác dụng thanh nhiệt giải độc, thanh
 thử giải khát, lợi tiểu (cả vỏ) dùng trị chứng ung nhọt độc, giải nóng
 khát về mùa hè, giải trúng độc Ba đậu và Phụ tử.
 
@@ -39,7 +43,9 @@ khát về mùa hè, giải trúng độc Ba đậu và Phụ tử.
 B.Kết quả nghiên cứu thực nghiệm chứng minh: thuốc có tác dụng phòng trị
 chứng tăng lipit huyết thực nghiệm.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Phòng và giải cảm nắng mùa hè:
 

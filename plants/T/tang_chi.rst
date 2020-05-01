@@ -18,7 +18,8 @@ Dâu thuộc họ Dâu tằm (Moraceae). Cây Dâu cho ta nhiều vị thuốc n
 
 Bài này chủ yếu nói về Tang chi.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị đắng tính bình qui kinh Can.
 
@@ -27,16 +28,19 @@ Theo các sách thuốc cổ:
 -  Sách Y lâm nang yếu thám nguyên: ngọt cay bình.
 -  Sách Bản thảo tái tân: nhập 2 kinh Phế Thận.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Mulberrin, mulberrochromene, cyclomulberrin, cyclomulberrochromene,
 morin, cudranin, tetrahydroxystilbene, dihydro morin, dihydro
 keempterol, fructose, glucose, arabinose, xylose, stachyose, sucrose,
 chất tanin, flavon, tang bì tố.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Khu phong thông lạc. Chủ trị chứng phong thấp tý, đau nhức, chân tay co
 quắp.
@@ -52,7 +56,9 @@ Trích đoạn Y văn cổ:
    đau, hợp với Hoa hòe, cành liễu, cành đào tắm trị ngứa toàn thân".
 -  Sách Bản thảo cầu chân: " trừ nhiệt, dưỡng âm chỉ tả".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 Tang chi có tác dụng hạ áp. Dịch ngâm kiệt Tang chi có tác dụng dưỡng
 lông đối với thỏ và cừu.
@@ -65,7 +71,9 @@ dược học 1978,10:36).
 Gạch nướng củi Tang chi, nhỏ giọt dấm lên xông chân có thể làm giảm cứng
 khớp do chấn thương (Trung y tạp chí Hồ bắc 1988,4:37).
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị huyết áp cao: dùng Tang diệp, Tang chi, Sung úy tử đều 16g, gia
 nước 1000ml sắc còn 600ml, ngâm rửa chân 30 - 40 phút mỗi ngày trước lúc
@@ -77,7 +85,8 @@ hợp đau chi trên gia Quế chi; đau chi dưới gia Ngưu tất, Mộc qua.
 
 Liều dùng và chú ý:
 
--  Liều thường dùng: 10 - 30g cho vào thuốc thang.
+-  Liều thường dùng
+================ 10 - 30g cho vào thuốc thang.
 -  Dùng ngoài tùy theo yêu cầu.
 
 ..  image:: TANGCHI.JPG

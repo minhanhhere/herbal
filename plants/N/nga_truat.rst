@@ -11,7 +11,8 @@ Nghệ đen.
 Cây Ngãi tím mọc hoang và được trồng ở Việt nam để làm thuốc. Cây mọc
 nhiều ở Trung quốc, Đai loan, Xrilanca và nhiều vùng nhiệt đới khác.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Nga truật tính ôn, vị cay đắng; qui kinh Can Tỳ.
 
@@ -22,15 +23,18 @@ Theo các Y văn cổ:
 -  Sách Lôi công bào chế dược tính giải: " nhập phế tỳ".
 -  Sách Bản thảo hội ngôn: " nhập túc quyết âm can".
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Trong Nga truật có chừng 1,0 - 1,5% tinh dầu, 3,5% chất nhựa và chất
 nhày. Trong tinh dầu, thành phần chủ yếu có 48% secquitecpen 35%,
 zingiberen 9,6% và một chất có tinh thể.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thuốc có tác dụng phá huyết khu ứ, hành khí chỉ thống. Trị các chứng
 kinh bế đau bụng, trưng hà tích tụ, bụng đau đầy.
@@ -48,13 +52,17 @@ Trích lược Y văn cổ:
    nếu có khí huyết ngưng kết, ăn uống tích trệ nên cùng dùng với thuốc
    kiện tỳ khai vị bổ ích nguyên khí thì không tổn hại".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 Dầu Nga truật có tác dụng phá hoại và ức chế tế bào ung thư gan. Nước
 sắc Nga truật làm tăng sự hấp thu máu và huyết cục trong bụng thỏ thực
 nghiệm, có tác dụng kháng khuẩn, kiện vị và chống có thai sớm.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị tắt kinh bụng đau: dùng bài:
 

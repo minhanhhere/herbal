@@ -8,7 +8,8 @@ hay sấy khô của cây Muồng có tên thực vật là Cassia Obtusifolia L
 Cassia tora L. dùng làm thuốc được ghi đầu tiên trong sách Bản kinh. Cây
 Muồng mọc hoang khắp nơi ở nước ta.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Thuốc vị ngọt đắng, tính hơi hàn, qui kinh Can, Đại tràng.
 
@@ -21,15 +22,18 @@ Theo các sách thuốc cổ:
    thận.
 -  Sách Lôi công bào chế dược tính giải: nhập can kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Trong hạt Thảo quyết minh có antraglucozid thủy phân cho emodin,
 glucoza, rhein, chrysophanic acid, chất nhày, chất béo và protid, sắc
 tố, quyết minh tố.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Quyết minh tử có tác dụng: thanh can minh mục (làm sáng mắt), bình can
 tiềm dương, nhuận tràng thông tiện. Chủ trị các chứng: mắt sưng đỏ, đau
@@ -47,7 +51,9 @@ Trích đoạn Y văn cổ:
    chảy nước mắt phần lớn do phong nhiệt bên trong . Thảo quyết minh là
    thuốc chủ yếu để trị".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Dịch ngâm nước hoặc ngâm cồn của thuốc có tác dụng hạ áp và lợi tiểu
    trên súc vật thực nghiệm. Chất antraglucozid có tác dụng nhuận tràng.
@@ -60,7 +66,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    cholesterol máu và hạn chế sự hình thành những mảng xơ gây xơ mỡ động
    mạch.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị đau đầu do can nhiệt, phong nhiệt:
 

@@ -8,7 +8,8 @@ sách Danh y biệt lục. Hổ (Panthera tigris L.) thuộc Họ Mèo (Felidae)
 sống khắp nơi ở miền rừng núi nước ta, nổi tiếng có nhiều ở vùng Hòa
 bình, Tuyên quang, Bắc thái và miền núi Trường sơn.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Xương Hổ vị cay ôn, qui kinh Can Thận.
 
@@ -17,14 +18,17 @@ Theo Y văn cổ:
 -  Sách Ngọc thu dược giải: vị cay mặn, khí bình.
 -  Sách Bản thảo hội ngôn: nhập thủ thiếu âm, túc quyết âm kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Calcium, protein, thành phần hữu hiệu là chất keo xương tựa như acid
 amin, còn có Phosphat calci, carbonat calci.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Trừ phong, giảm đau, làm mạnh gân xương. Chủ trị chứng phong thấp tý
 thống, lưng gối nhức mỏi.
@@ -39,7 +43,9 @@ Trích đoạn Y văn cổ:
    sưng, trị chứng tý làm cho khớp cử động dễ dàng, làm mạnh gân xương
    (cường cân kiện cốt), trị khớp sưng đau, gối lưng yếu mỏi".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 Thành phần có tác dụng là chất keo xương, tựa như amino acid. Cao xương
 chó có nhiều tyrosin hơn xương hổ.
@@ -52,7 +58,9 @@ chó có nhiều tyrosin hơn xương hổ.
    nhanh hơn. Nếu xương hổ cùng dùng với đồng tự nhiên tác dụng liền
    xương càng mạnh.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị viêm khớp mạn tính:
 
@@ -104,7 +112,8 @@ Hổ cốt có nhiều cách khác nhau:
 
 Liều dùng và cách dùng:
 
--  Liều thường dùng: 3 - 10g, cho vào thuốc hoàn, tán hoặc ngâm rượu,
+-  Liều thường dùng
+================ 3 - 10g, cho vào thuốc hoàn, tán hoặc ngâm rượu,
    hoặc nấu cao để dùng.
 -  Do xương hổ ngày càng hiếm có thể thay bằng xương heo hoặc nghiên cứu
    thêm để dùng xương các loài động vật khác như xương chó, mèo, khỉ,

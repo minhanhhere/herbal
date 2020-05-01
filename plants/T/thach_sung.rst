@@ -14,22 +14,26 @@ soi bắt bằng tay nắm đầu bóp chết hoặc dội nước sôi, đuôi 
 thuốc. Nên chú ý bảo quản tốt để trong hộp kín có đựng vôi sống vì thuốc
 dễ sinh sâu mọt.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Thạch sùng vị hàn mặn, có độc ít.
 
 Theo sách Bản thảo cương mục: mặn hàn, có độc ít.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Chất béo (tỷ lệ 11,92 - 15,97% theo Trần Huyền Trân 1970), protid và
 một loại chất có độc. Trong chất béo có lecitin, lyzolecitin,
 sphingomyelin, cephalin, cardiolipin, phosphattidyn serin và
 phosphatidylinontola, một chất giống histamin
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Vì Thạch sùng có tác dụng tán kết giải độc, chỉ thống, khu phong, định
 kinh.
@@ -48,14 +52,18 @@ Trích đoạn Y văn cổ:
 -  Sách Tứ xuyên Trung dược chí: "khu phong, phá huyết tích thành cục.
    Trị thũng lựu (ung thư)".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Dung dịch của thuốc in vitro có tác dụng ức chế hô hấp tế bào ung thư
    gan.
 #. Có tác dụng ức chế trực khuẩn lao và một số nấm gây bệnh thường gặp.
 #. Có tác dụng an thần gây ngủ chống co giật và chống ung thư huyết.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị bệnh lao:
 
@@ -149,7 +157,8 @@ Trường hợp động kinh lâu ngày, tâm huyết bất túc, dùng bài:
    với nước lá Bạc hà, tiếp theo uống bài Nhị trần thang. Trị chứng động
    kinh do Tâm huyết (Bản thảo cương mục quyển 43, Thủ cung).
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
 -  Dùng ngoài: lượng vừa đủ, tán bột hòa với dầu hoặc nước đắp hoặc tẩm
    gạc nhét vào lỗ rò, hoặc dùng đuôi Thằn lằn nhét vào.

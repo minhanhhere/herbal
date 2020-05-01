@@ -11,14 +11,16 @@ Gardenia Jasminoides Ellis) thuộc họ Cà phê (Rubiaceae).
 Vị đắng tính hàn, qui kinh Tâm Phế Can Vị. Có tác dụng thanh nhiệt, lợi
 thấp , lương huyết.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Chi tử có một glucozit màu vàng gọi là Gardenin, khi thủy phân cho phần
 không đường gọi là Gardenidin, tương tự với chất anpha croxetin C20H24O4
 hoạt chất của vị Hồng hoa. Ngoài ra trong Dành dành còn có Tanin, tinh
 dầu, chất pectin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 1.Giải nhiệt: tác dụng ức chế trung khu sản nhiệt như Hoàng cầm, Hoàng
 liên nhưng yếu hơn.
@@ -44,7 +46,9 @@ dụng hạ áp.
 Ngoài ra trên súc vật thực nghiệm, thuốc có tác dụng ức chế tế bào ung
 thư trong nước bụng.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng thấp nhiệt hoàng đản (bệnh viêm gan virus cấp): sách Y học
 cổ truyền qua các triều đại đều có ghi vị Chi tử chữa chứng Hoàng đản là

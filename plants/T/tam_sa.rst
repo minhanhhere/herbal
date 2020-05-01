@@ -7,18 +7,22 @@ Tàm sa là phân tằm phơi khô còn gọi là Tàm mễ, Văn tàm sa. Dùng
 thuốc được ghi đầu tiên trong sách Danh y biệt lục. Con Tằm được nuôi
 lấy tơ ở khắp nơi trong nước ta.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Tính vị ngọt cay ôn. Qui kinh Can tỳ vị.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Phytol, bêta-sitosterol, cholesterol, ergosterol, tetracosanol, lupeol,
 carotene, vitamine B1, C.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Khu phong trừ thấp, hòa vị hóa trọc. Chủ trị chứng phong thấp tý thống,
 thấp chẩn, ngứa, trị thổ tả.
@@ -34,11 +38,15 @@ Trích đoạn Y văn cổ:
 -  Sách Bản thảo cương mục: " trị tiêu khát, trưng kết, phụ nữ băng
    huyết, đầu phong, đau mắt đỏ, trừ phong thấp".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 Chưa thấy tài liệu nghiên cứu.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị mề đay (urticaire): mỗi ngày dùng Tàm sa 60g, sắc nước chia 2 lần
 sáng tối uống. Ngoài ra dùng 120g sắc để xông rửa vùng bệnh 20 phút, mỗi

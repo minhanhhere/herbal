@@ -21,14 +21,17 @@ Tính vị và qui kinh:
 -  Sách Bản thảo tân biên: nhập Phế Tỳ.
 -  Sách Bản thảo cầu chân: nhập Can.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Có alkloid, tinh dầu, taraxasteryl, acetate, stigmasterol, alpha amyrin
 beta-amyrin, beta-sitosterol, pectolinarin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thuốc có tác dụng lương huyết chỉ huyết, tán ứ tiêu ung.
 
@@ -62,7 +65,9 @@ Trích đoạn Y văn cổ:
 -  Sách Bản thảo chính nghĩa: " Nhị kế đều có tác dụng tan ứ là chính.
    Rễ Đại kế cầm thổ huyết, chảy máu cam".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 -  Nước thuốc ngâm kiệt rượu cồn và nước đều có tác dụng hạ áp trên chó
    mèo và thỏ thực nghiệm.
@@ -71,7 +76,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    hầu 100% dịch rễ tươi hoặc lá tươi đều có tác dụng ức chế liên cầu
    khuẩn A, trực khuẩn lî Flexner.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị các loại xuất huyết: như chảy máu cam, thổ huyết, tiểu ra máu, đàn
 bà băng lậu ...dùng các bài:

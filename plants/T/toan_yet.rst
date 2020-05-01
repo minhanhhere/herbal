@@ -14,7 +14,8 @@ Theo sách Những cây thuốc và vị thuốc Việt nam thì con Bọ cạp 
 đã được xác định thuộc chi Buthiurus hoặc chi Heterometrus ít được
 nghiên cứu. Thực tế ta có thể dùng nhiều loại Bọ cạp khác nhau.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Bọ cạp vị cay tính bình có độc, qui kinh Can.
 
@@ -25,15 +26,18 @@ Theo các sách thuốc cổ:
 -  Sách Y lâm soạn yếu thâm nguyên: cay chua mặn, hàn.
 -  Sách Bản thảo cương mục: túc quyết âm kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Katsutoxin (cũng như buthotoxin), trimethylamin, taurocholic acid,
 betain, palmitic acid, strearic acid, cholesterol, lecithinum và các
 muối ammonium khác.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Bọ cạp có tác dụng: tức phong chỉ kinh, giải độc tán kết, thông lạc chỉ
 thống (giảm đau).
@@ -53,7 +57,9 @@ Trích đoạn Y văn cổ:
 -  Sách Bản thảo tùng tân: " trị các chứng phong hoa mắt, chóng mặt,
    động kinh rút gân, khẩu nhãn oa tà, bệnh quyết âm phong mộc".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thuốc có tác dụng chống co giật, yếu hơn Ngô công.
 #. Thuốc có tác dụng hạ áp lâu dài. Nhiều học giả cho rằng chế phẩm Toàn
@@ -67,7 +73,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    0,7mg/kg, tùy thuộc loại súc vật thí nghiệm. Ở thỏ thí nghiệm, thuốc
    gây co cứng chi và liệt hô hấp.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng trúng phong bán thân bất tọai, kinh phong co giật ở trẻ em:
 
@@ -111,7 +119,8 @@ bột Toàn yết 3g bọc cho uống kết quả tốt (Trung y dược Hắc l
 
 Liều dùng và chú ý:
 
--  Liều thường dùng: 2 - 5g. Uống bột nuốt mỗi lần 0,6 - 1g. Đuôi Bọ cạp
+-  Liều thường dùng
+================ 2 - 5g. Uống bột nuốt mỗi lần 0,6 - 1g. Đuôi Bọ cạp
    độc hơn chỉ dùng 1/3 liều toàn con. Liều độc thường là 30 - 60g.
    Nhiễm độc của Bọ cạp như Rắn chủ yếu là nhiễm độc thần kinh, nhưng
    lượng sulfur ít nên thời gian ngắn. Triệu chứng váng đầu, hồi hộp,

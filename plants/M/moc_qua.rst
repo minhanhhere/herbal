@@ -10,7 +10,8 @@ qua (C.sinensis (Thouin) Koehne.
 Mộc qua dùng làm thuốc được ghi đầu tiên trong sách Danh y biệt lục. Ta
 còn phải nhập thuốc này của Trung quốc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Tính vị chua ôn, qui kinh Can tỳ.
 
@@ -19,13 +20,16 @@ Theo các sách thuốc cổ:
 -  Sách Dược phẩm hóa nghĩa: vị chua tính lương.
 -  Sách Cảnh nhạc toàn thư: nhập 4 kinh Tỳ Phế Can Thận.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Saponin, Fructose, citric acid, flavone, tartric acid, tanin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thư cân hoạt lạc hóa thấp hòa vị.
 
@@ -50,13 +54,17 @@ Trích đoạn Y văn cổ:
    hoắc loạn, thuốc giáng đờm, trừ thấp, hành thủy. thuốc liễm phế cầm
    đi lî, chỉ tả, làm giảm bứt rứt đầy bụng, chỉ khát".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 Thuốc có tác dụng bảo vệ gan, làm hạ men SGOT, SGPT. Nước sắc Mộc qua có
 tác dụng tiêu sưng rõ trên mô hình viêm khớp chuột nhắt do chích protein
 (tác dụng kháng viêm).
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng tê thấp cước khí, hoặc do chấn thương đau cẳng chân:
 

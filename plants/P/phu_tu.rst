@@ -10,7 +10,8 @@ Dùng làm thuốc được ghi đầu tiên trong sách Bản kinh. Cây Ô đ�
 thấy trồng ở nước ta, ở Trung quốc được trồng nhiều nơi mà chất lượng
 tốt nhất là cây mọc ở vùng Tứ xuyên.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Tính vị cay, nóng, có độc. Qui kinh Tâm, Thận, Tỳ.
 
@@ -21,14 +22,17 @@ Theo các sách cổ:
 -  Sách Thang dịch bản thảo: nhập Tam tiêu, Mệnh môn.
 -  Sách Bản thảo tái tân: nhập Tâm, Can, Thận.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Hypaconitine, Aconitine, Mesaconitine, Talatisamine, Chuan-wu-base A,
 Chuan-wu-base B.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Phụ tử có tác dụng hồi dương cứu nghịch, bổ hỏa trợ dương, ôn kinh, tán
 hàn, trừ thấp chỉ thống, thông kinh lạc.
@@ -60,7 +64,9 @@ Trích đọan Y văn cổ:
    ngoài, cho nên phàm chứng hàn ngưng lạnh kết ở tạng phủ hay gân cốt
    chứng tý ở kinh lạc hay huyết mạch thuốc đều khai thông được".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Nước sắc Phụ tử liều nhỏ làm tăng huyết áp động vật được gây mê, với
    liều lượng lớn, lúc đầu làm hạ sau làm tăng, tăng lực co bóp cơ tim ,
@@ -81,7 +87,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    và làm giảm nồng độ ammoniac ở não.
 #. Thuốc có tác dụng làm tăng miễn dịch cơ thể.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 Dùng độc vị Phụ tử để trị bệnh rất ít có báo cáo, Y học thường dùng Phụ
 tử trong các bài thuốc trị các chứng bệnh như sau:
@@ -120,7 +128,8 @@ dùng các bài:
    Bạch truật, Thược dược đều 10g, sắc uống (Phụ tử nên sắc trước 30
    phút).
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
 -  Liều thường dùng cho thuốc thang là 3 - 15g. Phụ tử nên sắc trước từ
    30 - 60 phút. Liều Phụ tử nhiều ít là khác nhau rất lớn, tùy thuộc

@@ -9,7 +9,8 @@ Sepiella maidroni de Rochebrune) thuộc họ Mực (Sepiidae). Con mực sống
 nhiều ở khắp miền biển nước ta, bắt mực về, lấy mai rửa sạch cạo hết vỏ
 cứng phơi khô dùng sống hoặc sao lên.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Mai mực vị mặn, sáp tính hơi ôn, qui kinh Can thận.
 
@@ -21,14 +22,17 @@ Theo các sách thuốc cổ:
 -  Sách Lôi công bào chế dược tính giải: nhập thận kinh.
 -  Sách bản thảo tái tân: nhập 3 kinh Can Tỳ Thận.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Calcium carbonate, calcium phosphate, magnesium chloridesodium chloride,
 ohitin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Ô tặc cốt có tác dụng: thu liễm chỉ huyết, cố tinh chỉ đới, chế toan chỉ
 thống thống (làm bớt chua và giảm đau) thu thấp liễm sang.
@@ -51,7 +55,9 @@ B.Kết quả nghiên cứu theo dược lý hiện đại:
 Thuốc có tác dụng cầm máu (hemostatic), calcium carbonate là chất chống
 acid (antacid) có hiệu quả.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị lóet nông ngoài da: Hoàng Ngọc Anh đã dùng bột thật mịn Ô tặc cốt
 bôi lên vùng lóet cho đầy, đắp gạc vô trùng cố định, mỗi cách 2 - 3 ngày

@@ -16,7 +16,8 @@ quần đảo Tây Aán độ, Trung quốc có cây giống trồng ở Vân na
 hội Aloe ferox Mill, chủ sản ở miền Nam Châu Phi, dược liệu là Tân Lô
 hội. Lô hội dùng ở nước ta chủ yếu ngoại nhập.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Lô hội vị đắng, tính hàn, qui kinh Can và Đại tràng.
 
@@ -26,14 +27,17 @@ Theo các sách thuốc cổ:
 -  Sách Khai bảo bản thảo: đắng hàn không độc.
 -  Sách Bản thảo cương mục: Lô hội nãi quyết âm kinh dược dã.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Aloin (cũng gọi là Barbaloin), p-coumaric acid, glucose, aldopentose,
 calcium oxalate.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Lô hội có tác dụng: Tả hạ thanh can hỏa, sát trùng. Chủ trị các chứng
 nhiệt kết tiện bí (táo bón do nhiệt), chứng can kinh thực hỏa, cam tích
@@ -56,7 +60,9 @@ Trích đoạn Y văn cổ:
    dụng của Lô hội là chủ thanh không chủ bổ, nếu nội nhiệt mà khí khỏe
    thì dùng, nếu nội nhiệt mà tiêu chảy ăn ít không dùng".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Aloin là chất tẩy xổ mạnh, tác dụng kích thích đại tràng gây xổ
    thường kèm theo đau bụng, hố chậu sung huyết nghiêm trọng có thể gây
@@ -70,7 +76,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 #. Độc tính Lô hội: dùng liều quá cao có thể gây ngộ độc chết người (
    tiêu nhiều, yếu toàn thân, mạch chậm, nhiệt độ xuống).
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị táo bón do trường vị thực nhiệt:
 
@@ -112,9 +120,11 @@ mặt; nặng hơn có triệu chứng co giật, phát cuồng nói nhãm:
 7%, xoa ngày 1 - 3 lần. Trị 140 ca, có kết quả 136 ca (Vương Thị, Tạp
 chí Trung y Liêu ninh 1987,9:27).
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
--  Liều thường dùng: uống 0,6 - 1,5g cho vào hoàn tán, không cho vào
+-  Liều thường dùng
+================ uống 0,6 - 1,5g cho vào hoàn tán, không cho vào
    thuốc thang. Dùng ngoài vừa đủ đắp chỗ bệnh.
 -  Chú ý: Lô hội rất đắng, mùi hôi, không cho vào thuốc thang, tỳ vị hư
    hàn không dùng. Phụ nữ có thai không dùng.

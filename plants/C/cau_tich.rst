@@ -8,7 +8,8 @@ Còn gọi là Kim mao Cẩu tích, rễ lông Cu li là thân rễ phơi hay s�
 của cây Lông Cu li (Cibotium Barometz (L) J.Sm), thuộc họ Lông Cu li. Vị
 thuốc Cẩu tích được ghi đầu tiên trong sách Bản kinh.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị đắng, ngọt, ôn . Qui kinh Can thận.
 
@@ -20,7 +21,8 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo cầu chân: nhập Can thận.
 -  Sách bản thảo tái tân: nhập Tâm can thận.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Có alkaloid Tục đoạn, ít tinh dầu, chất màu, vitamin E (sách của Đỗ tất
 Lợi gọi chất alkaloit trong Đỗ trọng là Lamin). Cũng theo sách này viết
@@ -29,9 +31,11 @@ ngọt, sau hơi tê lưỡi, có phản ứng acid với giấy quì, có phả
 với các thuốc thử chung với alkaloit, phản ứng tanin cũng rõ rệt, có
 đường và có thể có saponin (Lê Anh 1961, Bộ môn Dược liệu).
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Bổ can thận, mạnh gân xương lưng gối, trừ phong thấp.
 
@@ -45,11 +49,15 @@ Theo các sách thuốc cổ:
    cong ưỡn sống lưng dễ dàng, nữ tử khớp xương co duỗi khó khăn".
 -  Sách Bản thảo cương mục: " cường can thận, kiện cốt trị phong hư".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 Lông Cu li có tác dụng cầm máu.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng can thận bất túc: Đau nhức sống ngang lưng, tiểu nhiều khó
 cầm, thuốc có tác dụng bổ can thận, dùng bài:

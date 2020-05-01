@@ -8,7 +8,8 @@ hay sấy khô của cây Địa du mọc lâu năm Sanguisorba officinalis L. h
 cây Địa du dài lá Sanguisorba var longifolia (Bert) thuộc họ Hoa Hồng (
 Rosaceae).
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị đắng chua, tính hơi hàn. Qui kinh: Can, Vị, Đại tràng.
 
@@ -22,12 +23,14 @@ Theo các sách dược cổ truyền:
 -  Sách Lôi công bào chế dược tính giải: nhập 2 kinh đại tràng, can.
 -  Sách Bản thảo cầu chân: chuyên nhập Can, Trường vị.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Glucoside Địa du I, II, Sanguisorbin A, B, E, Ursolic acid, arabinose,
 tannin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 A. Theo Y học cổ truyền:
 
@@ -62,7 +65,9 @@ Trích đoạn Y văn cổ:
    gây đau và nhiều ác nhục. Địa du có tác dụng lương huyết nên trị được
    ung nhọt và trừ ác nhục."
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 1.Tác dụng cầm máu: dùng bột Địa du hoặc bột Địa du sao cháy bơm vào bao
 tử chuột nhắt, thời gian chảy máu của chuột ở 2 lô thí nghiệm đều được
@@ -95,7 +100,9 @@ tác dụng ức chế tế bào ung thư cổ tử cung loại JTC-26.
 thuốc ngày thứ 5 và ngày thứ 10 sinh thiết gan kiểm tra thấy tế bào gan
 tăng sinh và có hiện tượng gan nhiễm mỡ.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị các chứng xuất huyết: thuốc có tác dụng lương huyết chỉ huyết.
 

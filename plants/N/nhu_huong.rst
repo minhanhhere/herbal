@@ -10,7 +10,8 @@ L) thuộc họ Đào lộn hột (Anacardiaceae), sản xuất từ một số 
 Địa trung hải. Còn có tên là Hắc lục hương, Thiên trạch hương, Địa nhũ
 hương.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị cay đắng, tính ôn. Qui kinh Tâm, Can, Tỳ.
 
@@ -21,13 +22,15 @@ Theo một số Y văn cổ:
 -  Sách Bản thảo kinh sơ: " qui kinh túc thái âm, thủ thiếu âm, túc
    quyết âm kinh".
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Trong Nhũ hương có 90% hỗn hợp acid mastixic C20H32O2, acid masticolic,
 một ít masticaresen, có khoảng 2% tinh dầu mùi long não trong đó chủ yếu
 là dipinen.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 A.Theo dược lý cổ truyền:
 
@@ -57,7 +60,9 @@ Trích theo một số Y văn cổ:
 
 B.Theo dược lý hiện đại: thuốc có tác dụng giảm đau.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 Trên lâm sàng phạm vi ứng dụng của Nhũ hương rất rộng.
 

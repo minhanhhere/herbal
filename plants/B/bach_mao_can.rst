@@ -14,7 +14,8 @@ Beauv. var. major (Nees) c.E.Hubb. thuộc họ Lúa Poaceae (Gramineae) mọc
 hoang khắp noiư ở nước ta> Rễ tranh dùng làm thuốc được ghi đầu tiên
 trong sách Bản kinh.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt tính hàn. Qui kinh Phế, Vị, Bàng quang.
 
@@ -27,14 +28,17 @@ Theo các sách cổ:
    dương minh kinh.
 -  Sách Bản thảo cầu chân: nhập Vị Can.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Cylindrin, Arundoin, Fermenol, Potassium, Calcium, Glucose, Fructose,
 Oxalic acid.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thuốc có tác dụng lương huyết chỉ huyết, thanh nhiệt lợi tiểu, thanh phế
 vị nhiệt. Chủ trị các chứng nục huyết, khái huyết, thổ huyết, niệu
@@ -96,7 +100,9 @@ hồi phục lại bình thường không lâu. Trường hợp chích tĩnh m�
 10 - 15g/kg thì xuất hiện thở nhanh, vận động giảm 1 giờ sau hồi phục
 dần, nếu chích với liều 25g/kg, 6 giờ sau thỏ chết.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị sốt xuất huyết: Dùng Mao căn 50 - 100g, Đơn sâm 20 - 30g, Lô căn
 30 - 40g, Hoàng bá, Đơn bì đều 10 - 15g, Bội lan 15 - 30g, tùy chứng gia

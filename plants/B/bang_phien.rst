@@ -18,7 +18,8 @@ hương, Ngãi phiến, Từ bi. Băng phiến được chế từ 3 nguồn:
 
 Bài này chủ yếu giới thiệu loại Băng phiến chế từ gỗ cây Long não hương.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Băng phiến vị cay, đắng tính hơi hàn, qui kinh Tâm tỳ phế.
 
@@ -32,13 +33,16 @@ Theo các sách thuốc cổ:
    truyền vào Tâm tỳ.
 -  Sách Lôi công bào chế dược tính giải: nhập 2 kinh Phế can.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Borneol (có thể tổng hợp từ tinh dầu thông).
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Băng phiến có tác dụng khai khiếu, tịch uế chỉ thống. Chủ trị chứng
 trúng phong đàm quyết, kinh giản, bụng ngực đau lạnh.
@@ -58,7 +62,9 @@ Trích đoạn Y văn cổ:
    thể tán phong thấp. Vì thế mà thuốc chủ trị chứng tâm phúc tà khí và
    phong thấp tích tụ".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Đối với hệ thần kinh ngoại vi: thuốc có tác dụng kích thích nhẹ thần
    kinh cảm giác ngoại vi, làm giảm đau thần kinh.
@@ -76,7 +82,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    chuyển hóa ở gan kết hợp với acid glucuronic và được thải ra bằng
    đường tiểu.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng huyễn vựng(đau đầu, chóng mặt): dùng Nhĩ châm, mỗi lần chọn
 2 bên huyệt Thần môn, Não, Dưới vỏ não, Tâm, Giao cảm 2 - 3 huyệt. Lấy
@@ -135,7 +143,8 @@ ca kết quả tốt (Vương thúc Mai và cộng sự, Báo Y học Hoài nam
 phi khô) 2g, Hoàng bá 2g, đốt thành than, Đăng tâm 3g đốt than, tất cả
 tán nhỏ trộn đều, mỗi lần dùng 3 - 4g thổi vào họng.
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
 -  Liều: uống 0,02 - 1g cho thuốc vào hoàn tán, không cho vào thuốc sắc.
    Dùng ngoài lượng vừa đủ, tán bột khô bôi vào hoặc đắp.

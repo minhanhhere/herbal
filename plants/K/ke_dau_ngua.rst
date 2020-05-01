@@ -10,7 +10,9 @@ Tính vị: vị cay đắng, tính ấm.
 
 Qui kinh: vào kinh phế
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 -  Chữa đau khớp và đau dây thần kinh hay phối hợp với Uy linh tiên,
    Xuyên khung.

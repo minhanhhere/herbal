@@ -16,7 +16,8 @@ rễ Qua lâu (Radix Trichosanthis).
 Cây Qua lâu ở nước ta mới phát hiện có mọc ở Cao bằng. Các vị Qua lâu
 làm thuốc phần lớn nhập của Trung quốc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Qua lâu vị ngọt tính hàn, qui kinh Phế Vị Đại tràng.
 
@@ -27,7 +28,8 @@ Theo các sách cổ:
 -  Sách Bản thảo hội ngôn: nhập thủ thiếu âm, thái âm kinh.
 -  Sách Bản thảo tân biên: nhập 2 kinh phế vị.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Theo sách Trung dược học: Quả Qua lâu có saponin, triterponoid, acid hữu
 cơ, resin, chất đường, sắc tố và dầu béo.
@@ -43,9 +45,11 @@ Trong rễ Qua lâu (Thiên hoa phấn) có rất nhiều tinh bột.
 Viện Y học Bắc kinh nghiên cứu thấy trong Thiên hoa phấn có chừng 1%
 saponozit.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 -  Qua lâu bì có tác dụng: thanh phế hóa đàm, lợi khí khoang hung. Chủ
    trị chứng ho do phế nhiệt, chứng hung tý, kết hung (ngực đau đầy tức,
@@ -67,7 +71,9 @@ Trích đoạn Y văn cổ:
    nếu đem dùng cho các chứng hàn đàm, thấp đàm, khí hư, thực tích sinh
    đàm đều không có ích gì mà lại có hại".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Triterpenoid saponin có tác dụng khu đàm.
 #. Qua lâu nhân có nhiều dầu béo nên có tác dụng gây xổ mạnh, Qua lâu bì
@@ -79,7 +85,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    xanh, phẩy khuẩn thổ tả và nấm gây bệnh ngoài da.
 #. Thuốc có tác dụng chống hoạt tính ung thư.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị động mạch vành: dùng Qua lâu nhân chế thành viên dùng, ngày 3 lần
 mỗi lần 4 viên (lượng thuốc mỗi ngày tương đương với 31,2g thuốc sống,
@@ -122,7 +130,8 @@ uống 16 - 20g.
 8.Trị viêm họng mất tiếng: Qua lâu bì, Bạch cương tằm, Cam thảo đều 10g,
 Gừng tươi 4g, nước 500ml sắc còn 150ml chia 2 lần uống trong ngày.
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
 -  Liều: Toàn qua lâu: 10 - 20g; Qua lâu bì: 6 - 12g; Qua lâu nhân: 10 -
    15g.

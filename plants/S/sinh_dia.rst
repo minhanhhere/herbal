@@ -9,14 +9,17 @@ Gaertn) thuộc họ Hoa mõm chó (Scrophulariacae).
 
 Vị ngọt đắng tính hàn, qui kinh Tâm Can thận.
 
-Thành phần chủ yếu: Theo các nhà nghiên cứu Nhật bản và Triều tiên,
+Thành phần chủ yếu
+================== Theo các nhà nghiên cứu Nhật bản và Triều tiên,
 trong Sanh địa có các chất Manit (C6H8(OH)6), rehmanin là một glucozit,
 glucoza và ít caroten. Các tác giả Trung quốc cho rằng trong Sanh địa có
 ancaloit.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Sinh địa có tác dụng tư âm giáng hỏa, lương huyết sinh tân nhuận táo.
 

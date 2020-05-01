@@ -15,7 +15,8 @@ Bổ cốt chi (Psorales corylifolia L.) dùng làm thuốc.
 Bào chế bỏ tạp chất, dùng sống hoặc tẩm nước muối sao cho hơi phồng, gọi
 là Diêm Bổ cốt chi, lúc dùng đập vụn.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Đắng cay, đại ôn qui kinh Thận tỳ.
 
@@ -31,20 +32,25 @@ Tính vị qui kinh:
 -  Sách Bản thảo hội ngôn: nhập thủ quyết âm, túc thái âm và mệnh môn.
 -  Sách Bản thảo kinh giải: nhập túc dương minh vị kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Psoral, Isopsoralin, bavachin, bavachinin, Isobavachin, bavachalcone,
 Isobavachalcone, bakuchiol, raffinose.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Bổ cốt chi có tác dụng bổ thận tráng dương, cố tinh súc niệu, ôn tỳ chỉ
 tả. Chủ trị chứng liệt dương, hoạt tinh, đái dầm, đái nhiều lần, tỳ hư
 tiết tả.
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Tác dụng đối với hệ tim mạch: thuốc có tác dụng làm dãn động mạch
    vành rõ rệt, có tác dụng đối kháng với kích tố làm co động mạch vành
@@ -73,7 +79,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    dục của chuột cái đã cắt buồng trứng, làm tăng trọng lượng tử cung rõ
    rệt.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 Theo Y học cổ truyền Bổ cốt chi là vị thuốc chính trị bệnh Tỳ thận dương
 hư. Trên lâm sàng thường dùng trị bệnh như sau:
@@ -117,7 +125,8 @@ tân Y dược 1973,1:36).
 nặng 6g, ngày uống 3 lần, mỗi lần 1 - 3 hoàn hoặc 3g bột, một liệu trình
 4 tuần. Trị 19 ca, 14 ca khỏi, 4 ca tiến bộ (Tân y học 1975,10:497).
 
-Liều thường dùng:
+Liều thường dùng
+================
 
 -  Liều: 4 - 12g.
 -  Không nên dùng nhiều.

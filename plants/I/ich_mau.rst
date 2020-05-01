@@ -21,16 +21,19 @@ Theo các sách cổ:
 -  Sách Dược phẩm hóa nghĩa: " nhập Can, Tỳ, Bào lạc".
 -  Sách Bản thảo tái tân: "nhập Tâm Tỳ Thận".
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Cây Ích mãu có nhiều loại ancaloit, flavonozit và tanin (7-8%). Gần đây
 người ta thấy trong Ích mẫu có 3 loại flavonozit, trong đó có rutin, một
 glucozit có cấu tạo steroit, một ít tanin, trong toàn cây có leocadin,
 một ít tinh dầu, ancaloit không có tác dụng chữa bệnh.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền: thuốc có tác dụng hoạt huyết khu ứ, lợi tiểu
+Theo Y học cổ truyền
+-------------------- thuốc có tác dụng hoạt huyết khu ứ, lợi tiểu
 tiêu phù, thanh nhiệt giải độc. Chủ trị các chứng kinh nguyệt không đều,
 kinh bế, đau bụng sau sanh, đau do chấn thương, phù, tiểu tiện không
 lợi, sang độc sưng tấy, ban chẩn ngứa.

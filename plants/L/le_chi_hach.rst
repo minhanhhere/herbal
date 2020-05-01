@@ -8,7 +8,8 @@ Bản thảo diễn nghĩa" là hạt của quả vải của cây vải Litchi 
 Sonn, thuộc họ Bồ hòn. Cây vải được trồng ở khắp nơi trong nước ta và
 nhiều nước khác như Cambuchia, Lào, Trung quốc, Thái lan, Ấn độ.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt, tính ôn. Qui kinh Can vị.
 
@@ -20,11 +21,13 @@ Theo các sách cổ:
 -  Sách Bản thảo kinh sơ: nhập Can thận.
 -  Sách Bản thảo tối yếu: Nhập túc thái âm, quyết âm kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Saponin, Tanin, Alpha-methylenecyclo-propyl glycine.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 1.Theo Y học cổ truyền:
 

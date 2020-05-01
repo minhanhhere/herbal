@@ -7,7 +7,8 @@ Còn gọi là Tang thầm tử, được ghi đầu tiên trong sách Tân tu b
 là quả chín của cây Dâu tằm (Morus Alba L.) thuộc họ Dâu tằm (
 Moraceae).
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt, tính hàn. Qui kinh Tâm, Can, Thận.
 
@@ -22,14 +23,17 @@ Về qui kinh:
 -  Sách Bản thảo tùng tân: nhập thận.
 -  Sách Bản thảo tóat yếu: nhập túc quyết âm, thiếu âm kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Carotene, Thiamine, riboflavin, vitamin C, tanin, linoleic acid, stearic
 acid.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thuốc có tác dụng bổ âm huyết, sinh tân nhuận trường. Chủ trị chứng âm
 huyết hư, chứng tiêu khát, tân dịch hao tổn, táo bón.
@@ -44,12 +48,16 @@ Trích đoạn Y văn cổ:
    mắt sáng".
 -  Sách Bản kinh sơ: " ích âm trừ nhiệt, lương huyết bổ huyết".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 Nước sắc Tang thầm 100% có tác dụng chuyển dạng Lympho bào mức độ trung
 bình.
 
-Ứng dụng lâm sàng: là thuốc thường dùng bình bổ can thận, bổ huyết:
+Ứng dụng lâm sàng
+=================
+ là thuốc thường dùng bình bổ can thận, bổ huyết:
 
 1.Trị chứng huyết hư, váng đầu, ù tai, tiêu khát: thường gặp trong các
 bệnh thiếu máu, suy nhược thần kinh, xơ cứng động mạch, bệnh tiểu đường.

@@ -9,7 +9,8 @@ hoặc cây Một dược khác có tên La tinh là Balsamodendron Ehrenbegianu
 Berg. Nơi sản xuất chính là Xômali và các nước ở bán đảo Á rập. Thuộc họ
 Đào lộn hột (Anacardiaceae).
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị đắng tính bình. Qui kinh Tâm Can Tỳ.
 
@@ -20,11 +21,13 @@ Theo một số Y văn cổ:
 -  Sách Bản thảo tân biên: " nhập Tỳ thận".
 -  Sách Bản thảo cầu chân: " Nhập Tâm can".
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Trong Một dược có chất dầu keo, chất keo, tinh dầu .
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 A.Theo dược lý cổ truyền: Thuốc có tác dụng hoạt huyết tiêu ứ, tiêu ung,
 bài nùng, chỉ thống, tiêu thủng, sinh cơ; đồng thời có tác dụng bài
@@ -34,10 +37,14 @@ Chủ trị các chứng: thống kinh, bế kinh, đau vùng thượng vị, ch
 phong thấp tý, do chấn thương ngã té sưng, đau chứng trường ung, chứng
 nhọt lở khó lành miệng.
 
-B.Kết quả nghiên cứu dược lý hiện đại: Thuốc ó tác dụng ức chế nhiều
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+ Thuốc ó tác dụng ức chế nhiều
 loại nấm gây bệnh ngoài da và có tác dụng hạ mỡ trong máu.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị các chứng đau: đau sau sinh, đau kinh, đau do chấn thương ngoại,
 sưng tấy phù nề, thuốc có tác dụng khu ứ chỉ thống.

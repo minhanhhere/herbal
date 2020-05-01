@@ -5,11 +5,14 @@ Tỳ giải (Củ Kim cang )
 
 Smilaxchima họ Liliaceae.
 
-Tính vị qui kinh: Đắng bình vào Can Vị.
+Tính vị qui kinh
+================ Đắng bình vào Can Vị.
 
 Tác dụng: Thảm thấp lợi niệu kiện tỳ.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 Đái đục, đái ra dưỡng chấp, thấp khớp, trừ mụn nhọt.
 

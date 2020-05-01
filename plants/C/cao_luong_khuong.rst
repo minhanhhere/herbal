@@ -14,7 +14,8 @@ Cao lương khương. Cây Riềng mọc hoang hoặc được trồng khắp n�
 để làm gia vị và làm thuốc. Tại Trung quốc, Riềng mọc nhiều tại các tỉnh
 Quảng đông, Quảng tây, Đài loan, Vân nam.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Riềng vị cay, tính nóng, qui kinh Tỳ Vị.
 
@@ -24,15 +25,18 @@ Theo các sách cổ:
 -  Sách Bản thảo thập di: vị cay ôn.
 -  Sách Lôi công bào chế dược tính: nhập 2 kinh Tỳ vị.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Trong rễ củ riềng có 0,5 - 1,5% tinh dầu. Thành phần có carineole,
 methyl cinnamate, eugenol, pinene, cadimene, galangin, kaempferide,
 kaempferol, quercetin, Isorhamnetin, galangol.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Riềng có tác dụng ôn tỳ vị, chủ trị các chứng đau bụng lạnh, nôn, tiêu
 chảy.
@@ -53,7 +57,9 @@ Trích đoạn Y văn cổ:
    khương cùng dùng với Hồi hương. Còn dùng Riềng trị chứng bụng dưới
    đau sau sanh do hạ tiêu hư hàn, ứ huyết".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Tác dụng kháng khuẩn: nước sắc Cao lương khương in vitro có tác dụng
    ức chế nhiều loại vi khuẩn như trực khuẩn bạch hầu, liên cầu khuẩn
@@ -63,7 +69,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    thí nghiệm, nồng độ cao lại có tác dụng ức chế. Dầu thơm Lương khương
    có tác dụng kiện vị (tăng tiết dịch vị).
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị đau bụng do hàn, nôn ra nước trong, đau bụng do sa đì (sán khí):
 dùng bài:
@@ -88,7 +96,8 @@ dùng bài:
 
 Liều lượng dùng và chú ý:
 
--  Liều thường dùng: uống 3 - 10g.
+-  Liều thường dùng
+================ uống 3 - 10g.
 -  Không dùng đối với chứng nhiệt thịnh, âm hư.
 
 + Sách Bản thảo kinh sơ viết: " vị hỏa sinh nôn, thương thử hoắc loạn,

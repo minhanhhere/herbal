@@ -7,10 +7,12 @@ Là toàn cây Phù bình (Spirodela polyrhiza Schleid) khác với vị Bèo c�
 hoặc còn gọi là Đại phù bình, Bèo tía, Bèo ván. Tên khoa học là Pista
 stratiotes L. thuộc họ Ráy (Araceae). Vị cay, tính hàn qui kinh phế.
 
-Thành phần chủ yếu: Trong vị Phù bình thuốc Bắc có potassium acetate
+Thành phần chủ yếu
+================== Trong vị Phù bình thuốc Bắc có potassium acetate
 clouua kali, các hợp chất iod và bromidum.
 
-Tác dụng dược lý: Thuốc có tác dụng phát hãn khu phong hành thủy. Qua
+Tác dụng dược lý
+================ Thuốc có tác dụng phát hãn khu phong hành thủy. Qua
 nghiên cứu nhận thấy thuốc có tác dụng:
 
 1.Giải nhiệt: Trên thực nghiệm súc vật chứng minh nước sắc và nước ngâm
@@ -18,7 +20,9 @@ Phù bình có tác dụng hạ nhiệt yếu.
 
 2.Lợi tiểu: Chủ yếu do các thành phần potassium acetate và clorua kali.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Giải độc thúc sởi mọc: Trường hợp sởi khó mọc, mọc không đều, dùng:
 

@@ -13,15 +13,18 @@ hơn.
 
 Thuốc vị ngọt tính hàn, qui kinh phế vị tâm tỳ đại tràng.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Có glucozit là lonixerin (theo các học giả Nhật) năm 1961, nhiều
 saponozit (Đỗ tất Lợi), trong Kim ngân hoa có inozit (hay inozitol)
 chừng 1%.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền: Kim ngân hoa có tác dụng thanh nhiệt giải độc.
+Theo Y học cổ truyền
+-------------------- Kim ngân hoa có tác dụng thanh nhiệt giải độc.
 
 B.Theo kết quả nghiên cứu dược lý hiện đại chứng minh thuốc có tác dụng:
 
@@ -44,7 +47,9 @@ thực bào của bạch cầu.
 
 7.Thuốc có tác dụng lợi tiểu.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng ngoại cảm phong nhiệt: (thời kỳ đầu của ôn bệnh) thường kết
 hợp với Kinh giới, Bạc hà, Liên kiều dùng bài Ngân kiều tán.

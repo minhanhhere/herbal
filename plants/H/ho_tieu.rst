@@ -17,7 +17,8 @@ chín ngâm nước vài ngày xát cho tróc vỏ ngoài phơi khô thành màu
 gọi là Hồ tiêu trắng (Tiêu sọ). Hạt tiêu dùng sống, giã nát hoặc tán bột
 dùng làm gia vị hoặc làm thuốc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Hồ tiêu vị cay tính nóng. Qui kinh Vị Đại tràng.
 
@@ -26,16 +27,19 @@ Theo các sách cổ:
 -  Sách Tân tu bản thảo: vị cay, đại ôn, không độc.
 -  Sách Bản thảo kinh sơ: nhập thủ túc dương minh kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Hồ tiêu có tinh dầu. Thành phần chủ yếu có piperine, chavicine (là 2
 ankaloit chủ yếu) piperamine, peperanine, peperonal, dihydrocarveol,
 caryophyllene oxide, cryptone, transpinocarveol,
 cis-p-2-8-menthadien-I-ol.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Hạt tiêu có tác dụng ôn trung chỉ thống, chủ trị chứng đau bụng lạnh,
 nôn, tiêu chảy.
@@ -56,7 +60,9 @@ Trích đoạn Y văn cổ:
    nguyên nên trường hợp tẩu khí động hỏa, âm hư khí bạc, rất nên kî Hồ
    tiêu".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Dùng liều nhỏ tăng dịch vị, dịch tụy, kích thích tiêu hóa ăn ngon,
    nhưng liều lớn kích thích niêm mạc dạ dày gây sung huyết và viêm cục
@@ -72,7 +78,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    cắn.
 #. Ankaloit Hồ tiêu có tác dụng an thần đối với chuột nhắt rõ rệt.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị động kinh: Tác giả dùng Kháng giản linh trị 73 ca động kinh đã
 dùng thuốc tây không khỏi. Liều thường dùng mỗi ngày 150 - 200mg, có ca

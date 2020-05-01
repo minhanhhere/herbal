@@ -10,12 +10,14 @@ Chrysanthemum morifolium Ramat) thuộc họ cúc (Compositae).
 
 Vị ngọt đắng, tính hơi hàn, qui kinh Phế Can Thận.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Có tinh dầu, có chất Adenin, Cholin, Stachydrin, Vitamin A, Sắc tố của
 hoa là Crysantemin khi thủy phân sẽ được glucoza và Xyanidin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 Theo dược lý cổ truyền thuốc có tác dụng:
 
@@ -34,7 +36,9 @@ thương hàn.
 Ngoài ra, Bạch cúc có tác dụng ức chế ở mức độ khác nhau các loại nấm
 ngoài da.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 *1.Chữa chứng ngoại cảm phong nhiệt- chứng phong ôn giai đoạn đầu:* sốt
 hơi rét, đau đầu, mắt sưng đỏ thường gặp trong viêm đường hô hấp trên,

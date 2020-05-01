@@ -19,7 +19,8 @@ vào rượu 40 độ có pha mật ong (1 kg rễ cho vào 250ml rượu trắn
 dấm là cho phiến Thương lục vào chão, cho dấm gạo vào đun cho rễ hút hết
 dấm sao tiếp cho hơi khô (50kg Thương lục cho 15kg dấm).
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Thương lục vị đắng, tính hàn, có độc. Qui kinh Phế Thận Đại tràng.
 
@@ -28,14 +29,17 @@ Theo các sách thuốc cổ:
 -  Sách Bản kinh: vị cay bình.
 -  Sách Bản thảo cương mục: đắng hàn.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Phytolaccine (Thương lục kiềm), Phytolaccatoxin, rất nhiều muối
 potassium ntrate, oxyminstinic acid, saponozid.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thương lục có tác dụng: lợi niệu trục thủy, tiêu thũng tán kết. Chủ trị
 các chứng thủy thũng, phức thủy, ung thũng (dùng ngoài).
@@ -52,7 +56,9 @@ Trích đoạn Y văn cổ:
    ra hết hỏa độc, ngâm rượu một đêm, phơi khô tán bột, mỗi lần uống 3
    đồng cân với nước cơm hoặc dùng đun với tỏi lấy nước uống".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Tác dụng long đàm: thuốc sắc, tinctura Thương lục hay nước thuốc ngâm
    đều có tác dụng long đàm, có thể do thuốc trực tiếp lích thích lên
@@ -68,7 +74,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    của Thương lục đỏ lớn gấp đôi loại Thương lục trắng, cả 2 loại thuốc
    sắc 2 giờ, độc tính đều giảm rõ rệt.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị phù toàn thân, bụng nước, viêm cầu thận cấp:
 
@@ -111,7 +119,8 @@ mỗi viên tương đương 0,5g thuốc sống, bắt đầu uống mỗi lầ
 đó tăng dần đến 20 viên, ngày 3 lần. Đã trị 253 ca, có kết quả 94,86%,
 khỏi 37,15% (Điền phố Vĩnh, Báo Trung thảo dược 1985,3:22).
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
 -  Liều: 5 - 10gg chế dấm để giảm độc, dùng ngoài vừa đủ.
 -  Chú ý nhiễm độc như trên đẫ nêu. Có người nhầm Thương lục là Nhân sâm

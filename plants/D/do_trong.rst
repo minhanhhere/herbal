@@ -8,7 +8,8 @@ cây Đỗ trọng (Eucomia ulmoides Oliv.) thuộc họ Đỗ trọng (Eucommia
 vị thuốc này được ghi đầu tiên ở sách Bản kinh. Còn có tên là Mộc miên
 vì trong vỏ có chất sợi tơ bạc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Ngọt, ôn, qui kinh Can thận.
 
@@ -20,13 +21,16 @@ Theo các sách thuốc cổ:
 -  Sách Lôi công bào chế dược tính giải: nhập thận kinh.
 -  Sách Bản thảo kinh giải: nhập Thủ thái âm phế kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Glutta-percha, alkaloids, glycosides, potassium, vitamin C.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Bổ can thận, cường gân cốt, an thai. Chủ trị chứng thận hư, đau lưng,
 liệt dương (dương nuy), thai động, thai lậu, trụy thai.
@@ -41,7 +45,9 @@ Theo các sách thuốc cổ:
    nhức (vùng bìu dái, âm hộ ngứa, chảy nước), tiểu tiện són, thai lậu,
    thai trụy".
 
-B.Kết quả nghiên cứu Dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 -  Theo sách Trung dược học:
 
@@ -79,7 +85,9 @@ B.Kết quả nghiên cứu Dược lý hiện đại:
    lượng nước tiểu đối với chuột bạch và tăng sức đối với cơ nhaün của
    sừng tử cung và ruột.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị đau lưng do thận hư, dùng phối hợp với các loại thuốc bổ thận
 khác:

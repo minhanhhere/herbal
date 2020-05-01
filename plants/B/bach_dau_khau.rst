@@ -107,7 +107,8 @@ Kết quả nghiên cứu dược lý hiện đại
 Liều lượng thường dùng và chú ý
 ===============================
 
--  Liều thường dùng: 3 - 6g, dùng thuốc thang nên cho sau, thuốc sắc lâu
+-  Liều thường dùng
+================ 3 - 6g, dùng thuốc thang nên cho sau, thuốc sắc lâu
    giảm tác dụng.
 -  Sách Bản thảo thông huyền: " Bạch đậu khấu tác dụng là khí thơm, qua
    lửa cao sẽ giảm hiệu lực, nên tán bột mịn, lúc thuốc sắc xong đang

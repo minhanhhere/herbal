@@ -9,7 +9,9 @@ Tính vị: vị đắng, tính hàn.
 
 Qui kinh: vào 3 kinh Thận, Bàng quang, Tỳ.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 - Tư âm giáng hỏa: dùng khi âm hư phát sốt, xương đau âm ỉ, ra mồ hôi
 trộm (đạo hãn), di tinh do thận hỏa, có thể phối hợp với Sinh địa, Tri
@@ -39,7 +41,8 @@ Chú ý:
 Oroxylum indicum cũng được dùng chữa lî, ỉa chảy, dị ứng, mẩn ngứa, hắc
 lào, viêm gan, suy gan.
 
-- Tác dụng dược lý: vị thuốc có tác dụng bảo vệ tiểu cầu. Ngoài ra còn
+- Tác dụng dược lý
+================ vị thuốc có tác dụng bảo vệ tiểu cầu. Ngoài ra còn
 có tác dụng lợi niệu, hạ huyết áp.
 
 - Tác dụng kháng kuẩn: Hoàng bá có tác dụng ức chế trực kuẩn lî, đại

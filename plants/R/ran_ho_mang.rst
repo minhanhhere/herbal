@@ -14,13 +14,15 @@ rắn lột (xà thoái), mật và nọc rắn. Rắn bắt về bỏ hết t�
 thịt toàn thân phơi hay sấy khô để làm thuốc (hoặc bỏ xương da chỉ lấy
 thịt).
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt mặn, ôn có độc. Qui kinh Can Tỳ.
 
 Sách Lôi công bào chế dược tính giải: nhập kinh Can Phế.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Qua các tài liệu nghiên cứu được biết có:
 
@@ -29,9 +31,11 @@ Qua các tài liệu nghiên cứu được biết có:
 #. Nọc rắn có: chất như glycoprotein thrombin, lipase và 3 loại chất
    chống đông.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Khu phong, hoạt lạc định kinh. Chủ trị chứng đau phong thấp, tê dại yếu
 chân tay, ngứa ngoài da, chứng kinh phong, sài uốn ván.
@@ -46,7 +50,9 @@ Trích đoạn Y văn cổ:
 -  Sách Bản thảo cương mục: " Bạch hoa xà là thuốc chủ yếu trị co giật,
    phong tý, ác sang (nhọt độc), lở ngứa".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 Nọc rắn xử lý hết độc có tác dụng:
 
@@ -58,7 +64,9 @@ Nọc rắn xử lý hết độc có tác dụng:
    thư.
 #. Có tác dụng chống ung thư.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng phong thấp, gân cơ co rút, chân tay tê dại, đau nhức lâu
 ngày, hoặc liệt chân tay dùng:

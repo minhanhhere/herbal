@@ -10,7 +10,9 @@ Tính vị: Vị đắng, tính hàn.
 
 Qui kinh: vào các kinh Tâm, Phế, Can, Đởm, Đại tràng, Tiểu tràng.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 #. Thanh thấp nhiệt, trừ hỏa độc ở tạng phế: dùng cho các bệnh phế ung,
    phế có mủ, viêm phổi. gây sốt cao; hoặc trường hợp hàn nhiệt vãng lai
@@ -30,7 +32,8 @@ dùng.
 
 Chú ý:
 
--  Tác dụng dược lý: nước sắc Hoàng cầm có tác dụng giải nhiệt, phần
+-  Tác dụng dược lý
+================ nước sắc Hoàng cầm có tác dụng giải nhiệt, phần
    Genin của Flavonoid có tác dụng lợi niệu. Dịch ngâm hoặc thuốc sắc có
    tác dụng hạ huyết áp, cầm máu.
 -  Tác dụng kháng khuẩn: Hoàng cầm có tác dụng kháng khuẩn khá rộng, ức

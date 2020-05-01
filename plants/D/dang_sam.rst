@@ -14,7 +14,8 @@ Cây thuốc được trồng nhiều ở các nơi như Sơn tây, Thiểm tây
 bằng, Lao cai, người Thổ gọi Đảng sâm là cây cỏ rầy cáy, mần cáy, lầy
 cáy. Đảng sâm còn có tên Là Lộ đảng, Đài đảng, Phòng đảng, Sứ đầu sâm.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt bình, qui kinh Tỳ Phế.
 
@@ -23,13 +24,16 @@ Theo các sách thuốc cổ:
 -  Sách Đắc phối bản thảo ghi: nhập thủ túc thái âm kinh, khí phần.
 -  Sách Bản thảo tái tân: nhập 3 kinh: Tâm Phế Tỳ.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Saponin, alkaloits, sucrose, glucose, inulin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Đảng sâm có tác dụng bổ trung ích khí, sinh tân, dưỡng huyết. Chủ trị
 chứng trung khí bất túc, phế khí hư nhược, khí tân lưỡng hư, huyết hư
@@ -53,7 +57,9 @@ Theo ghi chép của một số tài liệu cổ:
    tỳ mà không gây táo, dưỡng vị âm mà không gây thấp, nhuận phế mà
    không gây mát lạnh, dưỡng huyết mà không gây nê trệ.".
 
-B.Kết quả nghiên cứu Dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thuốc có tác dụng tăng sức: chống mệt mỏi và tăng sự thích nghi của
    súc vật trong môi trường nhiệt độ cao. Thực nghiệm trên súc vật cũng
@@ -112,7 +118,9 @@ B.Kết quả nghiên cứu Dược lý hiện đại:
    trực khuẩn đại tràng và phó trực khuẩn đại tràng, tụ cầu khuẩn vàng,
    trực khuẩn lao ở người.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trong điều trị bằng Đông y: Đảng sâm thường được dùng thay Nhân sâm
 trong những bài thuốc bổ khí (nhưng lượng phải gấp 2 - 3 lần), nhất là
@@ -161,7 +169,8 @@ lần 10 - 20ml, ngày 3 lần (những lúc sốt cảm không uống), uống 
 1 - 2 tháng, có kết quả 93,75%, kết quả tốt 53, 13% không có tác dụng
 phụ (theo tờ Thông báo Trung dược 1986,3:55).
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
 -  Liều: 6 - 30g dùng trong các bài thuốc sắc hoặc hoàn tán.
 -  Chú ý: Có tác giả báo cáo dùng lượng sâm quá lớn (mỗi liều quá 63g

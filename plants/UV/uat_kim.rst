@@ -7,7 +7,8 @@ Uất kim được ghi đầu tiên trong sách " Dược tính bản thảo" l�
 Nghệ (Curcuma Longa L., Curcuma domestica Lour), thuộc họ Gừng (
 Zingiberaceae). Cây Nghệ mọc khắp nơi ở nước ta.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Tính hàn, vị cay đắng. Qui kinh Tâm, Can, Đởm.
 
@@ -19,13 +20,15 @@ Theo Y văn cổ:
 -  Sách Lôi công bào chế dược tính giải: " Vào thủ thiếu âm, túc quyết
    âm kiêm thông túc dương minh kinh".
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Chất vàng curcumin I, curcumin II, III ., tinh dầu. Ngoài ra còn có tinh
 bột, nhựa (40 - 50%, 6 - 8% nước - theo R.R. Paris và H.Moyse 1967),
 còn có canxi oxalat, chất béo, Khương hoàng tố.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 Khương hoàng tố có tác dụng kích thích tiết và bài tiết mật. Trên súc
 vật thực nghiệm thuốc có tác dụng làm giảm các mảng xơ vữa của nội mạc
@@ -55,7 +58,9 @@ Trích đoạn Y văn cổ:
    bụng, sườn đầy tức, không thích ăn uống, trị kinh mạch nghịch hành
    gây thổ huyết, nục huyết."
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị bệnh can: như viêm gan mạn tính, xơ gan, gan nhiễm mỡ, nhiễm độc
 gan.

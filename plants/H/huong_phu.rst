@@ -9,7 +9,8 @@ thuốc được ghi đầu tiên trong sách Danh y biệt lục. Cây Củ g�
 nơi trên đất nước ta và nhiều nước khác châu Á như Trung quốc, Triều
 tiên, Nhật bản, Indonesia.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị cay hơi đắng, hơi ngọt, tính bình. Qui kinh Can, Tam tiêu.
 
@@ -23,7 +24,8 @@ Theo các sách cổ:
 -  Sách Lôi công bào chế dược tính giải: nhập 4 kinh: Phế, can, tỳ, vị.
 -  Sách Bản thảo cầu chân: chuyên nhập can đởm kiêm nhập phế.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Beta-pinene, Camphene, 1,8-Cineole, Limonene, p-Cymene, Cyperene,
 Seli-natriene, Beta-selinene, Alpha-cyperone, Beta- cyperone,
@@ -31,7 +33,8 @@ Patchoulenone, Alpha-rotunol, Beta-rotunol, Cyperol, Isocyperon,
 Co-padiene, Epoxygaine, Cyperolone, Rotundole, Kobusone, Isokobusone,
 Glucose, Fructose.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 1.Theo Y học cổ truyền:
 
@@ -72,7 +75,9 @@ dụng ức chế trực tiếp cơ trơn của hồi tràng.
 + Tinh dầu Hương phụ có tác dụng ức chế tụ cầu khuẩn vàng, trực khuẩn lî
 Sonner. Chất chiết xuất thuốc có tác dụng đối với một số nấm.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị đau sườn ngực và đau bao tử cơ năng:
 

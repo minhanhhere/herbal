@@ -9,7 +9,8 @@ là Siegesbeckia orientalis L.; S.pubescens Mak; S.Glabre scens Mak, và
 nhiều loại khác như S.Glutinosa Wall; Minyranthes Heterophylla Turcz
 thuộc họ Cúc (Asteraceae hoặc Compositae), mọc hoang khắp nơi ở nước ta.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Tính vị đắng hàn, qui kinh Can thận.
 
@@ -18,13 +19,16 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo phùng nguyên: đắng hơi cay, hàn có độc ít.
 -  Sách Bản thảo tái tân: nhập 2 kinh Tâm Tỳ.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Glucosid Hy thiêm (Darutoside), alkaloid.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Trừ phong thấp, thông kinh lạc, thanh nhiệt giải độc.
 
@@ -42,7 +46,9 @@ B.Kết quả theo nghiên cứu dược lý hiện đại:
 
 Thuốc có tác dụng kháng viêm, giãn mạch, hạ huyết áp, ức chế miễn dịch.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị phong thấp tê mỏi đau nhức xương:
 

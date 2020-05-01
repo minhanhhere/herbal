@@ -25,7 +25,8 @@ Thực ra trên thị trường người ta hay dùng lẫn lộn, tác dụng d
 cao (Trung quốc) đã được nghiên cứu nhiều. Nhân trần cao cũng có tên là
 Nhân trần hiên còn nhập của Trung quốc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị đắng, hơi hàn, qui kinh Tỳ vị can đởm.
 
@@ -36,15 +37,18 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo kinh sơ: nhập 3 kinh túc dương minh, thái âm, thái
    dương.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Scoparone, 6,7-dimethoxycoumarin, chlorogenic acid, caffeic acid,
 beta-pinene, capillin, capillone, capillene, capillann, stearic acid,
 palmitic acid, oleic acid, linoleic acid, arachidic acid.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Nhân trần cao có tác dụng thanh nhiệt lợi thấp thối hoàng.
 
@@ -67,7 +71,9 @@ Trích đoạn Y văn cổ:
    trong có uất nhiệt phát ra sắc vàng cho nên dùng thuốc này với thuốc
    ôn kinh để trị nên có bài Nhân trần, Phụ tử của Trọng cảnh".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Tác dụng lợi mật: nước sắc thuốc có tác dụng làm giảm trương lực cơ
    vòng Oddi của chó gây mê. Chất 6,7-dimethoxycoumarin là chất có tác
@@ -84,7 +90,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    khuẩn, tăng hấp thu Gentamycin nâng cao hiệu quả điều trị của thuốc.
 #. Thuốc có tác dụng lợi tiểu, hạ nhiệt, giết trục lãi đũa.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị viêm gan cấp:
 
@@ -130,7 +138,8 @@ II có 7 ca, khỏi 5 ca, tốt 2 ca. Tổ dùng cồn số I có 4 ca, khỏi 2
 tốt 2 ca. Tổ dùng dầu xoa nước số III có 9 ca chỉ có 2 ca khỏi (Thông
 tin Trung thảo dược Tứ xuyên 1976,3:28).
 
-Liều thường dùng:
+Liều thường dùng
+================
 
 -  Liều: 10 - 30g.
 -  Dùng ngoài theo nhu cầu.

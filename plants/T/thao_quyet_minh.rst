@@ -9,13 +9,15 @@ Bộ phận dung là Hạt khô chín của cây Thảo quyết minh (Cassia Tor
 
 Vị ngọt đắng mặn, tính hơi hàn, qui kinh Can đởm.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Trong hạt Muồng có altraglucozit, thủy phân sẽ cho emodin và glucoza,
 ngoài ra còn có rein, crysophanola, các chất khác có chất nhày, protid,
 chất béo và sắc tố.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 -  Theo Y học cổ truyền, thuốc có tác dụng thanh can, ích thận, minh
    mục. Do có chất antragluocozit, thuốc có tác dụng tăng sự co bóp của
@@ -24,7 +26,9 @@ Tác dụng dược lý:
 -  Có tác dụng diệt khuẩn.
 -  Thực nghiệm chứng minh thuốc có tác dụng hạ áp.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị viêm màng tiếp hợp cấp: (mắt đỏ sưng đau, chảy nước mắt) thuốc có
 tác dụng thanh can hỏa, dùng bài:
@@ -64,7 +68,8 @@ lần uống 10 - 20g trước lúc ngủ có tác dụng nhuận tràng.
 
 Liều thường dùng và chú ý:
 
--  Liều thường dùng: 12 - 20g, dùng độc vị lượng cao hơn.
+-  Liều thường dùng
+================ 12 - 20g, dùng độc vị lượng cao hơn.
 -  Trường hợp tiêu chảy không dùng.
 
 ..  image:: THAOQUYETMINH.JPG

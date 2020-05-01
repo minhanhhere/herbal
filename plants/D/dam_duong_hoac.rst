@@ -11,7 +11,8 @@ lá mác (Epimedium sagittatum (Sieb et Zucc.) Maxim (E. Sinense Sieb.
 Ex Hace) hoặc cây Dâm dương hoắc lá hình tim (Epimedium brevicornu
 Maxim) đều thuộc họ Hoàng liên gai (Berberidaceae)
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị cay ngọt, tính ôn, qui kinh Can Thận.
 
@@ -24,14 +25,17 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo cương mục: nhập Thủ túc dương minh, Tam tiêu, Mệnh môn.
 -  Sách Bản thảo sơ chứng: nhập thủ quyết âm, túc thiếu dương, quyết âm.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Icariin, benzene, steroid, tanin, palmitic acid, linolenic acid, oleic
 acid, vitamin A.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Bổ thận tráng dương, khu phong trừ thấp. Chủ trị các chứng liệt dương,
 vô sinh, phong hàn thấp tý, bán thân bất toại.
@@ -45,7 +49,9 @@ vô sinh, phong hàn thấp tý, bán thân bất toại.
    tâm lực, trượng phu tuyệt dương bất khởi, nữ nhân tuyệt âm vô tử, gân
    cốt rung giật, chân tay tê dại."
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thuốc có tác dụng như kích tố nam, cho uống cao Dâm dương hoắc có
    kích thích xuất tinh (tác dụng của lá và rễ mạnh, còn quả yếu hơn,
@@ -69,7 +75,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 #. Dịch tiêm Dâm dương hoắc in vitro có tác dụng làm tăng trưởng xương
    đùi của phôi gà.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng thận hư dương nuy (bao gồm: liệt dương, di tinh, tảo tiết),
 phụ nữ vô sinh: có thể chọn các bài sau:

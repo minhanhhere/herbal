@@ -10,7 +10,8 @@ Temminck) hoặc con Nai (Mê) (Cervus unicolor Cuy), được chế biến thà
 Cả hai con đều thuộc nghành động vật có xương sống (Vertebrata), lớp có
 vú (Mammalia), bộ Guốc chaün Artiodactyla, họ Hươu (Cervidae).
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 #. Vị ngọt, mặn, ôn. Qui kinh Can thận.
 
@@ -25,16 +26,19 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo kinh sơ: nhập thủ quyết âm, thiếu âm, túc thiếu âm,
    quyết âm kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 A substance called pantocrinum has been derived from Siberian Cornu
 cervi parvum (Lu Rong), otherwise, the know ingredients include calcium,
 magnesium, phosphorus and very small amounst of estrone (theo Lilian
 Lai Besky: Chinese Herbal Medicin (materia Medica).
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Theo các sách thuốc cổ:
 
@@ -109,7 +113,9 @@ tăng nhanh sự hồi phục huyết áp thấp do mất máu cấp.
    Không đo được liều độc cấp LD50. Tác dụng phụ thường là rối loạn tiêu
    hóa, da đỏ ngứa, chu kỳ sinh kéo dài.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng thận dương bất túc tinh khí hao tổn: gây nên các chứng như
 liệt dương, di tinh, hoạt tinh, tảo tiết, lưng đau gối mỏi, váng đầu, ù

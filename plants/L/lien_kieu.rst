@@ -9,15 +9,18 @@ của cây Liên kiều (Forsythia suspensa Vahl.) thuộc họ Nhài (Oleaceae)
 Vị đắng tính hàn, có sách ghi: đắng bình (Bổn kinh), hơi đắng cay (Bản
 thảo cương mục), qui kinh Phế, Tâm, Đởm.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Phenol Liên kiều (C15H1807), có chừng 4,89% saponin và 0,2% ancaloit
 (Viện nghiên cứu Y học Bắc kinh) có một glucozit là phylirin, saponin,
 vitamin PP và tinh dầu (Tăng quảng Phương 1936).
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền: thuốc có tác dụng thanh nhiệt giải độc.
+Theo Y học cổ truyền
+-------------------- thuốc có tác dụng thanh nhiệt giải độc.
 
 B.Theo kết quả nghiên cứu dược lý hiện đại:
 
@@ -36,7 +39,9 @@ hoàn, cải thiện vi tuần hoàn.
 4.Thuốc có tác dụng bảo vệ gan, giải nhiệt, cầm nôn, lợi tiểu, cường
 tim.
 
-Ứng dụng lâm sàng: là vị thuốc chính, trị bệnh viêm nhiễm và ung nhọt.
+Ứng dụng lâm sàng
+=================
+ là vị thuốc chính, trị bệnh viêm nhiễm và ung nhọt.
 
 1.Chữa bệnh nhiễm như viêm họng, viêm amidan: sưng đỏ, đau dùng bài Ngân
 kiều tán (Ôn bệnh điều biện) gồm Liên kiều, Kim ngân hoa, Cát cánh, Bạc
@@ -72,7 +77,8 @@ cay (Báo Y dược Giang tây 1961,7:18).
 sắc, còn 150ml chia 3 lần trong ngày uống trước bữa ăn (Trung y Quãng
 đông 1960,10:469).
 
-Liều thường dùng: 6 - 15g, có thể dùng đến 20g.
+Liều thường dùng
+================ 6 - 15g, có thể dùng đến 20g.
 
  
 

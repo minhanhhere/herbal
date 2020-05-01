@@ -8,7 +8,8 @@ Dùng làm thuốc còn có tên Tiếp cốt thảo, Xuyên đoạn hoặc Sâm
 của cây Tục đoạn (Dipsacus asper Wall), được ghi đầu tiên trong sách Bản
 kinh.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị đắng, ngọt, cay, hơi ôn. Qui kinh Can thận.
 
@@ -19,11 +20,14 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo kinh sơ: đắng ngọt, cay, hơi ôn, không độc.
 -  Sách Lôi công dược tính giải: nhập Can Thận.
 
-Thành phần chủ yếu: Alkaloids, Benzene.
+Thành phần chủ yếu
+================== Alkaloids, Benzene.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thuốc có tác dụng bổ can thận, an thai, chỉ lậu, hoạt huyết, làm liền
 gân cốt (nên có tên Tục đoạn). Chủ trị các chứng Can thận hư, lưng đau,
@@ -44,7 +48,9 @@ Theo các sách thuốc cổ:
    đau kinh, an thai, trị bạch đới, sinh tân huyết, phá ứ huyết, trục
    thai chết, trị ho và ho có máu (khái huyết).
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 Thuốc có tác dụng làm thóat mủ (bài nùng) đối với ung nhọt, cầm máu,
 giảm đau, có tác dụng tăng sữa và làm tăng nhanh tổ chức tái sinh.
@@ -56,7 +62,9 @@ chó và mèo thì thấy huyết áp cao lên, nhịp tim nhanh lên, đồng t
 độ mạch cũng tăng, hơi thở mau và sâu. Thử trên tủy sống của ếch thấy
 cao Dypsacus pilosus có tác dụng gây mê mạnh.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 Chủ yếu dùng Tục đoạn trị chứng đau lưng, chân. Tác dụng gần giống với
 Ngưu tất, Đỗ trọng. So với Đỗ trọng thì Tục đoạn đắng ôn, có tác dụng

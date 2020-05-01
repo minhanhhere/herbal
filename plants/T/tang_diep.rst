@@ -6,13 +6,15 @@ Tang diệp (Folium Mori Albae)
 là lá cây dau tằm (Morus alba L. ) họ Dâu tằm (Moraceae). Vị đắng ngọt
 tính hàn, qui kinh Phế Can
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Trong lá dâu có chất cao su, chất caroten, tanin, rất ít tinh dầu,
 vitamin c, cholin, adenin, trigonellin. Ngoài ra còn có pentozan, đường
 canxi malat và canxi cacbonat.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 Theo Y học cổ truyền có tác dụng:
 
@@ -22,7 +24,9 @@ Theo Y học cổ truyền có tác dụng:
 
 Về dược lý hiện đại chưa có tài liệu nghiên cứu.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Chữa chứng ho sốt: do viêm đường hô hấp trên, viêm phế quản nhẹ lúc
 mới bắt đầu, dùng bài Tang cúc ẩm (ôn bệnh điều bệnh) gồm: Tang diệp
@@ -51,7 +55,8 @@ bài: Cúc hoa 12g, Tang diệp 12g, Hắc chi ma (mè đen) 12 - 20g, Đơn bì
 Đơn sâm mỗi thứ 12g, Xích Bạch thược mỗi thứ 10 - 12g, Sài hồ 12g, làm
 hoàn, mỗi lần uống 8 - 12g hoặc sắc nước uống.
 
-Liều thường dùng: 8 -12g.
+Liều thường dùng
+================ 8 -12g.
 
 Chú ý lúc dùng thuốc: Các bộ phận của cây Dâu tằm cho nhiều vị thuốc
 khác nhau:

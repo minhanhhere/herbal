@@ -9,7 +9,8 @@ mongolicus Bunge) thuộc họ Cánh bướm (Fabaceae). Vị thuốc được g
 tiên trong sách Bản kinh với tên Hoàng kỳ, còn có tên khác như Miên
 Hoàng kỳ, Tiễn kỳ, Khẩu kỳ, Bắc kỳ.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt hơi ôn.
 
@@ -22,7 +23,8 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo mông toàn: nhập thủ thiếu dương, thủ túc thái âm kinh.
 -  Sách Bản thảo kinh sơ: thủ dương minh, thái âm kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Theo sách Trung dược học trong Hoàng kỳ có saccaroza, nhiều loại acid
 amin, protid (6,16 -9,9%), cholin, betatain, acid folic, vitamin P,
@@ -31,9 +33,11 @@ amylase.
 Trong Hoàng kỳ Mông cổ có polysaccharide, alkaloit, một số vi lượng
 nguyên tố như selennium, sắt, calci, phospho, magnesium.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Hoàng kỳ có tác dụng bổ khí, thăng dương, ích vệ khí, cố biểu, thác
 sang, sinh cơ, lợi thủy tiêu thũng. Dùng trị các chứng Tỳ khí hư nhược,
@@ -81,7 +85,9 @@ Theo các sách thuốc cổ:
    nguyên khí, ôn tam tiêu, tráng tỳ vị, sinh huyết sinh cơ, bài nùng
    nội thác".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Tác dụng tăng cường chức năng miễn dịch của cơ thể: Hoàng kỳ làm tăng
    chức năng thực bào của hệ thống tế bào lưới, nếu cùng dùng với Linh
@@ -147,7 +153,9 @@ Thuốc còn có tác dụng bảo vệ gan, chống giảm sút glycogen ở ga
 luận văn báo cáo tại Hội nghị học thuật của Hội Dược học Trung quốc năm
 1962, trang 332-333, 1963).
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng suy nhược mạn tính do tỳ khí hư nhược, mệt mỏi, kém ăn hoặc
 chứng tiêu chảy kéo dài, rong kinh, sa tử cung, sa trực tràng, dùng bài:

@@ -8,7 +8,8 @@ Orientalis (L.) Endi, dùng làm thuốc được ghi đầu tiên trong sách "
 y biệt lục". Cây Trắc bá diệp còn cho vị thuốc Bá tử nhân. Cây này được
 trồng khắp nơi ở nước ta để làm cây cảnh và làm thuốc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị đắng sáp, tính hơi hàn. Qui kinh Phế, Can, Đại tràng.
 
@@ -21,14 +22,17 @@ Theo các sách cổ:
 -  Sách Bản thảo cầu chân: nhập Phế can.
 -  Sách Bản thảo tóat yếu: nhập thủ túc thái âm, dương minh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Thujene, thujone, fenchome, pinene, caryophyllene, aromadendrin,
 quercetin, myrycetin, hinokiglavone, amentoflavone, tannin, vitamin C.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền: Lương huyết chỉ huyết, khu đờm chỉ khái. Chủ trị
+Theo Y học cổ truyền
+-------------------- Lương huyết chỉ huyết, khu đờm chỉ khái. Chủ trị
 các chứng thổ huyết, khái huyết, nục huyết, niệu huyết, băng lậu, xuất
 huyết do chấn thương, chứng ho suyễn đờm nhiều.
 
@@ -97,7 +101,9 @@ thắt ruột do Histamin và acetylcholine gây nên.
 độc cấp LD50 là 15,2g/kg. Nước sắc thuốc dùng cồn lắng chích vào bụng
 chuột thì LD50 là 30,5g/kg nói lên độc tính giảm.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Dùng trị các chứng xuất huyết (huyết nhiệt vong hành) như: thổ huyết,
 nục huyết, băng lậu, niệu huyết.

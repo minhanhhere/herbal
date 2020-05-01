@@ -17,7 +17,8 @@ Bạch truật được trồng hoặc mọc hoang ở các tỉnh Triết giang
 nam, Giang tây, Phúc kiến, An huy (Trung quốc). Gần đây, ta cũng di
 thực được Bạch truật.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị đắng, ngọt, tính ôn. Qui kinh Tỳ vị.
 
@@ -33,13 +34,16 @@ Về qui kinh:
    minh, thái âm, quyết âm.
 -  Sách Bản thảo mông toàn: nhập tâm, tỳ, vị, tam tiêu.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Atractylol, atractylon, vitamin A.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Bạch truật có tác dụng bổ khí, kiện tỳ, táo thấp, lợi thủy, cầm mồ hôi
 và an thai. Chủ trị các chứng Tỳ vị khí hư, chứng thủy thũng, chứng đàm
@@ -61,7 +65,9 @@ Trích dẫn các sách thuốc cổ:
    thực tỳ, vừa làm ấm tỳ sinh tân, tính rất ấm, uống vào thuốc kiện
    thực tiêu cực tiêu cốc, là vị thuốc số một bổ tỳ khí".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Tác dụng bổ ích cường tráng: Trên thực nghiệm, thuốc có tác dụng làm
    tăng trọng chuột, tăng sức bơi lội, tăng khả năng thực bào của hệ
@@ -89,7 +95,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 #. Trên súc vật thực nghiệm chứng minh thuốc có tác dụng an thần với
    liều lượng nhỏ chất tinh dầu.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị tiêu chảy do tỳ hư: Tiêu chảy kéo dài, người mệt mỏi, ăn kém:
 
@@ -162,7 +170,8 @@ tiên, Phòng kỷ, Tang chi . có tác dụng kiện tỳ trừ thấp chỉ th
 
 Liều thường dùng và chú ý:
 
--  Liều thường dùng: 5 - 15g, để thông tiện dùng 60 - 120g.
+-  Liều thường dùng
+================ 5 - 15g, để thông tiện dùng 60 - 120g.
 -  Chú ý:
 
 a. Trường hợp táo thấp lợi thủy thì dùng sống, nếu dùng bổ khí kiện tỳ

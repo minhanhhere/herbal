@@ -7,19 +7,23 @@ Dùng làm thuốc thân rễ khô của cây Thăng ma (Cimicifuga Foetida L.).
 
 Vị cay ngọt, tinh hơi hàn, hơi đắng. Qui kinh Phế, Đại tràng, Tỳ Vị.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Có chất đắng là Cimitin, có chứa một ít ancaloit, salicylic acid, sebum
 acidum.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 A.Theo y học cổ truyền, thuốc có tác dụng: giải cảm thấu chẩn, thăng
 dương giải độc. Thăng dương tức thăng đề trung khí có tác dụng như kích
 thích hưng phấn cơ trơn. Trên lâm sàng phát hiện thuốc có tác dụng giảm
 đau.
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 1.Nước chiết xuất Thăng ma có tác dụng hạ nhiệt, giảm đau, chống viêm,
 chống co giật, giải độc.
@@ -30,7 +34,9 @@ thai.
 
 3.Thuốc có tác dụng vi khuẩn lao và một số bệnh nấm ngoài da.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Chữa bệnh sởi lúc mới mọc: có tác dụng giải độc làm sởi mọc
 nhanh.Thường dùng bài:

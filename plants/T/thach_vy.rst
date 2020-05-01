@@ -13,7 +13,8 @@ Cây mọc hoang khắp nơi ở nước ta, thường bám vào đá, tường 
 to. Quanh năm đều có thể hái về bỏ thân rễ và rễ con, lá thái nhỏ làm
 thuốc khô hoặc tươi.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị đắng ngọt, tính hơi hàn, qui kinh Phế, Bàng quang.
 
@@ -22,14 +23,17 @@ Theo các sách thuốc cổ:
 -  Sách Bản kinh; vị đắng, tính bình.
 -  Sách Lôi công bào chế dược tính giải: nhập 2 kinh Phế Bàng quang.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Trong lá loại Thạch vỹ Pyrrosiae Linguae có: diploptene,
 beta-sitosterol, saponin, tannin, anthroquinone.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thạch vỹ có tác dụng lợi thủy thông lâm, hóa đàm chỉ khái, cầm máu.
 
@@ -46,7 +50,9 @@ Trích đoạn Y văn cổ:
    nhiệt do chứng lung bế không thông sinh ra chứ không phải hư lao. Trị
    phụ nữ có thai chuyển dạ, sắc với Sa tiền uống".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 Thuốc có tác dụng cầm ho long đờm và có tác dụng kháng khuẩn phần nào.
 Chiết xuất cồn ête của thuốc hòa trong nước với nồng độ 55 làm giun đất
@@ -56,7 +62,9 @@ Trường Đại học Y khoa Hà nội (1960) thử tác dụng của thuốc t
 loại ký sinh trùng, thấy có tác dụng rõ đối với sán lá ruột
 (Fasciolopsis buski), ký sinh trùng chết sau khi cho uống thuốc 15 phút.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị viêm đường tiểu: thuốc có tác dụng lợi tiểu thông lâm.
 
@@ -84,7 +92,8 @@ loại ký sinh trùng, thấy có tác dụng rõ đối với sán lá ruột
    giảm rõ rệt (Tư liệu nghiên cứu phòng trị viêm phế quản mạn tính tập
    2, do nhà xuất bản Nhân dân Thượng hải xuất bản, 1973).
 
-Liều thường dùng:
+Liều thường dùng
+================
 
 -  Liều 5 - 10g, dùng độc vị lượng có thể gấp đôi.
 

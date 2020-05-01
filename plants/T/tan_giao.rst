@@ -16,7 +16,8 @@ Trong bài này giới thiệu cây Tần giao thuộc họ Long đởm. Cây T�
 thuộc thuộc họ Ô rô thì mọc nhiều ở nước ta, còn vị Tần giao thì phải
 nhập của Trung quốc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị đắng cay, hơi hàn, qui kinh Vị Can Đởm.
 
@@ -27,14 +28,17 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo cương mục: qui vào thủ túc dương minh kinh kiêm nhập
    Can đởm.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Gentianine, Gentianidine, alkaloid: Gentanine A,B,C .gluco và ít dầu bay
 hơi.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Trừ phong thấp thư cân hoạt lạc, thanh hư nhiệt.
 
@@ -56,7 +60,9 @@ Trích đoạn Y văn cổ:
    dương minh kinh. Dương minh có thấp thì cơ thể đau nhức, phiền nhiệt,
    cốt chưng triều nhiệt".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Tác dụng kháng viêm rõ rệt, do thành phần Gentianine A tác động lên
    hệ thần kinh làm hưng phấn chức năng tuyến yên - vỏ thượng thận.
@@ -69,7 +75,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    khuẩn tả, tụ cầu vàng, nước ngâm kiệt thuốc đối với một số nấm ngoài
    da có tác dụng ức chế.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị thấp khớp, viêm đa khớp đau nhức hoặc chân tay co quắp:
 
@@ -100,7 +108,8 @@ mồ hôi:
    khi nhổ cứ 6 giờ uống 1 lần trong 3 ngày liền, trị 26 ca kết quả tốt
    (Báo cáo của Từ tử Thu, Sách Dã kim y học 1987,1:73).
 
-Liều thường dùng:
+Liều thường dùng
+================
 
 -  Liều: 5 - 10g.
 

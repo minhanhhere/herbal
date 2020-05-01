@@ -11,7 +11,8 @@ trên mặt đất.
 Thuộc họ Ô rô (Acanthaceae). Vị đắng tính hàn, không độc. Qui kinh Phế,
 Vị, Tâm, Đại tràng, Tiểu tràng.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Theo tài liệu của Giáo sư Đỗ tất Lợi, Xuyên tâm liên có một chất
 glucozit đắng tên là Andrographiolit (Ind J. Pharm 11.1949:77-78), chất
@@ -19,9 +20,11 @@ Neo - Andro - Graphiolit (Nature Gr. Br. 1952,169:33 - 34). Tài liệu
 Trung quốc phát hiện ở cây Xuyên tâm liên bộ phận trên đất có 4 loại
 Xuyên tâm liên tố A, B, C, D.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền: thuốc có tác dụng thanh nhiệt giải độc, táo thấp
+Theo Y học cổ truyền
+-------------------- thuốc có tác dụng thanh nhiệt giải độc, táo thấp
 cầm lî, chủ trị các chứng: ôn bệnh sơ khởi, phế nhiệt ho suyễn, đau họng
 ung nhọt, rắn cắn, tiêu chảy, kiết lî, nhiệt lâm, thấp chẩn.
 
@@ -43,7 +46,9 @@ gây suy hô hấp. Thuốc có tác dụng làm sẩy thai ở chuột nhắt v
 
 5.Có tác dụng lợi mật ở chuột lớn.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 #. Thuốc được dùng rộng rãi chữa các bệnh viêm nhiễm bao gồm nhiễm khuẩn
    hô hấp (viêm mũi, viêm xoang mũi, viêm đường hô hấp trên, viêm
@@ -70,7 +75,8 @@ gây suy hô hấp. Thuốc có tác dụng làm sẩy thai ở chuột nhắt v
 
 Liều thường dùng và chú ý:
 
--  Liều thường dùng: 12 - 40g.
+-  Liều thường dùng
+================ 12 - 40g.
 -  Chú ý: thuốc còn có tên Nhất kiến hỷ, Lam hạch tiên. Trên lâm sàng có
    báo cáo Xuyên tâm liên có gây phản ứng dị ứng choáng (Tân y học
    1972,11:53)

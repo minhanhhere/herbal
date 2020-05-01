@@ -16,7 +16,9 @@ Tính vị: Vị cay, tính ấm.
 
 Qui kinh: tâm, phế, tỳ, vị.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 - Ôn trung, hồi dương, dùng khi tỳ vị hư nhược, chân tay quyết lạnh,
 phối hợp với Phụ tử chế, Cam thảo (phương tứ nghịch).

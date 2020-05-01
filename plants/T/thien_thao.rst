@@ -11,7 +11,8 @@ mát như Sapa, Nghĩa lộ Lai châu. Ở Trung quốc cây thuốc mọc nhi�
 tỉnh Thiểm tây, Hà nam, Hà bắc, An huy, Sơn đông... thường được đào rễ
 vào mùa thu đông để chế biến làm thuốc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị đắng, tính hàn. Qui kinh Can.
 
@@ -24,14 +25,17 @@ Theo các Y văn cổ:
 -  Sách Bản thảo kinh sơ: nhập túc quyết âm, thủ túc thiếu âm.
 -  Sách Bản thảo tân biên: nhập 2 kinh tỳ vị.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Purpurin. pseudopurpurin, alizarin, manjistin, purpuroxanthin, rubiadin,
 glucoza.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thuốc có tác dụng lương huyết, chỉ huyết, hoạt huyết khu ứ. Chủ trị các
 chứng xuất huyết do nhiệt, huyết ứ kinh bế, chấn thương ngoại khoa, đau
@@ -103,7 +107,9 @@ tính của thuốc đối với tế bào bình thường rất thấp.
 150g/kg không có tử cung, nếu tăng liều lên 175g/kg thì cứ 5 con có 1
 con chết.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Dùng cầm máu: Trị các chứng chảy máu cam, nôn ra máu, tiêu ra máu,
 kinh kéo dài, huyết lî.

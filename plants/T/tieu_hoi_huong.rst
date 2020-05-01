@@ -9,7 +9,8 @@ Foeniculum vulgare Mill. Cây được trồng nhiều ở vùng Sơn tây, Cam 
 Liêu ninh, Nội mông Trung quốc. Nước ta chưa có, còn phải nhập hoặc dùng
 Đại hồi thay thế. Còn có tên là Cốc Hồi hương.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Tiểu hồi tính vị cay ôn, qui kinh Can Thận Tỳ Vị.
 
@@ -19,14 +20,16 @@ Theo các sách cổ:
 -  Sách Bản thảo kinh sơ: nhập túc Thái âm, Dương minh, Thái dương,
    Thiếu âm.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Dầu Hồi hương thành phần chủ yếu có anethol, fenchone, a-pinene,
 camphène, dipentene, a-phallandrene, anise aldehyde, anisic acid,
 estragole, cis-anethole, p-cymene, petroselinic acid, stigmasterol,
 7-hydroxycoumarin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 Tiểu hồi có tác dụng tán hàn, ấm can, ôn thận chỉ thống, lý khí khai vị.
 
@@ -60,7 +63,9 @@ B.Kết quả nghiên cứu theo dược lý hiện đại:
 #. Fenchone là dị thể (Isomer) của camphor cho nên cũng như Bạc hà có
    tác dụng kích thích tại chỗ.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị sán khí (hermia - sa ruôt): dùng các bài sau:
 
@@ -85,7 +90,8 @@ B.Kết quả nghiên cứu theo dược lý hiện đại:
 
 Liều lượng và chú ý lúc dùng:
 
--  Liều thường dùng: 3 - 8g tán bột làm hoàn hoặc sắc uống.
+-  Liều thường dùng
+================ 3 - 8g tán bột làm hoàn hoặc sắc uống.
 -  Thận trọng lúc dùng đối với chứng âm hư hỏa vượng.
 
  

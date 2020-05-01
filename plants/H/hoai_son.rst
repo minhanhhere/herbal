@@ -13,7 +13,8 @@ Củ mài mọc khắp nơi tại các vùng rừng núi nước ta nhiều nh�
 Hà bắc, Hoàng liên sơn, Thanh hóa, Nghệ tĩnh và Quảng ninh. Hiện nay ta
 cũng đã trồng củ mài để chế thuốc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt, tính bình. Qui kinh Tỳ Phế Thận.
 
@@ -26,13 +27,16 @@ Theo Y văn cổ:
 -  Sách Đắc phối bản thảo: nhập thủ túc thái âm kinh khí phần.
 -  Sách Y học trung trung tham tây lục, Sơn dược giải: nhập Phế, qui Tỳ.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Saponin, choline, d-abscisin II, vitamin C, mannan, phytic acid.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Hoài sơn có tác dụng ích khí dưỡng âm, bổ tỳ phế thận. Chủ trị các chứng
 tỳ phế hư nhược, trị chứng tiêu khát thận âm hư.
@@ -63,7 +67,9 @@ Theo các sách thuốc cổ:
    bổ trung ích khí, ôn dưỡng cơ nhục, là vị thuốc chủ yếu của hai tạng
    Tỳ, Phế".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 Ít có tài liệu nói đến. Theo Đõ tất Lợi chất Mucin hòa tan trong nước
 trong điều kiện acid và nhiệt độ thích hợp sẽ phân giải thành chất
@@ -72,7 +78,9 @@ năng thủy phân chất đường của men trong Hoài sơn rất cao, trong 
 loãng trong 3 giờ có thể tiêu hóa 5 lần lượng đường. Ngoài giá trị dinh
 dưỡng, thuốc có giá trị giúp tiêu hóa thức ăn chất bột.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng tiêu chảy kéo dài do Tỳ hư, dùng bài:
 
@@ -122,9 +130,11 @@ bình, dùng độc vị như trên dùng bài:
 -  Hoài sơn 30g, Phúc bồn tử, Mạch môn, Thiên hoa phấn mỗi thứ 12g, sắc
    nước uống.
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
--  Liều thường dùng: 12 - 40g, liều cao dùng đến 80 - 160g, dùng thay
+-  Liều thường dùng
+================ 12 - 40g, liều cao dùng đến 80 - 160g, dùng thay
    nước uống có thể đến 200 - 300g mỗi ngày.
 -  Cần bổ âm nên dùng thuốc sống, dùng kiện tỳ chỉ tả nên sao vàng.
 

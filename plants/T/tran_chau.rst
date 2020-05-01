@@ -13,7 +13,8 @@ thảo. Trân châu nhỏ có thể bằng hạt cải, to có thể bằng hạ
 ngô. Chất cứng rắn nhiều màu sắc, vừa dùng làm thuốc vừa làm đồ trang
 sức. Con trai có thể bắt ở vùng bể hoặc nuôi để lấy Trân châu.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Trân châu vị ngọt mặn tính hàn. Qui kinh Tâm Can.
 
@@ -27,16 +28,19 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo cầu chân: nhập thủ thiếu âm tâm kinh, túc quyết âm can
    kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Calcium carbonate (chừng 90%), magnesium carbonate, calcium phosphate
 ferric oxide, silica và nhiều nguyên tố Natri, kẽm, chì, đồng,
 manganèse. Ngọc trai có nhiều calcium carbonate và ít magnesium
 carbonate hơn loài sống ở biển.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Trân châu có tác dụng trấn kinh an thần, thanh can trừ ế (mộng mắt), thu
 liễm sinh cơ.
@@ -49,7 +53,9 @@ Trích đoạn y văn cổ:
 -  Sách Bản thảo cầu chân: thuốc trừ nhiệt ở 2 kinh tâm và can cho nên
    có tác dụng an thần và làm sáng mắt (trấn tâm minh mục).
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Tác dụng đối với cơ trơn: thuốc có tác dụng ức chế ruột thỏ (tiêu
    bản).
@@ -57,7 +63,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    dụng làm lành hoàn toàn trong 12 ngày, thuốc giúp da tổn thương tái
    sinh nhanh hơn.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị trẻ em kinh phong, sốt co giật, người lơn hồi hộp mất ngủ:
 
@@ -84,7 +92,8 @@ lần. Đối với bệnh nặng gia uống 0,5g, ngày 2 - 3 lần. Kết qu�
 ca, tỷ lệ 61,44%; có kết quả 100 ca 31,35%; khong kết quả 23 ca, 7,21% (
 Tạp kỷ yếu nghiên cứu các chế phẩm Trung dược 1985,1:21).
 
-Liều thường dùng:
+Liều thường dùng
+================
 
 -  Liều 0,3 - 1g, thường dùng dạng bột cho vào thuốc hoàn, tán.
 -  Dùng ngoài lượng vừa đủ dùng.

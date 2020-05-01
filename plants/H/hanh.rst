@@ -7,10 +7,12 @@ Chủ yếu dùng thân rễ (củ) cây hành hoa, còn gọi là Đại thông
 bạch (Allium fistulóum L. Vị cay, tính ấm, qui kinh Phế, Vị. Thuộc họ
 Hành tỏi (Liliaceae).
 
-Thành phần chủ yếu: Tinh dầu hành, acid malic. Fitin, alylsulfit,
+Thành phần chủ yếu
+================== Tinh dầu hành, acid malic. Fitin, alylsulfit,
 Vitamin B,C, muối sắt.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 1.Có tác dụng kích thích thần kinh, làm tăng tiết dịch tiêu hóa.
 

@@ -8,19 +8,23 @@ Còn có tên là Rễ sậy, Lô can, Vĩ kinh, Vĩ căn.
 Bộ phận dùng làm thuốc là thân rễ dưới mặt đất của cây Lau (Phragmites
 communis (L) Trin. Vị ngọt, tính hàn, qui kinh Phế, Vị, Thận.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Trong rễ lau có protein 6%, các loại đường 51% , asparagin 0,1%, arginin
 .
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 -  Theo Y học cổ truyền, rễ lau có tác dụng thanh nhiệt, sinh tân (chủ
    yếu là thanh phế vị nhiệt).
 -  In vitro, thuốc có tác dụng kháng khuẩn đối với Liên cầu khuẩn dung
    huyết beta.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Thường dùng trong các bài chữa viêm đường hô hấp: trên, viêm phế quản
 cấp, viêm phổi, áp xe phổi . chứng thực nhiệt.

@@ -13,7 +13,8 @@ rửa sạch phơi hay sấy khô làm thuốc. Tang bạch bì tẩm mật sao 
 bạch bì xé nhỏ tẩm mật sao lửa nhỏ (văn hỏa) cho đến khi khô không dính
 tay là được, có tác dụng nhuận phế.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Tang bạch bì vị ngọt tính hàn, qui kinh Phế.
 
@@ -26,7 +27,8 @@ Theo các sách thuốc cổ:
 -  Sách Lôi công bào chế dược tính giải: nhập tỳ phế.
 -  Sách Dược phẩm hóa nghĩa: nhập 2 kinh Phế Đại tràng.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Morusin, mulberrin, mulberrochromene, cyclomulberin,
 cyclomulberrochromene.
@@ -34,9 +36,11 @@ cyclomulberrochromene.
 Theo sách Đỗ tất Lợi trong rễ dâu có: acid hữu cơ, tanin, pectin và
 beta-amyrin, rất ít tinh dầu.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Tang bạch bì có tác dụng: tả phế bình suyễn, lợi tiểu tiêu phù. Trị
 chứng ho suyễn do phế nhiệt, mắt mặt sưng phù, thủy thũng thực chứng.
@@ -49,7 +53,9 @@ Trích đoạn Y văn cổ:
 -  Sách Bản thảo cương mục: " tả phế, lợi đại tiểu trường, giáng khí tán
    huyết".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thuốc có tác dụng giảm ho nhẹ, lợi niệu và gây tiêu chảy.
 #. Thuốc sắc và chiết xuất của thuốc trong nhiều loại dung môi khác nhau
@@ -59,7 +65,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    khuẩn lî Flexner và nấm tóc. Thuốc chiết xuất nước nóng có tác dụng
    ức chế (in vitro) chủng JTC-28 tế bào ung thư tử cung khoảng 70%.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị ung thư thực quản và bao tử: dùng Tang bạch bì tươi không bỏ vỏ
 ngoài 30g gia giấm ăn 100g, nấu 1 giờ uống hết 1 hoặc nhiều lần, nếu

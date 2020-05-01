@@ -16,7 +16,8 @@ là than Tiểu kế.
 Tiểu kế còn có tên là Miêu kế, Thích kế thái, Thích nhi thái, Thiên châm
 thảo.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt tính lương. Qui kinh Tâm Can.
 
@@ -27,13 +28,15 @@ Vị ngọt tính lương. Qui kinh Tâm Can.
 -  Sách Bản thảo tân biên: nhập Phế Tỳ.
 -  Sách Bản thảo cầu chân: chuyên nhập Can.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Toàn cây có khoảng 0,05% ancaloit, 1,44% saponozit, không có tanin và
 flavonoit. Thành phần có tác dụng cầm máu là Lục nguyên toan (?) và acid
 cafêic.
 
-A.Theo Y học cổ truyền: Tiểu kế có tác dụng lương huyết, chỉ huyết, giải
+Theo Y học cổ truyền
+-------------------- Tiểu kế có tác dụng lương huyết, chỉ huyết, giải
 độc tiêu ung. Chữa trị các chứng lạc huyết, nục huyết, thổ huyết, niệu
 huyết, băng lậu, nhiệt độc sang ung.
 
@@ -57,7 +60,9 @@ Trích đoạn Y văn cổ:
    huyết nhiệt. Phàm các chứng khái huyết, thổ huyết, nục huyết, nhị
    tiện huyết do nhiệt uống thuốc vào là khỏi."
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 1.Tác dụng cầm máu: cho chuột nhắt uống thuốc, thời gian máu chảy rút
 ngắn rõ. Dùng thuốc nước bơm vào bao tử chuột, cắt đuôi đo thời gian
@@ -86,7 +91,9 @@ dụng ức chế.
 6.Độc tính của thuốc: Mỗi ngày dùng liều lượng 80g/kg thụt bao tử cho
 chuột lớn trong vòng 14 ngày liền không có phản ứng nhiễm độc.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị các chứng xuất huyết do nhiệt: như chảy máu cam, nôn ra máu, thuốc
 có tác dụng cầm máu, dùng phối hợp với Đại kế, Trắc bá diệp, Thuyên thảo

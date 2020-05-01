@@ -11,7 +11,8 @@ Cây Trạch tả mọc hoang ở vùng ẩm ướt nhiều nơi trong nước t
 bằng, Lạng sơn, Điện biên, Hà nam, Ninh bình, Thái bình. Hái lấy rễ củ
 rửa sạch, cạo hết rễ nhỏ, phơi hay sấy khô làm thuốc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt nhạt hàn, qui kinh Thận Bàng quang.
 
@@ -20,15 +21,18 @@ Theo các sách thuốc cổ:
 -  Sách Bản kinh: vị ngọt hàn.
 -  Sách Bản thảo diễn nghĩa bổ di: nhập Thái dương, Thiếu âm kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Alisol A, alisol B, alisol A monacetate, alisol B monacetate, epialisol
 A asparagine, choline, tinh dầu, alcaloit, vitamin B12, Kali có hàm
 lượng 147,5mg%.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thuốc có tác dụng lợi tiểu thẩm thấp. Trị các chứng phù, tiểu ít, chứng
 lâm, tiết tả, di tinh.
@@ -45,7 +49,9 @@ Trích đoạn Y văn cổ:
    quang, chủ trị chứng thủy tả thấp tả, khiến phân rắn lại mà tỳ khí tự
    hồi phục".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thuốc có tác dụng lợi tiểu và làm cho Natri, Kali, Clo và Ure thải ra
    nhiều hơn.
@@ -60,7 +66,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 #. Độc tính của Trạch tả: LD50 của liều uống đối với chuột cống là
    4g/kg.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Dùng làm thuốc lợi tiểu thông lâm, trị các chứng phù, viêm đường tiết
 niệu, viêm thận:
@@ -110,7 +118,8 @@ Trạch tả 30 - 60g, Bạch truật 10 - 15g, ngày 1 thang sắc chia 2 lần
 uống. Theo dõi 55 ca, uống từ 1 - 9 thang có tùy chứng gia vị kết quả
 đều khỏi (Tạp chí Trung y Hồ bắc 1988,6:14).
 
-Liều thường dùng: 10 - 20g.
+Liều thường dùng
+================ 10 - 20g.
 
 ..  image:: TRACHTA.JPG
    :width: 50px

@@ -10,14 +10,16 @@ Hương nhu trắng (Ocimum Gratissimum L đều thuộc họ Hoa môi
 nguồn gốc khác nhau nhưng cùng một công dụng. Hương nhu vị cay tính ấm,
 qui kinh Phế vị.
 
-Thành phần chủ yếu: Có tinh dầu tỷ lệ khác nhau (0,2 - 0,80%), thành
+Thành phần chủ yếu
+================== Có tinh dầu tỷ lệ khác nhau (0,2 - 0,80%), thành
 phần chủ yếu của tinh dầu là: Ogennola (45 - 70%). Ngoài ra còn có
 cacvacrola, O. xymen, P.xymen, camphen, limonen, alpha và bêta pinea.
 
 Trong Hương nhu Trung quốc có chừng 1% tinh dầu mà thành phần chủ yếu là
 chất elsholtzia - xeton và sesquitecpen.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 1.Theo Đông y thuốc có tác dụng: làm ra mồ hôi, giải cảm mùa hè (giải
 thử), lợi tiểu, tiêu phù.
@@ -27,7 +29,9 @@ khoa và trong việc tổng hợp chất vanilin.
 
 Chưa thấy báo cáo về nghiên cứu thực nghiệm.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng cảm thử: về mùa hè biểu hiện sốt sợ lạnh, không ra mồ hôi,
 đau bụng, nôn hoặc tiêu chảy thường gặp trong bệnh cúm thể tiêu hóa hoặc

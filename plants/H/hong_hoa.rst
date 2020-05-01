@@ -10,7 +10,8 @@ tu bản thảo, thuộc họ Hoa cúc (Asteraceae - Compositae). Cây mọc nhi
 nhiều ở Hà giang (Hà tuyên). Khi hái phải đúng lúc hoa có màu hồng là
 lúc hoa đủ tuổi, nhiều hoạt chất, phơi trong mát.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị cay tính ôn, qui kinh Can Tâm.
 
@@ -22,7 +23,8 @@ Theo các Y văn cổ:
 -  Sách Bản thảo kinh giải: "nhập túc quyết âm can, can kinh, thủ thái
    âm phế kinh".
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Trong Hồng hoa có chừng 0,3 -0,6% chất gluxit gọi là cactamin
 (Carthamin) C12H22011 (sắc tố màu hồng), một số sắc tố màu vàng có công
@@ -31,7 +33,8 @@ giải. Carthamin là một chất tinh thể màu đỏ khi tác dụng với H
 cho Iso-Carthamin thủy phân sẽ cho glucoza và Carthamindin (Hồng hoa
 tố).
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 A.Theo dược lý cổ truyền:
 
@@ -78,7 +81,9 @@ lưu lượng máu động mạch vành của chó được gây mê.
 bảo vệ chống nhồi máu cơ tim trên mô hình thắt động mạch vành của chó
 hoặc gây thiếu máu cơ tim trên chuột bạch lớn.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị bệnh phụ khoa: Rối loạn kinh nguyệt, kinh bế, sau sinh máu xấu
 không ra hết, dùng các bài:
@@ -126,7 +131,8 @@ ca, tốt 35 ca, không kết quả 10 ca. Tỷ lệ kết quả 85,7% (Tân y h
 
 Liều dùng và chú ý:
 
--  Liều thường dùng: 3 - 10g, cho vào thuốc thang sắc uống.
+-  Liều thường dùng
+================ 3 - 10g, cho vào thuốc thang sắc uống.
 -  Trên lâm sàng hay dùng trị cơn đau thắt ngực, viêm tắc động mạch.
 
  

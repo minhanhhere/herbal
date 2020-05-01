@@ -13,7 +13,8 @@ Lúc bào chế, đem nguyên liệu Bằng sa khô sạch tán bột là Bằng
 the tan ít trong nước lạnh, tan nhiều trong nước nóng, không tan trong
 cồn 90 độ, tan nhiều trong glycerin.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Bằng sa vị ngọt mặn, tính lương, qui kinh Phế Vị.
 
@@ -24,14 +25,17 @@ Theo các sách thuốc cổ:
 -  Sách Lôi công bào chế dược tính giải: nhập Phế kinh.
 -  Sách Bản thảo hội ngôn: nhập thủ thái âm, túc dương minh kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Sodium tetraborate (
 Na\ :sub:`2`\ B\ :sub:`4`\ O\ :sub:`7`\ 10H\ :sub:`2`\ O).
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Bằng sa có tác dụng: thanh nhiệt, giải độc, tiêu sưng, phòng thối, thanh
 phế hóa đàm.
@@ -53,7 +57,9 @@ Trích đoạn Y văn cổ:
 -  Sách Bản thảo cầu nguyên: " Bằng sa sống có tác dụng trừ thối, nung
    lên có tác dụng sinh cơ".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Bằng sa tính kiềm nhẹ, uống dung dịch Bằng sa có thể phòng nhiễm
    khuẩn đường niệu, nhất là lúc nước tiểu có tính acid thuốc có thể
@@ -66,7 +72,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    khuẩn dung huyết.
 #. Dùng ngoài, thuốc có tác dụng thu liễm, bảo vệ niêm mạc và da.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị bong gân lưng: Tác giả dùng Hàn the tán bột mịn hoặc chế thành 3%
 thuốc nhỏ mắt vào khóe mắt trong và ngoài đồng thời vận động lưng. Trị
@@ -102,7 +110,8 @@ Trung y Hà nam 1985,4:30).
    30g, tán bột mịn, mật làm thành viên (hoàn), mỗi hoàn 6g. Uống ngày 2
    lần sáng và tối, mỗi lần 1 viên (hoàn).
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
 -  Dùng ngoài, liều lượng vừa đủ, tán bột rất mịn bôi khô hoặc trộn nước
    bôi. Hoặc cho bột vào nước sôi để nguội ngâm rửa vết thương.

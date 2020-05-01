@@ -8,7 +8,8 @@ Họ Gừng Zingiberaceae
 Còn gọi là Sơn nại, Tam nại, Thiền liền, Sa khương, Faux galanga. Có tên
 Địa liền vì lá mọc sát mặt đất.
 
-Tính vị qui kinh: vị cay tính ôn vào hai kinh Tỳ và Vị.
+Tính vị qui kinh
+================ vị cay tính ôn vào hai kinh Tỳ và Vị.
 
 Thành phần hóa học: trong Địa liền có tinh dầu, trong tinh dầu chủ yếu
 là Boeneola metyl, metyl p. cumaric acid etyl este, xinamic acid etyl

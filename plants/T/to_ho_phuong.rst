@@ -10,7 +10,8 @@ hợp hương có mọc ở Châu phi, Aán độ, Thổ nhĩ kỳ, Iran và tri
 mọc ở Việt nam (tại Nông trường Tràng vinh, cách thị xã Hải ninh 5 km).
 Thuốc này phải được cất ở chỗ mát và đậy kín.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Tô hợp hương vị cay, tính ôn, qui kinh Tâm tỳ.
 
@@ -21,7 +22,8 @@ Theo các sách thuốc cổ:
 -  Sách Đắc phối bản thảo: nhập Túc thái âm kinh.
 -  Sách Bản thảo tái tân: nhập 2 kinh Tỳ Vị.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 #. Theo sách Những cây thuốc và vị thuốc Việt nam: thành phần: đặc của
    thuốc gồm chất nhựa do cồn resitanola và acid cinamic; phần lỏng gồm:
@@ -33,9 +35,11 @@ Thành phần chủ yếu:
 #. Trong sách Chinese herbal medicine thành phần chủ yếu có: oleanomic
    acid, 3-epi-oleanolic acid.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Tô hợp hương có tác dụng khai khiếu, tịch uế chỉ thống (làm tỉnh thần
 trừ chất độc giảm đau). Chủ trị các chứng trúng phong đàm quyết, kinh
@@ -61,7 +65,9 @@ Trích đoạn Y văn cổ:
    bệnh nhẹ thành nặng, nặng thì có thể tử vong. Người khỏe thì có thể
    dùng 1 - 2 viên, nếu yếu thì không dùng vậy".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Trên súc vật thí nghiệm chứng minh: Tô hợp hương có khả năng tăng sức
    chịu đựng thiếu oxy của súc vật, đối với chó bị nhồi máu cơ tim thực
@@ -73,7 +79,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    trị chàm lở ngoài da, giảm ngứa và giúp cho vết thương lóet lở chóng
    lành.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị bệnh mạch vành:
 
@@ -107,7 +115,8 @@ Báo Trung y Thiểm tây 1985.7:322).
    luyện mật làm hoàn nặng 4g, mỗi lần uống 0,5 - 1 hoàn, ngày 1 - 2 lần
    với nước sôi nóng, trẻ em tùy theo tuổi giảm liều.
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
 -  Liều uống thường dùng: 0,3 - 1g, cho vào hoàn tán, không cho vào
    thuốc thang sắc. Dùng ngoài lượng vừa đủ, có thể cho vào alcool để

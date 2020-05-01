@@ -10,7 +10,8 @@ ghi đầu tiên trong sách Khai bảo bản thảo, thuộc họ Bấc (Juncac
 Cây Bấc đèn mọc hoang và được trồng ở những nơi ẩm ướt ở nước ta. Tên
 thuốc gọi Đăng tâm hoặc Đăng thảo.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt nhạt, hơi hàn, qui kinh Tâm Phế Tiểu tràng.
 
@@ -20,13 +21,16 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo tùng tân: ngọt nhạt hơi hàn.
 -  Sách Lôi công bào chế dược tính giải: nhập 2 kinh Tâm Tiểu tràng.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Có Araban và Xylan. Hoạt chất chưa có tài liệu nghiên cứu.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Đăng tâm có tác dụng lợi tiểu thông lâm, thanh tâm giáng hỏa.
 
@@ -48,11 +52,15 @@ Trích đoạn Y văn cổ:
    chứng ho họng đau, mắt đỏ, mắt mờ, lâm bế thủy thũng, tiểu tiện không
    thông lợi, thử nhiệt tiểu đục, trẻ em khóc đêm."
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 Chưa thấy có tài liệu thông báo.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị các chứng lâm: thuốc có tác dụng lợi niệu thông lâm.
 

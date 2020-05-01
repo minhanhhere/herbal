@@ -16,7 +16,8 @@ kinh: cây Cỏ nến mọc hoang ở những vùng đầm lầy miền Bắc n�
 chưa được khai thác. Ở Trung quốc, cây Bồ hoàng mọc nhiều ở tỉnh Triết
 giang, Giang tô, An huy, Sơn đông, Hồ bắc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt, tính bình. Qui kinh Can, Tâm bào.
 
@@ -28,7 +29,8 @@ Vị ngọt, tính bình. Qui kinh Can, Tâm bào.
    dương minh, quyết âm.
 -  Sách Dược phẩm hóa nghĩa: nhập tỳ kinh.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 A. Theo dược lý cổ truyền: Hành huyết khứ ứ, thu sáp chỉ huyết, lợi
 tiểu. Chủ trị các chứng tâm phúc thống, sau sinh đau do ứ huyết, đau
@@ -51,7 +53,9 @@ Trích đoạn Y văn cổ:
 -  Sách Bản thảo cương mục, quyển 19: Bồ hoàng " lương huyết, hoạt huyết
    chỉ tâm phúc thống..."
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Tác dụng tăng nhanh máu đông: trên ống nghiệm, thuốc có tác dụng rút
    ngắn thời gian máu đông (dùng nước sắc Bồ hoàng ). Cho thỏ uống nước
@@ -113,14 +117,17 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    ứng, rút ngắn thời gian máu đông, làm giảm tổng số hồng bạch cầu, có
    thể gây dung huyết đối với thỏ nhà.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Pollen Typhae augustatae-isorhamnentin, pentacosane, alpha-citosterol,
 palmatic acid,
 
 alpha typhasterol, tinh dầu, mỡ (10 - 30%).
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 #. Trị kinh bế, đau bụng kinh, bụng dưới đau, các chứng đau do huyết ứ.
 

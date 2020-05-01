@@ -13,7 +13,8 @@ Quả Sơn thù được hái về bỏ hạt phơi khô làm thuốc. Lúc bào
 100kg Sơn thù cho vào 20 kg rượu trộn đều chưng khô đem phơi khô. Sơn
 thù du hình dáng như quả táo nên gọi là Táo bì.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Sơn thù vị chua, tính hơi ôn, qui kinh Can thận.
 
@@ -27,13 +28,16 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo kinh giải: nhập thủ thái âm phế kinh, túc quyết âm can
    kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Saponin (13%), verbenalin, ursolic acid, tanin, vitamin A.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Sơn thù du có tác dụng bổ ích can thận thu liễm cố sáp. Chủ trị các
 chứng: Can thận hư tổn, huyễn vựng, dương nuy, hoạt tinh di tinh, hư hãn
@@ -51,7 +55,9 @@ Trích đoạn Y văn cổ:
    kinh nguyệt), bổ thận khí, hưng dương đạo (trị liệt dương) thêm tinh
    tủy, liệu nhĩ minh (trị tai ù). trị người già tiểu nhiều".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Nước sắc Sơn thù in vitro có tác dụng ức chế tụ cầu vàng, trực khuẩn
    lî thương hàn. Trên thực nghiệm, thuốc có tác dụng giết chết tế bào
@@ -59,7 +65,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 #. Trên súc vật thí nghiệm, thuốc có tác dụng lợi tiểu, hạ áp.
 #. Thuốc có tác dụng hạ đường huyết nhẹ.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 Sơn thù nhục thường dùng phối hợp với nhiều vị thuốc khác trị các chứng
 do cơ thể hư nhược như:
@@ -96,9 +104,11 @@ dùng bài:
    Hoài sơn, Sơn thù đều 10g, Trạch tả, Phục linh, Đơn bì đều 8g, sắc
    uống.
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
--  Liều thường dùng: uống 6 - 12g, lúc cần có thể dùng 30g cho vào thuốc
+-  Liều thường dùng
+================ uống 6 - 12g, lúc cần có thể dùng 30g cho vào thuốc
    thang sắc uống.
 
 ..  image:: SONTHUDU.JPG

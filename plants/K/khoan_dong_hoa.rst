@@ -12,7 +12,8 @@ Trung quốc.
 Vào tháng 12 mỗi năm hái hoa về rửa sạch phơi râm, để sống hoặc chích
 mật dùng.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Khoản đông hoa vị cay, tính ôn, qui kinh Phế.
 
@@ -23,14 +24,17 @@ Theo các sách thuốc cổ:
 -  Sách Y học khởi nguyên: cay đắng.
 -  Sách Lôi công bào chế dược tính giải: nhập 2 kinh Tâm phế.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Faradiol, rutin, hyperin, triterpenoid, saponin, taraxanthin, tanin. Gần
 đây phát hiện 1 loại ancaloid.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Khoản đông hoa có tác dụng nhuận phế giáng khí, chỉ khái hóa đàm.
 
@@ -48,7 +52,9 @@ Trích đoạn Y văn cổ:
    khí thịnh phần lớn không dùng Khoản đông hoa mà dùng Tử uyển. Khoản
    đông dùng nhiều trong các bài thuốc ôn, thuốc bổ".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thuốc sắc làm tăng tiết đường hô hấp, làm giảm ho rõ. Còn có tác dụng
    hưng phấn trung khu thần kinh, hưng phấn hô hấp. Thuốc có tác dụng hạ
@@ -58,7 +64,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 #. Thuốc gây co thắt mạch, làm tăng huyết áp, gây tăng áp do hưng phấn
    trung khu vận mạch.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị hen suyễn: dùng rượu thuốc, mỗi lần uống 5ml (tương đương 6g thuốc
 sống) ngày 3 lần. Theo dõi 36 ca có kết quả nhưng cơn nặng không kết quả

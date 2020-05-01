@@ -10,10 +10,12 @@ loại mềm dùng làm thuốc.
 
 Vị ngọt cay, tính rất hàn, qui kinh Phế Vị.
 
-Thành phần chủ yếu: là Canxi sunfat ngậm 2 phân tử nước (CaSO42H2O).
+Thành phần chủ yếu
+================== là Canxi sunfat ngậm 2 phân tử nước (CaSO42H2O).
 Thạch cao nung chỉ có sunfat canxi (CaSO4).
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 Thanh nhiệt tả hỏa giải khát trừ phiền.
 
@@ -28,7 +30,9 @@ bắp, đối với sốt cao co giật có tác dụng nhất định.
 3.Do chất canxi làm giảm tính thẩm thấu của mạch máu mà có tác dụng tiêu
 viêm.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 Thạch cao là vị thuốc chủ yếu chữa các bệnh viêm nhiễm có hội chứng bệnh
 lý: Lý nhiệt.
@@ -106,7 +110,8 @@ kết quả khỏi 51/53 ca (tạp chí Trung y dược Phúc kiến 1960,6:21).
 thạch cam thang gia Kim ngân hoa, Liên kiều trị 123 ca, kết quả đều tốt
 (Trần Tiến, báo Trung y dược Giang tây 1987,2:15)
 
-Liều thường dùng: 12 - 80g. Người lớn có thể dùng lượng 80 - 160g, trẻ
+Liều thường dùng
+================ 12 - 80g. Người lớn có thể dùng lượng 80 - 160g, trẻ
 em dùng 10 - 40g. Thạch cao sống dùng lượng ít không có tác dụng.
 
 Chú ý lúc dùng thuốc:

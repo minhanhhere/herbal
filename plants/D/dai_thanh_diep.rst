@@ -11,16 +11,21 @@ cyrtophyllum Turcz, Polygonum tinctorium Alt. Thuộc họ Cỏ roi ngựa
 (Verbenaceae). Vị đắng tính rất hàn, không độc, qui kinh Tâm, Phế Vị
 hoặc Can Tỳ (Bản thảo tái tân).
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Có chất Đại thanh tố, Indican, Anloit.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền: Thanh đại có tác dụng thanh nhiệt giải độc,
+Theo Y học cổ truyền
+-------------------- Thanh đại có tác dụng thanh nhiệt giải độc,
 lương huyết tiêu bản.
 
-B.Kết quả nghiên cứu dược lý hiện đại: Do chủng loại cây Thanh diệp khá
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+ Do chủng loại cây Thanh diệp khá
 nhiều nên kết quả nghiên cứu khó xác định thuộc loại nào, chỉ ghi nhận
 để nghiên cứu thêm:
 
@@ -32,7 +37,9 @@ gan B.
 
 2.Tác dụng hạ nhiệt và chống viêm: tăng tác dụng thực bào của bạch cầu.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Chữa bệnh do virút: như bệnh Quai bị, viêm não B, viêm phổi do virút,
 và những bệnh do vi khuẩn như: viêm amidale, bại liệt trẻ em. Dùng độc
@@ -66,7 +73,8 @@ Bài này trị được viêm Amidale mạn tính có hốc, viêm hạch Lâm 
 nhiễm khuẩn, sưng nóng đỏ đau. Lở miệng có thể dùng Trân đại tán bôi
 (Trân châu, Thanh đại).
 
-Liều thường dùng: 8 - 20g. Liều cao có thể dùng tới 80g.
+Liều thường dùng
+================ 8 - 20g. Liều cao có thể dùng tới 80g.
 
 ..  image:: DAITHANHDIEP.JPG
    :width: 50px

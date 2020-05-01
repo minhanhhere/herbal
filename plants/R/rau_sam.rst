@@ -8,7 +8,8 @@ oleraceae L.) thuộc họ Rau Sam (Portulacaceae). Rau sam dùng làm thuốc
 được ghi đầu tiên trong sách Tân tu bản thảo. Cây mọc khắp nơi trong
 nước.
 
-Tính vị Qui kinh:
+Tính vị qui kinh
+================
 
 Vị chua tính hàn, qui kinh Can và Đại tràng.
 
@@ -19,7 +20,8 @@ Các sách cổ đã ghi:
 -  Sách Đắc phối bản thảo: " nhập thủ thái dương, dương minh kinh".
 -  Sách Bản thảo tái tân: " nhập 2 kinh Can Tỳ".
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 A.Theo Y học cỏ truyền: Thanh nhiệt, giải độc, lương huyết, chỉ huyết
 thông lâm. Chủ trị thấp nhiệt tả lî, nhiệt độc ung nhọt, xích bạch đới
@@ -36,7 +38,9 @@ Các sách cổ ghi:
 -  Sách Bản thảo cương mục: " tán huyết tiêu thủng, lợi trường hoạt
    thai, giải độc thông lâm, trị mồ hôi trộm sau khi sinh".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 1.Tác dụng kháng khuẩn: có tác dụng ức chế với mức độ khác nhau các
 loại: trực khuẩn lî, thương hàn, trực khuẩn coli, tụ cầu khuẩn vàng, một
@@ -50,7 +54,8 @@ dụng ức chế là do các thành phần hữu cơ chủ yếu của rau sam.
 3.Thuốc có tác dụng lợi tiểu (do thành phần muối kali) Thuốc còn có tác
 dụng co mạch.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Theo tài liệu của Giáo sư Đỗ tất Lợi Viện Vệ sinh Hà nội nghiên cứu Rau
 sam thấy có: 1,4% protit, 3% glucid, 1,3% tro, 85 mg% calci, 56%%P,
@@ -63,7 +68,9 @@ chất nhựa urea, nhiều muối kali (tươi 1%, khô 17%), kali nitrat, kali
 sulfat,KCl và muối kali khác, dopamin, dopa, acid hữu cơ và nhiều loại
 vitamin.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị lî trực khuẩn:
 
@@ -121,7 +128,8 @@ Theo Giáo sư Đỗ tất Lợi:
 -  Trường hợp đái ra máu: nấu canh rau sam ăn hằng ngày, liên tục 5 - 7
    ngày.
 
-Liều thường dùng: 9 - 15g, lượng tươi 30 - 100g, dùng ngoài tùy bệnh.
+Liều thường dùng
+================ 9 - 15g, lượng tươi 30 - 100g, dùng ngoài tùy bệnh.
 
  
 

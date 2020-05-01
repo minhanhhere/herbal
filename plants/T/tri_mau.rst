@@ -8,12 +8,14 @@ Anemarrhenae Aspheloides) thuộc họ Hành tỏi (Liliaceae). Vị đắng, t�
 hàn qui kinh Tỳ, Vị, Thận. Có tác dụng thanh nhiệt, tư âm, nhuận phế,
 sinh tân.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Tri mẫu có chất Saponin gọi là Asphonin, ngoài ra có một số chất có tinh
 thể chưa xác định.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 #. Hạ nhiệt: Đối với hư hoặc thực nhiệt, thuốc đều có tác dụng hạ nhiệt.
    Kết quả nghiên cưú thực nghiệm đã chứng minh Tri mẫu có tác dụng hạ
@@ -29,7 +31,9 @@ Tác dụng dược lý:
 #. Hóa đờm: Về mặt dược lý cổ truyền thuốc có tác dụng thanh nhiệt nhuận
    phế, tư thận bổ thủy.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 #. Dùng chữa chứng thực nhiệt: ở phần khí trong bệnh viêm nhiễm (bệnh
    ôn) phối hợp với Thạch cao có tác dụng giải nhiệt an thần (xem bài
@@ -64,7 +68,8 @@ Tác dụng dược lý:
    15g, Ích mẫu thảo 50g, trị 80 ca kết quả tốt 86,3% (Trương Thủ
    Khiêm, Tạp chí Trung tây y kết hợp 1988,3:155).
 
-Liều thường dùng: 8 - 16g. Liều cao có thể dùng 30g.
+Liều thường dùng
+================ 8 - 16g. Liều cao có thể dùng 30g.
 
 Chú ý lúc dùng thuốc:
 

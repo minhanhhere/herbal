@@ -9,12 +9,15 @@ Khúc khắc (Smilax Glabra Roxb), thuộc họ Hành tỏi (Liliaceae).
 Vị ngọt nhạt, tính bình không độc. Qui kinh Can, Vị. Có sách qui kinh
 Can Tỳ (Bản thảo tái tân).
 
-Thành phần chủ yếu: Trong Thổ phục linh có Saponin, Tanin và chất nhựa
+Thành phần chủ yếu
+================== Trong Thổ phục linh có Saponin, Tanin và chất nhựa
 (Trung quốc thổ nông dược chí).
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền: Thuốc có tác dụng kiện tỳ vị, cường gân cốt, trừ
+Theo Y học cổ truyền
+-------------------- Thuốc có tác dụng kiện tỳ vị, cường gân cốt, trừ
 phong thấp, lợi cơ khớp, cầm tiêu chảy, trị cốt thống, ung nhọt độc,
 giải độc thủy ngân (Bản thảo cương mục).
 
@@ -24,7 +27,9 @@ B.Thực nghiệm chứng minh:
 #. Thanh nhiệt giải độc trừ thấp, lợi khớp, chủ trị chứng giang mai, ung
    chàm lở, nhiệt lâm.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị nhọt lở cấp và mạn: thường phối hợp với Bồ công anh, Kim ngân hoa,
 Liên kiều, Hạ khô thảo.

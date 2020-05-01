@@ -21,7 +21,8 @@ Bắt Đỉa rửa sạch cho vào nước sôi, Đỉa chết đem phơi khô h
 Sinh Thủy điệt, cho bột Hoạt thạch vào nồi đốt nóng rồi cho Đỉa vào trộn
 đều cho khô đến khi dùng gọi là Thủy điệt chế.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị mặn đắng tính bình, có độc ít, vào kinh Can.
 
@@ -32,13 +33,16 @@ Theo Y văn cổ:
 -  Sách Danh y biệt lục: " đắng, mặn, hàn, có độc".
 -  Sách Yếu dược phân tể: " vào 2 kinh Can và Bàng quang".
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Hirudin, Heparin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thuốc có tác dụng phá huyết trục ứ: Chủ trị các chứng kinh bế, trưng hà
 tích tụ, tổn thương do té ngã".
@@ -56,11 +60,15 @@ Theo các sách Y học cổ truyền:
    mẫu (sốt rét lâu ngày, gan lách to), sốt lạnh, mặt vàng, bụng đầy
    như lao.".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 Thủy điệt có tác dụng chống đông máu.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng kinh bế, trưng hà: thường phối hợp với Đào nhân, Đại hoàn
 hoàng, Manh trùng, Thủy điệt (Thương hàn luận), kinh bế thuộc thể hư,

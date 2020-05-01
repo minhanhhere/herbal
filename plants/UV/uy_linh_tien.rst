@@ -14,7 +14,8 @@ Triết giang Trung quốc. Ở nước ta chưa thấy phát hiện, chỉ nói
 Uy linh tiên là cây Bạch hạc (Kiến cò) không phải Uy linh tiên trong
 bài này).
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị cay mặn, ôn. Qui kinh Bàng quang.
 
@@ -27,13 +28,16 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo cầu chân: chuyên nhập bàng quang, nhập trường vị.
 -  Sách Bản thảo tái tân: nhập Phế Thận.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Anemonin, anemonol, sterol, saponin, phenol, oleanolic acid, đường.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Trừ phong thấp, thông kinh lạc, chỉ tý thống. Chủ trị phong thấp tý
 thống, gân co giật, trị hóc xương cá.
@@ -51,7 +55,9 @@ Trích đoạn Y văn cổ:
    ngưng trệ, các khớp co duỗi khó khăn, chứng trúng phong không nói
    được, chân tay bại, mồm méo".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Cho chó uống nước sắc rễ Uy linh tiên, tần số nhu động thực quản
    tăng, biên độ lớn hơn. Người sau khi hóc xương cá, vùng trên của thực
@@ -70,7 +76,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    Shigella. Thành phần anemonin trong thuốc có tác dụng ức chế đối với
    một số khuẩn Gram dương và Gram âm, nấm.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị đau khớp do phong thấp, lưng gối đau nhiều:
 

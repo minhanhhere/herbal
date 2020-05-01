@@ -8,7 +8,8 @@ thân rễ phơi hay sấy khô của cây Xuyên khung (Ligusticum Wallichi
 Franch, Ligusticum chuanxiong Hort) thuộc họ Hoa tán Umbelliferae. Còn
 có tên Khung cùng.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị cay tính ôn, qui kinh Can Đởm, Tâm bào.
 
@@ -20,15 +21,18 @@ Theo các sách cổ:
 -  Sách Dược phẩm hóa nghĩa: nhập Can tỳ, Tam tiêu.
 -  Sách Thang dịch bản thảo: nhập thủ quyết âm kinh, thiếu dương kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Trong Xuyên khung có Saponin, dầu bay hơi, acid a ngùy. Theo nghiên cứu
 gần đây của các học giả Trung quốc, trong Xuyên khung có 3 chất kết tinh
 trong đó có Perlolyrine.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Hoạt huyết hành khí, khu phong chỉ thống. Chủ trị các chứng rối loạn
 kinh nguyệt, bế kinh thống kinh, khó sanh, sau sanh đau bụng, ngực sườn
@@ -61,7 +65,9 @@ Trích đoạn Y văn cổ:
    trị được các chứng trưng hà tích tụ, huyết bế không thông, chốc lở
    đau ngứa, ung thư hàn nhiệt, sưng đau".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 1.Tác dụng đối với tim: Trên thực nghiệm ếch hoặc cóc đối với tim cô lập
 hay chỉnh thể với nồng độ thấp có tác dụng hưng phấn, tim co bóp tăng,
@@ -106,7 +112,9 @@ trung tính cũng có tác dụng tương tự.
 8.Xuyên khung còn có tác dụng chống phóng xạ, kháng khuẩn và chống nấm
 ngoài da, còn có tác dụng trị chứng thiếu vitamin E.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị đau đầu:
 

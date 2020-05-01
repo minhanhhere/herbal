@@ -6,11 +6,13 @@ Kinh giới (Herba seu Flos Schizoneptae Tennuifoliae)
 Dùng cành, lá, hoa của cây Kinh giới (Elsholtzia cristata Willd họ Hoa
 môi (Lamiaceae) vị cay tính ấm qui kinh Phế Can.
 
-Thành phần chủ yếu: Trong Kinh giới Schizonepeta tenuifolia Briq, có
+Thành phần chủ yếu
+================== Trong Kinh giới Schizonepeta tenuifolia Briq, có
 chừng 1,8% tinh dầu, thành phần chủ yếu là d. limone, d.menton, một ít
 d. limonen (Kinh giới tươi).
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 #. Làm ra mồ hôi.
 #. Tiêu viêm.
@@ -24,7 +26,9 @@ Kếât quả nghiên cứu dược lý hiện đại:
 Nước sắc và cồn ngâm kiệt thuốc có tác dụng hạ nhiệt nhẹ, an thần, làm
 giãn cơ trơn phế quản của chuột lang, chống dị ứng.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Tán hàn giải cảm: trị chứng cảm mạo phong hàn đầu mình đau, sợ lạnh,
 không ra mồ hôi dùng: Kinh giới, Phòng phong, Tô diệp mỗi thứ 12g, sắc

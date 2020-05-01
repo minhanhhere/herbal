@@ -8,7 +8,8 @@ Rau mùi (Hồ tuy, Nguyên tuy, Rau ngò)
 Toàn cây dùng làm thuốc. Cây rau mùi (Coriandrum sativum L.) thuộc họ
 Hoa tán (Umbelliferae) . Vị cay tính ấm mùi thơm qui kinh phế vị.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Quả mùi có tinh dầu (0,3 - 1,0% ), chất béo (13 - 20%), protein (16 -
 18%), chất xơ (38%). Thành phần chủ yếu của tinh dầu là Linalola quay
@@ -16,7 +17,8 @@ phải (70 -90), còn gọi là Coriandrola. 5% d.pinen, limonex, tecpinen,
 mycxen, phelandren, một ít geranioa và bocneola. Trong lá thân cũng chứa
 trên dưới 1% tinh dầu.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 Theo Y học cổ truyền thuốc có tác dụng phát tán thấu chẩn (giúp sởi
 đâïu chóng mọc), giảm độc làm nhẹ trạng thái nhiễm độc toàn thân (nhất
@@ -24,7 +26,9 @@ là đối với bệnh sởi trẻ em), kiện vị tiêu thực.
 
 Tây y chưa có báo cáo về nghiên cứu rau mùi.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Chữa bệnh sởi trẻ em: Chủ yếu lúc sởi mới mọc, sởi mọc không đều, hoặc
 sốt kéo dài mà sởi chưa mọc hoặc mọc quá ít, dùng cây rau mùi có tác

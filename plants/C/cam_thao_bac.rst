@@ -14,7 +14,8 @@ vùng Nội mông, Cam túc và Tân cương.
 hoặc cây Sóng rắn (miền Nam) cũng gọi là cây Cam thảo, cần chú ý phân
 biệt.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt, tính bình, qui kinh Tỳ Vị Phế Tâm.
 
@@ -32,15 +33,18 @@ Qui kinh:
 -  Sách Bản thảo thông huyền: nhập Tỳ Vị.
 -  Sách Bản thảo kinh giải: nhập thủ thái âm phế, túc thái âm tỳ kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Glycyrrhizic acid, glycyrrhetinic acid, glycyrrhizin, uralenic acid,
 liquirintigenin, isoliquiriti-genin, liquiritin, neoliquiritin,
 neoisoliquiritin, licurazid.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Cam thảo có tác dụng bổ trung ích khí, nhuận phế chỉ khát, hoãn cấp chỉ
 thống, thanh nhiệt giải độc. Chủ trị các chứng tỳ vị hư nhược, tâm khí
@@ -79,7 +83,9 @@ Theo các Y văn cổ:
    vào phần huyết, không nơi nào là không đến được nên có tên là Quốc
    lão!".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Tác dụng giải độc: thuốc có tác dụng giải độc đối với nhiều loại như:
    cloralhydrate, physostigmin, acetylcholin, pilocarpin., các loại
@@ -141,7 +147,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    liều cao xuất hiện bụng đầy, kém ăn và rối loạn tiêu hóa. Chất thủy
    phân glycyricin có tác dụng dung huyết.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Cam thảo được dùng rất nhiều trong các bài thuốc đông y: vì Cam thảo
 có tác dụng điều hòa tính vị của các vị thuốc khác trong bài thuốc. Ví
@@ -274,7 +282,8 @@ da, Báo Tân Y học 1974,1:45).
 -  Cao Cam thảo mềm: chữa các chứng mụn nhọt, ngộ độc, ngày uống 1 - 2
    thìa con.
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
 -  Liều: 4 - 12g, có khi dùng đến 50g, tùy mục đích sử dụng, dùng làm
    thuốc điều hòa lượng thường dùng ít, dùng để giải độc lượng phải

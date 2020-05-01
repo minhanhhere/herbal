@@ -10,7 +10,8 @@ Long nhãn nhục là cùi hạ phơi hay sấy khô nửa chừng của quả c
 nhãn (Euphoria longana Lamk, Euphoria longana (Lour) Steud) , thuộc họ
 Bồ hòn (Sapindaceae).
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Long nhãn vị ngọt, ôn, qui kinh Tâm tỳ.
 
@@ -26,11 +27,13 @@ Về qui kinh:
 -  Sách Dược phẩm hóa nghĩa: nhập Can, Tâm, Tỳ.
 -  Sách Bản thảo tái tân: nhập Tâm Thận.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Adenine, choline, glucose, sucrose.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 Bổ tâm tỳ, ích khí huyết. Chủ trị chứng Tâm tỳ lưỡng hư, khí huyết hư
 tổn.
@@ -49,12 +52,16 @@ Trích đoạn Y văn cổ:
    Trường hợp gân cốt mệt mỏi, dùng làm thuốc trợ lực Thục địa, Đương
    qui để tư âm bổ can huyết*".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 Ít có tài liệu nghiên cứu. Theo sách Trung dược học thuốc có tác dụng ức
 chế nha bào của nấm trên ống nghiệm với nước ngâm Long nhãn.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 Thuốc chủ yếu dùng trị các chứng suy nhược thần kinh do tâm huyết hư có
 triệu chứng: mất ngủ, hồi hộp, hay quên dùng bài Qui tỳ thang (Tế sinh

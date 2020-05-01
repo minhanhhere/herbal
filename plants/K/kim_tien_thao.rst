@@ -13,7 +13,8 @@ sibthorpiodes Lam.var. batrachium (Hance) Hand- Mazz, Dichondra repens
 Forst, thuộc họ Hoa cánh bướm Fabaceae. Cây mọc hoang dại trên những đồi
 vùng trung du, một số ít miền núi.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt mặn tính hơi hàn, qui kinh Can đởm thận bàng quang (theo sách
 Dược điển nước Cộng hòa nhân dân Trung hoa xuất bản năm 1985).
@@ -25,7 +26,8 @@ thảo).
 
 Sách tiếng Anh dịch là Cỏ Đòng tiền vàng (Gold Money Herb).
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Herba Glechomae Longitubae-L-pinocamphone, 1-menthone, 1-pulegone,
 a-pinene, limonene, p-cymene, Isomenthone, Isopinocamphone, linalool,
@@ -36,9 +38,11 @@ amino acid, tannin, choline, succinic acid, potassium nitrate.
 -  Lysimachiae Christinae: phenol, strol, flavone, tannin, essential
    oil.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Kim tiền thảo có tác dụng: thanh nhiệt lợi thấp, thông lâm, thanh can
 đởm thấp nhiệt, thanh nhiệt giải độc.
@@ -66,7 +70,9 @@ B.Kết quả nghiên cứu dưọc lý hiện đại:
    (Hoạt huyết đơn) đối với tụ cầu vàng, trực khuẩn thương hàn, trực
    khuẩn mủ xanh đều có tác dụng ức chế.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị sạn đường mật:
 

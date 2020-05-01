@@ -7,17 +7,21 @@ Khương hoạt là rễ và thân rễ (phần dưới đất) của cây Khư�
 (Notopterygium incisium Ting Mss) thuộc họ Hoa tán (Umbelliferae) vị
 cay đắng tính ấm qui kinh Bàng quang, Can, Thận.
 
-Thành phần chủ yếu: có tinh dầu. Các hoạt chất khác chưa thấy có tài
+Thành phần chủ yếu
+================== có tinh dầu. Các hoạt chất khác chưa thấy có tài
 liệu nghiên cứu.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 -  Tán hàn giải cảm.
 -  Trừ phong thấp giảm đau.
 -  Kháng khuẩn: Dùng rượu chiết xuất Khương hoạt với nồng độ 1 : 50.000
    có tác dụng ức chế sự sinh trưởng của vi khuẩn lao.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 #. Trị cảm mạo phong hàn: đầu mình đau, không ra mồ hôi, mạch phù khẩn,
    tác dụng tán phong mạnh hơn Phòng phong.

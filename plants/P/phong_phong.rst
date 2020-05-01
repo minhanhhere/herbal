@@ -6,10 +6,12 @@ Phòng phong (Radix Ledebouriellae Sesloidis)
 Dùng rễ khô của cây Phòng phong (Ledebouriellaseseloides (Hoffm) Wolff).
 Vị cay ngọt, tính ấm, qui kinh Bàng quang, Can.
 
-Thành phần chủ yếu: Có tinh dầu, chất manit, chất có tính chất phenola
+Thành phần chủ yếu
+================== Có tinh dầu, chất manit, chất có tính chất phenola
 glucozit đắng, đường, chất acid hữu cơ.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 1.Làm ra mồ hôi, hạ nhiệt (được chứng minh trên thực nghiệm)
 
@@ -22,7 +24,9 @@ Tác dụng dược lý:
 Theo dược lý cổ truyền, thuốc có tác dụng tán hàn giải biểu, trừ phong
 thấp, giải kinh phong.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 #. Trị chứng ngoại cảm: phong hàn, phong thấp, phong nhiệt thường kết
    hợp với các loại:

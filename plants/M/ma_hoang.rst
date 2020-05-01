@@ -30,7 +30,9 @@ tiểu.
    hoàng. Cao lỏng Ma hoàng tiêm vào động vật thấy huyết áp giảm, mạch
    máu ngoại vi giãn, hô hấp tăng nhanh, cầm mồ hôi.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 #. Trị chứng NGOẠI CẢM PHONG HÀN (như cảm mạo, cảm cúm, viêm đường hô
    hấp trong thời kỳ đầu.) : sốt gai rét, đau đầu, đau mình, nghẹt mũi,
@@ -78,7 +80,8 @@ Ma hoàng 8g, Liên kiều 12g, Xích tiểu đậu 20g, Tang bì 12g, Hạnh nh
 12g, Cam thảo 4g, Sinh khương 8g, Đại táo 1 quả. Trị Viêm cầu thận cấp
 kiêm nhiễm trùng ngoài da.
 
--  Liều thường dùng: 2-12g . Liều giảm đối với bệnh nhân hư nhược. Dùng
+-  Liều thường dùng
+================ 2-12g . Liều giảm đối với bệnh nhân hư nhược. Dùng
    liều cao chữa đau khớp do phong thấp.
 -  Chú ý khi dùng thuốc:
 

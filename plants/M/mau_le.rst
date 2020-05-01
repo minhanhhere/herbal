@@ -11,7 +11,8 @@ Con hàu sống hầu hết các cửa sông các tỉnh duyên hải miền B�
 Vỏ hàu có thể thu hoạch quanh năm, đem về rửa sạch bỏ thịt phơi khô là
 được. Mẫu lệ chế là Mẫu lệ được nung lên lửa trở thành màu xám trắng.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Mẫu lệ vị mặn tính hơi hàn, qui kinh Can thận.
 
@@ -24,14 +25,17 @@ Theo các sách thuốc cổ:
 -  Sách Thang dịch bản thảo: nhập túc thái âm kinh.
 -  Sách Bản thảo kinh sơ: nhập túc thiếu âm, thiếu dương kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Calcium carbonate, calcium phosphate, calcium sulfate, magnesium,
 aluminum, oxyt sắt, silice.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Mẫu lệ có tác dụng: Bình can tiềm dương, nhuyễn kiên tán kết, thu liễm
 cố sáp.
@@ -51,12 +55,16 @@ Trích đoạn Y văn cổ:
    trị tâm tỳ khí thống, chứng lî, xích bạch trọc, tiêu các chứng sán
    khí, trưng hà, anh lựu kết hạch".
 
-B.Kết quả nghiên cứu dược lý hiện đại: ít có ghi nhận về nghiên cứu.
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+ ít có ghi nhận về nghiên cứu.
 
 #. Thuốc có tác dụng nhất định trong điều trị lóet dạ dày tá tràng.
 #. Có người cho rằng thuốc có tác dụng nâng cao miễn dịch.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị mồ hôi trộm thường gặp trong bệnh lao, suy nhược cơ thể:
 

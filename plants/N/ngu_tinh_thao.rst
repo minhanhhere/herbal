@@ -8,15 +8,18 @@ Ngư tinh thảo (Houttuynia cordata Thumb), thuộc họ Lá giáp
 (Saururaceae). Vị cay đắng tính hơi hàn, có sách ghi: hơi ôn (Danh y
 biệt lục), qui kinh Can, Phế (Bản thảo tái tân). Hơi độc.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Có ít tinh dầu (chủ yếu là chất Métyl-nonyl-xeton mùi khó chịu), một ít
 chất ancaloit gọi là cordanlin. Hoa và quả chứa chất quexitrin. Cây có
 clorua kali và sunfua kali.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền: Thuốc có tác dụng: Thanh nhiệt giải độc, bài
+Theo Y học cổ truyền
+-------------------- Thuốc có tác dụng: Thanh nhiệt giải độc, bài
 niệu thông lâm, chủ trị chứng phế ung, ung nhọt lở, nhiệt lâm, tiểu tiện
 đau gắt.
 
@@ -28,7 +31,9 @@ B.Kết quả nghiên cứu dược lý hiện đại chứng minh:
 #. Tăng cường chức năng miễn dịch: có tác dụng chống viêm và lợi tiểu.
    Dịch rau diếp cá chích vào ổ bụng có tác dụng chống cơn ho.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị các chứng viêm ở phổi : (áp xe phổi phế ung), viêm phổi thùy, viêm
 phổi đốm.
@@ -80,7 +85,8 @@ ca viêm mũi teo có kết quả tốt (Tạp chí Tân y dược học 1977,7:
    24g, Cam thảo 6g sắc uống, trị ung thư phổi. Có báo cáo dùng Ngư tinh
    thảo làm chủ dược chế bài thuốc trị ung thư máu có kết quả.
 
-Liều thường dùng: 20 - 40g, thuốc tươi liều gấp đôi, dùng ngoài không
+Liều thường dùng
+================ 20 - 40g, thuốc tươi liều gấp đôi, dùng ngoài không
 hạn chế.
 
 Chú ý: Có trường hợp dùng dịch Ngư tinh thảo gây choáng, dị ứng.

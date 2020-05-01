@@ -22,13 +22,16 @@ Theo Y văn cổ:
 
 -  Sách Dược phẩm hóa nghĩa: nhập 2 kinh Phế, Đại tràng.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Rutin, Betulin, Sophoradiol, Glucuronic acid.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền: Thuốc có tác dụng lương huyết, chỉ huyết, thanh
+Theo Y học cổ truyền
+-------------------- Thuốc có tác dụng lương huyết, chỉ huyết, thanh
 can tả hỏa.
 
 Chủ trị các chứng: tiện huyết, trĩ huyết, niệu huyết, lạc huyết, nục
@@ -45,7 +48,9 @@ Trích đoạn Y văn cổ:
    cam trùng, trị ung thư, sang độc", " âm sang thấp ngứa, trĩ lậu, trị
    dương mai ác sang, hạ cam phục độc."
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 1.Tác dụng cầm máu: Hoa hòe có tác dụng rút ngắn thời gian chảy máu, sao
 thành than tác dụng càng tăng.
@@ -81,7 +86,9 @@ với tổn thương độ 3 càng rõ, đối với độ 1 và 2 cũng có tá
 9.Tác dụng chống tiêu chảy: nước Hoa hòe bơm vào ruột của thỏ kích thích
 niêm mạc ruột sinh chất tiết dịch có tác dụng làm giảm tiêu chảy.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Dùng làm thuốc lương huyết chỉ huyết: Trong các chứng tiêu ra máu, trĩ
 ra máu, huyết lî, băng lậu, niệu huyết, dùng bài:

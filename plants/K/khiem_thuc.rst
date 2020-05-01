@@ -12,7 +12,8 @@ ao nhiều tỉnh của Trung quốc giáp giới Việt nam như Quảng đông
 tây và Vân nam. Vào tháng 9,10 quả chín hái về xay vỡ, sẩy lấy hạt rồi
 xay bỏ vỏ hạt lấy nhân làm thuốc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Khiếm thực vị ngọt sáp tính bình, qui kinh Tỳ thận.
 
@@ -23,14 +24,17 @@ Theo các sách thuốc cổ:
    thì lương, nhập 3 kinh Tỳ Vị Can.
 -  Sách Lôi công bào chế dược tính giải: nhập 4 kinh: Tâm Thận Tỳ Vị.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Protid (4,4%), chất béo (0,2%), carbon hydrat (32%), calcium, phosphorus
 thiamine, nicotinic acid, carotene, vitamine C, sắt.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Khiếm thực có tác dụng: bổ tỳ trừ thấp, ích thận cố tinh. Chủ trị các
 chứng cửu tả cửu lî, hoạt tinh, di tinh, di niệu, bạch đới nhiều.
@@ -45,10 +49,14 @@ Trích đoạn Y văn cổ:
    chứng tiêu chảy bụng đau, vị sáp cố thận nên bế khí khiến cho di
    tinh, bạch đới, đái rát đều khỏi".
 
-B.Kết quả nghiên cứu dược lý hiện đại: chưa có tài liệu nghiên cứu dược
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+ chưa có tài liệu nghiên cứu dược
 lý về Khiếm thực.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị tiêu chảy trẻ em do tỳ hư:
 

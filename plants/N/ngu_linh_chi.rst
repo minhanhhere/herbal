@@ -10,7 +10,8 @@ tỉnh Hà bắc, Sơn tây, Cam túc, chưa thấy có ở nước ta.
 Ngũ linh chi dùng làm thuốc được ghi đầu tiên trong sách Khai báo bản
 thảo.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Tính ôn vị đắng ngọt, qui kinh Can.
 
@@ -22,11 +23,13 @@ Theo các y văn cổ:
 -  Sách Bản thảo kinh giải: " nhập túc quyết âm kinh, túc thái ân tỳ
    kinh".
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Trong Ngũ linh Chi có nhiều chất nhựa, urê, acid uric và vitamin A.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 A. Theo Y học cổ truyền:
 
@@ -60,12 +63,16 @@ Trích đọan Y văn cổ:
    mất huyết, làm cho huyết qui kinh mà không lộng hành, có thể trị băng
    trung, thai lậu và trường hồng huyết lî".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 Thuốc có tác dụng ức chế sự sinh trưởng của vi khuẩn lao, nước thuốc có
 tác dụng ức chế nhiều loại nấm ngoài da, làm dịu co thắt của cơ trơn.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị đau do viêm lóet dạ dày hành tá tràng:
 

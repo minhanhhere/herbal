@@ -15,7 +15,8 @@ nhớt, dùng đinh đóng đuôi giun vào miếng gỗ, lấy dao sắc rạch
 nước ấm rửa sạch phơi hay sấy khô. Có nơi bắt giun dùng tro và nước nóng
 rửa sạch rồi phơi hay sấy khô, không mổ bụng.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị mặn tính hàn, qui kinh Can Tỳ Bàng quang.
 
@@ -26,15 +27,18 @@ Theo các sách thuốc cổ:
 -  Sách Dược tính bản thảo: có độc ít.
 -  Sách Bản thảo tái tân: nhập 3 kinh Can Tỳ Phế.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Lumbroferine, lumbritin, terrestro-lumbrolysin, hypoxanthine, xanthine,
 adenine, guanine, choline, guanidine, nhiều loại acid amin, vitamin và
 muối vô cơ.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thuốc có tác dụng thanh nhiệt tức phong, bình suyễn, thông lạc, lợi
 tiểu. Chủ trị các chứng: nóng sốt phát hoảng, cơn suyễn phế nhiệt, ho
@@ -51,7 +55,9 @@ Trích đoạn Y văn cổ:
    trị chứng sốt, đi xuống nên có tác dụng lợi tiểu, trị bệnh ở chân mà
    thông lạc".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Thuốc có tác dụng hạ nhiệt an thần, thuốc làm giãn phế quản nên có
    tác dụng hạ cơn suyễn.
@@ -63,7 +69,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 #. Thuốc có tác dụng phá huyết (theo báo cáo của nhà nghiên cứu Nhật
    bản Bát mộc -1911) thì chất lumbritin có tác dụng phá huyết.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng viêm khớp cấp sưng nóng đau:
 

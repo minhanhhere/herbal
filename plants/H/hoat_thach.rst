@@ -7,7 +7,8 @@ Hoạt thạch là một chất khoáng bột trắng mịn sờ trơn mát khô
 nước. Tỷ trọng 2,5 - 2,8, khó bị acid phá hủy, dùng làm thuốc được ghi
 đầu tiên trong sách Bản kinh.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt nhạt, tính hàn, qui kinh Vị, Bàng quang.
 
@@ -17,15 +18,18 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo kinh sơ: vị ngọt nhạt khí hàn, không độc.
 -  Sách Lôi công bào chế dược tính giải: nhập 2 kinh vị, bàng quang.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Thành phần của Hoạt thạch là Magiê silicat: Mg(Si4O10)(OH)2 hoặc
 3MgO,4SiO2H2O. Tỷ lệ MgO trong đó là 31,7%,SiO2 là 63,5%, H2O là 4,8%.
 Ngoài ra còn có tạp chất Fe,Na,K,Ca,Al.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Hoạt thạch có tác dụng: thanh nhiệt lợi thấp, thanh thử thấp, dùng ngoài
 thuốc có tác dụng thanh nhiệt táo thấp.
@@ -49,7 +53,9 @@ Trích đoạn Y văn cổ:
    Hoạt thạch hợp với Thổ cẩu (lẫu cô) tán bột uống, tiểu tiện được
    thông lợi, phù trướng tự tiêu".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Bột Hoạt thạch hạt nhỏ tổng bề mặt lớn nên hút đưọc liều lượng lớn
    chất độc và các chất hóa học kích thích bảo vệ được niêm mạc và da.
@@ -61,7 +67,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    thuốc xoa âm đạo thường xuyên tỷ lệ phát sinh ung thư buồng trứng gấp
    3 lần so với người không dùng.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị viêm đường tiết niệu: thuốc có tác dụng thanh nhiệt lợi tiểu thông
 lâm.
@@ -100,7 +108,8 @@ Bài thuốc có: Bột Hoạt thạch 20g, bột Hỏa tiêu 10g, bột Uất k
 Bạch phàn 4,5g, bọt Cam thảo 3g trộn đều. Mỗi lần uống 4g, ngày 2 lần
 liên tục trong 2 tuần đến khi hết triệu chứng.
 
-Liều thường dùng:
+Liều thường dùng
+================
 
 -  Liều: 10 - 15g, bọc vải sắc. Dùng ngoài tùy bệnh lý.
 -  Chú ý: Tỳ khí hư nhược, tinh hoạt và bệnh nhiệt tổn thương tân dịch,

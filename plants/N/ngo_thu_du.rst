@@ -14,7 +14,8 @@ Hồ nam, Thiễm tây v.v.. Ở nước ta, cây thuốc được phát hiện 
 giang có tên là Xà lạp hay Ngô thù, nhân dân thường dùng trị sốt nóng,
 đau bụng.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị cay, đắng tính nhiệt, có độc ít. Qui kinh Can, Tỳ Vị.
 
@@ -25,16 +26,19 @@ Theo các sách cổ:
 -  Sách Dược tính bản thảo: Vị đắng cay, đại nhiệt có độc.
 -  Sách Thang dịch bản thảo: nhập túc thái âm, thiếu âm, quyết âm kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Trong quả Ngô thù du có khoảng 0,4% tinh dầu, thành phần có Evoden,
 ocimene, evodin, evodol, gushuynic acid, evodiamine, rutae carpine,
 wuchuyine, hydroxyevodiamine, evocarpine, idoevodiamine, evodinone,
 evogin, rutaevin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thuốc có tác dụng: Tán hàn hành khí, táo thấp chỉ thống, sơ can hạ khí,
 ôn trung chỉ tả, dùng ngoài, thuốc có tác dụng dẫn hỏa đi xuống.
@@ -62,7 +66,9 @@ Trích đọan Y văn cổ:
    tán hàn tà, như vậy trung tiêu được ấm, khí tự đi xuống mà các chứng
    bệnh sẽ mất".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Ngô thù với tinh dầu thơm có tác dụng kiện vị trừ phong và ức chế các
    loại men không bình thường ở ruột, có tác dụng cầm nôn, cùng dùng với
@@ -89,7 +95,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    Độc tính của Evoxine là thấp, dùng thuốc chích tĩnh mạch chuột LD50
    là 135g/kg.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị nôn do vị hàn khí nghịch:
 

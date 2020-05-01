@@ -6,11 +6,14 @@ Cỏ nhọ nổi
 
 Eclipta alba họ Cúc Compositea
 
-Tính vị qui kinh: ngọt chua, mát vào kinh Can Thận.
+Tính vị qui kinh
+================ ngọt chua, mát vào kinh Can Thận.
 
 Tác dụng:Bổ can thận, chỉ huyết.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 -  Bổ thận làm khoẻ mạnh gân xương chữa người già đau lưng, chân gối mềm
    yếu, răng lung lay, chóng mặt hoa mắt.

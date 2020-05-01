@@ -17,7 +17,9 @@ Tính vị: vị cay, đắng. Tính ẩm.
 
 Qui kinh: Kinh Can.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 - Sơ can giải uất: dùng trong các trường hợp can khí uất kết, dẫn đến
 đau sườn ngực, đau dây thần kinh liên sườn; phối hợp với Sài hồ, Chi tử,

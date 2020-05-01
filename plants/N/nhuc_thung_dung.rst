@@ -14,7 +14,8 @@ Hiện trên thị trường có dùng nhiều loại:
    quốc thường dùng loại này. Vị thuốc này được ghi đầu tiên trong sách
    Bản kinh.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt mặn, tính ôn. Qui kinh Thận Đại tràng.
 
@@ -27,11 +28,13 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo kinh giải: nhập túc quyết âm can kinh, túc thiếu âm
    thận kinh, thủ dương minh đại trường kinh.
 
-Thành phần chủ yếu: Alkaloids.
+Thành phần chủ yếu
+================== Alkaloids.
 
 Tác dụng dược lý
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thuốc có tác dụng bổ thận dương, ích tinh huyết, nhuận trường, thông
 tiện. Chủ trị các chứng liệt dương, vô sinh, đại tiện táo bón.
@@ -53,7 +56,9 @@ Trích Y văn cổ:
    tủy cân, trị ngũ lao thất thương, tuyệt dương bất hứng, tuyệt âm bất
    sản, yêu tất lãnh thống, băng đới di tinh. hoạt đại tiện".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Tác dụng hạ áp (theo tài liệu: Trích yếu báo cáo luận văn năm 1956,
    tập 2, Viện khoa học Y học Trung quốc xuất bản 70,1956).
@@ -61,7 +66,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    yếu văn kiện nghiên cứu Trung dược do NXB Khoa học xuất bản năm
    1965(14).
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng liệt dương do thận hư, lưng gối lạnh đau, phụ nữ vô sinh:
 dùng bài:
@@ -87,7 +94,8 @@ dùng bài:
    Trầm hương 2g, tán bột mịn làm hoàn với mật ong, mỗi lần uống 12 -
    20g, ngày uống 2 lần.
 
-Liều thường dùng:
+Liều thường dùng
+================
 
 -  Liều : 12 - 24g. Trị táo bón có thể dùng lượng nhiều.
 -  Không nên dùng đối với bệnh nhân Tỳ hư, tiêu chảy.

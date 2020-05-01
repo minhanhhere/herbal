@@ -13,7 +13,8 @@ tả diệp mọc hoang và được trồng tại các nước nhiệt đới c
 đem giống về trồng ở đảo Vân nam. Ở nước ta chưa phát hiện cây này nên
 còn phải nhập của nước ngoài.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Phan tả diệp, vị ngọt đắng, tính hàn, qui kinh Đại tràng.
 
@@ -23,14 +24,17 @@ Theo các sách thuốc cổ:
 -  Sách Dược điển của nước Cộng hòa Nhân dân Trung hoa (xb 1985): vị
    ngọt đắng, tính hàn, qui kinh Đại tràng.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Sennoside A,B và C,D; rhein; chrysophanol, chrysophanic acid,
 loe-emodin, emodin glucoside.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Phan tả diệp có tác dụng tả hạ thanh nhiệt. Chủ trị các chứng thực tích,
 tiện bí, làm sạch đường ruột trước phẫu thuật.
@@ -43,7 +47,9 @@ Trích đoạn Y văn cổ:
    dụng xổ nhẹ, muốn xổ mạnh uống 4 - 6g thuốc ngâm kiệt sau mấy giờ có
    hiệu quả".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 Thành phần thuốc xổ là thuốc antraglucoside (Anthraquinone glycoside)
 mà chủ yếu là sennoside. Ngoài ra, nước ngâm kiệt của thuốc có tác dụng
@@ -51,7 +57,9 @@ mà chủ yếu là sennoside. Ngoài ra, nước ngâm kiệt của thuốc có
 bụng, nếu liều cao nữa, có thể gây đau bụng dữ dội, nôn mửa trong 3 - 4
 giờ. Tác dụng kéo dài 1 - 2 ngày, sau đó không bị táo lại.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị tắt ruột: Khoa ngoại Bệnh viện trực thuộc Y học viện Quí dương
 dùng Phan tả diệp trị 106 ca tắt ruột (83 ca đơn thuần, 23 ca nghẽn

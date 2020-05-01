@@ -31,7 +31,8 @@ Chế Khương Hậu phác, người ta thái Gừng tươi sắc nước rồi 
 vào cùng sắc cho ngấm hết nước gừng, thái lát đem phơi (cứ 50kg Hậu phác
 dùng 5kg Gừng tươi).
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Hậu phác vị cay, tính ôn, qui kinh Tỳ Vị Phế Đại tràng.
 
@@ -42,15 +43,18 @@ Theo các sách thuốc cổ:
 -  Sách Lôi công bào chế dược tính giải: nhập 2 kinh Tỳ vị.
 -  Sách Bản thảo kinh sơ: nhập tucù thái âm, thủ túc dương minh kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Trong Hậu phác có chừng 5% phenol gọi là magnolola, tetrahydromagnolola,
 Isomagnolola, có 1% tinh dầu thành phần chủ yếu là machilola, ngoài ra
 còn có onokiol, eudesmol, magnocurarine.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Hậu phác có tác dụng hành khí tiêu tích, táo thấp, hạ khí tiêu đàm bình
 suyễn.
@@ -86,7 +90,9 @@ Trích đoạn Y văn cổ:
    có tác dụng lý khí hành khí. Nhưng chứng khí thịnh, thuốc dùng không
    phải là không xem xét, mà đối với chứng hư nên ít dùng".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Magnolol (thành phần Phenol của Hậu phác) có tác dụng phòng ngừa lóet
    dạ dày trên thực nghiệm, có tác dụng ức chế histamin gây co thắt tá
@@ -99,7 +105,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    liên cầu khuẩn tán huyết, trực khuẩn lî và những nấm gây bệnh thường
    gặp.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị lî amip: trong một báo cáo lâm sàng dùng Hậu phác trị 46 ca> Kết
 quả 43 ca hồi phục, 2 ca tiến bộ, phần lớn triệu chứng lâm sàng được cải

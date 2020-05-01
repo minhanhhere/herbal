@@ -13,7 +13,8 @@ bì. Vị thuốc còn có tên là Quảng trần bì, Tần hội bì.
 Cây Qúit được trồng khắp nơi ở nước ta và cũng có rất nhiều loại, nhiều
 nơi có những loại quít khác nhau.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị cay, đắng, tính ôn. Qui kinh Tỳ, Phế.
 
@@ -26,7 +27,8 @@ Theo các Y văn cổ:
 -  Sách Lôi công bào chế dược tính giải: nhập phế can tỳ vị tứ kinh.
 -  Sách Bản thảo cầu chân: nhập lý đại tràng.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Trong vỏ quít có khoảng 1,5 - 2% tinh dầu, trong đó chủ yếu có:
 Limolene, lopropenyl-toluene, Elemene, Copaneme, Humulene,
@@ -37,7 +39,8 @@ Theo GS Đỗ tất Lợi vỏ quít còn tươi có chứa tinh dầu 3,8% (2.0
 2.500 quả cho 1 lít tinh dầu), nước và thành phần bốc hơi có 61,25%
 Besperidin, Vitamin A, B và chừng 0,8% tro.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 #. Theo Y học cổ truyền thuốc có tác dụng:
 #. Kết quả nghiên cứu dược lý hiện đại:
@@ -73,7 +76,9 @@ chế sinh trưởng của tụ cầu khuẩn, trực khuẩn dung huyết, ái 
 + Những tác dụng khác: Trần bì còn có tác dụng chống dị ứng, lợi mật, ức
 chế cơ trơn của tử cung.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.\ *Trị chứng nôn do hàn:* tiêu chảy thường.
 

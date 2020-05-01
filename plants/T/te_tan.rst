@@ -7,11 +7,13 @@ Tế tân là vị thuốc dùng toàn cây Tế tân (Asarum heterotropoides Fr
 Sch.var mandshuricum (Maxim) Kitag). Vị cay tính ấm, qui kinh Tâm, Phế,
 Thận.
 
-Thành phần chủ yếu: Có tinh dầu 2,750%, thành phần chủ yếu là Pinen,
+Thành phần chủ yếu
+================== Có tinh dầu 2,750%, thành phần chủ yếu là Pinen,
 metyl - eugenola, hợp chất phenola, một hợp chất xeton, một lượng nhỏ
 acid hữu cơ, nhựa.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 1.Giải nhiệt: Thực nghiệm trên động vật chứng minh thuốc có tác dụng hạ
 nhiệt.
@@ -24,7 +26,9 @@ và trực khuẩn thương hàn có tác dụng kháng khuẩn rõ rệt.
 Theo Đông y, thuốc có tác dụng phát hãn, tán hàn, trấn thống, khu đàm,
 chỉ khái.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng ngoại cảm phong hàn: Đau đầu, nghẹt mũi, thường phối hợp với
 Phòng phong, Kinh giới hoặc Quế chi, Sinh khương .hoặc dùng bài: MA

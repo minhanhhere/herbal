@@ -10,15 +10,18 @@ dược (Paeonia Obovata Maxim); Thược dược (Paeonia Lactiflora Pall).
 Vị chua đắng, tính hơi hàn qui kinh Can Tỳ, có sách ghi kinh Can, Tiểu
 tràng (Dược phẩm hóa nghĩa).
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Tinh bột, tanin, nhựa, chất đường, sắc tố và acid benzoic. Tỷ lệ acid
 benzoic trong Xích thược là thấp hơn Bạch thược(0,92%), tinh dầu, Xích
 thược tố A, Paeoniflorin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền: Xích thược có tác dụng lương huyết, hoạt huyết,
+Theo Y học cổ truyền
+-------------------- Xích thược có tác dụng lương huyết, hoạt huyết,
 giải độc tiêu ung chỉ thống.
 
 B.Theo kết quả nghiên cứu dược lý hiện đại, thuốc có tác dụng sau:
@@ -43,7 +46,9 @@ B.Theo kết quả nghiên cứu dược lý hiện đại, thuốc có tác d�
    thêm tác dụng chống ung thư của thuốc và không có tác dụng làm tăng
    di căn.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Đối với các chứng đau: do ứ huyết đều dùng Xích thược có kết quả tốt.
 Trường hợp bụng dưới, vùng thắt lưng đau do nhiệt huyết ứ như : phụ nữ
@@ -90,7 +95,8 @@ tĩnh mạch.
 9.Trị băng huyết, bạch đới: Xích thược, Hương phụ 2 vị bằng nhau tán
 nhỏ, mỗi lần uống 6 - 8g, ngày 2 lần trong 4 - 5 ngày.
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
 -  Liều 6 - 15g.
 -  Chứng hư hàn không dùng.

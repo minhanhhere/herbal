@@ -9,7 +9,8 @@ Miq.) thuộc họ Gừng (Zingiberaceae). Lúc chế, bỏ quả chín cho vào
 sao vỏ cháy, bỏ vỏ lấy nhân, hoặc nhân tẩm nước muối, sao khô gọi là
 Diêm ích trí nhân.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị cay tính ôn, qui kinh Tỳ thận.
 
@@ -21,15 +22,18 @@ Vị cay tính ôn, qui kinh Tỳ thận.
 -  Sách Bản thảo cầu chân: nhập túc quyết âm can kinh, thủ thái âm phế
    kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Trong Ích trí nhân có chừng 0,7% tinh dầu, thành phần chủ yếu của tinh
 dầu là Tecpen C10H16, Sesquitecpen C10H24 và Secquitecpenancola, có
 chừng 1,71% chất saponin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Oân tỳ khai vị nhiếp diên, ôn thận cố tinh súc niệu. Chủ trị chứng tiết
 tả, đau bụng lạnh, mồm nhiều nước rãi, di tinh, đái dầm, băng lậu.
@@ -43,11 +47,15 @@ Theo các sách thuốc cổ:
    bớt nước miếng, bớt tiểu), trị ẩu thổ tiết tả, khách hàn phạm vị,
    lãnh khí phúc thống, băng đái tiết tinh".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 Thuốc có tác dụng ức chế co bóp hồi tràng, cường tim, làm dãn mạch.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị tiểu đêm nhiều lần: (do Bàng quang Thận hư hàn) dùng các bài:
 
@@ -75,7 +83,8 @@ Thuốc có tác dụng ức chế co bóp hồi tràng, cường tim, làm dãn
    uống mỗi lần 4 - 8g, ngày 2 lần tùy theo tuổi. Trị tiêu chảy kéo dài
    do tỳ thận dương hư.
 
-Liều thường dùng: 4 - 12g.
+Liều thường dùng
+================ 4 - 12g.
 
 ..  image:: ICHTRINHAN.JPG
    :width: 50px

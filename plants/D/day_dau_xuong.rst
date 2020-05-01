@@ -5,7 +5,8 @@ Dây đau xương
 
 Dùng toàn cây phơi khô của các loại cây Tinosporatomentosa
 
-Tính vị qui kinh: chưa xác định.
+Tính vị qui kinh
+================ chưa xác định.
 
 Công dụng: chữa phong thấp và đau nhức xương.
 

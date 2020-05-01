@@ -8,7 +8,8 @@ vật là Plantago asiatica L hoặc Plantago depressa Wild thuộc họ Mã đ�
 dùng làm thuốc được ghi đầu tiên trong sách Bản kinh. Cây Mã đề mọc
 hoang và đưọc trồng khắp nơi ở nước ta.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt, tính hàn; qui kinh Thận Can Phế.
 
@@ -17,7 +18,8 @@ Theo các sách thuốc cổ:
 -  Sách Bản kinh: vị ngọt hàn,
 -  Sách Bản thảo kinh sơ: nhập 3 kinh Thận, Can, Bàng quang.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Plantasan, palmitic acid, arachidic acid, succinic acid, adenine, cholic
 acid, stearic acid, oleic acid, linolenic acid.
@@ -30,9 +32,11 @@ Theo sách Những cây thuốc và vị thuốc Việt nam của GS Đỗ tất
    vitamin T, acid citric.
 #. Trong hạt chứa nhiều chất dầu, acid plantenolic, adenin và cholin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Xa tiền tử có tác dụng lợi thủy, thanh thấp nhiệt, thảm thấp chỉ tả,
 thanh can minh mục, thanh phế hóa đàm.
@@ -50,7 +54,9 @@ Trích đoạn Y văn cổ:
    lî.thuốc lợi thủy đạo mà không hại khí, thủy đạo lợi thì thanh trọc
    được phân mà hết tiêu chảy".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Trước đây có báo cáo về tác dụng lợi tiểu của Xa tiền tử và Xa tiền
    thảo nhưng gần đây có báo cáo cho rằng thuốc sắc cho người và súc vật
@@ -61,7 +67,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    với trực khuẩn đại tràng, trực khuẩn mũ xanh và trực khuẩn thương
    hàn. Cồn chiết xuất với nồng độ 15mg/ml giết chết xoắn khuẩn.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị viêm đường tiết niệu, đái rắt đái buốt:
 

@@ -13,7 +13,8 @@ Cây Kha tử hay Chiêu liêu (Myrobolan de commerce) mọc ở miền Nam,
 Campuchia (còn gọi là Sramar), Lào, Aán độ, Miến điện, Thái lan và miền
 Nam Trung quốc. Vào tháng 9, 10, 11 quả chín hái về phơi khô làm thuốc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị đắng, sáp, tính bình, qui kinh Phế, Đại tràng.
 
@@ -26,13 +27,15 @@ Theo các sách thuốc cổ:
    tràng.
 -  Sách Bản thảo cầu chân: nhập Đại tràng, Vị kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Kha tử có hàm lượng Tanin 20 - 40%, quả thật khô có thể đến 51,3% gồm
 acidelagic, acidgalic và acidluteolic, acidchebulinic (3 - 4%). Trong
 nhân còn có 36,7% dầu vàng nhạt, trong.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
 #. Do thành phần chất Tanin cao thuốc có tác dụng thu liễm, cầm tiêu
    chảy.
@@ -45,7 +48,9 @@ Tác dụng dược lý:
 #. Chiết xuất cồn của thuốc có tác dụng chống co thắt (antispasmodic)
    tương tự như papaverine.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị tiêu chảy trẻ em: Tác giả Chu vĩnh Hậu dùng Kha tử, Phòng phong,
 Trần bì, Mạch nha đều 5 - 10g, Cát căn, Sơn tra đều 5 - 20g. Thương thực
@@ -78,7 +83,8 @@ Kha tử còn kết hợp với Nhân sâm, Ngũ vị, Cáp giới để trị c
 lâu ngày do phế hư; trường hợp kèm mất tiếng dùng Kha tử phối hợp với
 Cát cánh, Sinh Cam thảo, Sơn đậu căn sắc uống.
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
 -  Liều 3 - 10g cho uống thuốc thang hoặc thuốc tán.
 -  Trường hợp dùng để trị tiêu chảy nên dùng Kha tử nướng, trường hợp ho

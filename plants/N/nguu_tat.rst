@@ -8,7 +8,8 @@ hay sấy khô của nhiều loài Ngưu tất thường gặp là Hoài Ngưu t
 (Achyranthes Bidentata Blume), Ma Ngưu tất (Cyathula capitata (Wall)
 Moq) và Xuyên Ngưu tất (C.officinalis Kuan).
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Đắng, chua, bình. Qui kinh Can Thận.
 
@@ -18,14 +19,17 @@ Theo Y văn cổ:
 -  Sách Bản kinh: " vị đắng chua".
 -  Sách Bản thảo cương mục: "túc quyết âm, thiếu âm".
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Triterpenoid, saponine, ecdysterone, inokosterone, rhamnoza, acid
 oleanic, galactoza, glucoza, muối kali.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thuốc có tác dụng hoạt huyết khu ứ, bổ can thận dưỡng gân cốt, lợi niệu
 thông lâm, làm sứ dược dẫn huyết và hỏa xuống phần dưới cơ thể. Chủ trị
@@ -64,7 +68,9 @@ Ngưu tất có tác dụng ức chế tim ếch cô lập, làm giãm mạch h�
 phấn tử cung có thai hoặc không có thai. Thuốc còn có tác dụng lợi tiểu,
 làm hạ đường huyết, cải thiện chức năng gan, hạ cholesterol máu.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị bệnh phụ khoa: như rối loạn kinh nguyệt, đau kinh, kinh bế, đau
 bụng sau sanh do thuốc có tác dụng thông kinh, khu ư,ù chỉ thống.

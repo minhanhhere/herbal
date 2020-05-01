@@ -18,7 +18,9 @@ Tính vị: ngọt, hàn không độc.
 Tác dụng: tả nhiệt, tán ứ, chữa đơn độc, thông các chứng lâm (đi đái
 dắt), chữa sang lở, thông tiểu tiện. Phàm không thực nhiệt chớ có dùng.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 #. An thai: rễ cây gai mới hái hoặc phơi khô 30g sắc với 600ml nước, cô
    làm 200ml chia làm 3 lần uống trong ngày. Chỉ 1 - 2 ngày là có kết

@@ -12,7 +12,8 @@ Vị thuốc Tảo hưu được ghi đầu tiên trong sách Bổn kinh. Ở n�
 đầu năm 1934 Pételot có phát hiện thấy quanh vùng Sapa và nay đã phát
 hiện thấy ở nhiều vùng rừng núi miền Bắc như Ninh bình, Hòa bình, Sapa.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị đắng, hơi hàn, có độc nhẹ, qui kinh Can.
 
@@ -23,16 +24,19 @@ Theo tài liệu cổ:
 -  Sách Lôi công bào chế dược tính giải: nhập tâm kinh.
 -  Sách Bổn thảo tái tân: nhập phế kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Trong thân rễ và quả loài Paris quadrifolia L. đã chiết xuất được một
 glucozit gọi là Paristaphin, khi thủy phân, paristaphin sẽ cho glucoza
 và một glucozit mới gọi là pandin, thủy phân paridin được glucoza và một
 chất nhựa gọi là paridol. Còn có galic acid, chất tanin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền: Tảo hưu có tác dụng thanh nhiệt giải độc tiêu
+Theo Y học cổ truyền
+-------------------- Tảo hưu có tác dụng thanh nhiệt giải độc tiêu
 thủng, chỉ thống, tức phong định kinh (chống co giật). Dùng trị chứng
 ung nhọt sang độc, trùng rắn cắn, chấn thương chảy máu, tụ máu sưng đau,
 chứng can nhiệt sinh phong, kinh phong động kinh. Các sách Đông y kinh
@@ -45,7 +49,9 @@ chứng can nhiệt sinh phong, kinh phong động kinh. Các sách Đông y kin
 -  Sách Bản thảo cầu nguyên: " hoạt huyết, chỉ huyết, tiêu phù giải
    độc".
 
-B.Kết quả nghiên cứu dược lý hiện đại: thuốc có tác dụng:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+ thuốc có tác dụng:
 
 #. Cầm ho, giảm cơn hen.
 #. Chất chiết xuất của thuốc có tác dụng ức chế hoạt tính của tinh
@@ -61,7 +67,9 @@ B.Kết quả nghiên cứu dược lý hiện đại: thuốc có tác dụng:
    thư di thực trên động vật: Tuyển tập Tư liệu khoa học kỹ thuật Viện
    nghiên cứu Trung y 1972 tr.136-144).
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị ung nhọt sưng tấy: thuốc giã nát trộn dấm đắp ngoài.
 

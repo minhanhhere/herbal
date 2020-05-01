@@ -21,7 +21,8 @@ bắc, Hà nam, Sơn đông, Giang tô, An huy.
 Nước ta vẫn phải nhập Mang tiêu của Trung quốc. Theo Đỗ tất Lợi, hiện ta
 đã tự túc.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Mang tiêu vị mặn, đắng, tính hàn, qui kinh Phế Vị Đại trường.
 
@@ -32,14 +33,17 @@ Theo các sách thuốc cổ:
    ngày nay người ta nói thuốc mặn, mặn để nhuyễn kiên.
 -  Sách Dược phẩm hóa nghĩa: nhập phế, vị, đại trường kinh.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Thành phần chủ yếu là Sodium sulfate, ngoài ra còn có ít Calcium
 sulfate, Natri chlorure, Magnesium sulfate, muối.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Mang tiêu có tác dụng: tả hạ nhuyễn kiên, thanh nhiệt tả hỏa. Chủ trị
 các chứng: nhiệt kết tiện bí, ngoại cảm nhiệt bệnh, đàm nhiệt khái thấu,
@@ -62,7 +66,9 @@ Trích đoạn Y văn cổ:
    hoặc thượng tiêu cách nhiệt hoặc đi tiêu táo bón (hoặc hạ bộ tiện
    kiên).
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 Tác dụng tẩy xổ(laxative): sodium sulfat hòa tan vào nước nhưng gốc
 SO\ :sub:`4` có phân tử lớn khó qua màng ruột lưu lại ở ruột hút nước ở
@@ -70,7 +76,9 @@ các tổ chức vào ruột làm lỏng phân (do SO\ :sub:`4` hình thành dun
 dịch ưu trương), làm tăng dung tích ruột gây kích thích cơ giới làm tăng
 nhu động ruột gây tiêu chảy.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị vú sữa đầy căng tức đau: dùng Mang tiêu làm thuốc giảm sữa. Tác
 giả đã trị 33 ca đều thành công, cách làm: Mang tiêu 200g, dùng 2 lớp
@@ -115,7 +123,8 @@ tốt (Hoàng Ngọc Nga, Học báo Trung y học viện Hà bắc 1983,1:21).
 
 -  Mang tiêu, Bạch phàn đều 30g, hòa nước sôi rửa lúc nước còn nóng.
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
 -  Uống trong 10 - 15g, uống với nước sôi nguội hoặc thuốc thang.
 -  Dùng ngoài lượng vừa đủ.

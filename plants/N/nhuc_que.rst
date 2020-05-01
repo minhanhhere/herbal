@@ -17,7 +17,8 @@ Trèntrèn, cây Quế rành. Trung quốc dùng với tên Quế bì, Sơn nh�
 Cinnamomum caryophyllus Moore (cũng gọi là Quế rành) mọc ở cả 2 miền Nam
 Bắc, Cinnamomum tetragonum A chev có tên là Quế đỏ.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Quế vị cay ngọt, tính nhiệt. Qui vào các kinh Thận, Tỳ, Tâm, Can.
 
@@ -27,15 +28,18 @@ Theo các cổ:
 -  Sách Danh y biệt lục: Vị ngọt cay, đại nhiệt, có độc ít.
 -  Sách Bản thảo kinh sơ: nhập thủ túc thiếu âm, quyết âm phần huyết.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Thành phần dầu bay hơi trong voe có 1 - 2%, trong dầu chủ yếu là
 Cinnamaldehyde chiếm 75 - 90%, cynnamyl acetate, phenyl propyl acetate
 tannin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Nhục quế có tác dụng bổ mệnh môn hỏa, tán hàn, ôn tỳ, chỉ thống, làm ấm
 khí huyết. Chủ trị các chứng: Mệnh môn hỏa suy, bụng lạnh đau, thổ tả,
@@ -81,7 +85,9 @@ B.Kết quả nghiên cưú dược lý hiện đại:
    mạnh đối với nhiều loại vi khuẩn gram(+), mạnh hơn đối với gram (-),
    ức chế cả đối với nấm gây bệnh.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị đau bụng tiêu chảy kéo dài do thận dương hư, tỳ vị hư hàn hoặc tỳ
 thận dương hư:

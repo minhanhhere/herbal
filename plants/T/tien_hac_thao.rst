@@ -13,7 +13,8 @@ kiến, Quảng đông, Vân nam ... Ở Châu âu, Nhật bản ,Triều tiên 
 Thuốc có tên gọi khác như Kim đính, Long nha, Long nha thảo, Thóat lực
 thảo.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị đắng sáp, tính bình. Qui kinh Phế ,Can, Tỳ.
 
@@ -23,14 +24,17 @@ Theo các sách cổ:
 -  Sách Trấn nam bản thảo: tính hơi ôn, vị đắng sáp.
 -  Sách Sinh thảo dược tính bị yếu: Vị điềm (ngọt), tính bình.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Agrimonine, Agrimonolide, Cosmosiin, Agrimon A,B,C,D,E, Saponin,
 Luteolin-7-beta-glucozide, Apigenin-7-beta-glucozide, tannin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thu liễm chỉ huyết, cầm lî, sát trùng. Chủ trị các chứng xuất huyết như
 khái huyết, thổ huyết, nục huyết, niệu huyết, tiện huyết, băng lậu, phúc
@@ -49,7 +53,9 @@ Trích đoạn Y văn cổ:
    máu, tán sang độc".
 -  Sách Thực vật danh thực đồ khảo: " Trị phong đàm, yêu thống".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 1.Tác dụng cầm máu: Trên lâm sàng đã lâu Tiên hạc thảo được dùng làm
 thuốc cầm máu, nhưng trên thực nghiệm chưa thấy có tác dụng cầm máu, cần
@@ -101,7 +107,9 @@ trọng. Đối với tử cung cô lập, liều nhỏ thuốc hơi có tác d�
 liều cao ngược lại có tác dụng ức chế. Thuốc hơi làm giãn đồng tư û của
 ếch, tăng sức đề kháng của tế bào.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Dùng làm thuốc cầm máu: Trị các chứng ra máu, như ho ra máu, chảy máu
 cam, tiêu ra máu, nôn ra máu.

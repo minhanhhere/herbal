@@ -10,7 +10,8 @@ phẩm hội tinh yếu. Ở nước ta cây Hồi mọc nhiều ở các tỉnh
 sơn. Ở Trung quốc cây Hồi mọc nhiều ở các tỉnh Quãng đông, Quảng tây và
 Vân nam.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Đại hồi vị cay ngọt, tính ôn. Qui kinh Can, Thận, Tỳ.
 
@@ -20,16 +21,19 @@ Theo các sách cổ:
 -  Sách Bản thảo cầu chân: qui kinh Can, Bàng quang, Tiểu trường.
 -  Sách Bản thảo tái tân: qui kinh Tỳ và Thận.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Trong quả Hồi, ngoài các chất như chất nhày, đường chủ yếu là Tinh dầu
 khoảng 3 - 5% (tươi) hoặc 9 - 10% (khô). Trong tinh dầu có 80 - 90%
 anethole, còn lại là Pinene, terpene, dipentene, limonene, estragola,
 safrola, terpineola v.v.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Đại hồi có tác dụng tán hàn, ấm can, ôn thận chỉ thống và lý khí khai
 vị.
@@ -52,7 +56,9 @@ Trích đoạn Y văn cổ:
    âm, nhưng Ngô thù du đi vào trường vị, Quế vào Can Thận còn thuốc này
    nhẹ nên vào kinh lạc".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Anethole làm tăng nhu động dạ dày và ruột, làm dịu cơn đau bụng, tăng
    tiết dịch đường hô hấp do kích thích các tế bào tiết dịch, có thể
@@ -62,7 +68,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
    thương hàn, trực khuẩn lî. Thuốc cũng có tác dụng ức chế một số nấm
    gây bệnh ngoài da.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 Nói chung, Đại hồi có tác dụng dược lý gần như Tiểu hồi nên trên lâm
 sàng thường dùng thay thế Tiểu hồi.
@@ -88,9 +96,11 @@ nhân giảm bạch cầu do hóa trị là 88,5% và do xạ trị là 87,3%. �
 chứng giảm bạch cầu không rõ nguyên nhân cũng có kết quả nhất định
 (Thông báo dược học 1981,5:311).
 
-Liều lượng thường dùng và chú ý:
+Liều lượng thường dùng và chú ý
+===============================
 
--  Liều thường dùng: 3 - 8g.
+-  Liều thường dùng
+================ 3 - 8g.
 -  Cần thận trọng đối với bệnh nhân âm hư hỏa vượng.
 
  

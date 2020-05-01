@@ -15,7 +15,8 @@ bị dập nát, gãy.
 Ở Việt nam có mấy loại Cốt toái bổ đều được dùng làm thuốc như Drynaria
 Fortunei J.Sm, Drynaria Bonii Christ.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị đắng, ôn, qui kinh Can thận.
 
@@ -28,11 +29,14 @@ Theo các sách thuốc cổ:
 -  Sách Bản thảo cầu chân: nhập Thận kiêm nhập Tâm.
 -  Sách Bản thảo tái tân: nhập Can thận.
 
-Thành phần chủ yếu: Naringin.
+Thành phần chủ yếu
+================== Naringin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Thuốc có tác dụng: bổ thận, làm mạnh gân xương, hoạt huyết hóa ứ, cầm
 máu giảm đau.
@@ -61,7 +65,9 @@ B.Kết quả nghiên cứu theo dược lý hiện đại:
    của Kanamycin đối với tai trong, nhưng sau khi ngưng thuốc, tai vẫn
    bị điếc vẫn phát triển.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng răng đau, răng long, răng chảy máu do thận hư:
 
@@ -94,7 +100,8 @@ B.Kết quả nghiên cứu theo dược lý hiện đại:
 4.Trị chai chân: Cốt toái bổ 9g, giã nát ngâm vào 100ml cồn 95%, 3 ngày
 đem xát vùng chai có kết quả (Tạp chí Trung y 1964,8:37).
 
-Liều thường dùng:
+Liều thường dùng
+================
 
 -  Liều: 10 - 20g. Dùng ngoài theo yêu cầu.
 

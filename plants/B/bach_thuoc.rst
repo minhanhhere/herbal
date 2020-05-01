@@ -13,7 +13,8 @@ kinh với tên Thược dược. Bạch thược là rễ phơi hay sấy khô 
 dược (Paeonilia lactiflora Pall.), (Paeonia albiflora Pall), thuộc họ
 Mao lương (Ranunculaceae).
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Bạch thược vị đắng, chua, hơi hàn, qui kinh Can tỳ.
 
@@ -26,13 +27,16 @@ Theo Y văn cổ:
 -  Sách Bản thảo kinh sơ: thủ túc thái âm dẫn kinh dược, nhập can tỳ
    huyết phần.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Paeoniflorin, paeonol, paeonin, triterpenoids, sitosterol.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Bạch thược có tác dụng dưỡng huyết, liễm âm, hòa can chỉ thống.
 
@@ -89,7 +93,9 @@ Ngoài ra, trên lâm sàng theo dõi nhận thấy Bạch thược có tác d�
 hôi và lợi tiểu. Tổng glucozit Bạch thược có tác dụng điều chỉnh miễn
 dịch của cơ thể.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng táo bón kinh niên: dùng Sinh Bạch thược 24 - 40g, Sinh Cam
 thảo 10 - 15g, sắc nước uống. Thường dùng 2 - 4 thang là khỏi. Trường

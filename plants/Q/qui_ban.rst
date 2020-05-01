@@ -11,7 +11,8 @@ con Rùa (Chinemyx reevessi (Gray)) thuộc họ Rùa (testudinidae).
 chết, lấy yếm thì gọi là Thang bản, thường dùng phần bụng (yếm) nhưng
 phần lưng cũng dùng được.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Vị ngọt, mặn, hàn, qui kinh Tâm Can Thận.
 
@@ -27,13 +28,16 @@ Về qui kinh:
 -  Sách Bản thảo kinh sơ: nhập túc thiếu âm kinh.
 -  Sách Bản thảo tùng tân: thông tâm, nhập thận.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Calcium salts.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Tư âm tiềm dương, ích thận kiện cốt, dưỡng huyết bổ tâm chỉ huyết. Chủ
 trị táo các chứng âm hư dương thịnh, hư phong nội động, âm hư phát
@@ -57,7 +61,9 @@ Trích đoạn Y văn cổ:
    dụng bổ thủy chế hỏa, cường gân cốt, ích tâm trí, chỉ khái thấu, trị
    cửu ngược, khu ứ huyết, chỉ tâm huyết".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Qui bản có tác dụng nâng ngưỡng đau của chuột cống được gây mô hình
    âm hư thể cường giáp, độ dính của huyết tương giảm rõ, còn có tác
@@ -65,7 +71,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 #. Có tác dụng điều chỉnh 2 chiều hiệu suất tổng hợp DNS. Có tác dụng bổ
    huyết, giải nhiệt, an thần.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị lao phổi: thường có triệu chứng cốt chưng lao nhiệt, triều nhiệt,
 ra mồ hôi trộm, thường phối hợp với Hoàng bá, Tri mẫu, Sinh địa để tăng

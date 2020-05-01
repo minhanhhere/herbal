@@ -10,7 +10,8 @@ hương là nụ hoa của cây Đinh hương, tên thực vật là Syzygium ar
 Nước sản xuất chủ yếu là Tanzania, Malaixia, Indonexia, các đảo Zanziba
 và Pemba (Aán độ dương). Nước ta di thực chưa thành công còn phải nhập.
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Đinh hương vị cay tính ôn, qui kinh Tỳ Vị Thận.
 
@@ -21,7 +22,8 @@ Theo các sách cổ:
    kinh.
 -  Sách Lôi công bào chế dược tính giải: nhập 4 kinh phế tỳ vị thận.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Nụ Đinh hương chứa tinh dầu 16 - 19%, thành phần chủ yếu có: Eugenol,
 acetyl eugenol, beta-caryophyllene, methyl-n-pentyl ketone, methyl
@@ -29,9 +31,11 @@ salicylate, humulene, benxaldehyde, benzyl alcohol, chavicol, a-ylangene
 eugenone, eugenin, oleanolic acid, rhamntin, kaempferol, eugenitin,
 Isoeugenitin, Isoeugenitol.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Đinh hương có tác dụng ôn tỳ vị, chủ trị các chứng quản phúc lãnh thống
 (đau bụng do lạnh), ẩu thổ (nôn mửa), ách nghịch (nấc).
@@ -47,7 +51,9 @@ Trích đoạn Y văn cổ:
    hoàn nên dùng cùng với các loại thuốc nhuận. Dùng độc vị, dùng nhiều
    thuốc đễ xông lên làm tổn thương phế và mắt".
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 #. Nước chiết xuất Đinh hương có tác dụng kích thích dạ dày tăng tiết
    acid dịch vị và pepsin, kích thích tiêu hóa.
@@ -63,7 +69,9 @@ B.Kết quả nghiên cứu dược lý hiện đại:
 #. Tinh dầu Đinh hương nhỏ vào hốc răng có tác dụng khử khuẩn và làm
    giảm đau răng.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chàm lở: Dùng Đinh hương gia vào 100ml cồn 75% ngâm 48 giờ, bỏ
 xác, mỗi ngày bôi vào vùng chàm lở 3 lần. Tác giả đã trị 31 ca mắc bệnh

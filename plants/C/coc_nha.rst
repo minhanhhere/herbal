@@ -9,7 +9,8 @@ là hạt cây Lúa Oryza sativa L. ngâm cho nẩy mầm phơi khô; là Cốc 
 sống (Sinh Cốc nha), sao lên gọi là Sao Cốc nha, sao cháy đen gọi là
 Tiêu cốc nha. Cây Lúa thuộc họ Lúa (Gramineae).
 
-Tính vị qui kinh:
+Tính vị qui kinh
+================
 
 Cốc nha vị ngọt tính bình, qui kinh Tỳ vị.
 
@@ -22,14 +23,17 @@ Theo các sách thuốc cổ:
    kinh.
 -  Sách Bản thảo tái tân: nhập 2 kinh Tỳ phế.
 
-Thành phần chủ yếu:
+Thành phần chủ yếu
+==================
 
 Tinh bột, chất béo, protid, maltose, saccharose, amylase, malttase,
 Vitamin B, C, lecithin.
 
-Tác dụng dược lý:
+Tác dụng dược lý
+================
 
-A.Theo Y học cổ truyền:
+Theo Y học cổ truyền
+--------------------
 
 Cốc nha có tác dụng: tiêu thực hòa trung, kiện tỳ khai vị. Chủ trị chứng
 thực tích đình trệ, tỳ hư thực thiểu (ăn ít).
@@ -42,11 +46,15 @@ Trích đoạn Y văn cổ:
 -  Sách Bản kinh phùng nguyên: " cốc nha khởi tỳ tiến thực, khoan trung
    tiêu cốc, bổ trung ..."
 
-B.Kết quả nghiên cứu dược lý hiện đại:
+Kết quả nghiên cứu dược lý hiện đại
+-----------------------------------
+
 
 Cốc nha có men amylase có tác dụng trợ tiêu hóa, trị được bệnh cước khí.
 
-Ứng dụng lâm sàng:
+Ứng dụng lâm sàng
+=================
+
 
 1.Trị chứng rối loạn tiêu hóa, ăn không tiêu, bụng đầy đau:
 
